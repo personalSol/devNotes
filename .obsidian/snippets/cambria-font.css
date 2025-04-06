@@ -1,0 +1,10 @@
+/* Apply Cambria to the entire app */
+body {
+    font-family: "Cambria", serif;
+}
+
+/* Optional: Apply Cambria to headings/code if desired */
+.cm-content,
+.markdown-preview-view {
+    font-family: "Cambria", serif;
+}

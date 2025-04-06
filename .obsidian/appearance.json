@@ -1,0 +1,17 @@
+{
+  "accentColor": "#d48021",
+  "cssTheme": "",
+  "baseFontSize": 15,
+  "baseFontSizeAction": false,
+  "showRibbon": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": "",
+  "monospaceFontFamily": "",
+  "enabledCssSnippets": [
+    "callouts",
+    "cambria-font",
+    "heading-styles"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": false
+}

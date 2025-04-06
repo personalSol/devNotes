@@ -1,0 +1,15 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "related tG": "multitext",
+    "excalidraw-plugin": "text",
+    "tech_stack": "multitext",
+    "created": "datetime",
+    "start date": "date",
+    "deadline": "date",
+    "related tGs": "multitext",
+    "tech-stack": "multitext"
+  }
+}

@@ -1,0 +1,68 @@
+/* Changing size/color of the header hashtags ## */
+.cm-formatting-header {
+    color: var(--text-faint);
+    font-size: 1rem;
+}
+
+.cm-header.cm-header-1 {
+    font-size: 2rem;
+    line-height: 40px;
+}
+
+div.HyperMD-header.HyperMD-header-1.cm-line {
+    padding-bottom: 2px;
+    border-bottom: 1px solid var(--text-accent);
+}
+
+.cm-header.cm-header-2 {
+    font-size: 1.6rem;
+    line-height: 36px;
+}
+
+div.HyperMD-header.HyperMD-header-2.cm-line {
+    padding-top: 14px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid var(--text-faint);
+}
+
+.cm-header.cm-header-3 {
+    font-size: 1.6rem;
+    line-height: 36px;
+}
+
+div.HyperMD-header.HyperMD-header-3.cm-line {
+    padding-top: 14px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid var(--text-faint);
+}
+
+/* ------- #### Reading mode --------------*/
+
+.markdown-preview-view h1 {
+    font-size: 2rem;
+    line-height: 40px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid var(--text-accent);
+}
+
+.markdown-preview-view h2 {
+    font-size: 1.6rem;
+    line-height: 36px;
+    padding-top: 14px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid var(--text-faint);
+}
+
+.markdown-preview-view h3 {
+    font-size: 1.6rem;
+    line-height: 36px;
+    padding-top: 14px;
+    padding-bottom: 2px;
+    border-bottom: 1px solid var(--text-faint);
+}
+
+.markdown-preview-view hr {
+    height: 1px;
+    border: none;
+    background-color: var(--text-accent);
+}
