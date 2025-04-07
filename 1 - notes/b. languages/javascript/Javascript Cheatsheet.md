@@ -3,9 +3,24 @@ status: newBorn
 related-links:
   - "[[Java-MOC]]"
 created: 2025-02-21T10:55
-updated: 2025-02-25T18:14
+updated: 2025-04-07T10:14
 ---
 ---
+
+# -1 | remember
+
+- variable
+	- variable functions can't be accessed or called before they are initialized but normal function can be
+		- variable functions will return ReferenceError if tried to access before initialization
+	- in gec, first creation phrase ( aka variable phrase or memory phrase ) first declares all the variable 
+	- let variable can be initialized and delcared in differnt places
+	- const variable must be declared when initialized ( as it's value can't be changed )
+	- let and var after initialization until declaration have undefined as value
+	- var can be declared again 
+- typeof
+	- we can check by `console.log(typeof <variable>)`
+	- null is a type of object
+
 
 # 0 | Basics
 
@@ -22,12 +37,10 @@ updated: 2025-02-25T18:14
 	- x = 1; // Throws an error because variable is not declared
 - No direct support for negative indexing, but methods like `slice()` and `at()` allow negative indices to access elements from the end.
 
-### a | connecting to html
 
 
 
-
-### b | Variables
+### a | Variables
 
 ```javascript
 var oldVariable = "function-scoped"; // Avoid in modern JS
@@ -35,8 +48,27 @@ let changeable = "block-scoped";
 const constantVal = "block-scoped, cannot be reassigned";
 ```
 
+- var
+    - can be declared again
+    - doesn’t follow block scope
+- `let` makes the variable dynamic, which can change datatype and value both.
+- const: any variable initialized using this can’t change it’s value and it’s constant now
 
-### Comments:
+```jsx
+const a = 1000;
+let b = "Sanskar";
+var c = "trash";
+name1 = "deep";
+
+name1 = "Harkirat"; // here name1 is declared in global form.
+
+var c = "Sakura is trash" // [var variables] can be declared with same name again
+
+// let b = 456; let variable can't be declared with same name again.
+
+console.log(c);
+
+```
 
 
 

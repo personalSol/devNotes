@@ -11,11 +11,29 @@
             "id": "78f02d4802ce16fc",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Frontend by Sarvesh sir",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/Qspiders/Frontend by Sarvesh sir.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Frontend by Sarvesh sir\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0.9696969696969697}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Javascript Cheatsheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/Javascript Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Javascript Cheatsheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":44,\"ch\":90},\"to\":{\"line\":44,\"ch\":90}},\"scroll\":29.69722171359592}"
+                },
+                {
+                  "title": "Project Ideas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/Project Ideas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Project Ideas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
                   "title": "Youtubers for programming",
@@ -94,7 +112,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/Project Ideas.md",
+                "file": "4 - sources/courses/JS by Shresth Sir.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -109,10 +127,123 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Project Ideas"
+              "title": "JS by Shresth Sir"
+            }
+          },
+          {
+            "id": "2f737f092cd61e86",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "CSS-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/CSS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":10.111110602484809}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - sources/courses/Qspiders/Programming by shambu sir.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Programming by shambu sir"
             }
           }
-        ]
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "75257efc6b184d1b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2b200f4c699523e5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Javascript Cheatsheet"
+            }
+          },
+          {
+            "id": "adb68677d538c6e3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/closure function.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "closure function"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -215,7 +346,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/Project Ideas.md",
+                "file": "0 - inbox/closure function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -243,14 +374,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Project Ideas"
+              "title": "Graph of closure function"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -276,13 +408,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/Project Ideas.md",
+                "file": "0 - inbox/closure function.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Project Ideas"
+              "title": "Outline of closure function"
             }
           },
           {
@@ -365,8 +497,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "289ab9f3e538cb86",
@@ -471,7 +602,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 341.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -491,8 +623,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "adb68677d538c6e3",
   "lastOpenFiles": [
+    "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
+    "0 - inbox/closure function.md",
+    "4 - sources/courses/JS by Shresth Sir.md",
+    "4 - sources/courses/Qspiders/Programming by shambu sir.md",
+    "3 - moc/sub-mocs/CSS-MOC.md",
+    "4 - sources/courses/Qspiders/Frontend by Sarvesh sir.md",
+    "0 - inbox/Project Ideas.md",
     "1 - notes/c. tools/mongoDB",
     "1 - notes/z. others/Youtubers for programming.md",
     "1 - notes/z. others/videos to watch eventually.md",
@@ -513,14 +652,8 @@
     "1 - notes/c. tools/github/Ssh keys problem.md",
     "4 - sources/courses/Qspiders/MongoDB class by Utkarsh Sir.md",
     "1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md",
-    "0 - inbox/Project Ideas.md",
     "98 - attachments/Pasted image 20250404141621.png",
     "1 - notes/z. others/Tasks for coding.md",
-    "4 - sources/courses/yt/Mongodb by code with harry.md",
-    "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
-    "1 - notes/d. maths/divisibility rules.md",
-    "1 - notes/c. tools/github/Git-n-GitHub Cheatsheet.md",
-    "1 - notes/c. tools/github/basic git commands.md",
     "4 - sources/courses/yt",
     "4 - sources/courses/Qspiders",
     "98 - attachments/Screenshot 2024-08-24 at 4.48.38 PM.png",
@@ -538,7 +671,6 @@
     "98 - attachments/image.png",
     "1 - notes/z. others",
     "98 - attachments/What-is-an-API.png",
-    "4 - sources/courses",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",
