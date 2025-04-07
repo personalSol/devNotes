@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a1c1b0af680fd25b",
+        "id": "a070373db6752bed",
         "type": "tabs",
         "children": [
           {
-            "id": "60993270a99b893f",
+            "id": "78f02d4802ce16fc",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,50 +18,83 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "mern stack crash course by freecodecamp",
+                  "title": "Youtubers for programming",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/yt/mern stack crash course by freecodecamp.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mern stack crash course by freecodecamp\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":146,\"ch\":57},\"to\":{\"line\":146,\"ch\":57}},\"scroll\":131.595558336046}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/z. others/DSA Approaches.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "DSA Approaches"
-            }
-          },
-          {
-            "id": "24ad274a7e1d35c2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/Youtubers for programming.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Youtubers for programming\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "videos to watch eventually",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/videos to watch eventually.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"videos to watch eventually\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Youtubers for programming",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/Youtubers for programming.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Youtubers for programming\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "Websites List",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/Websites List.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Websites List\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Questions asked in interview",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/Questions asked in interview.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Questions asked in interview\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":2},\"to\":{\"line\":11,\"ch\":2}}}"
+                },
+                {
+                  "title": "porpose of notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/porpose of notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"porpose of notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":234},\"to\":{\"line\":10,\"ch\":234}}}"
+                },
+                {
+                  "title": "DSA Approaches",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/DSA Approaches.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"DSA Approaches\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "porpose of notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/porpose of notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"porpose of notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "DSA Approaches",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/DSA Approaches.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"DSA Approaches\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Questions asked in interview",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/Questions asked in interview.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Questions asked in interview\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "setting git credentials",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/github/setting git credentials.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"setting git credentials\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "authentication methods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/authentication methods.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication methods\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":13},\"to\":{\"line\":10,\"ch\":13}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/java/Java Cheatsheet.md",
+                "file": "0 - inbox/Project Ideas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,11 +109,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Java Cheatsheet"
+              "title": "Project Ideas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -161,8 +193,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -184,7 +215,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/java/Java Cheatsheet.md",
+                "file": "0 - inbox/Project Ideas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -212,7 +243,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Java Cheatsheet"
+              "title": "Graph of Project Ideas"
             }
           }
         ]
@@ -245,13 +276,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/b. languages/java/Java Cheatsheet.md",
+                "file": "0 - inbox/Project Ideas.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Java Cheatsheet"
+              "title": "Outline of Project Ideas"
             }
           },
           {
@@ -335,7 +366,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       },
       {
         "id": "289ab9f3e538cb86",
@@ -460,35 +491,36 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "24ad274a7e1d35c2",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "1 - notes/c. tools/mongoDB",
+    "1 - notes/z. others/Youtubers for programming.md",
+    "1 - notes/z. others/videos to watch eventually.md",
+    "1 - notes/z. others/Websites List.md",
+    "1 - notes/z. others/Questions asked in interview.md",
+    "1 - notes/z. others/porpose of notes.md",
     "1 - notes/z. others/DSA Approaches.md",
+    "1 - notes/z. others/EY edunet AICTE internship.md",
+    "1 - notes/c. tools/github/setting git credentials.md",
+    "0 - inbox/authentication methods.md",
+    "1 - notes/c. tools/github",
+    "1 - notes/c. tools/github/ssh agent.md",
+    "3 - moc/sub-mocs/git-and-github-MOC.md",
+    "1 - notes/b. languages/java/Java Cheatsheet.md",
     "4 - sources/courses/yt/mern stack crash course by freecodecamp.md",
     "0 - inbox/Mongoose Cheatsheet.md",
     "4 - sources/courses/yt/MongoDB by Simpli Learn Dev.md",
-    "0 - inbox/Questions asked in interview.md",
-    "1 - notes/c. tools/Ssh keys problem.md",
+    "1 - notes/c. tools/github/Ssh keys problem.md",
     "4 - sources/courses/Qspiders/MongoDB class by Utkarsh Sir.md",
-    "0 - inbox/MongoDB Cheatsheet.md",
+    "1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md",
     "0 - inbox/Project Ideas.md",
     "98 - attachments/Pasted image 20250404141621.png",
-    "0 - inbox/videos to watch eventually.md",
-    "0 - inbox/Tasks for coding.md",
+    "1 - notes/z. others/Tasks for coding.md",
     "4 - sources/courses/yt/Mongodb by code with harry.md",
     "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
     "1 - notes/d. maths/divisibility rules.md",
-    "1 - notes/b. languages/java/Java Cheatsheet.md",
-    "0 - inbox/authentication methods.md",
-    "3 - moc/sub-mocs/git-and-github-MOC.md",
-    "0 - inbox/setting git credentials.md",
-    "1 - notes/c. tools/Git-n-GitHub Cheatsheet.md",
-    "1 - notes/c. tools/basic git commands.md",
-    "1 - notes/c. tools/about github and github.md",
-    "4 - sources/courses/yt/Git and github by SuperSimpleDev.md",
-    "1 - notes/a. core-concepts/basics/V8 engine.md",
-    "0 - inbox/Websites List.md",
-    "0 - inbox/npm.md",
-    "96 - tags/tG not-tagged.md",
+    "1 - notes/c. tools/github/Git-n-GitHub Cheatsheet.md",
+    "1 - notes/c. tools/github/basic git commands.md",
     "4 - sources/courses/yt",
     "4 - sources/courses/Qspiders",
     "98 - attachments/Screenshot 2024-08-24 at 4.48.38 PM.png",
@@ -507,7 +539,6 @@
     "1 - notes/z. others",
     "98 - attachments/What-is-an-API.png",
     "4 - sources/courses",
-    "1 - notes/b. languages/css",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

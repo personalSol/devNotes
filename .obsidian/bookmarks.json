@@ -19,27 +19,46 @@
     },
     {
       "type": "file",
-      "ctime": 1740576809756,
-      "path": "1 - notes/z. others/DSA Approaches.md",
-      "title": "DSA"
-    },
-    {
-      "type": "file",
       "ctime": 1741006682424,
-      "path": "0 - inbox/videos to watch eventually.md",
+      "path": "1 - notes/z. others/videos to watch eventually.md",
       "title": "watch it bro"
     },
     {
       "type": "file",
       "ctime": 1741006757096,
-      "path": "0 - inbox/Youtubers for programming.md",
+      "path": "1 - notes/z. others/Youtubers for programming.md",
       "title": "ytbers"
     },
     {
       "type": "file",
       "ctime": 1743155425646,
-      "path": "0 - inbox/Tasks for coding.md",
+      "path": "1 - notes/z. others/Tasks for coding.md",
       "title": "Tasks"
+    },
+    {
+      "type": "group",
+      "ctime": 1743964777784,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1743964989910,
+          "path": "1 - notes/z. others/Websites List.md",
+          "title": "website list"
+        },
+        {
+          "type": "file",
+          "ctime": 1743964805472,
+          "path": "1 - notes/z. others/Questions asked in interview.md",
+          "title": "Interview Questions"
+        },
+        {
+          "type": "file",
+          "ctime": 1740576809756,
+          "path": "1 - notes/z. others/DSA Approaches.md",
+          "title": "DSA"
+        }
+      ],
+      "title": "Most IMP"
     }
   ]
 }
