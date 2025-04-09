@@ -4,7 +4,7 @@ related-links:
   - "[[tG-java]]"
   - "[[Cheatsheets-MOC]]"
 created: 2025-02-10T23:09
-updated: 2025-04-06T22:05
+updated: 2025-04-07T13:32
 ---
 ---
 
@@ -146,7 +146,9 @@ str.equalsIgnoreCase("HELLO WORLD!  "); // true
 
 ##### b. **Arrays**
 
+- non primitive datatype
 - Fixed-size ( while initializing, can omit while declaring )
+- store one type of data in one array
 - index based
 - mutable collections
 - unlike other programming languages have 'length' property

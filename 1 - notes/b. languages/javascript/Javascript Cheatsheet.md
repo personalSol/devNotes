@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Java-MOC]]"
 created: 2025-02-21T10:55
-updated: 2025-04-07T10:14
+updated: 2025-04-07T15:41
 ---
 ---
 
@@ -18,7 +18,7 @@ updated: 2025-04-07T10:14
 	- let and var after initialization until declaration have undefined as value
 	- var can be declared again 
 - typeof
-	- we can check by `console.log(typeof <variable>)`
+	- we can check by `console. log(typeof <variable>)`
 	- null is a type of object
 
 

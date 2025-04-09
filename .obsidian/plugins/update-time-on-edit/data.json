@@ -23,7 +23,7 @@
     "95 - databases/basic of programming & technology.md": "549bce4bc079e22b2ef73cb1528d47ceebd8830cd28c38df507546a4f5dc86c6",
     "96 - tags/tG not-tagged.md": "0cab62bacb65a56853f8f3fb5a399c5a49749f52ea1f7798a3c00bb642a7fa88",
     "97 - templates/tmp-full-note.md": "6022df908c64c0235a51e43ab61d24b263489308298475b6457493ce9d9f6f2a",
-    "1 - notes/b. languages/java/Java Cheatsheet.md": "409d6c2f9d0d2907a5b806190c355028d107b91f84d7defd84184f3f370a5d07",
+    "1 - notes/b. languages/java/Java Cheatsheet.md": "201a179c91868539b92bd184e7884f96b0db4f6840b20531d319969b4b069bf8",
     "1 - notes/a. core-concepts/core/asymptotic notation.md": "73491f15bc92b0732283e4103d80b42cc8d140be4592bc325616f2a47929a7bd",
     "1 - notes/a. core-concepts/core/data structure and algorithms.md": "41c38b0d2cab201c1dbdeeb4b3b9d20c0a6cc9e61781b086194bc4da5b7f0d86",
     "1 - notes/a. core-concepts/core/space complexity.md": "5e0eaedeee04a8a8e3c843ed83a3b94104e28473df188c03e112d617b3d69a17",
@@ -36,7 +36,7 @@
     "3 - moc/sub-mocs/Java-MOC.md": "6cc421f653233867e5f06cba23773870e1f818d47678d1c5c1d53c6a8c15871e",
     "3 - moc/sub-mocs/JavaScript-MOC.md": "129eb65f88e05e5087bb92ea7794084170fa6357568ddd335ae7bc8e709a2fee",
     "1 - notes/b. languages/javascript/JS Events.md": "3d8e120095085a2ea02edc215d592210ebed0262c8b0c245914dde8aabc8406e",
-    "1 - notes/b. languages/javascript/Javascript Cheatsheet.md": "97b512b48889900aa40a2649a24e1b8180b23d316504fa8095108d0815f86cee",
+    "1 - notes/b. languages/javascript/Javascript Cheatsheet.md": "7e2a374a73e38a2757670b6a988162090000d9234a6d454bfbda625d54cd6530",
     "1 - notes/a. core-concepts/basics/flowchart.md": "fa4d1ee483eece0f9dbe4bdf395ac5c8d47fa5ea5098aa3c12c0a9d07a851255",
     "3 - moc/sub-mocs/CSS-MOC.md": "ba3aa0ac42398850780ef48116323853316e6f05f43ac63445117dc1504e91cc",
     "1 - notes/b. languages/css/CSS Positioning.md": "b077ba25a3805ba332284c8d1666c9518fa10854fa57a0af8e1b2093f1e8f1db",
@@ -70,7 +70,7 @@
     "3 - moc/sub-mocs/Node-JS-MOC.md": "2918b8042b344309780a2a09b4c7b8bc95996329960ed3ec3b968eb685345874",
     "0 - inbox/npm.md": "1bc508d2c1d6e95049f2600298676723fdb7d005ea0f0d989da3fd803df1e54b",
     "4 - sources/courses/Qspiders/MongoDB class by Utkarsh Sir.md": "0d086457c4a05a320531c7d9164c133674e0cc2189fe7016b2dc8affae807e59",
-    "4 - sources/courses/Qspiders/Programming by shambu sir.md": "82d27fe470cbebda6473f6912ad72ee9b01e2153874f19e78dc2b47497b02290",
+    "4 - sources/courses/Qspiders/Programming by shambu sir.md": "9fcd5c7cacb0dc6bb3c5bad5ce54e1922418ec5e34e3f9dc31d437a8042c26c2",
     "4 - sources/courses/yt/Mern Crash Course by sheriyans.md": "c4678a63222abe9241330212f556e3184f648f594f6919e8e74e5d299f429873",
     "4 - sources/courses/yt/mern stack crash course by freecodecamp.md": "10906ce9f00d3216247ee81bb14758b65ffbab43c5f384ab85fdfab24848505e",
     "4 - sources/courses/yt/Mongodb by code with harry.md": "79707d6bf0156fe09db839c03e0734a7a8e80ca7fdc7f288b4afeec9ad2c2353",
@@ -102,7 +102,7 @@
     "1 - notes/z. others/videos to watch eventually.md": "c34403ce3406bcd3ff4e37faead1ce888b141dab35e81b497e85edba073365c6",
     "1 - notes/z. others/Youtubers for programming.md": "87f61187289853bd54ec19ca2736b0258794050f30c08e04706d12a47a6ca31d",
     "1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md": "ce12741c37801600995d26881915dc3d35ee8ad74fdf1b82def408e165a7b8e3",
-    "4 - sources/courses/JS by Shresth Sir.md": "1b4cf19d6a0725577bd2ed48fb0682e87884a9850d0c90dcea3ccf4975bff073",
+    "4 - sources/courses/JS by Shresth Sir.md": "17cc28cf2b60305af4e12d3ac7d7f58f9244f22cedb55fe627a8d59c3ca4fb98",
     "0 - inbox/closure function.md": "a8cc6abe94b7a1d1ff1adddeb50e6ede54c3472ab115d6e94730875bb366c1ff"
   }
 }
