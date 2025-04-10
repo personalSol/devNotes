@@ -18,9 +18,21 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "ChaiAurCode SQL course",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/ChaiAurCode SQL course.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ChaiAurCode SQL course\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":0},\"to\":{\"line\":39,\"ch\":0}},\"scroll\":5.430302783696338}"
+                },
+                {
+                  "title": "Javascript Cheatsheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/Javascript Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Javascript Cheatsheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
                   "title": "mern stack crash course by freecodecamp",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/yt/mern stack crash course by freecodecamp.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mern stack crash course by freecodecamp\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/mern stack crash course by freecodecamp.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mern stack crash course by freecodecamp\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":203,\"ch\":35},\"to\":{\"line\":203,\"ch\":35}},\"scroll\":170.14452278122533}"
                 },
                 {
@@ -32,7 +44,7 @@
                 {
                   "title": "Programming by shambu sir",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/Qspiders/Programming by shambu sir.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Programming by shambu sir\"}",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/Qspiders/Programming by shambu sir.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Programming by shambu sir\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":13},\"to\":{\"line\":8,\"ch\":13}}}"
                 },
                 {
@@ -46,7 +58,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
+                "file": "4 - sources/courses/SQL crash course by Maven Analytics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -61,7 +73,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Javascript Cheatsheet"
+              "title": "SQL crash course by Maven Analytics"
             }
           }
         ]
@@ -167,7 +179,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
+                "file": "4 - sources/courses/SQL crash course by Maven Analytics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -195,14 +207,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Javascript Cheatsheet"
+              "title": "Graph of SQL crash course by Maven Analytics"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -443,14 +456,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "2f737f092cd61e86",
   "lastOpenFiles": [
-    "4 - sources/courses/yt/mern stack crash course by freecodecamp.md",
+    "98 - attachments/Pasted image 20250409182314.png",
+    "4 - sources/courses/ChaiAurCode SQL course.md",
+    "4 - sources/courses/SQL crash course by Maven Analytics.md",
     "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
-    "4 - sources/courses/Qspiders/Programming by shambu sir.md",
-    "4 - sources/courses/yt/MongoDB by Simpli Learn Dev.md",
+    "0 - inbox/Untitled.md",
+    "4 - sources/yt/mern stack crash course by freecodecamp.md",
+    "4 - sources/Qspiders/Programming by shambu sir.md",
+    "4 - sources/yt/MongoDB by Simpli Learn Dev.md",
     "1 - notes/b. languages/java/Java Cheatsheet.md",
-    "4 - sources/courses/JS by Shresth Sir.md",
+    "4 - sources/Qspiders/JS by Shresth Sir.md",
     "0 - inbox/closure function.md",
     "3 - moc/sub-mocs/CSS-MOC.md",
     "4 - sources/courses/Qspiders/Frontend by Sarvesh sir.md",
@@ -469,13 +486,9 @@
     "1 - notes/c. tools/github/ssh agent.md",
     "3 - moc/sub-mocs/git-and-github-MOC.md",
     "0 - inbox/Mongoose Cheatsheet.md",
-    "1 - notes/c. tools/github/Ssh keys problem.md",
-    "4 - sources/courses/Qspiders/MongoDB class by Utkarsh Sir.md",
-    "1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md",
     "98 - attachments/Pasted image 20250404141621.png",
-    "1 - notes/z. others/Tasks for coding.md",
-    "4 - sources/courses/yt",
-    "4 - sources/courses/Qspiders",
+    "4 - sources/yt",
+    "4 - sources/Qspiders",
     "98 - attachments/Screenshot 2024-08-24 at 4.48.38 PM.png",
     "98 - attachments/Pasted image 20250326225644.png",
     "1 - notes/b. languages/frameworks",
