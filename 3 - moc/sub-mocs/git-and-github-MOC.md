@@ -1,6 +1,6 @@
 ---
 created: 2025-02-27T00:04
-updated: 2025-04-06T23:58
+updated: 2025-04-10T15:21
 ---
 
 # git-and-github
@@ -29,7 +29,7 @@ here will be all the notes around git-and-github
 
 git and github problems
 - [[detached headstate]]
-- [[authentication methods]]
+- [[github authentication methods]]
 - [[ssh agent]]
 - 
 

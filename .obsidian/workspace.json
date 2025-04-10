@@ -8,57 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f737f092cd61e86",
+            "id": "a2a8f2fe409db42c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 2,
               "stack": [
+                {
+                  "title": "Javascript Cheatsheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/Javascript Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Javascript Cheatsheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Java Cheatsheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/Java Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Java Cheatsheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":165,\"ch\":7},\"to\":{\"line\":165,\"ch\":7}},\"scroll\":152.45569787649163}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "ChaiAurCode SQL course",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/ChaiAurCode SQL course.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ChaiAurCode SQL course\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":0},\"to\":{\"line\":39,\"ch\":0}},\"scroll\":5.430302783696338}"
-                },
-                {
-                  "title": "Javascript Cheatsheet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/Javascript Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Javascript Cheatsheet\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "mern stack crash course by freecodecamp",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/mern stack crash course by freecodecamp.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mern stack crash course by freecodecamp\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":203,\"ch\":35},\"to\":{\"line\":203,\"ch\":35}},\"scroll\":170.14452278122533}"
-                },
-                {
-                  "title": "Javascript Cheatsheet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/Javascript Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Javascript Cheatsheet\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":18},\"to\":{\"line\":15,\"ch\":18}},\"scroll\":3.921885378031618}"
-                },
-                {
-                  "title": "Programming by shambu sir",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/Qspiders/Programming by shambu sir.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Programming by shambu sir\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":13},\"to\":{\"line\":8,\"ch\":13}}}"
-                },
-                {
-                  "title": "CSS-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/CSS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":0},\"to\":{\"line\":19,\"ch\":0}},\"scroll\":10.111110602484809}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - sources/courses/SQL crash course by Maven Analytics.md",
+                "file": "3 - moc/sub-mocs/Java-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -73,7 +49,146 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "SQL crash course by Maven Analytics"
+              "title": "Java-MOC"
+            }
+          },
+          {
+            "id": "0fdcaaa6fe0c10ee",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/java about.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "java about"
+            }
+          },
+          {
+            "id": "49ddddf7d53f7d72",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/java things to remember.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "java things to remember"
+            }
+          },
+          {
+            "id": "8dba8c635621a8ef",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/java access modifiers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "java access modifiers"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "9e14564aab00b42f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e046a924a4b97a4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/java/Java Cheatsheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Java Cheatsheet"
             }
           }
         ]
@@ -127,7 +242,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(java)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,7 +272,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3888432cac3b4f06",
@@ -179,7 +295,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4 - sources/courses/SQL crash course by Maven Analytics.md",
+                "file": "0 - inbox/java about.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -207,7 +323,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of SQL crash course by Maven Analytics"
+              "title": "Graph of java about"
             }
           }
         ]
@@ -241,13 +357,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - sources/courses/yt/MongoDB by Simpli Learn Dev.md",
+                "file": "0 - inbox/java about.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of MongoDB by Simpli Learn Dev"
+              "title": "Outline of java about"
             }
           },
           {
@@ -435,8 +551,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -456,22 +571,29 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2f737f092cd61e86",
+  "active": "0fdcaaa6fe0c10ee",
   "lastOpenFiles": [
+    "0 - inbox/java about.md",
+    "3 - moc/sub-mocs/Java-MOC.md",
+    "0 - inbox/java access modifiers.md",
+    "1 - notes/b. languages/java/Java Cheatsheet.md",
+    "0 - inbox/java things to remember.md",
+    "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
+    "1 - notes/b. languages/javascript/closure function.md",
+    "1 - notes/z. others/Project Ideas.md",
+    "0 - inbox/npm.md",
+    "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
+    "1 - notes/c. tools/github/github authentication methods.md",
+    "4 - sources/courses/SQL crash course by Maven Analytics.md",
     "98 - attachments/Pasted image 20250409182314.png",
     "4 - sources/courses/ChaiAurCode SQL course.md",
-    "4 - sources/courses/SQL crash course by Maven Analytics.md",
-    "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
     "0 - inbox/Untitled.md",
     "4 - sources/yt/mern stack crash course by freecodecamp.md",
     "4 - sources/Qspiders/Programming by shambu sir.md",
     "4 - sources/yt/MongoDB by Simpli Learn Dev.md",
-    "1 - notes/b. languages/java/Java Cheatsheet.md",
     "4 - sources/Qspiders/JS by Shresth Sir.md",
-    "0 - inbox/closure function.md",
     "3 - moc/sub-mocs/CSS-MOC.md",
     "4 - sources/courses/Qspiders/Frontend by Sarvesh sir.md",
-    "0 - inbox/Project Ideas.md",
     "1 - notes/c. tools/mongoDB",
     "1 - notes/z. others/Youtubers for programming.md",
     "1 - notes/z. others/videos to watch eventually.md",
@@ -479,13 +601,7 @@
     "1 - notes/z. others/Questions asked in interview.md",
     "1 - notes/z. others/porpose of notes.md",
     "1 - notes/z. others/DSA Approaches.md",
-    "1 - notes/z. others/EY edunet AICTE internship.md",
-    "1 - notes/c. tools/github/setting git credentials.md",
-    "0 - inbox/authentication methods.md",
     "1 - notes/c. tools/github",
-    "1 - notes/c. tools/github/ssh agent.md",
-    "3 - moc/sub-mocs/git-and-github-MOC.md",
-    "0 - inbox/Mongoose Cheatsheet.md",
     "98 - attachments/Pasted image 20250404141621.png",
     "4 - sources/yt",
     "4 - sources/Qspiders",
@@ -503,7 +619,6 @@
     "98 - attachments/Pasted image 20250303205501.png",
     "98 - attachments/image.png",
     "1 - notes/z. others",
-    "98 - attachments/What-is-an-API.png",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",
