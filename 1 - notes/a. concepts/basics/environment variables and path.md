@@ -1,9 +1,9 @@
 ---
 status: newBorn
 related-links:
-  - "[[Core-Concepts-MOC]]"
+  - "[[Basic-Concepts-MOC]]"
 created: 2025-03-12T06:45
-updated: 2025-03-12T06:46
+updated: 2025-04-11T10:48
 ---
 ---
 
@@ -34,5 +34,5 @@ what I understood: environment variables store all kind of data that your comput
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[git-and-github-MOC]]"
 created: 2025-03-31T20:35
-updated: 2025-03-31T20:42
+updated: 2025-04-11T10:56
 ---
 ---
 
@@ -16,5 +17,5 @@ Configure Name & Email for Commits
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

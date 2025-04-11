@@ -1,9 +1,9 @@
 ---
 status: newBorn
 related-links:
-  - "[[Java-MOC]]"
+  - "[[JavaScript-MOC]]"
 created: 2025-02-21T10:55
-updated: 2025-04-07T15:41
+updated: 2025-04-11T10:58
 ---
 ---
 

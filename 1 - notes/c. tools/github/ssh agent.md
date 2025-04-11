@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[git-and-github-MOC]]"
 created: 2025-04-06T23:58
-updated: 2025-04-07T00:00
+updated: 2025-04-11T10:41
 ---
 ---
 
@@ -18,5 +19,5 @@ From experience:
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

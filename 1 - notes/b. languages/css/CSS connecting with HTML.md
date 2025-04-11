@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: 
+related-links:
+  - "[[CSS-MOC]]"
 created: 2025-03-19T17:13
-updated: 2025-03-24T16:43
+updated: 2025-04-11T10:43
 ---
 ---
 
@@ -30,5 +31,5 @@ using CSS functions:
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

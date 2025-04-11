@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-03-12T06:02
-updated: 2025-04-03T17:33
+updated: 2025-04-11T10:49
 ---
 ---
 
@@ -43,5 +43,5 @@ learn in public:
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

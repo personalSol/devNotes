@@ -1,6 +1,6 @@
 ---
 created: 2025-02-24T23:18
-updated: 2025-03-28T16:07
+updated: 2025-04-11T10:58
 ---
 # JavaScript MOC
 
@@ -8,6 +8,10 @@ it will have all the notes around JS connected to it.
 
 [[Javascript Cheatsheet]]
 
+
+## got to know
+
+- [[JS runtime environment]]
 ## Basic
 
 - [[DOM Manipulation]]
@@ -19,7 +23,8 @@ it will have all the notes around JS connected to it.
 ## Advance
 
 - [[about node-js]]
-
+- [[closure function]]
+- 
 
 
 ## **Links not included yet list:**

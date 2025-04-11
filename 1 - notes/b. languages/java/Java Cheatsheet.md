@@ -4,15 +4,11 @@ related-links:
   - "[[tG-java]]"
   - "[[Cheatsheets-MOC]]"
 created: 2025-02-10T23:09
-updated: 2025-04-10T15:25
+updated: 2025-04-11T10:26
 ---
 ---
 
-# -1. things to remember
 
-- arrays have length property and string have length() function
-- java doesn't have truthy or falsy values
-- 
 # 0. Basics
 
 - No support for negative indexing

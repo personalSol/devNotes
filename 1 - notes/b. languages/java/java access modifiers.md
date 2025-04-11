@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Java-MOC]]"
 created: 2025-04-10T19:07
-updated: 2025-04-10T19:32
+updated: 2025-04-11T10:56
 ---
 ---
 
@@ -35,5 +36,5 @@ Java has four main access levels:
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

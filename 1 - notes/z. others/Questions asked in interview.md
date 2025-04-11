@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Others-MOC]]"
 created: 2025-04-03T15:12
-updated: 2025-04-03T15:12
+updated: 2025-04-11T10:56
 ---
 ---
 
@@ -15,5 +16,5 @@ updated: 2025-04-03T15:12
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

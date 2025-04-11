@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[JavaScript-MOC]]"
 created: 2025-03-28T15:53
-updated: 2025-03-28T15:54
+updated: 2025-04-11T10:55
 ---
 ---
 
@@ -15,5 +16,5 @@ The environment where JavaScript code is executed. It could be
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

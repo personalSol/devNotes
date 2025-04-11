@@ -1,10 +1,12 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Java-MOC]]"
 created: 2025-04-10T19:39
-updated: 2025-04-10T19:44
+updated: 2025-04-11T10:47
 ---
 ---
+
 
 
 ### **First-Principles Summary**:
@@ -67,5 +69,5 @@ public static void main(String[] args) {
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+a
 - 

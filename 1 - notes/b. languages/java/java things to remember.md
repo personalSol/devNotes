@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Java-MOC]]"
 created: 2025-04-10T19:17
-updated: 2025-04-10T19:27
+updated: 2025-04-11T10:43
 ---
 ---
 
@@ -28,5 +29,5 @@ updated: 2025-04-10T19:27
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

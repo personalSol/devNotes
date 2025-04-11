@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: 
+related-links:
+  - "[[Cheatsheets-MOC]]"
 created: 2025-03-30T21:10
-updated: 2025-03-31T20:22
+updated: 2025-04-11T10:40
 ---
 ---
 ### **Basics**
@@ -100,6 +101,6 @@ updated: 2025-03-31T20:22
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 
 

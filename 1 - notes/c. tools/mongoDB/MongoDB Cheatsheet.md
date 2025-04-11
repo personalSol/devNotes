@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Cheatsheets-MOC]]"
 created: 2025-04-05T12:07
-updated: 2025-04-05T12:09
+updated: 2025-04-11T10:40
 ---
 ---
 
@@ -204,5 +205,5 @@ mongodb://username:password@localhost:27017/myDB
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

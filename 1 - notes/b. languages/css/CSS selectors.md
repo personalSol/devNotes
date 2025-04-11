@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[CSS-MOC]]"
 created: 2025-03-19T17:21
-updated: 2025-03-21T16:47
+updated: 2025-04-11T10:45
 ---
 ---
 
@@ -58,5 +59,5 @@ there are total of 5 types of selectors
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

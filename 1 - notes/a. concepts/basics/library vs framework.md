@@ -1,9 +1,9 @@
 ---
 status: newBorn
 related-links:
-  - "[[Core-Concepts-MOC]]"
+  - "[[Basic-Concepts-MOC]]"
 created: 2025-03-03T19:32
-updated: 2025-03-13T06:01
+updated: 2025-04-11T10:48
 ---
 ---
 
@@ -28,5 +28,5 @@ framework is like military which has rules set in stone.
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

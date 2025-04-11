@@ -1,6 +1,6 @@
 ---
 created: 2025-02-11T14:47
-updated: 2025-03-31T20:09
+updated: 2025-04-11T10:32
 ---
 
 
@@ -19,7 +19,7 @@ updated: 2025-03-31T20:09
 
 ### basics of programming & technology
 
-- [[flowchart]]
+
 - to understand how browser stores data: [[browser storage]]
 - [[data structure and algorithms]]
 - [[time complexity]]
@@ -27,7 +27,7 @@ updated: 2025-03-31T20:09
 - [[asymptotic notation]]
 - [[program vs algorithm]]
 - [[library vs framework]]
-
+- [[environment variables and path]]
 # main concepts
 
 - [[api]]

@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Others-MOC]]"
 created: 2025-03-03T18:28
-updated: 2025-03-03T18:28
+updated: 2025-04-11T10:56
 ---
 ---
 
@@ -13,5 +14,5 @@ Indian for ai and ml: [Ayush Singh - YouTube](https://www.youtube.com/@AyushSing
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

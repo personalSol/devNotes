@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[JavaScript-MOC]]"
 created: 2025-04-07T10:53
-updated: 2025-04-07T11:16
+updated: 2025-04-11T10:52
 ---
 ---
 
@@ -41,5 +42,5 @@ onclick() = (num)=> {
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

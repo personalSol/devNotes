@@ -4,37 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a070373db6752bed",
+        "id": "d9885193ae78c879",
         "type": "tabs",
         "children": [
           {
-            "id": "a2a8f2fe409db42c",
+            "id": "43e6b0d1474bcd00",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 2,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "Javascript Cheatsheet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/Javascript Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Javascript Cheatsheet\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "Java Cheatsheet",
+                  "title": "Java-MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/Java Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Java Cheatsheet\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":165,\"ch\":7},\"to\":{\"line\":165,\"ch\":7}},\"scroll\":152.45569787649163}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Java-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Java-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":10},\"to\":{\"line\":14,\"ch\":10}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/Java-MOC.md",
+                "file": "1 - notes/b. languages/java/java basics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,146 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Java-MOC"
-            }
-          },
-          {
-            "id": "0fdcaaa6fe0c10ee",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/java about.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "java about"
-            }
-          },
-          {
-            "id": "49ddddf7d53f7d72",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/java things to remember.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "java things to remember"
-            }
-          },
-          {
-            "id": "8dba8c635621a8ef",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/java access modifiers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "java access modifiers"
-            }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "9e14564aab00b42f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4e046a924a4b97a4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/java/Java Cheatsheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Java Cheatsheet"
+              "title": "java basics"
             }
           }
         ]
@@ -272,8 +127,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -295,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/java about.md",
+                "file": "1 - notes/b. languages/java/java basics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -323,15 +177,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of java about"
+              "title": "Graph of java basics"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 303.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -357,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/java about.md",
+                "file": "1 - notes/b. languages/java/java basics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of java about"
+              "title": "Outline of java basics"
             }
           },
           {
@@ -571,36 +424,37 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0fdcaaa6fe0c10ee",
+  "active": "43e6b0d1474bcd00",
   "lastOpenFiles": [
-    "0 - inbox/java about.md",
     "3 - moc/sub-mocs/Java-MOC.md",
-    "0 - inbox/java access modifiers.md",
-    "1 - notes/b. languages/java/Java Cheatsheet.md",
-    "0 - inbox/java things to remember.md",
+    "1 - notes/a. concepts/core/DSA Approaches.md",
+    "1 - notes/a. concepts/imp",
     "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
+    "3 - moc/sub-mocs/JavaScript-MOC.md",
+    "3 - moc/Languages-MOC.md",
+    "3 - moc/Web-Dev-MOC.md",
+    "1 - notes/b. languages/javascript/JS runtime environment.md",
     "1 - notes/b. languages/javascript/closure function.md",
-    "1 - notes/z. others/Project Ideas.md",
-    "0 - inbox/npm.md",
-    "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
-    "1 - notes/c. tools/github/github authentication methods.md",
-    "4 - sources/courses/SQL crash course by Maven Analytics.md",
-    "98 - attachments/Pasted image 20250409182314.png",
-    "4 - sources/courses/ChaiAurCode SQL course.md",
-    "0 - inbox/Untitled.md",
-    "4 - sources/yt/mern stack crash course by freecodecamp.md",
-    "4 - sources/Qspiders/Programming by shambu sir.md",
-    "4 - sources/yt/MongoDB by Simpli Learn Dev.md",
-    "4 - sources/Qspiders/JS by Shresth Sir.md",
-    "3 - moc/sub-mocs/CSS-MOC.md",
-    "4 - sources/courses/Qspiders/Frontend by Sarvesh sir.md",
-    "1 - notes/c. tools/mongoDB",
+    "1 - notes/z. others/vault-status.md",
     "1 - notes/z. others/Youtubers for programming.md",
-    "1 - notes/z. others/videos to watch eventually.md",
-    "1 - notes/z. others/Websites List.md",
+    "1 - notes/c. tools/github/setting git credentials.md",
+    "1 - notes/c. tools/github/github authentication methods.md",
+    "1 - notes/a. concepts/basics/library vs framework.md",
+    "1 - notes/a. concepts/basics/environment variables and path.md",
+    "1 - notes/z. others/purpose of notes.md",
     "1 - notes/z. others/Questions asked in interview.md",
-    "1 - notes/z. others/porpose of notes.md",
-    "1 - notes/z. others/DSA Approaches.md",
+    "97 - templates/tmp-full-note.md",
+    "1 - notes/b. languages/java/java access modifiers.md",
+    "1 - notes/b. languages/library/react intro.md",
+    "3 - moc/Others-MOC.md",
+    "1 - notes/z. others/Project Ideas.md",
+    "1 - notes/b. languages/css/CSS margin and padding.md",
+    "1 - notes/z. others/Tasks for coding.md",
+    "3 - moc/Concepts-MOC.md",
+    "1 - notes/b. languages/java/java basics.md",
+    "1 - notes/a. concepts/other",
+    "98 - attachments/Pasted image 20250409182314.png",
+    "1 - notes/c. tools/mongoDB",
     "1 - notes/c. tools/github",
     "98 - attachments/Pasted image 20250404141621.png",
     "4 - sources/yt",
@@ -612,13 +466,11 @@
     "98 - attachments/Pasted image 20250311163608.png",
     "98 - attachments/Recording 20250304162959.m4a",
     "98 - attachments/Recording 20250304163124.m4a",
-    "98 - attachments/Recording 20250304163338.m4a",
     "98 - attachments/Pasted image 20250304141710.png",
     "98 - attachments/Pasted image 20250303211314.png",
     "98 - attachments/Pasted image 20250303205605.png",
     "98 - attachments/Pasted image 20250303205501.png",
     "98 - attachments/image.png",
-    "1 - notes/z. others",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",
