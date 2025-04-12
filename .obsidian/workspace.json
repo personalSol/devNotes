@@ -4,31 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "d9885193ae78c879",
+        "id": "52f097db15292f21",
         "type": "tabs",
         "children": [
           {
-            "id": "43e6b0d1474bcd00",
+            "id": "75b547e90bcc3bf1",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 2,
               "stack": [
+                {
+                  "title": "Java Cheatsheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/Java Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Java Cheatsheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":344,\"ch\":50},\"to\":{\"line\":344,\"ch\":50}},\"scroll\":328.7566137566138}"
+                },
+                {
+                  "title": "objects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/objects.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"objects\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":20},\"to\":{\"line\":10,\"ch\":20}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Java-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Java-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Java-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":10},\"to\":{\"line\":14,\"ch\":10}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/java/java basics.md",
+                "file": "3 - moc/sub-mocs/Java-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,10 +49,77 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "java basics"
+              "title": "Java-MOC"
+            }
+          },
+          {
+            "id": "ef9d2233a51caebd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/instance variable, this and constructor.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "instance variable, this and constructor"
+            }
+          },
+          {
+            "id": "9e7cd7683e20470a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/java/Java Cheatsheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Java Cheatsheet"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -97,7 +170,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(java)",
+                "query": "line:(instance)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +200,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3888432cac3b4f06",
@@ -149,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/java/java basics.md",
+                "file": "0 - inbox/instance variable, this and constructor.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -177,7 +251,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of java basics"
+              "title": "Graph of instance variable, this and constructor"
             }
           }
         ]
@@ -210,13 +284,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/b. languages/java/java basics.md",
+                "file": "0 - inbox/instance variable, this and constructor.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of java basics"
+              "title": "Outline of instance variable, this and constructor"
             }
           },
           {
@@ -424,9 +498,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "43e6b0d1474bcd00",
+  "active": "ef9d2233a51caebd",
   "lastOpenFiles": [
+    "0 - inbox/instance variable, this and constructor.md",
     "3 - moc/sub-mocs/Java-MOC.md",
+    "0 - inbox/objects.md",
+    "1 - notes/b. languages/java/Java Cheatsheet.md",
+    "0 - inbox/classes.md",
+    "1 - notes/b. languages/java/java things to remember.md",
+    "0 - inbox/java datatypes.md",
+    "0 - inbox/autoboxing and unboxing in java.md",
+    "0 - inbox/java wrapper classes.md",
+    "1 - notes/b. languages/java/java basics.md",
+    "0 - inbox/Statically vs Dynamically Typed Language.md",
     "1 - notes/a. concepts/core/DSA Approaches.md",
     "1 - notes/a. concepts/imp",
     "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
@@ -443,15 +527,6 @@
     "1 - notes/a. concepts/basics/environment variables and path.md",
     "1 - notes/z. others/purpose of notes.md",
     "1 - notes/z. others/Questions asked in interview.md",
-    "97 - templates/tmp-full-note.md",
-    "1 - notes/b. languages/java/java access modifiers.md",
-    "1 - notes/b. languages/library/react intro.md",
-    "3 - moc/Others-MOC.md",
-    "1 - notes/z. others/Project Ideas.md",
-    "1 - notes/b. languages/css/CSS margin and padding.md",
-    "1 - notes/z. others/Tasks for coding.md",
-    "3 - moc/Concepts-MOC.md",
-    "1 - notes/b. languages/java/java basics.md",
     "1 - notes/a. concepts/other",
     "98 - attachments/Pasted image 20250409182314.png",
     "1 - notes/c. tools/mongoDB",

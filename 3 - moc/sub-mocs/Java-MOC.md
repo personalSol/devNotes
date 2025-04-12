@@ -1,6 +1,6 @@
 ---
 created: 2025-02-11T14:49
-updated: 2025-04-11T11:00
+updated: 2025-04-11T19:28
 ---
 # Java MOC
 it will have all the notes related to java attached with no concept
@@ -13,6 +13,11 @@ it will have all the notes related to java attached with no concept
 
 - [[java boiler plate]]
 - [[java basics]]
+- [[java datatypes]]
+- 
+- [[objects]]
+- [[classes]]
+- [[instance variable, this and constructor]]
 - 
 
 

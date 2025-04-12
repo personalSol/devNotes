@@ -4,7 +4,7 @@ related-links:
   - "[[tG-java]]"
   - "[[Cheatsheets-MOC]]"
 created: 2025-02-10T23:09
-updated: 2025-04-11T10:26
+updated: 2025-04-11T18:51
 ---
 ---
 
@@ -115,8 +115,8 @@ Objects stored as references; size depends on the object
 - in string == operator checks if both the 
 
 ```Java
-	String s1 = "Hello";           // Uses String Pool  
-String s2 = new String("Hello"); // Creates a new object in heap
+String s1 = "Hello";           // Uses String Pool - string literal
+String s2 = new String("Hello"); // Creates a new object in heap - using constructor of String class
 
 // Example String
 String str = "  Hello World!  ";
