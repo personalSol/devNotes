@@ -26,7 +26,7 @@
     "1 - notes/d. maths/area and parameter.md": "27885295713d0f5acc04ffb09ff85a58ac1121522902f6049a8fb957ad133fa8",
     "1 - notes/d. maths/simple interest.md": "f6f0a7a4a8136a215b32643c6cea0071deb6d4991e7b6a8210d5d3d67b753590",
     "3 - moc/Maths-MOC.md": "18e9b5bee2f4871c31e5073ed5baae89b6f89648e057d77c64e576b3c28774c6",
-    "3 - moc/sub-mocs/Java-MOC.md": "59fd66f50710f5f2d3b144c30474c64e578b79830161181abffc890ffa8007c2",
+    "3 - moc/sub-mocs/Java-MOC.md": "6e71203e42696271c2b2ced76f195f1f60b7abca9b6117d8f59e770551fd2a70",
     "3 - moc/sub-mocs/JavaScript-MOC.md": "12d3f9592e134160e1d26c014938205d62dba38b16a230aec3e31b36683bd06a",
     "3 - moc/sub-mocs/CSS-MOC.md": "ba3aa0ac42398850780ef48116323853316e6f05f43ac63445117dc1504e91cc",
     "1 - notes/b. languages/css/CSS Positioning.md": "b077ba25a3805ba332284c8d1666c9518fa10854fa57a0af8e1b2093f1e8f1db",
@@ -115,12 +115,18 @@
     "0 - inbox/java datatypes.md": "2ef5b5e522f7cdb5ba74bbf8e956b1ce7e6a67972ce509a4c6330f38d820b0bc",
     "0 - inbox/java wrapper classes.md": "6eda2ce718e819e6f5c470b651f2a523dd7ee72ed5b0d252d8e4be9dd0fdba59",
     "0 - inbox/autoboxing and unboxing in java.md": "4974ed056210ef0d9e9df9a03d39029c31da0e7025b25ac3372bf6416def045e",
-    "0 - inbox/objects.md": "28de91abac9aa8e586db50f0770c1fd67c5aa398762c2db524797dcd3b14f59c",
-    "0 - inbox/classes.md": "186d0b8877d393ab10e60f1ada8b143f0bc9534b3a695fc598e72c58879b0a83",
-    "0 - inbox/instance variable, this and constructor.md": "69ee2a6fe73914711fa902cedfa1ba2fbbb5e3ac0f289d992f82dad23eaf8d93",
+    "0 - inbox/objects.md": "8173e847972f097b409e13a35d0d6f0687975cee9d92ed8b0719f06bb3c1036f",
+    "0 - inbox/classes.md": "8d463cfaf8914a546fa9369cd47dc4ab9da2a750a073681ba343e1a5587852fc",
     "0 - inbox/memory management in programming (stack and heap ).md": "06d54531713750e0278e924657c3fc48e08650b1aa130cf372a59b095cabeb79",
     "0 - inbox/java String.md": "3762235c39df40d0b73554e883d7a2913879712376a49dc775928981ec31940d",
-    "0 - inbox/operators.md": "ace3328f281d5714a023a463f8eb3b33a75818b9f5263727ef5467498945a96b",
-    "0 - inbox/java array.md": "f5355fd7ece2197955abbec482752275d2350ebc63524c919374c6ef4d635451"
+    "0 - inbox/java array.md": "f5355fd7ece2197955abbec482752275d2350ebc63524c919374c6ef4d635451",
+    "3 - moc/Terms-MOC.md": "3fcd85f1e357fb2cb6d0c9bf5c757e164e509c5372d06eb9ae12ed1b1df23cec",
+    "0 - inbox/programming paradigm.md": "12bc8f61e688a89afa1216962d05b62181428572b4868649e8973ad303f9c775",
+    "0 - inbox/oops.md": "83cb3dddec807ad19a526a318a66546640b5cd105e5188a91166d013705c3fb9",
+    "0 - inbox/java operators.md": "592f992ca3d1f8cc891a2791a3ee5f9b8b8f1a66eba40d5fde984d7e33da1fcd",
+    "0 - inbox/java loops.md": "9c1127d78440e5fd983c88c9a6e304b402aded30ae392067731253d97de7eade",
+    "0 - inbox/java instance variable, this and constructor.md": "bfbf0a7699fa680ae6ed29ce7b887ef4eb0f0f93c6f0c6d67a1cb8e788499b98",
+    "0 - inbox/java class and object.md": "8641495444dbc5dec1cec19c9428ef684d94e803a935ba4cb15e682765659ce2",
+    "0 - inbox/java oops pillars.md": "8d68c4745acb9f738b37944e08bbc6c009216e9b0143561cd2dc38244d956c50"
   }
 }

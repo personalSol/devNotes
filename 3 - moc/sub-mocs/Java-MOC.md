@@ -1,6 +1,6 @@
 ---
 created: 2025-02-11T14:49
-updated: 2025-04-12T10:05
+updated: 2025-04-12T16:18
 ---
 # Java MOC
 it will have all the notes related to java attached with no concept
@@ -16,12 +16,12 @@ it will have all the notes related to java attached with no concept
 - [[java datatypes]]
 	- [[java array]]
 	- [[java String]]
-- [[operators]]
-- 
-- [[objects]]
-- [[classes]]
-- [[instance variable, this and constructor]]
-- 
+- [[java operators]]
+- [[java loops]]
+- [[java instance variable, this and constructor]]
+- [[java class and object]]
+- [[java oops pillars]]
+-  
 
 
 ## Advanced

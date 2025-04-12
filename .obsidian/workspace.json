@@ -14,10 +14,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "java things to remember",
+                  "title": "java class and object",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java things to remember.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java things to remember\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":2},\"to\":{\"line\":29,\"ch\":2}},\"scroll\":10.61418685931812}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/java class and object.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java class and object\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":77},\"to\":{\"line\":9,\"ch\":77}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
@@ -50,6 +50,84 @@
               },
               "icon": "lucide-file",
               "title": "Java-MOC"
+            }
+          },
+          {
+            "id": "9c76e818a3513f32",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/java oops pillars.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "java oops pillars"
+            }
+          },
+          {
+            "id": "dc129a030be1a9d4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 2,
+              "stack": [
+                {
+                  "title": "programming paradigm",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/programming paradigm.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"programming paradigm\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Terms-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Terms-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Terms-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}},\"scroll\":3.8101695432501326}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/loops.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "loops"
             }
           },
           {
@@ -272,8 +350,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -295,7 +372,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/java array.md",
+                "file": "0 - inbox/java oops pillars.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -323,7 +400,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of java array"
+              "title": "Graph of java oops pillars"
             }
           }
         ]
@@ -356,13 +433,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/java array.md",
+                "file": "0 - inbox/java oops pillars.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of java array"
+              "title": "Outline of java oops pillars"
             }
           },
           {
@@ -570,20 +647,27 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b7a4ad840a62ffa7",
+  "active": "9c76e818a3513f32",
   "lastOpenFiles": [
-    "1 - notes/b. languages/java/java things to remember.md",
-    "0 - inbox/java array.md",
     "3 - moc/sub-mocs/Java-MOC.md",
+    "0 - inbox/java oops pillars.md",
+    "0 - inbox/java instance variable, this and constructor.md",
+    "0 - inbox/java class and object.md",
+    "1 - notes/b. languages/java/java things to remember.md",
+    "0 - inbox/objects.md",
+    "0 - inbox/oops.md",
+    "0 - inbox/classes.md",
+    "0 - inbox/java loops.md",
+    "0 - inbox/java operators.md",
+    "3 - moc/Terms-MOC.md",
+    "0 - inbox/programming paradigm.md",
+    "1 - notes/e. terms",
+    "0 - inbox/java array.md",
     "0 - inbox/java String.md",
-    "0 - inbox/operators.md",
-    "0 - inbox/instance variable, this and constructor.md",
     "1 - notes/b. languages/java/Java Cheatsheet.md",
     "0 - inbox/java datatypes.md",
     "0 - inbox/memory management in programming (stack and heap ).md",
     "98 - attachments/image 1.png",
-    "0 - inbox/objects.md",
-    "0 - inbox/classes.md",
     "0 - inbox/autoboxing and unboxing in java.md",
     "0 - inbox/java wrapper classes.md",
     "1 - notes/b. languages/java/java basics.md",
@@ -594,12 +678,6 @@
     "3 - moc/sub-mocs/JavaScript-MOC.md",
     "3 - moc/Languages-MOC.md",
     "3 - moc/Web-Dev-MOC.md",
-    "1 - notes/b. languages/javascript/JS runtime environment.md",
-    "1 - notes/b. languages/javascript/closure function.md",
-    "1 - notes/z. others/vault-status.md",
-    "1 - notes/z. others/Youtubers for programming.md",
-    "1 - notes/c. tools/github/setting git credentials.md",
-    "1 - notes/c. tools/github/github authentication methods.md",
     "1 - notes/a. concepts/other",
     "98 - attachments/Pasted image 20250409182314.png",
     "1 - notes/c. tools/mongoDB",
@@ -613,7 +691,6 @@
     "1 - notes/b. languages/library",
     "98 - attachments/Pasted image 20250311163608.png",
     "98 - attachments/Recording 20250304162959.m4a",
-    "98 - attachments/Recording 20250304163124.m4a",
     "98 - attachments/Pasted image 20250304141710.png",
     "98 - attachments/Pasted image 20250303211314.png",
     "98 - attachments/Pasted image 20250303205605.png",
