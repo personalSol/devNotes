@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-04-11T19:28
-updated: 2025-04-12T17:45
+updated: 2025-04-14T07:13
 ---
 ---
 
@@ -21,7 +21,9 @@ instance variables:
 	- an object contains all properties and methods of it's parent class
 	- while creating a variable, we can pass values that are specific to that object
 	- and we pass those values with the help of a constructor
-	- now 
+	- now
+- this:
+	- this allows our constructor parameters to have same name as out instance variables and get no confusion.
 
 ### code ⭐
 

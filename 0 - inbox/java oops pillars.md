@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-04-12T16:18
-updated: 2025-04-13T11:24
+updated: 2025-04-14T07:39
 ---
 ---
 
@@ -150,6 +150,7 @@ Both methods are called `add`, but they take different types of arguments.
 - A subclass **overrides** a method from its superclass
 - The actual method that runs is based on the **object type**, not the reference type
 - Happens at **runtime**
+- we use `@Override` at top of method when we rewrite the same method in different class. it's not complusory but preffered. 
 
 ```java
 class Animal {
@@ -159,12 +160,14 @@ class Animal {
 }
 
 class Dog extends Animal {
+	@Override
     void makeSound() {
         System.out.println("Bark");
     }
 }
 
 class Cat extends Animal {
+	@Override
     void makeSound() {
         System.out.println("Meow");
     }
@@ -184,8 +187,78 @@ public class Test {
 ```
 
 
+## Abstraction
+
+> "Show only what’s important, and hide the messy details."
+
+You **focus on _what_ an object does**, not _how_ it does it.
+
+- You use abstract classes or interfaces to create abstraction.
+- can create fields, constructor and full functions in abstract class.
+
+```java
+interface Animal {
+    void makeSound();  // No details here
+}
+
+class Dog implements Animal {
+	@Override
+    public void makeSound() {
+        System.out.println("Bark");
+    }
+}
+```
+
+- The `Animal` interface says: "Every animal can make a sound" — but **doesn’t say how**.
+- Each animal (like `Dog`) decides **how** it makes that sound.
+
+---
+
+### ✅ Why Use Abstraction?
+
+- Makes code **cleaner** and easier to understand
+- Hides **unnecessary complexity**
+- Helps in designing **reusable and flexible** code
+
+## abstraction vs encapsulation
+
+| Feature      | Encapsulation                     | Abstraction                           |
+| ------------ | --------------------------------- | ------------------------------------- |
+| Hides        | Data (fields)                     | Implementation details (logic)        |
+| Focuses on   | Data protection & access control  | Functionality design & simplification |
+| Achieved via | `private` fields, getters/setters | `abstract` classes, `interface`s      |
+| Goal         | Safely expose the internals       | Show only necessary parts to the user |
+
+```java
+
+// encapsulation
+
+class Account {
+    private double balance;  // hidden data
+
+    public void deposit(double amount) {
+        if (amount > 0) balance += amount;
+    }
+
+    public double getBalance() {
+        return balance;
+    }
+}
 
 
+// abstraction
+
+abstract class Animal {
+    abstract void makeSound();  // No implementation
+}
+
+class Dog extends Animal {
+    void makeSound() {
+        System.out.println("Bark");
+    }
+}
+
+```
 
 
 # Reference
