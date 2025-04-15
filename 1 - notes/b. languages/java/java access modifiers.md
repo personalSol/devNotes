@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Java-MOC]]"
 created: 2025-04-10T19:07
-updated: 2025-04-14T09:47
+updated: 2025-04-15T10:09
 ---
 ---
 
@@ -32,8 +32,53 @@ Java has four main access levels:
 |`private`|✅|❌|❌|❌|
 
 
+## code example of protected inheritance
 
+Folder structure:
+```css
+src/
+├── animals/
+│   └── Animal.java
+└── zoo/
+    └── Lion.java
+```
 
+📄 `Animal.java` (in package `animals`)
+```java
+package animals;
+
+public class Animal {
+    protected String name = "Generic Animal";
+
+    protected void makeSound() {
+        System.out.println("Animal makes a sound");
+    }
+}
+```
+
+📄 `Lion.java` (in package `zoo`, subclass of `Animal`)
+```java
+package zoo;
+
+import animals.Animal;
+
+public class Lion extends Animal {
+    public void roar() {
+        System.out.println("Lion name: " + name); // ✅ protected member accessed via inheritance
+        makeSound(); // ✅ protected method accessed via inheritance
+        System.out.println("Lion roars loudly!");
+    }
+
+    public static void main(String[] args) {
+        Lion lion = new Lion();
+        lion.roar();
+
+        Animal animal = new Animal();
+        // animal.name = "Some Animal"; // ❌ Can't access protected via object from another package
+        // animal.makeSound();          // ❌ Same here
+    }
+}
+```
 
 # Reference
 `related tags + notes + source + link(if any)`
