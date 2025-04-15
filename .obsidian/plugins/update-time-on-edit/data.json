@@ -26,7 +26,7 @@
     "1 - notes/d. maths/area and parameter.md": "27885295713d0f5acc04ffb09ff85a58ac1121522902f6049a8fb957ad133fa8",
     "1 - notes/d. maths/simple interest.md": "f6f0a7a4a8136a215b32643c6cea0071deb6d4991e7b6a8210d5d3d67b753590",
     "3 - moc/Maths-MOC.md": "18e9b5bee2f4871c31e5073ed5baae89b6f89648e057d77c64e576b3c28774c6",
-    "3 - moc/sub-mocs/Java-MOC.md": "92ba8a22b8e9ab6af6084ecc581047516eae7cc670145d377c1999c3a306bebc",
+    "3 - moc/sub-mocs/Java-MOC.md": "a55560b1a3d626193cd66b1111a45114d649544bca8c1d4cfa1e9229535bf2b9",
     "3 - moc/sub-mocs/JavaScript-MOC.md": "12d3f9592e134160e1d26c014938205d62dba38b16a230aec3e31b36683bd06a",
     "3 - moc/sub-mocs/CSS-MOC.md": "ba3aa0ac42398850780ef48116323853316e6f05f43ac63445117dc1504e91cc",
     "1 - notes/b. languages/css/CSS Positioning.md": "b077ba25a3805ba332284c8d1666c9518fa10854fa57a0af8e1b2093f1e8f1db",
@@ -129,7 +129,8 @@
     "0 - inbox/java class and object.md": "8641495444dbc5dec1cec19c9428ef684d94e803a935ba4cb15e682765659ce2",
     "0 - inbox/java oops pillars.md": "a8f0eddb071e022da2128302647ea9c656b4f5b0db16ceaa8481bebdc639e40d",
     "0 - inbox/interface.md": "bb6b432cab2a7ab490edaed10da63b998fc1ae82c7a7997c7ade0170e53391ed",
-    "0 - inbox/multi-threading.md": "ee47b9d07db812f8e088b58809c47f888334f96c640656e17777c145bb7606d5",
-    "0 - inbox/Cores vs Threads.md": "64553ab5fcdc53e2b71affb0748dc33cf7dff63e41b1216944a8068cf48049b2"
+    "0 - inbox/multi-threading.md": "2c1fa6365db4f5e74ea990cfbb777c02a79dea112442dcbff3626e8ca925f0c0",
+    "0 - inbox/Cores vs Threads.md": "64553ab5fcdc53e2b71affb0748dc33cf7dff63e41b1216944a8068cf48049b2",
+    "0 - inbox/java multithreading.md": "515c7d2b254a16bf4bb33ed9967fd5aa5dcf39f1a656b206f11e122e5c549988"
   }
 }

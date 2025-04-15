@@ -1,6 +1,6 @@
 ---
 created: 2025-02-11T14:49
-updated: 2025-04-14T07:40
+updated: 2025-04-14T14:26
 ---
 # Java MOC
 it will have all the notes related to java attached with no concept
@@ -22,7 +22,8 @@ it will have all the notes related to java attached with no concept
 - [[java class and object]]
 - [[java oops pillars]]
 - [[interface]]
--  
+-  [[java multithreading]]
+- 
 
 
 ## Advanced
