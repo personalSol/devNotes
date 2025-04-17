@@ -51,124 +51,8 @@
               "icon": "lucide-file",
               "title": "Java-MOC"
             }
-          },
-          {
-            "id": "94e4473c37ed21bd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "java multithreading",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/java multithreading.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java multithreading\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/java/java access modifiers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "java access modifiers"
-            }
-          },
-          {
-            "id": "ef721d3062d3ee8c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Recording 20250414141417.m4a",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/Recording 20250414141417.m4a.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Recording 20250414141417.m4a\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Java Cheatsheet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/Java Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Java Cheatsheet\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":356,\"ch\":51},\"to\":{\"line\":356,\"ch\":51}},\"scroll\":344.41855875651044}"
-                },
-                {
-                  "title": "Core-Concepts-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Core-Concepts-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Core-Concepts-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":10},\"to\":{\"line\":33,\"ch\":10}},\"scroll\":20.693333435058594}"
-                },
-                {
-                  "title": "multi-threading",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/multi-threading.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"multi-threading\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/multi-threading.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "multi-threading"
-            }
-          },
-          {
-            "id": "275989dac503a08c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -271,6 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "3 - moc/sub-mocs/Java-MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -298,7 +183,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Java-MOC"
             }
           }
         ]
@@ -546,10 +431,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "275989dac503a08c",
+  "active": "74cbd6c10137dcce",
   "lastOpenFiles": [
-    "0 - inbox/multi-threading.md",
     "1 - notes/b. languages/java/java access modifiers.md",
+    "0 - inbox/multi-threading.md",
+    "0 - inbox/Untitled.md",
     "0 - inbox/java multithreading.md",
     "3 - moc/sub-mocs/Core-Concepts-MOC.md",
     "0 - inbox/java oops pillars.md",
@@ -578,7 +464,6 @@
     "1 - notes/e. terms",
     "0 - inbox/java String.md",
     "0 - inbox/java datatypes.md",
-    "0 - inbox/memory management in programming (stack and heap ).md",
     "98 - attachments/image 1.png",
     "1 - notes/a. concepts/imp",
     "1 - notes/a. concepts/other",
