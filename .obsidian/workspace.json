@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Tasks for coding",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/Tasks for coding.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Tasks for coding\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "MongoDB Cheatsheet",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MongoDB Cheatsheet\"}",
@@ -40,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/z. others/Tasks for coding.md",
+                "file": "4 - sources/Qspiders/Programming by shambu sir.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,7 +61,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Tasks for coding"
+              "title": "Programming by shambu sir"
             }
           }
         ]
@@ -139,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -162,7 +167,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/z. others/Tasks for coding.md",
+                "file": "4 - sources/Qspiders/Programming by shambu sir.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -190,7 +195,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Tasks for coding"
+              "title": "Graph of Programming by shambu sir"
             }
           }
         ]
@@ -223,13 +228,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/z. others/Tasks for coding.md",
+                "file": "4 - sources/Qspiders/Programming by shambu sir.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tasks for coding"
+              "title": "Outline of Programming by shambu sir"
             }
           },
           {
@@ -438,9 +443,12 @@
   },
   "active": "74cbd6c10137dcce",
   "lastOpenFiles": [
+    "0 - inbox/java String.md",
+    "4 - sources/Qspiders/Programming by shambu sir.md",
+    "3 - moc/sub-mocs/Java-MOC.md",
+    "1 - notes/z. others/Tasks for coding.md",
     "1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md",
     "95 - databases/basic of programming & technology.md",
-    "3 - moc/sub-mocs/Java-MOC.md",
     "1 - notes/b. languages/java/java access modifiers.md",
     "0 - inbox/multi-threading.md",
     "0 - inbox/Untitled.md",
@@ -458,7 +466,6 @@
     "0 - inbox/java instance variable, this and constructor.md",
     "0 - inbox/java array.md",
     "1 - notes/z. others/videos to watch eventually.md",
-    "1 - notes/z. others/Tasks for coding.md",
     "0 - inbox/java class and object.md",
     "1 - notes/b. languages/java/java things to remember.md",
     "0 - inbox/objects.md",
@@ -466,8 +473,6 @@
     "0 - inbox/classes.md",
     "0 - inbox/java loops.md",
     "0 - inbox/java operators.md",
-    "3 - moc/Terms-MOC.md",
-    "0 - inbox/programming paradigm.md",
     "1 - notes/e. terms",
     "98 - attachments/image 1.png",
     "1 - notes/a. concepts/imp",
