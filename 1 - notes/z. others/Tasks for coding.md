@@ -2,22 +2,14 @@
 status: newBorn
 related-links: []
 created: 2025-03-12T06:02
-updated: 2025-04-11T10:49
+updated: 2025-04-19T07:09
 ---
 ---
 
 
 
 
-- [ ] js
-	- [ ] see about hoisiting
-	- [ ] see higher order function
-	- [ ] see closure function
 
-
-- [ ] watch all interview related question videos
-	- [ ] like from hitesh sir watch javascript interview series
-	- [ ] 
 
 - [ ] make learn in public plan
 - [ ] learn java oop

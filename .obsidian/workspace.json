@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "MongoDB Cheatsheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MongoDB Cheatsheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":3.1488216926754524}"
+                },
+                {
                   "title": "Java-MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Java-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Java-MOC\"}",
@@ -34,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md",
+                "file": "1 - notes/z. others/Tasks for coding.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,7 +55,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MongoDB Cheatsheet"
+              "title": "Tasks for coding"
             }
           }
         ]
@@ -133,7 +139,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3888432cac3b4f06",
@@ -155,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md",
+                "file": "1 - notes/z. others/Tasks for coding.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -183,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of MongoDB Cheatsheet"
+              "title": "Graph of Tasks for coding"
             }
           }
         ]
@@ -216,13 +223,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/b. languages/java/java access modifiers.md",
+                "file": "1 - notes/z. others/Tasks for coding.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of java access modifiers"
+              "title": "Outline of Tasks for coding"
             }
           },
           {
@@ -410,8 +417,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5,
-    "collapsed": true
+    "width": 341.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -426,13 +432,14 @@
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "callout-manager:Insert Callout": false,
       "templater-obsidian:Templater": false,
-      "dbfolder:Create a new database table": false,
       "obsidian-git:Open Git source control": false,
       "audio-recorder:Start/stop recording": false
     }
   },
   "active": "74cbd6c10137dcce",
   "lastOpenFiles": [
+    "1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md",
+    "95 - databases/basic of programming & technology.md",
     "3 - moc/sub-mocs/Java-MOC.md",
     "1 - notes/b. languages/java/java access modifiers.md",
     "0 - inbox/multi-threading.md",
@@ -462,8 +469,6 @@
     "3 - moc/Terms-MOC.md",
     "0 - inbox/programming paradigm.md",
     "1 - notes/e. terms",
-    "0 - inbox/java String.md",
-    "0 - inbox/java datatypes.md",
     "98 - attachments/image 1.png",
     "1 - notes/a. concepts/imp",
     "1 - notes/a. concepts/other",
