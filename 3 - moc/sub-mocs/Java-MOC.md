@@ -1,6 +1,6 @@
 ---
 created: 2025-02-11T14:49
-updated: 2025-04-20T11:12
+updated: 2025-04-20T18:07
 ---
 # Java MOC
 it will have all the notes related to java attached with no concept
@@ -39,7 +39,7 @@ it will have all the notes related to java attached with no concept
 - [[java wrapper classes]]
 - 
 
-
+## all which are inside other pages
 
 
 ## **Links not included yet list:**

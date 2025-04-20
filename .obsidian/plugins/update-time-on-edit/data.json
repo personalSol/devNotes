@@ -25,7 +25,7 @@
     "1 - notes/d. maths/area and parameter.md": "27885295713d0f5acc04ffb09ff85a58ac1121522902f6049a8fb957ad133fa8",
     "1 - notes/d. maths/simple interest.md": "f6f0a7a4a8136a215b32643c6cea0071deb6d4991e7b6a8210d5d3d67b753590",
     "3 - moc/Maths-MOC.md": "18e9b5bee2f4871c31e5073ed5baae89b6f89648e057d77c64e576b3c28774c6",
-    "3 - moc/sub-mocs/Java-MOC.md": "b22d2e6e2091f72578b708fce005d24c81c5436e179e7ed088ad17de1192278f",
+    "3 - moc/sub-mocs/Java-MOC.md": "491d6ee2b3f3096ccfd352da8aa24a01c3c4001f70521a4e55f1c677b1dfae59",
     "3 - moc/sub-mocs/JavaScript-MOC.md": "12d3f9592e134160e1d26c014938205d62dba38b16a230aec3e31b36683bd06a",
     "3 - moc/sub-mocs/CSS-MOC.md": "ba3aa0ac42398850780ef48116323853316e6f05f43ac63445117dc1504e91cc",
     "1 - notes/b. languages/css/CSS Positioning.md": "b077ba25a3805ba332284c8d1666c9518fa10854fa57a0af8e1b2093f1e8f1db",
@@ -127,13 +127,21 @@
     "1 - notes/b. languages/java/java instance variable, this and constructor.md": "e60652cfef83284c209369913794d63894eb6bb96c3e9e3276254a74514cf010",
     "1 - notes/b. languages/java/java loops.md": "5091adfdd3e4ad4db5628cdc91eb0125218cc55c21899f343d80fb56e28ffc90",
     "1 - notes/b. languages/java/java multithreading.md": "b997521a29f860f7770f0e97413988ab186f80c1a40f31a551380807b6c38d66",
-    "1 - notes/b. languages/java/java oops pillars.md": "9716840a37476724a89b960b889274664607c173f4472f7a66078cc15e6881ea",
+    "1 - notes/b. languages/java/java oops pillars.md": "0c98f60fad295ac099049b8ec93d6ede0c229b106cb0152ab723e641abb89bd5",
     "1 - notes/b. languages/java/java String.md": "77905bf5bcb67676aa9a47279e76055952cc979732af5b49eb6e1c01265c5844",
     "1 - notes/b. languages/java/autoboxing and unboxing in java.md": "4974ed056210ef0d9e9df9a03d39029c31da0e7025b25ac3372bf6416def045e",
     "1 - notes/a. concepts/basics/classes.md": "2675eb4f5a015f0335b81f95d22e29a5bb3284e3138b8b66b254802054ad9201",
     "0 - inbox/java time.md": "65050930bee7f2229b1340d06bb7f8de6f4200bcbf41043cd1076cfe3fc42d82",
     "1 - notes/b. languages/java/java classes and object.md": "a91282b07537fcfbcd4b110ed452c4c97e10be73aeb22b921f793e7048f1bb71",
-    "0 - inbox/java static vs non static.md": "8491e0a36911ac968fe514a3839011abbf42472efdfcd02668390769ecedaaf1",
-    "0 - inbox/tG this keyword.md": "20cb70515f0bfa800805c6f41ec51c6eee4821f04bf0f699fb867d204d6f806e"
+    "0 - inbox/java static vs non static.md": "0c7174de25f7df2477cd5adf3e1e69d029f9f123ad693676037a7a13468e1fc7",
+    "0 - inbox/Untitled.md": "f02f97316e6a0976e4084973ffd8d8ed03204853bd19ce047e483e0c8646a032",
+    "0 - inbox/compile time vs runtime.md": "7750781f9e66fa6e4eb1175091ddbdafd0f1d07e84791c7ad284b570085e7d68",
+    "0 - inbox/@Override in detail.md": "da6bd2fec8fdc6b7c0df281834ac1889056088ddebb90236c7cb69883dee1ef3",
+    "0 - inbox/java encapsulation.md": "48d1e84b25e7b68694a72010d4de3536096b2d3964eb86db49fde00258907d7f",
+    "0 - inbox/encapsulation.md": "2ea1ece59487e12a264c06d2829c1581b06b02d5ceae655bdb148877e378a8bb",
+    "0 - inbox/java inheritance.md": "4c2073fc2f382f553bdab5e8c1b96855feec7ceeeedb84075271313b51af7879",
+    "0 - inbox/java polymorphism.md": "396cd05793f5648335e39984dd5afff1a9e80ce6725420efbfd4e4f85787faec",
+    "0 - inbox/java abstraction.md": "f4ed7798225ba11046f30c19a8c13e4cb63dfa7d755a333f1fcb4c01747ef3a5",
+    "0 - inbox/abstraction vs encapsulation.md": "397fc33d6020452f9828eb6d73a71f6e56425ce327cde0030dd796ef1a7605bd"
   }
 }

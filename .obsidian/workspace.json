@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2c01e545392f426a",
+        "id": "96c29ace864da17b",
         "type": "tabs",
         "children": [
           {
-            "id": "52be77f648150f57",
+            "id": "913d3ab0a6a30cd2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,17 +18,23 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "java multithreading",
+                  "title": "java oops pillars",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java multithreading.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java multithreading\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":86},\"to\":{\"line\":45,\"ch\":86}},\"scroll\":1.4707071323587437}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java oops pillars.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java oops pillars\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":18},\"to\":{\"line\":11,\"ch\":18}},\"scroll\":3.07340052954677}"
+                },
+                {
+                  "title": "java static vs non static",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/java static vs non static.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java static vs non static\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":35},\"to\":{\"line\":45,\"ch\":35}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/java/java things to remember.md",
+                "file": "0 - inbox/java polymorphism.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,11 +49,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "java things to remember"
+              "title": "java polymorphism"
             }
           },
           {
-            "id": "0404315559848048",
+            "id": "e79d165161c98d47",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,25 +61,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "multi-threading",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/core/multi-threading.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"multi-threading\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "java time",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/java time.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java time\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":30},\"to\":{\"line\":9,\"ch\":30}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/java/java multithreading.md",
+                "file": "0 - inbox/@Override in detail.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,30 +82,18 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "java multithreading"
+              "title": "@Override in detail"
             }
           },
           {
-            "id": "2090dac0d9c77888",
+            "id": "8aad43819681c89e",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "java classes and object",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java classes and object.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java classes and object\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "java time",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/java time.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java time\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
@@ -137,7 +119,7 @@
             }
           },
           {
-            "id": "7cb21105240327c6",
+            "id": "c647a7a1345e2e17",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -149,127 +131,13 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/java static vs non static.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "java static vs non static"
-            }
-          },
-          {
-            "id": "5d64cf9cd8faf340",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/tG this keyword.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "tG this keyword"
-            }
-          },
-          {
-            "id": "7eaf53bbdc826b95",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/java/java oops pillars.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "java oops pillars"
-            }
-          },
-          {
-            "id": "7e284fbce1e32e5a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/java/java interface.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "java interface"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -372,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/tG this keyword.md",
+                "file": "0 - inbox/java polymorphism.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -400,7 +268,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of tG this keyword"
+              "title": "Graph of java polymorphism"
             }
           }
         ]
@@ -433,13 +301,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/tG this keyword.md",
+                "file": "0 - inbox/java polymorphism.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of tG this keyword"
+              "title": "Outline of java polymorphism"
             }
           },
           {
@@ -646,34 +514,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5d64cf9cd8faf340",
+  "active": "913d3ab0a6a30cd2",
   "lastOpenFiles": [
-    "0 - inbox/java static vs non static.md",
-    "0 - inbox/tG this keyword.md",
-    "96 - tags/tG git and github basics.md",
-    "3 - moc/sub-mocs/Java-MOC.md",
-    "1 - notes/b. languages/java/java access modifiers.md",
-    "1 - notes/b. languages/java/java classes and object.md",
-    "0 - inbox/java time.md",
-    "3 - moc/Languages-MOC.md",
-    "1 - notes/z. others/vault-status.md",
-    "1 - notes/a. concepts/core/oops.md",
-    "1 - notes/a. concepts/basics/Statically vs Dynamically Typed Language.md",
-    "1 - notes/a. concepts/basics/memory management in programming (stack and heap ).md",
-    "1 - notes/a. concepts/core/multi-threading.md",
-    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
-    "1 - notes/a. concepts/core/objects.md",
-    "1 - notes/a. concepts/basics/Cores vs Threads.md",
-    "1 - notes/a. concepts/basics/classes.md",
-    "1 - notes/z. others/roadmap.md",
-    "1 - notes/b. languages/java/java multithreading.md",
     "1 - notes/b. languages/java/java oops pillars.md",
-    "1 - notes/b. languages/java/java instance variable, this and constructor.md",
-    "1 - notes/b. languages/java/java loops.md",
-    "97 - templates/tmp-full-note.md",
-    "1 - notes/b. languages/java/java datatypes.md",
-    "1 - notes/b. languages/java/java array.md",
+    "0 - inbox/abstraction vs encapsulation.md",
+    "0 - inbox/java abstraction.md",
+    "0 - inbox/java polymorphism.md",
+    "0 - inbox/java inheritance.md",
+    "0 - inbox/java encapsulation.md",
+    "0 - inbox/encapsulation.md",
+    "0 - inbox/@Override in detail.md",
+    "96 - tags/tG function overridding.md",
+    "3 - moc/sub-mocs/Java-MOC.md",
+    "0 - inbox/compile time vs runtime.md",
+    "0 - inbox/java static vs non static.md",
+    "96 - tags/tG this keyword.md",
+    "96 - tags/tG static.md",
+    "96 - tags/tG non static methods.md",
+    "96 - tags/tG static vs non static.md",
     "1 - notes/b. languages/java/java interface.md",
+    "0 - inbox/java time.md",
+    "0 - inbox/Untitled.md",
+    "1 - notes/b. languages/java/java things to remember.md",
+    "1 - notes/b. languages/java/java multithreading.md",
+    "97 - templates/Templates-MOC.md",
+    "97 - templates/tmp-inbox.md",
+    "97 - templates/tmp-forTags.md",
+    "96 - tags/tG git and github basics.md",
+    "1 - notes/b. languages/java/java access modifiers.md",
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",
     "98 - attachments/Recording 20250414141155.m4a",
