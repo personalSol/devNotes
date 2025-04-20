@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Basic-Concepts-MOC]]"
 created: 2025-04-12T08:38
-updated: 2025-04-12T08:46
+updated: 2025-04-20T11:10
 ---
 ---
 > Most programming languages have two types of memory.
@@ -11,7 +12,7 @@ updated: 2025-04-12T08:46
     - Stack is a part of main memory
     - There is a separate stack for each method
     - Used to store local variables and their values or address.
-    - It follows LIFO [Last In First Out] method
+    - It follows LIFO (Last In First Out) method
         - Means if we store 5, 4, 6, 7 and try to retrieve values. We will first get 7 then 6 then 4 and then 5.
     - number of columns and rows depend on the data we will store
     - Stack will have a key and value pair.
@@ -34,5 +35,5 @@ the reason we get a jargon string when we try to directly print a non primitive 
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

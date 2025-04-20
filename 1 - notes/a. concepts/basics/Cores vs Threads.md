@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Basic-Concepts-MOC]]"
 created: 2025-04-14T13:04
-updated: 2025-04-14T13:05
+updated: 2025-04-20T11:09
 ---
 ---
 
@@ -31,5 +32,5 @@ If a CPU has:
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

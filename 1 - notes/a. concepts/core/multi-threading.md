@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Core-Concepts-MOC]]"
 created: 2025-04-14T09:48
-updated: 2025-04-14T14:33
+updated: 2025-04-20T11:10
 ---
 ---
 
@@ -66,5 +67,5 @@ updated: 2025-04-14T14:33
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

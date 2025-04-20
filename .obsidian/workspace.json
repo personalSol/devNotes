@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "52f097db15292f21",
+        "id": "2c01e545392f426a",
         "type": "tabs",
         "children": [
           {
-            "id": "74cbd6c10137dcce",
+            "id": "52be77f648150f57",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,35 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Tasks for coding",
+                  "title": "java multithreading",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/Tasks for coding.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Tasks for coding\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "MongoDB Cheatsheet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MongoDB Cheatsheet\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}},\"scroll\":3.1488216926754524}"
-                },
-                {
-                  "title": "Java-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Java-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Java-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
-                },
-                {
-                  "title": "java String",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/java String.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java String\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":0},\"to\":{\"line\":41,\"ch\":0}},\"scroll\":26.97146306392386}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java multithreading.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java multithreading\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":86},\"to\":{\"line\":45,\"ch\":86}},\"scroll\":1.4707071323587437}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - sources/Qspiders/Programming by shambu sir.md",
+                "file": "1 - notes/b. languages/java/java things to remember.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -61,10 +43,233 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Programming by shambu sir"
+              "title": "java things to remember"
+            }
+          },
+          {
+            "id": "0404315559848048",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "multi-threading",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/core/multi-threading.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"multi-threading\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "java time",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/java time.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java time\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":30},\"to\":{\"line\":9,\"ch\":30}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/java/java multithreading.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "java multithreading"
+            }
+          },
+          {
+            "id": "2090dac0d9c77888",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "java classes and object",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java classes and object.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java classes and object\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "java time",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/java time.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java time\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - moc/sub-mocs/Java-MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Java-MOC"
+            }
+          },
+          {
+            "id": "7cb21105240327c6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/java static vs non static.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "java static vs non static"
+            }
+          },
+          {
+            "id": "5d64cf9cd8faf340",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/tG this keyword.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "tG this keyword"
+            }
+          },
+          {
+            "id": "7eaf53bbdc826b95",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/java/java oops pillars.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "java oops pillars"
+            }
+          },
+          {
+            "id": "7e284fbce1e32e5a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/java/java interface.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "java interface"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -167,7 +372,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4 - sources/Qspiders/Programming by shambu sir.md",
+                "file": "0 - inbox/tG this keyword.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -195,14 +400,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Programming by shambu sir"
+              "title": "Graph of tG this keyword"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 238.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -228,13 +433,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - sources/Qspiders/Programming by shambu sir.md",
+                "file": "0 - inbox/tG this keyword.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Programming by shambu sir"
+              "title": "Outline of tG this keyword"
             }
           },
           {
@@ -441,38 +646,38 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "74cbd6c10137dcce",
+  "active": "5d64cf9cd8faf340",
   "lastOpenFiles": [
-    "0 - inbox/java String.md",
-    "4 - sources/Qspiders/Programming by shambu sir.md",
+    "0 - inbox/java static vs non static.md",
+    "0 - inbox/tG this keyword.md",
+    "96 - tags/tG git and github basics.md",
     "3 - moc/sub-mocs/Java-MOC.md",
-    "1 - notes/z. others/Tasks for coding.md",
-    "1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md",
-    "95 - databases/basic of programming & technology.md",
     "1 - notes/b. languages/java/java access modifiers.md",
-    "0 - inbox/multi-threading.md",
-    "0 - inbox/Untitled.md",
-    "0 - inbox/java multithreading.md",
-    "3 - moc/sub-mocs/Core-Concepts-MOC.md",
-    "0 - inbox/java oops pillars.md",
-    "0 - inbox/interface.md",
-    "1 - notes/b. languages/java/Java Cheatsheet.md",
-    "0 - inbox/Recording 20250414141417.m4a.md",
+    "1 - notes/b. languages/java/java classes and object.md",
+    "0 - inbox/java time.md",
+    "3 - moc/Languages-MOC.md",
+    "1 - notes/z. others/vault-status.md",
+    "1 - notes/a. concepts/core/oops.md",
+    "1 - notes/a. concepts/basics/Statically vs Dynamically Typed Language.md",
+    "1 - notes/a. concepts/basics/memory management in programming (stack and heap ).md",
+    "1 - notes/a. concepts/core/multi-threading.md",
+    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
+    "1 - notes/a. concepts/core/objects.md",
+    "1 - notes/a. concepts/basics/Cores vs Threads.md",
+    "1 - notes/a. concepts/basics/classes.md",
+    "1 - notes/z. others/roadmap.md",
+    "1 - notes/b. languages/java/java multithreading.md",
+    "1 - notes/b. languages/java/java oops pillars.md",
+    "1 - notes/b. languages/java/java instance variable, this and constructor.md",
+    "1 - notes/b. languages/java/java loops.md",
+    "97 - templates/tmp-full-note.md",
+    "1 - notes/b. languages/java/java datatypes.md",
+    "1 - notes/b. languages/java/java array.md",
+    "1 - notes/b. languages/java/java interface.md",
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",
     "98 - attachments/Recording 20250414141155.m4a",
-    "0 - inbox/Cores vs Threads.md",
     "98 - attachments/Pasted image 20250414081624.png",
-    "0 - inbox/java instance variable, this and constructor.md",
-    "0 - inbox/java array.md",
-    "1 - notes/z. others/videos to watch eventually.md",
-    "0 - inbox/java class and object.md",
-    "1 - notes/b. languages/java/java things to remember.md",
-    "0 - inbox/objects.md",
-    "0 - inbox/oops.md",
-    "0 - inbox/classes.md",
-    "0 - inbox/java loops.md",
-    "0 - inbox/java operators.md",
     "1 - notes/e. terms",
     "98 - attachments/image 1.png",
     "1 - notes/a. concepts/imp",

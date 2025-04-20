@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Java-MOC]]"
 created: 2025-04-14T14:26
-updated: 2025-04-14T14:37
+updated: 2025-04-20T11:09
 ---
 ---
 
@@ -34,18 +35,24 @@ updated: 2025-04-14T14:37
 
 ---
 
+
+
+## APPLICARION PART
 ### 🧵 **Thread Lifecycle in Java**
 
 - When a Java program starts, the **main thread** begins execution and runs the `main()` method.
 - You can create new threads in two main ways:
     - **Extending** the `Thread` class
     - **Implementing** the `Runnable` interface
-
-## CODE Part
-
 - to check the current thread: `System.out.println(Thread.currentThread().getName());`
+
+
+
+
+
+
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

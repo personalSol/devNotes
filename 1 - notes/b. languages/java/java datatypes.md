@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Java-MOC]]"
 created: 2025-04-11T15:15
-updated: 2025-04-11T16:11
+updated: 2025-04-20T11:08
 ---
 ---
 
@@ -81,6 +82,3 @@ These are objects and more complex types.
 
 # Reference
 `related tags + notes + source + link(if any)`
- 
-- [[tG not-tagged]]
-- 

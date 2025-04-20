@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Java-MOC]]"
 created: 2025-04-12T15:41
-updated: 2025-04-12T16:17
+updated: 2025-04-20T11:08
 ---
 ---
 
@@ -32,5 +33,5 @@ class car{
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

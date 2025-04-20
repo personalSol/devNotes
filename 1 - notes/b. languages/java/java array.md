@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Java-MOC]]"
 created: 2025-04-12T10:05
-updated: 2025-04-12T10:22
+updated: 2025-04-20T11:08
 ---
 ---
 
@@ -58,5 +59,5 @@ define: An array in Java is a data structure that stores a fixed-size sequential
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

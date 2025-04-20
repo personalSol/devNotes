@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Core-Concepts-MOC]]"
 created: 2025-04-12T14:00
-updated: 2025-04-12T15:41
+updated: 2025-04-20T11:11
 ---
 ---
 
@@ -22,5 +22,5 @@ in this we study:
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

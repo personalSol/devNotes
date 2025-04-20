@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Java-MOC]]"
 created: 2025-04-11T19:28
-updated: 2025-04-14T07:13
+updated: 2025-04-20T11:08
 ---
 ---
 
@@ -119,5 +120,5 @@ class cary{
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

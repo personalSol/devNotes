@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Java-MOC]]"
 created: 2025-04-12T13:16
-updated: 2025-04-12T13:27
+updated: 2025-04-20T11:08
 ---
 ---
 
@@ -49,6 +50,5 @@ for (String fruit : fruits) {
 
 # Reference
 `related tags + notes + source + link(if any)`
- 
-- [[tG not-tagged]]
+
 - 
