@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "913d3ab0a6a30cd2",
+            "id": "c647a7a1345e2e17",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,16 +18,49 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "java oops pillars",
+                  "title": "react course by chai aur code",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java oops pillars.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java oops pillars\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":18},\"to\":{\"line\":11,\"ch\":18}},\"scroll\":3.07340052954677}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/react course by chai aur code.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react course by chai aur code\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":3.3616160383128157}"
                 },
                 {
-                  "title": "java static vs non static",
+                  "title": "Mern Crash Course by sheriyans",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/java static vs non static.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java static vs non static\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":35},\"to\":{\"line\":45,\"ch\":35}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/Mern Crash Course by sheriyans.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mern Crash Course by sheriyans\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":206.7243408203125}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/java abstraction.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "java abstraction"
+            }
+          },
+          {
+            "id": "1b739a14206e6848",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
@@ -53,7 +86,7 @@
             }
           },
           {
-            "id": "e79d165161c98d47",
+            "id": "45a0137363749fee",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -67,7 +100,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/@Override in detail.md",
+                "file": "0 - inbox/java encapsulation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,11 +115,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "@Override in detail"
+              "title": "java encapsulation"
             }
           },
           {
-            "id": "8aad43819681c89e",
+            "id": "41d6247b51de1112",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -100,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/Java-MOC.md",
+                "file": "0 - inbox/abstraction vs encapsulation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -115,29 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Java-MOC"
-            }
-          },
-          {
-            "id": "c647a7a1345e2e17",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "abstraction vs encapsulation"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -188,7 +203,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(operating system is a piece of software)",
+                "query": "line:(virtual dom)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -218,7 +233,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3888432cac3b4f06",
@@ -240,7 +256,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/java polymorphism.md",
+                "file": "0 - inbox/abstraction vs encapsulation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -268,7 +284,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of java polymorphism"
+              "title": "Graph of abstraction vs encapsulation"
             }
           }
         ]
@@ -301,13 +317,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/java polymorphism.md",
+                "file": "0 - inbox/abstraction vs encapsulation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of java polymorphism"
+              "title": "Outline of abstraction vs encapsulation"
             }
           },
           {
@@ -514,18 +530,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "913d3ab0a6a30cd2",
+  "active": "41d6247b51de1112",
   "lastOpenFiles": [
-    "1 - notes/b. languages/java/java oops pillars.md",
-    "0 - inbox/abstraction vs encapsulation.md",
     "0 - inbox/java abstraction.md",
     "0 - inbox/java polymorphism.md",
-    "0 - inbox/java inheritance.md",
     "0 - inbox/java encapsulation.md",
     "0 - inbox/encapsulation.md",
-    "0 - inbox/@Override in detail.md",
-    "96 - tags/tG function overridding.md",
+    "4 - sources/yt/react course by chai aur code.md",
+    "4 - sources/yt/Mern Crash Course by sheriyans.md",
     "3 - moc/sub-mocs/Java-MOC.md",
+    "0 - inbox/@Override in detail.md",
+    "1 - notes/b. languages/java/java oops pillars.md",
+    "0 - inbox/abstraction vs encapsulation.md",
+    "0 - inbox/java inheritance.md",
+    "96 - tags/tG function overridding.md",
     "0 - inbox/compile time vs runtime.md",
     "0 - inbox/java static vs non static.md",
     "96 - tags/tG this keyword.md",
@@ -540,8 +558,6 @@
     "97 - templates/Templates-MOC.md",
     "97 - templates/tmp-inbox.md",
     "97 - templates/tmp-forTags.md",
-    "96 - tags/tG git and github basics.md",
-    "1 - notes/b. languages/java/java access modifiers.md",
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",
     "98 - attachments/Recording 20250414141155.m4a",
