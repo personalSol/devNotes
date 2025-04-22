@@ -11,11 +11,23 @@
             "id": "c647a7a1345e2e17",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Hooks - setState",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/Hooks - setState.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hooks - setState\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Javascript Cheatsheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/Javascript Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Javascript Cheatsheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":42},\"to\":{\"line\":14,\"ch\":42}}}"
                 },
                 {
                   "title": "java operators",
@@ -46,7 +58,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
+                "file": "3 - moc/sub-mocs/react-MOC.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react-MOC"
+            }
+          },
+          {
+            "id": "b16d11cd51c37ad7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react topics to learn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -61,7 +106,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Javascript Cheatsheet"
+              "title": "react topics to learn"
             }
           },
           {
@@ -214,7 +259,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(var )",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -267,7 +312,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
+                "file": "3 - moc/sub-mocs/react-MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -295,7 +340,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Javascript Cheatsheet"
+              "title": "Graph of react-MOC"
             }
           }
         ]
@@ -328,13 +373,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
+                "file": "3 - moc/sub-mocs/react-MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Javascript Cheatsheet"
+              "title": "Outline of react-MOC"
             }
           },
           {
@@ -522,7 +567,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 341.5
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -543,6 +588,13 @@
   },
   "active": "c647a7a1345e2e17",
   "lastOpenFiles": [
+    "1 - notes/b. languages/library/Hooks - setState.md",
+    "3 - moc/sub-mocs/react-MOC.md",
+    "0 - inbox/react topics to learn.md",
+    "98 - attachments/Pasted image 20250303205605.png",
+    "98 - attachments/Pasted image 20250303205501.png",
+    "1 - notes/b. languages/library/react intro.md",
+    "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
     "1 - notes/b. languages/java/java operators.md",
     "0 - inbox/java abstraction.md",
     "0 - inbox/abstraction vs encapsulation.md",
@@ -564,11 +616,6 @@
     "96 - tags/tG static vs non static.md",
     "1 - notes/b. languages/java/java interface.md",
     "0 - inbox/java time.md",
-    "0 - inbox/Untitled.md",
-    "1 - notes/b. languages/java/java things to remember.md",
-    "1 - notes/b. languages/java/java multithreading.md",
-    "97 - templates/Templates-MOC.md",
-    "97 - templates/tmp-inbox.md",
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",
     "98 - attachments/Recording 20250414141155.m4a",
@@ -587,8 +634,6 @@
     "98 - attachments/Pasted image 20250326225644.png",
     "98 - attachments/Pasted image 20250311163608.png",
     "98 - attachments/Pasted image 20250304141710.png",
-    "98 - attachments/Pasted image 20250303211314.png",
-    "98 - attachments/Pasted image 20250303205605.png",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

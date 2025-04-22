@@ -41,8 +41,8 @@
     "1 - notes/c. tools/chrome extension.md": "7c02c0bb4aeea7a7049ea3a5dc7e6fa325e52c9c70ec0c066ec4e647323ed39b",
     "1 - notes/z. others/vault-status.md": "95e1d264f7838a02a841a27585edc6dc6db666f6eefc466bd9c2ae0c32e635b0",
     "3 - moc/sub-mocs/git-and-github-MOC.md": "90b941932653dd7943a4e5f1c481465816587e04277d3a8cc354cbee3c5a2c94",
-    "3 - moc/sub-mocs/react-MOC.md": "f4f8bb80e5afb8a046247fdc0d45e04beb95c53143d537688b9ba414fd2dd62d",
-    "1 - notes/b. languages/library/react intro.md": "5190b57f20258a22b700a13badedad462db57a0dc50e18d0c8f6e79d96e3ba9a",
+    "3 - moc/sub-mocs/react-MOC.md": "04a4112487531950cb4a32b7dfad2574ca3b3e97ba07e925cec3a422e862d8f4",
+    "1 - notes/b. languages/library/react intro.md": "3ec02a1f02c96bc4eb1e8dab2e63bc1a9e2e3e0e508a8b17580cbd485a458e45",
     "1 - notes/b. languages/library/Hooks - setState.md": "30673aed793de4f86d6ccccc1f494567bce47205ba31860323ea2802bc82b5bd",
     "1 - notes/b. languages/css/CSS connecting with HTML.md": "1038447284d66b1dd9228cafd96fe57ad6bde7a70a2d79fb307262a5093e4c33",
     "1 - notes/b. languages/css/CSS margin and padding.md": "fbb9ecca87388333b981fc0b30e8b7806ec9e3d75f372612e362bd8557aa0d30",
@@ -142,6 +142,7 @@
     "0 - inbox/java inheritance.md": "4c2073fc2f382f553bdab5e8c1b96855feec7ceeeedb84075271313b51af7879",
     "0 - inbox/java polymorphism.md": "396cd05793f5648335e39984dd5afff1a9e80ce6725420efbfd4e4f85787faec",
     "0 - inbox/java abstraction.md": "f4ed7798225ba11046f30c19a8c13e4cb63dfa7d755a333f1fcb4c01747ef3a5",
-    "0 - inbox/abstraction vs encapsulation.md": "397fc33d6020452f9828eb6d73a71f6e56425ce327cde0030dd796ef1a7605bd"
+    "0 - inbox/abstraction vs encapsulation.md": "397fc33d6020452f9828eb6d73a71f6e56425ce327cde0030dd796ef1a7605bd",
+    "0 - inbox/react topics to learn.md": "7d6aa017d2a7ead5009e378fe4e080f699e8bceda4562df703412052cca2aa0c"
   }
 }
