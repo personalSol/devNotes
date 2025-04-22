@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "java operators",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java operators.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java operators\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":4},\"to\":{\"line\":33,\"ch\":4}},\"scroll\":15.886837148476184}"
+                },
+                {
+                  "title": "java abstraction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/java abstraction.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java abstraction\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":0},\"to\":{\"line\":39,\"ch\":0}},\"scroll\":5.802020448626894}"
+                },
+                {
                   "title": "react course by chai aur code",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/react course by chai aur code.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react course by chai aur code\"}",
@@ -34,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/java abstraction.md",
+                "file": "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,7 +61,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "java abstraction"
+              "title": "Javascript Cheatsheet"
             }
           },
           {
@@ -151,8 +163,7 @@
               "title": "abstraction vs encapsulation"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +214,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(virtual dom)",
+                "query": "line:(var )",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -256,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/abstraction vs encapsulation.md",
+                "file": "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -284,7 +295,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of abstraction vs encapsulation"
+              "title": "Graph of Javascript Cheatsheet"
             }
           }
         ]
@@ -317,13 +328,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/abstraction vs encapsulation.md",
+                "file": "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of abstraction vs encapsulation"
+              "title": "Outline of Javascript Cheatsheet"
             }
           },
           {
@@ -530,9 +541,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "41d6247b51de1112",
+  "active": "c647a7a1345e2e17",
   "lastOpenFiles": [
+    "1 - notes/b. languages/java/java operators.md",
     "0 - inbox/java abstraction.md",
+    "0 - inbox/abstraction vs encapsulation.md",
     "0 - inbox/java polymorphism.md",
     "0 - inbox/java encapsulation.md",
     "0 - inbox/encapsulation.md",
@@ -541,7 +554,6 @@
     "3 - moc/sub-mocs/Java-MOC.md",
     "0 - inbox/@Override in detail.md",
     "1 - notes/b. languages/java/java oops pillars.md",
-    "0 - inbox/abstraction vs encapsulation.md",
     "0 - inbox/java inheritance.md",
     "96 - tags/tG function overridding.md",
     "0 - inbox/compile time vs runtime.md",
@@ -557,7 +569,6 @@
     "1 - notes/b. languages/java/java multithreading.md",
     "97 - templates/Templates-MOC.md",
     "97 - templates/tmp-inbox.md",
-    "97 - templates/tmp-forTags.md",
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",
     "98 - attachments/Recording 20250414141155.m4a",
