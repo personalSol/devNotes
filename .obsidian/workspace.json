@@ -14,10 +14,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "Hooks - setState",
+                  "title": "react - about",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/Hooks - setState.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hooks - setState\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react - about.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - about\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":14.618565426597112}"
                 },
                 {
                   "state": "{}",
@@ -60,7 +60,7 @@
               "state": {
                 "file": "3 - moc/sub-mocs/react-MOC.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -74,6 +74,303 @@
               },
               "icon": "lucide-file",
               "title": "react-MOC"
+            }
+          },
+          {
+            "id": "89a367c7f70721d0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react - methods.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react - methods"
+            }
+          },
+          {
+            "id": "cad23f811908d4bb",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/npx.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "npx"
+            }
+          },
+          {
+            "id": "fa988536c54e4463",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/library/react - about.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react - about"
+            }
+          },
+          {
+            "id": "7c4c89ccfc23b3fc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/library/react - about.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react - about"
+            }
+          },
+          {
+            "id": "c2fea7335ab51df5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/library/react - about.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react - about"
+            }
+          },
+          {
+            "id": "22bd871ae610c9af",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react - how it works.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react - how it works"
+            }
+          },
+          {
+            "id": "09218eb3e6139b94",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react - conventions to follow.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react - conventions to follow"
+            }
+          },
+          {
+            "id": "4b6c7aa7c00c69e8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react - to create react app.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react - to create react app"
+            }
+          },
+          {
+            "id": "bf6eed3cdcd6eb81",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react story + W's.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react story + W's"
             }
           },
           {
@@ -110,7 +407,7 @@
             }
           },
           {
-            "id": "1b739a14206e6848",
+            "id": "0370fac4e146e378",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -124,7 +421,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/java polymorphism.md",
+                "file": "4 - sources/yt/react course by chai aur code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -139,11 +436,17 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "java polymorphism"
+              "title": "react course by chai aur code"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "d3c7e7b6464db7d0",
+        "type": "tabs",
+        "children": [
           {
-            "id": "45a0137363749fee",
+            "id": "48b2bae3de51c4bd",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -157,7 +460,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/java encapsulation.md",
+                "file": "4 - sources/yt/react course by chai aur code.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,40 +475,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "java encapsulation"
-            }
-          },
-          {
-            "id": "41d6247b51de1112",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/abstraction vs encapsulation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "abstraction vs encapsulation"
+              "title": "react course by chai aur code"
             }
           }
         ]
@@ -289,8 +559,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -567,7 +836,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -588,34 +858,34 @@
   },
   "active": "c647a7a1345e2e17",
   "lastOpenFiles": [
-    "1 - notes/b. languages/library/Hooks - setState.md",
+    "1 - notes/b. languages/library/react - about.md",
     "3 - moc/sub-mocs/react-MOC.md",
+    "0 - inbox/react - hooks.md",
+    "4 - sources/yt/react course by chai aur code.md",
+    "3 - moc/sub-mocs/Java-MOC.md",
+    "3 - moc/Languages-MOC.md",
+    "3 - moc/Web-Dev-MOC.md",
+    "1 - notes/b. languages/library/Hooks - setState.md",
+    "97 - templates/tmp-moc.md",
+    "0 - inbox/react - methods.md",
+    "0 - inbox/npx.md",
+    "0 - inbox/react - how it works.md",
+    "0 - inbox/react - conventions to follow.md",
+    "0 - inbox/react - to create react app.md",
+    "0 - inbox/react - things to remember.md",
+    "0 - inbox/react story + W's.md",
     "0 - inbox/react topics to learn.md",
+    "4 - sources/yt/React Crash course by Sheriyans.md",
+    "0 - inbox/java polymorphism.md",
     "98 - attachments/Pasted image 20250303205605.png",
     "98 - attachments/Pasted image 20250303205501.png",
-    "1 - notes/b. languages/library/react intro.md",
     "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
     "1 - notes/b. languages/java/java operators.md",
     "0 - inbox/java abstraction.md",
     "0 - inbox/abstraction vs encapsulation.md",
-    "0 - inbox/java polymorphism.md",
     "0 - inbox/java encapsulation.md",
     "0 - inbox/encapsulation.md",
-    "4 - sources/yt/react course by chai aur code.md",
     "4 - sources/yt/Mern Crash Course by sheriyans.md",
-    "3 - moc/sub-mocs/Java-MOC.md",
-    "0 - inbox/@Override in detail.md",
-    "1 - notes/b. languages/java/java oops pillars.md",
-    "0 - inbox/java inheritance.md",
-    "96 - tags/tG function overridding.md",
-    "0 - inbox/compile time vs runtime.md",
-    "0 - inbox/java static vs non static.md",
-    "96 - tags/tG this keyword.md",
-    "96 - tags/tG static.md",
-    "96 - tags/tG non static methods.md",
-    "96 - tags/tG static vs non static.md",
-    "1 - notes/b. languages/java/java interface.md",
-    "0 - inbox/java time.md",
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",
     "98 - attachments/Recording 20250414141155.m4a",

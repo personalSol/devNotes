@@ -3,22 +3,31 @@
 
 here will be all the notes around {{title}}
 
-## basic
+
+### extras ( not that imp but still here )
 
 - 
 
-## advance
+### basic
+
+- 
+
+### advance
 
 - 
 
 
-## courses i did around it
+### courses i did around it
 
 - 
 
 
+### all which are inside other pages
 
-## **Links not included yet list:**
+- 
+
+
+### **Links not included yet list:**
 ```dataview
 list
 from "" and [[]] and !outgoing([[]])

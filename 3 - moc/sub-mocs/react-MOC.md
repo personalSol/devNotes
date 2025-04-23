@@ -1,30 +1,40 @@
 ---
 created: 2025-03-03T18:37
-updated: 2025-04-22T10:48
+updated: 2025-04-22T18:02
 ---
 
-# react-MOC
+### react-MOC
 
-here will be all the notes around react-MOC
+here will be all the notes around react-MOC from: [[Languages-MOC]] & [[Web-Dev-MOC]]
 
-topic to learn:
-- 
+[[react - things to remember]]
 
-
-## basic
+### basic
 
 - [[react topics to learn]]
-- [[react intro]]
-- [[Hooks - setState]]
+- [[react story + W's]]
+- [[react - about]]
+- [[react - how it works]]
+- [[react - conventions to follow]]
+- [[react - to create react app]]
+- [[react - hooks]]
+- [[react - methods]]
+- 
 
-## advance
+
+### advance
 
 - 
 
 
-## Course I did around it:
+### all which are inside other pages
 
-- [[React Crash course by Sheriyans]]
+- [[Hooks - setState]]
+
+
+### Course I did around it:
+
+
 - [[react course by chai aur code]]
 
 

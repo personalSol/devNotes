@@ -402,14 +402,7 @@
     }
   ],
   "editor:cycle-list-checklist": [],
-  "editor:toggle-checklist-status": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "Enter"
-    }
-  ],
+  "editor:toggle-checklist-status": [],
   "theme:switch": [
     {
       "modifiers": [
@@ -741,6 +734,14 @@
         "Mod"
       ],
       "key": "S"
+    }
+  ],
+  "hotkeysplus-obsidian:insert-line-below": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
     }
   ]
 }
