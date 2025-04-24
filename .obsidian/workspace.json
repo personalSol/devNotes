@@ -77,6 +77,51 @@
             }
           },
           {
+            "id": "26bceb7f1629fe78",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "every react concept in 12 mints",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/every react concept in 12 mints.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"every react concept in 12 mints\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":24},\"to\":{\"line\":11,\"ch\":24}},\"scroll\":4.040404040404041}"
+                },
+                {
+                  "title": "react - hooks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react - hooks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - hooks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":52,\"ch\":1},\"to\":{\"line\":52,\"ch\":1}},\"scroll\":26.04684982186356}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/z. others/Questions asked in interview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Questions asked in interview"
+            }
+          },
+          {
             "id": "89a367c7f70721d0",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -140,72 +185,6 @@
               },
               "icon": "lucide-file",
               "title": "npx"
-            }
-          },
-          {
-            "id": "fa988536c54e4463",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/library/react - about.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react - about"
-            }
-          },
-          {
-            "id": "7c4c89ccfc23b3fc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/library/react - about.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react - about"
             }
           },
           {
@@ -374,6 +353,18 @@
             }
           },
           {
+            "id": "ae3d938ed27b5ab3",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
             "id": "b16d11cd51c37ad7",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -439,46 +430,8 @@
               "title": "react course by chai aur code"
             }
           }
-        ]
-      },
-      {
-        "id": "d3c7e7b6464db7d0",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "48b2bae3de51c4bd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - sources/yt/react course by chai aur code.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react course by chai aur code"
-            }
-          }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -581,7 +534,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 - moc/sub-mocs/react-MOC.md",
+                "file": "0 - inbox/react story + W's.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -609,14 +562,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of react-MOC"
+              "title": "Graph of react story + W's"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 238.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -642,13 +596,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - moc/sub-mocs/react-MOC.md",
+                "file": "0 - inbox/react story + W's.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of react-MOC"
+              "title": "Outline of react story + W's"
             }
           },
           {
@@ -856,22 +810,25 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c647a7a1345e2e17",
+  "active": "ae3d938ed27b5ab3",
   "lastOpenFiles": [
-    "1 - notes/b. languages/library/react - about.md",
     "3 - moc/sub-mocs/react-MOC.md",
+    "0 - inbox/react - to create react app.md",
+    "0 - inbox/react - conventions to follow.md",
+    "0 - inbox/react - how it works.md",
+    "0 - inbox/npx.md",
+    "1 - notes/b. languages/library/react - about.md",
+    "0 - inbox/react - methods.md",
+    "1 - notes/z. others/Questions asked in interview.md",
+    "4 - sources/yt/every react concept in 12 mints.md",
     "0 - inbox/react - hooks.md",
+    "98 - attachments/Pasted image 20250423072234.png",
     "4 - sources/yt/react course by chai aur code.md",
     "3 - moc/sub-mocs/Java-MOC.md",
     "3 - moc/Languages-MOC.md",
     "3 - moc/Web-Dev-MOC.md",
     "1 - notes/b. languages/library/Hooks - setState.md",
     "97 - templates/tmp-moc.md",
-    "0 - inbox/react - methods.md",
-    "0 - inbox/npx.md",
-    "0 - inbox/react - how it works.md",
-    "0 - inbox/react - conventions to follow.md",
-    "0 - inbox/react - to create react app.md",
     "0 - inbox/react - things to remember.md",
     "0 - inbox/react story + W's.md",
     "0 - inbox/react topics to learn.md",
@@ -884,8 +841,6 @@
     "0 - inbox/java abstraction.md",
     "0 - inbox/abstraction vs encapsulation.md",
     "0 - inbox/java encapsulation.md",
-    "0 - inbox/encapsulation.md",
-    "4 - sources/yt/Mern Crash Course by sheriyans.md",
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",
     "98 - attachments/Recording 20250414141155.m4a",
@@ -903,7 +858,6 @@
     "98 - attachments/Screenshot 2024-08-24 at 4.48.38 PM.png",
     "98 - attachments/Pasted image 20250326225644.png",
     "98 - attachments/Pasted image 20250311163608.png",
-    "98 - attachments/Pasted image 20250304141710.png",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

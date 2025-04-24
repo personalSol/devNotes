@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-04-22T16:46
-updated: 2025-04-22T18:05
+updated: 2025-04-23T07:27
 ---
 ---
 
@@ -14,8 +14,14 @@ updated: 2025-04-22T18:05
 	![[Pasted image 20250304141710.png]]
 
 
-### types of hooks:
+## map of hooks:
 
+![[Pasted image 20250423072234.png]]
+
+
+## types of hooks:
+
+- state management hooks:
 
 ````tabs
 --- useState
@@ -44,7 +50,7 @@ extras: [[Hooks - setState]]
 ````
 
 
-
+	
 
 # Reference
 `related tags + notes + source + link(if any)`
