@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Others-MOC]]"
 created: 2025-04-20T07:09
-updated: 2025-04-20T11:09
+updated: 2025-04-25T10:43
 ---
 ---
 
@@ -18,6 +18,10 @@ roadmap to a good web dev:
 
 things to do daily
 - [ ] solve 2 dsa questions
+- [ ] study computer fundamentals
+	- [ ] operating system
+	- [ ] dbms
+	- [ ] 
 
 
 

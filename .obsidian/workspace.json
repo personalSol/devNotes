@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "96c29ace864da17b",
+        "id": "262db2b6501d1a0d",
         "type": "tabs",
         "children": [
           {
-            "id": "37dd41ffb5d83f33",
+            "id": "9b6849ae8ac2abe5",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "tG this keyword",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"96 - tags/tG this keyword.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tG this keyword\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -28,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/z. others/vault-status.md",
+                "file": "3 - moc/sub-mocs/react-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,119 +37,49 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "vault-status"
-            }
-          },
-          {
-            "id": "d1dbe095a59f7036",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "npx",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/npx.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"npx\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "abstraction vs encapsulation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/abstraction vs encapsulation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"abstraction vs encapsulation\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "compile time vs runtime",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/basics/compile time vs runtime.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"compile time vs runtime\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":0},\"to\":{\"line\":51,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "java abstraction",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java abstraction.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java abstraction\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "react - conventions to follow",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/react - conventions to follow.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - conventions to follow\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hooks - setState",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/Hooks - setState.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hooks - setState\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/java/@Override in detail.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "@Override in detail"
-            }
-          },
-          {
-            "id": "f17aa7ae68e6650f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "java oops pillars",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java oops pillars.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java oops pillars\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":4.468687012540772}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/Java-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Java-MOC"
+              "title": "react-MOC"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "763ffe5dc5d38a4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "813badd018c15b38",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - sources/yt/react course by chai aur code.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react course by chai aur code"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -236,7 +160,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3888432cac3b4f06",
@@ -258,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/java/@Override in detail.md",
+                "file": "4 - sources/yt/react course by chai aur code.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -286,7 +211,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of @Override in detail"
+              "title": "Graph of react course by chai aur code"
             }
           }
         ]
@@ -533,33 +458,33 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d1dbe095a59f7036",
+  "active": "813badd018c15b38",
   "lastOpenFiles": [
-    "0 - inbox/npx.md",
-    "1 - notes/b. languages/java/@Override in detail.md",
-    "1 - notes/b. languages/java/abstraction vs encapsulation.md",
-    "1 - notes/a. concepts/basics/compile time vs runtime.md",
-    "1 - notes/z. others/vault-status.md",
-    "1 - notes/z. others/videos to watch eventually.md",
+    "3 - moc/sub-mocs/react-MOC.md",
+    "4 - sources/yt/react course by chai aur code.md",
+    "1 - notes/z. others/roadmap.md",
     "1 - notes/z. others/Tasks for coding.md",
+    "3 - moc/sub-mocs/Java-MOC.md",
+    "1 - notes/b. languages/java/@Override in detail.md",
+    "97 - templates/tmp-full-note.md",
+    "1 - notes/z. others/vault-status.md",
+    "1 - notes/z. others/Websites List.md",
+    "1 - notes/z. others/videos to watch eventually.md",
+    "1 - notes/z. others/Project Ideas.md",
+    "3 - moc/Projects-MOC.md",
+    "1 - notes/z. others/Questions asked in interview.md",
+    "3 - moc/Languages-MOC.md",
+    "3 - moc/sub-mocs/Other-Concepts-MOC.md",
+    "97 - templates/Templates-MOC.md",
+    "97 - templates/tmp-project.md",
+    "97 - templates/tmp-tab-panels.md",
+    "97 - templates/tmp-source-note.md",
+    "97 - templates/tmp-inbox.md",
+    "4 - sources/courses/SQL crash course by Maven Analytics.md",
     "4 - sources/Qspiders/JS by Shresth Sir.md",
     "4 - sources/Qspiders/Programming by shambu sir.md",
-    "4 - sources/courses/SQL crash course by Maven Analytics.md",
-    "4 - sources/yt/Mongodb by code with harry.md",
-    "96 - tags/tG github detached head state.md",
-    "96 - tags/tG this keyword.md",
-    "4 - sources/yt/MongoDB by Simpli Learn Dev.md",
-    "4 - sources/yt/react course by chai aur code.md",
-    "1 - notes/b. languages/library/react/react - conventions to follow.md",
-    "1 - notes/z. others/Websites List.md",
-    "3 - moc/Cheatsheets-MOC.md",
-    "3 - moc/Concepts-MOC.md",
-    "3 - moc/Maths-MOC.md",
-    "3 - moc/Languages-MOC.md",
-    "1 - notes/z. others/Project Ideas.md",
-    "3 - moc/Others-MOC.md",
-    "97 - templates/tmp-tab-panels.md",
     "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
+    "4 - sources/yt/every react concept in 12 mints.md",
     "4 - sources/yt/mern stack crash course by freecodecamp.md",
     "1 - notes/b. languages/library/react",
     "98 - attachments/Pasted image 20250423072234.png",

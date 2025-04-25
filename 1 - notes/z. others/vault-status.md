@@ -1,18 +1,22 @@
 ---
 created: 2025-02-11T11:16
-updated: 2025-04-24T22:04
+updated: 2025-04-25T07:15
+related-links:
+  - "[[Others-MOC]]"
 ---
+
+
+
+## Empty related link notes
 
 ```dataview
 table related-links
 from ""
-where !related-links or related-links = []
-```
-
-## Not tagged notes
-```dataview
-list
-from [[tG not-tagged]]
+where (!related-links or related-links = [])
+and !contains(file.path, "96 - tags/")
+and !contains(file.path, "97 - templates/")
+and !contains(file.path, "3 - moc/")
+and !contains(file.path, "4 - sources/")
 ```
 
 

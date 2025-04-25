@@ -2,7 +2,7 @@
 created: 2025-03-03T21:10:27
 status: 
 source: 
-updated: 2025-04-22T18:05
+updated: 2025-04-25T11:21
 ---
 ---
 
@@ -54,7 +54,7 @@ here teacher -> browser
 higher ups -> user request
 class arrangement -> page render through DOM
 
-![[Recording 20250304163338.m4a]]
+
 
 
 ##### fibre
