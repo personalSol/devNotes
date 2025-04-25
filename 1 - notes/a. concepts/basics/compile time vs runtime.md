@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Basic-Concepts-MOC]]"
 created: 2025-04-20T17:44
-updated: 2025-04-20T17:45
+updated: 2025-04-24T22:10
 ---
 ---
 ### **Compile-time vs Runtime Errors**
@@ -48,5 +49,5 @@ updated: 2025-04-20T17:45
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

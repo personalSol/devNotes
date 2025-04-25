@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Java-MOC]]"
 created: 2025-04-20T18:08
-updated: 2025-04-20T18:09
+updated: 2025-04-24T21:54
 ---
 ---
 
@@ -55,5 +56,5 @@ System.out.println(p.getName());  // get the name
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

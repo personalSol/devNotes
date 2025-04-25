@@ -1,7 +1,14 @@
 ---
 created: 2025-02-11T11:16
-updated: 2025-03-01T23:51
+updated: 2025-04-24T22:04
 ---
+
+```dataview
+table related-links
+from ""
+where !related-links or related-links = []
+```
+
 ## Not tagged notes
 ```dataview
 list

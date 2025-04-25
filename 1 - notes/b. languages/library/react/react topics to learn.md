@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[react-MOC]]"
 created: 2025-04-22T10:47
-updated: 2025-04-22T10:48
+updated: 2025-04-24T21:57
 ---
 ---
 
@@ -20,5 +21,5 @@ Additional addon to react:
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

@@ -8,57 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c647a7a1345e2e17",
+            "id": "37dd41ffb5d83f33",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 1,
               "stack": [
                 {
-                  "title": "react - about",
+                  "title": "tG this keyword",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react - about.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - about\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":14.618565426597112}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"96 - tags/tG this keyword.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tG this keyword\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Javascript Cheatsheet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/Javascript Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Javascript Cheatsheet\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":42},\"to\":{\"line\":14,\"ch\":42}}}"
-                },
-                {
-                  "title": "java operators",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java operators.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java operators\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":4},\"to\":{\"line\":33,\"ch\":4}},\"scroll\":15.886837148476184}"
-                },
-                {
-                  "title": "java abstraction",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/java abstraction.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java abstraction\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":0},\"to\":{\"line\":39,\"ch\":0}},\"scroll\":5.802020448626894}"
-                },
-                {
-                  "title": "react course by chai aur code",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/react course by chai aur code.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react course by chai aur code\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":3.3616160383128157}"
-                },
-                {
-                  "title": "Mern Crash Course by sheriyans",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/Mern Crash Course by sheriyans.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mern Crash Course by sheriyans\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":206.7243408203125}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/react-MOC.md",
+                "file": "1 - notes/z. others/vault-status.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -73,15 +43,90 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react-MOC"
+              "title": "vault-status"
             }
           },
           {
-            "id": "480b49d16671fce8",
+            "id": "d1dbe095a59f7036",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "npx",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/npx.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"npx\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "abstraction vs encapsulation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/abstraction vs encapsulation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"abstraction vs encapsulation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "compile time vs runtime",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/basics/compile time vs runtime.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"compile time vs runtime\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":51,\"ch\":0},\"to\":{\"line\":51,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "java abstraction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java abstraction.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java abstraction\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "react - conventions to follow",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/react - conventions to follow.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - conventions to follow\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "Hooks - setState",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/Hooks - setState.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hooks - setState\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/java/@Override in detail.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "@Override in detail"
+            }
+          },
+          {
+            "id": "f17aa7ae68e6650f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "java oops pillars",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java oops pillars.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java oops pillars\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":4.468687012540772}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -89,10 +134,24 @@
               ]
             },
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "3 - moc/sub-mocs/Java-MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Java-MOC"
             }
           }
         ],
@@ -199,6 +258,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "1 - notes/b. languages/java/@Override in detail.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -226,7 +286,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of @Override in detail"
             }
           }
         ]
@@ -473,37 +533,38 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "480b49d16671fce8",
+  "active": "d1dbe095a59f7036",
   "lastOpenFiles": [
-    "3 - moc/sub-mocs/react-MOC.md",
-    "1 - notes/z. others/Questions asked in interview.md",
-    "0 - inbox/react - methods.md",
     "0 - inbox/npx.md",
-    "1 - notes/b. languages/library/react - about.md",
-    "0 - inbox/react - how it works.md",
-    "0 - inbox/react - conventions to follow.md",
-    "0 - inbox/react - to create react app.md",
-    "0 - inbox/react story + W's.md",
-    "4 - sources/yt/every react concept in 12 mints.md",
-    "0 - inbox/react - hooks.md",
-    "98 - attachments/Pasted image 20250423072234.png",
+    "1 - notes/b. languages/java/@Override in detail.md",
+    "1 - notes/b. languages/java/abstraction vs encapsulation.md",
+    "1 - notes/a. concepts/basics/compile time vs runtime.md",
+    "1 - notes/z. others/vault-status.md",
+    "1 - notes/z. others/videos to watch eventually.md",
+    "1 - notes/z. others/Tasks for coding.md",
+    "4 - sources/Qspiders/JS by Shresth Sir.md",
+    "4 - sources/Qspiders/Programming by shambu sir.md",
+    "4 - sources/courses/SQL crash course by Maven Analytics.md",
+    "4 - sources/yt/Mongodb by code with harry.md",
+    "96 - tags/tG github detached head state.md",
+    "96 - tags/tG this keyword.md",
+    "4 - sources/yt/MongoDB by Simpli Learn Dev.md",
     "4 - sources/yt/react course by chai aur code.md",
-    "3 - moc/sub-mocs/Java-MOC.md",
+    "1 - notes/b. languages/library/react/react - conventions to follow.md",
+    "1 - notes/z. others/Websites List.md",
+    "3 - moc/Cheatsheets-MOC.md",
+    "3 - moc/Concepts-MOC.md",
+    "3 - moc/Maths-MOC.md",
     "3 - moc/Languages-MOC.md",
-    "3 - moc/Web-Dev-MOC.md",
-    "1 - notes/b. languages/library/Hooks - setState.md",
-    "97 - templates/tmp-moc.md",
-    "0 - inbox/react - things to remember.md",
-    "0 - inbox/react topics to learn.md",
-    "4 - sources/yt/React Crash course by Sheriyans.md",
-    "0 - inbox/java polymorphism.md",
+    "1 - notes/z. others/Project Ideas.md",
+    "3 - moc/Others-MOC.md",
+    "97 - templates/tmp-tab-panels.md",
+    "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
+    "4 - sources/yt/mern stack crash course by freecodecamp.md",
+    "1 - notes/b. languages/library/react",
+    "98 - attachments/Pasted image 20250423072234.png",
     "98 - attachments/Pasted image 20250303205605.png",
     "98 - attachments/Pasted image 20250303205501.png",
-    "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
-    "1 - notes/b. languages/java/java operators.md",
-    "0 - inbox/java abstraction.md",
-    "0 - inbox/abstraction vs encapsulation.md",
-    "0 - inbox/java encapsulation.md",
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",
     "98 - attachments/Recording 20250414141155.m4a",
@@ -517,7 +578,6 @@
     "1 - notes/c. tools/github",
     "98 - attachments/Pasted image 20250404141621.png",
     "4 - sources/yt",
-    "4 - sources/Qspiders",
     "98 - attachments/Screenshot 2024-08-24 at 4.48.38 PM.png",
     "98 - attachments/Pasted image 20250326225644.png",
     "98 - attachments/Pasted image 20250311163608.png",

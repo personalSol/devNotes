@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Java-MOC]]"
 created: 2025-04-20T18:11
-updated: 2025-04-20T18:11
+updated: 2025-04-24T21:52
 ---
 ---
 
@@ -68,5 +69,5 @@ d.bark();       // From Dog class
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Java-MOC]]"
 created: 2025-04-20T18:12
-updated: 2025-04-20T18:12
+updated: 2025-04-24T21:55
 ---
 ---
 
@@ -42,5 +43,5 @@ class Dog implements Animal {
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

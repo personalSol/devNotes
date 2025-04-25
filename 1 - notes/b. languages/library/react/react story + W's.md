@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[react-MOC]]"
 created: 2025-04-22T16:08
-updated: 2025-04-22T16:38
+updated: 2025-04-24T21:54
 ---
 ---
 
@@ -48,5 +49,5 @@ how react solved it:
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - Source: Sheriyans crash course on react

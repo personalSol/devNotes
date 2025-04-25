@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Java-MOC]]"
 created: 2025-04-20T18:12
-updated: 2025-04-20T18:12
+updated: 2025-04-24T21:51
 ---
 ---
 
@@ -14,7 +15,7 @@ updated: 2025-04-20T18:12
 | Goal         | Safely expose the internals       | Show only necessary parts to the user |
 
 ```java
-
+a
 // encapsulation
 
 class Account {
@@ -49,5 +50,5 @@ class Dog extends Animal {
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 

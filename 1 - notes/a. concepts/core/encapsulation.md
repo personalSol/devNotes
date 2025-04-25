@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Core-Concepts-MOC]]"
 created: 2025-04-20T18:09
-updated: 2025-04-20T18:09
+updated: 2025-04-24T21:51
 ---
 ---
 
@@ -18,5 +19,5 @@ Think of it like a **TV remote** — you don’t know (or need to know) how it w
 # Reference
 `related tags + notes + source + link(if any)`
  
-- [[tG not-tagged]]
+
 - 
