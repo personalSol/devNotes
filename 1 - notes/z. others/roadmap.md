@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Others-MOC]]"
 created: 2025-04-20T07:09
-updated: 2025-04-25T21:29
+updated: 2025-04-26T08:00
 ---
 ---
 
@@ -12,7 +12,14 @@ updated: 2025-04-25T21:29
 
 roadmap to a good web dev:
 
-- [ ] complete the mern stack crash course from sheriyans
+- [ ] complete react course from chai aur code
+- [ ] complete backend course from chai aur code
+- [ ] make the dropbox clone from chai aur code
+
+
+
+
+For dsa ( postponed rn as I will only focus on Dev for now )
 - [ ] complete the java crash course
 - [ ] see oops from forrestknight
 
@@ -21,7 +28,7 @@ roadmap to a good web dev:
 
 
 things to do daily
-- [ ] solve 2 dsa questions
+
 - [ ] study computer fundamentals
 	- [ ] operating system
 	- [ ] dbms

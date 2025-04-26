@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T18:37
-updated: 2025-04-25T11:05
+updated: 2025-04-26T08:06
 ---
 
 ### react-MOC
@@ -29,7 +29,7 @@ here will be all the notes around react-MOC from: [[Languages-MOC]] & [[Web-Dev-
 
 ### all which are inside other pages
 
-- [[Hooks - setState]]
+- [[Hooks - useState]]
 
 
 ### Course I did around it:

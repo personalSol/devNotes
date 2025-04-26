@@ -8,105 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "813badd018c15b38",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Concepts-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Concepts-MOC.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Concepts-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":21},\"to\":{\"line\":13,\"ch\":21}},\"scroll\":0.9991327200047582}"
-                },
-                {
-                  "title": "every react concept in 12 mints",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/every react concept in 12 mints.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"every react concept in 12 mints\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":16},\"to\":{\"line\":47,\"ch\":16}},\"scroll\":34.51645605674776}"
-                },
-                {
-                  "title": "react course by chai aur code",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/react course by chai aur code.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react course by chai aur code\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/Operating-System-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Operating-System-MOC"
-            }
-          },
-          {
-            "id": "7394d01ede794dab",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/OS basics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "OS basics"
-            }
-          },
-          {
             "id": "09191f8dbc1e042c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Hooks - useState",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/Hooks - useState.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hooks - useState\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":47},\"to\":{\"line\":16,\"ch\":47}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "react - event handling",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react - event handling.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - event handling\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/react - event handling.md",
+                "file": "4 - sources/yt/every react concept in 12 mints.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -121,7 +49,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react - event handling"
+              "title": "every react concept in 12 mints"
+            }
+          },
+          {
+            "id": "184246ec12a7ab42",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react - context.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react - context"
             }
           },
           {
@@ -333,48 +294,9 @@
               "icon": "lucide-file",
               "title": "react-MOC"
             }
-          },
-          {
-            "id": "f72ccdefdb215ab1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "roadmap",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/roadmap.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"roadmap\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":33},\"to\":{\"line\":16,\"ch\":33}},\"scroll\":4.449831721758602}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - sources/yt/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -477,7 +399,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4 - sources/yt/Untitled.md",
+                "file": "0 - inbox/react - context.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -505,7 +427,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of react - context"
             }
           }
         ]
@@ -752,12 +674,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f72ccdefdb215ab1",
+  "active": "184246ec12a7ab42",
   "lastOpenFiles": [
-    "1 - notes/z. others/roadmap.md",
-    "4 - sources/yt/Untitled.md",
+    "98 - attachments/Pasted image 20250426113804.png",
+    "98 - attachments/Pasted image 20250426113749.png",
+    "98 - attachments/Pasted image 20250426113608.png",
+    "0 - inbox/react - context.md",
+    "4 - sources/yt/every react concept in 12 mints.md",
+    "98 - attachments/Pasted image 20250426113524.png",
+    "1 - notes/b. languages/library/react/Hooks - useState.md",
+    "0 - inbox/react - event handling.md",
     "0 - inbox/OS basics.md",
     "3 - moc/sub-mocs/Operating-System-MOC.md",
+    "3 - moc/sub-mocs/react-MOC.md",
+    "4 - sources/yt/AI roadmap by ansh mehra.md",
+    "1 - notes/z. others/roadmap.md",
     "3 - moc/Concepts-MOC.md",
     "0 - inbox/Untitled.md",
     "0 - inbox/Operating-System-MOC.md",
@@ -765,8 +696,6 @@
     "1 - notes/a. concepts/basics/compile time vs runtime.md",
     "1 - notes/a. concepts/basics/Cores vs Threads.md",
     "3 - moc/sub-mocs/Core-Concepts-MOC.md",
-    "4 - sources/yt/every react concept in 12 mints.md",
-    "0 - inbox/react - event handling.md",
     "98 - attachments/Pasted image 20250425182442.png",
     "98 - attachments/Pasted image 20250425182401.png",
     "98 - attachments/Pasted image 20250425182304.png",
@@ -779,18 +708,11 @@
     "0 - inbox/react -  key prop.md",
     "0 - inbox/react props.md",
     "0 - inbox/DOM intro.md",
-    "98 - attachments/Screenshot_2024-08-17_at_4.26.44_PM.png",
     "3 - moc/sub-mocs/JavaScript-MOC.md",
-    "3 - moc/sub-mocs/react-MOC.md",
     "0 - inbox/js - array.md",
     "4 - sources/yt/react course by chai aur code.md",
     "1 - notes/z. others/Tasks for coding.md",
-    "3 - moc/sub-mocs/Java-MOC.md",
-    "1 - notes/b. languages/java/@Override in detail.md",
-    "97 - templates/tmp-full-note.md",
     "1 - notes/b. languages/library/react",
-    "98 - attachments/Pasted image 20250423072234.png",
-    "98 - attachments/Pasted image 20250303205605.png",
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",
     "98 - attachments/Recording 20250414141155.m4a",

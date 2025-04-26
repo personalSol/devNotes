@@ -2,7 +2,7 @@
 created: 2025-04-23T07:23:07
 status: 
 source: 
-updated: 2025-04-25T18:36
+updated: 2025-04-26T11:36
 ---
 ---
 
@@ -46,6 +46,61 @@ updated: 2025-04-25T18:36
 	- we use special functions like 
 		- useState()
 		- useReducer()
+- Controlled Components
+	- perfect for forms
+	- uses state value to have controlled behaviour
+	- in this, when we put value in form
+	- it gets stored in state variable and then we use setVariable to update the value
+	- steps:
+		- user types, setValue gets called
+		- state gets updated
+		- finally we read the updated state
+	- great pattern to use as if we want to change the behaviour of component we just have to change it's state
+- 5 main types of hook
+	1. state hooks : helps manage state within react component
+		- `useState()` ⭐
+		- `useReducer()`
+	2. Context hooks : lets us use data pass through `useContext()`
+	3. ref hooks : like `useRef()` lets us reference things like html element ⭐
+	4. effect hooks: like `useEffect()` lets us connect with external components like browser,  api, etc ⭐
+	5. performance hooks : improves performance by preventing unnecessary work
+		- `useMemo()`
+		- `useCallback()`
+- purity 
+	- means a react component with same input should always return the same output
+	- conditions
+		- only return jsx
+		- should not change any stuff that existed before rendering
+- strict mode
+	- to prevent errors, tells us about mistake in our components
+	- gives us warning in console
+- effects
+	- use when we want to interact with outside
+	- effect is code that helps us reach outside of our react app
+	- these effects are called side effects
+	- best done in event handlers
+	- ex: to submit an http request on form submission or click on a button
+	- writing side effect without hook
+		- we can write side effects without useEffect() hook too but it will cause problems
+		- React might re-render your component many times, even for small changes
+		- it could lead to:
+			- Slow things down
+			- Cause bugs
+			- Do weird stuff when you have many components
+	- using hook is better because:
+		- it waits until the component is _done showing_, then do the side job
+- ref
+	- when we want to step out of react and interact with real DOM, we use ref hooks
+	- we can't use DOM directly as change in structure can beak the app
+	- we can directly use ref prop on any element to target it directly
+	- Refs **don’t trigger re-renders** if they change
+	- you use `.current` to get the actual thing it’s pointing to
+- context - [[ react - context]]
+- 
+
+
+
+
 
 ```jsx
 
@@ -88,6 +143,140 @@ return (
 <Greetings text={'yo'} />;
 function Greetings(props){
 	return <h1> {props.text}</h1>
+}
+
+// ------------------------ controlled forms ------------------
+
+import React, { useState } from 'react';
+
+function SimpleInput() {
+  const [inputValue, setInputValue] = useState(''); // State to hold the input value
+
+  const handleChange = (event) => {
+    setInputValue(event.target.value); // Update state with the new input value
+  };
+
+  return (
+    <div>
+      <input 
+        type="text" 
+        value={inputValue} // Controlled by state
+        onChange={handleChange} // Update state on change
+      />
+      <p>You typed: {inputValue}</p> {/* Display the current input value */}
+    </div>
+  );
+}
+
+export default SimpleInput;
+
+// uncontrolled form
+
+import React, { useRef } from 'react';
+
+function MyUncontrolledForm() {
+  const inputRef = useRef(null);
+
+  const handleSubmit = (event) => {
+    event.preventDefault();
+    alert('Input value: ' + inputRef.current.value); // Accessing value directly
+  };
+
+  return (
+    <form onSubmit={handleSubmit}>
+      <input type="text" ref={inputRef} /> {/* No value prop, uncontrolled */}
+      <button type="submit">Submit</button>
+    </form>
+  );
+}
+
+
+// ----------- impure and pure components
+
+let count = 0;
+function cup(){
+	count = count + 1; 
+	return <h1> Cup {count} </h2>
+}
+// this will return the cup number in increasing order each time we run this
+
+// ---------strict mode -----------
+
+import {StrictMode} from 'react';
+
+<StrictMode>
+	<App />
+</StrictMode>
+
+
+// ------- side effects -----------
+
+import { useState, useEffect } from "react";
+
+function ClickCounter() {
+  const [count, setCount] = useState(0);
+
+  // This is the side effect
+  useEffect(() => {
+    document.title = `You clicked ${count} times`;
+  }, [count]); // It runs every time count changes
+
+  return (
+    <div>
+      <p>You clicked the button {count} times</p>
+      <button onClick={() => setCount(count + 1)}>Click me!</button>
+    </div>
+  );
+}
+
+// what we should do is
+
+function MyComponent() {
+  document.title = "Hello"; // ❗ Bad idea
+
+  return <h1>Hi</h1>;
+}
+
+
+// we can also use event handler
+
+import { useState } from "react";
+
+function ClickCounter() {
+  const [count, setCount] = useState(0);
+
+  const handleClick = () => {
+    const newCount = count + 1;
+    setCount(newCount);
+    document.title = `You clicked ${newCount} times`; // ✅ fine here
+  };
+
+  return (
+    <div>
+      <p>You clicked the button {count} times</p>
+      <button onClick={handleClick}>Click me!</button>
+    </div>
+  );
+}
+
+
+// --------- refs ----------
+
+import { useRef } from "react";
+
+function FocusInput() {
+  const inputRef = useRef(null);
+
+  const handleClick = () => {
+    inputRef.current.focus(); // 🪄 Directly focus the input box
+  };
+
+  return (
+    <div>
+      <input ref={inputRef} type="text" />
+      <button onClick={handleClick}>Focus the input</button>
+    </div>
+  );
 }
 
 

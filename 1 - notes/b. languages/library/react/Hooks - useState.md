@@ -3,13 +3,14 @@ status: newBorn
 related-links:
   - "[[react-MOC]]"
 created: 2025-03-11T11:11
-updated: 2025-04-22T16:50
+updated: 2025-04-26T08:07
 ---
 ---
 
 Link: [useState – React](https://react.dev/reference/react/useState#adding-state-to-a-component)
 
 - syntax: `const [state, setState] = useState(initialState)`
+- return an array which we destructure
 - setState: used to set new value to state
 - **Two Update Styles**:
     - **Direct**: `setState(newValue)` → Replaces state.

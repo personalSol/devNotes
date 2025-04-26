@@ -41,7 +41,7 @@
     "1 - notes/c. tools/chrome extension.md": "7c02c0bb4aeea7a7049ea3a5dc7e6fa325e52c9c70ec0c066ec4e647323ed39b",
     "1 - notes/z. others/vault-status.md": "2bdfa894a7709332af976bdd7d505ec85b3a8a29c0a64de8f29702c906d2b416",
     "3 - moc/sub-mocs/git-and-github-MOC.md": "90b941932653dd7943a4e5f1c481465816587e04277d3a8cc354cbee3c5a2c94",
-    "3 - moc/sub-mocs/react-MOC.md": "633dafe506565b334072a103efaead25fd31990716266a3e3849506ed9294565",
+    "3 - moc/sub-mocs/react-MOC.md": "3847dc5f42aff07bb8ec0e53b96dbe74736f66b14bbf4d1c7a20b76cb05a665e",
     "1 - notes/b. languages/css/CSS connecting with HTML.md": "1038447284d66b1dd9228cafd96fe57ad6bde7a70a2d79fb307262a5093e4c33",
     "1 - notes/b. languages/css/CSS margin and padding.md": "fbb9ecca87388333b981fc0b30e8b7806ec9e3d75f372612e362bd8557aa0d30",
     "1 - notes/b. languages/css/CSS units.md": "9ba2428a8561b7f6a5d4c5d9ebdbdeb51bf9d0a51d0baf9c8e6b5cc9aec77e50",
@@ -114,7 +114,7 @@
     "1 - notes/a. concepts/core/objects.md": "b8d14320daae453dbb15eda3c0c993c78b1d42da11c69f401f2ec47a35408d68",
     "1 - notes/a. concepts/core/multi-threading.md": "71638ac01abb25a32030cec25150a6a0b05486c9cbdbfb166fc92005da934684",
     "1 - notes/a. concepts/basics/memory management in programming (stack and heap ).md": "40f754a1e22f50b442a0c12d3b6353d6f96e6771562c9801cf37b654550bf20c",
-    "1 - notes/z. others/roadmap.md": "100842722503a29f1262ca29090fb7e5ccfd13da1182882c4b84d59efb139c54",
+    "1 - notes/z. others/roadmap.md": "69a40adddf78cee184e38e94946cadb9cf6a4a2a0ffe4ce3ed4f0731c168e7ec",
     "1 - notes/b. languages/java/java operators.md": "592f992ca3d1f8cc891a2791a3ee5f9b8b8f1a66eba40d5fde984d7e33da1fcd",
     "1 - notes/a. concepts/basics/Cores vs Threads.md": "5d3a107e4dd42c279f6d21a1fcd94f64cfccf3456f28f049ad640238f23093d8",
     "1 - notes/b. languages/java/java interface.md": "cb37ec41e5a98ab60fb3caf2ee4df084611db4f45bcd8c5699dca00fea0a54b5",
@@ -130,8 +130,7 @@
     "1 - notes/a. concepts/basics/classes.md": "2675eb4f5a015f0335b81f95d22e29a5bb3284e3138b8b66b254802054ad9201",
     "1 - notes/b. languages/java/java classes and object.md": "a91282b07537fcfbcd4b110ed452c4c97e10be73aeb22b921f793e7048f1bb71",
     "0 - inbox/npx.md": "4c70b77d83208633ac650401a9b5a8657bcc05c4bcdf6172b58f8a898d241f9b",
-    "4 - sources/yt/every react concept in 12 mints.md": "44621a63156729772ee5a2ecf6a97b41279b565df2b1880d24d3d42aa1adcb7f",
-    "1 - notes/b. languages/library/react/Hooks - setState.md": "8607923356cacfd996021289aa02717ee434edd63c05da6a49cb1ef8fc768680",
+    "4 - sources/yt/every react concept in 12 mints.md": "a515b550a3b504d96e5d852c3af356127d5a11aa9260c5152a8f642d67142ee1",
     "1 - notes/b. languages/library/react/react - about.md": "0f54362fbba668245cf7d4d9878ba323aefbf8f8931fbaaf25716b98250eee32",
     "1 - notes/b. languages/library/react/react topics to learn.md": "9e441c4a955e05f4a650951beabc05b01d153e8238e6863868675d1c8712642c",
     "1 - notes/b. languages/library/react/react - conventions to follow.md": "2ae24aea9c1ff04b32a18651ba360a8742dadbb0191251180f729ab58d08bb6d",
@@ -160,6 +159,8 @@
     "0 - inbox/react - event handling.md": "f9ed094b7c258d46b7d21f129b7f4d2e9a5bd202938f542f7fcb1aa5e0d3e7c4",
     "3 - moc/sub-mocs/Operating-System-MOC.md": "d318edcbfccded3fc5ea5890fa3761978e37fae378ebb10f7cf3778d7d05029a",
     "0 - inbox/OS basics.md": "edbb5b0a22fa2d613315d04a6c280230d54a5d6b6a5920cb976bd2a13c64320b",
-    "4 - sources/yt/Untitled.md": "c25fe44f9b1d77d1b68af7cb41a7ab01204ac48ffd0fef198933fcb32a1cc3c2"
+    "4 - sources/yt/AI roadmap by ansh mehra.md": "c25fe44f9b1d77d1b68af7cb41a7ab01204ac48ffd0fef198933fcb32a1cc3c2",
+    "1 - notes/b. languages/library/react/Hooks - useState.md": "478c12f3c8d1947b5a554139e4e0dc0378093484fa8b26a462dfa977b4fbaef4",
+    "0 - inbox/react - context.md": "0ce1d7b19225632923cdacb808f3bb14c3a418f145632b56617407b7b731987f"
   }
 }
