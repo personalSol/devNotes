@@ -4,11 +4,305 @@
     "type": "split",
     "children": [
       {
-        "id": "262db2b6501d1a0d",
+        "id": "763ffe5dc5d38a4c",
         "type": "tabs",
         "children": [
           {
-            "id": "9b6849ae8ac2abe5",
+            "id": "813badd018c15b38",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Concepts-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Concepts-MOC.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Concepts-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":21},\"to\":{\"line\":13,\"ch\":21}},\"scroll\":0.9991327200047582}"
+                },
+                {
+                  "title": "every react concept in 12 mints",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/every react concept in 12 mints.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"every react concept in 12 mints\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":47,\"ch\":16},\"to\":{\"line\":47,\"ch\":16}},\"scroll\":34.51645605674776}"
+                },
+                {
+                  "title": "react course by chai aur code",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/react course by chai aur code.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react course by chai aur code\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - moc/sub-mocs/Operating-System-MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Operating-System-MOC"
+            }
+          },
+          {
+            "id": "7394d01ede794dab",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/OS basics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "OS basics"
+            }
+          },
+          {
+            "id": "09191f8dbc1e042c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react - event handling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react - event handling"
+            }
+          },
+          {
+            "id": "2342dcc48c2df613",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react - UI update process.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react - UI update process"
+            }
+          },
+          {
+            "id": "8e55d15263f77b9b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react -  key prop.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react -  key prop"
+            }
+          },
+          {
+            "id": "47bc2a3a0d58429e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react props.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react props"
+            }
+          },
+          {
+            "id": "770547a9d9084cde",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "DOM intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/DOM intro.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"DOM intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":116},\"to\":{\"line\":31,\"ch\":116}},\"scroll\":12.060755489472628}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "JavaScript-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/JavaScript-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"JavaScript-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":14},\"to\":{\"line\":16,\"ch\":14}},\"scroll\":9.72000003390842}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/javascript/DOM Manipulation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "DOM Manipulation"
+            }
+          },
+          {
+            "id": "e36890a81bbe7d44",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/js - array.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "js - array"
+            }
+          },
+          {
+            "id": "33d90b12b9e43235",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -39,15 +333,9 @@
               "icon": "lucide-file",
               "title": "react-MOC"
             }
-          }
-        ]
-      },
-      {
-        "id": "763ffe5dc5d38a4c",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "813badd018c15b38",
+            "id": "f72ccdefdb215ab1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,13 +343,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "roadmap",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/roadmap.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"roadmap\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":33},\"to\":{\"line\":16,\"ch\":33}},\"scroll\":4.449831721758602}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - sources/yt/react course by chai aur code.md",
+                "file": "4 - sources/yt/Untitled.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,10 +370,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react course by chai aur code"
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 9
       }
     ],
     "direction": "vertical"
@@ -160,8 +455,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -183,7 +477,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4 - sources/yt/react course by chai aur code.md",
+                "file": "4 - sources/yt/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -211,7 +505,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of react course by chai aur code"
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -458,54 +752,54 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "813badd018c15b38",
+  "active": "f72ccdefdb215ab1",
   "lastOpenFiles": [
-    "3 - moc/sub-mocs/react-MOC.md",
-    "4 - sources/yt/react course by chai aur code.md",
     "1 - notes/z. others/roadmap.md",
+    "4 - sources/yt/Untitled.md",
+    "0 - inbox/OS basics.md",
+    "3 - moc/sub-mocs/Operating-System-MOC.md",
+    "3 - moc/Concepts-MOC.md",
+    "0 - inbox/Untitled.md",
+    "0 - inbox/Operating-System-MOC.md",
+    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
+    "1 - notes/a. concepts/basics/compile time vs runtime.md",
+    "1 - notes/a. concepts/basics/Cores vs Threads.md",
+    "3 - moc/sub-mocs/Core-Concepts-MOC.md",
+    "4 - sources/yt/every react concept in 12 mints.md",
+    "0 - inbox/react - event handling.md",
+    "98 - attachments/Pasted image 20250425182442.png",
+    "98 - attachments/Pasted image 20250425182401.png",
+    "98 - attachments/Pasted image 20250425182304.png",
+    "98 - attachments/Pasted image 20250425182122.png",
+    "98 - attachments/Pasted image 20250425182028.png",
+    "0 - inbox/react - UI update process.md",
+    "98 - attachments/Pasted image 20250425180815.png",
+    "98 - attachments/Pasted image 20250425180751.png",
+    "1 - notes/b. languages/javascript/DOM Manipulation.md",
+    "0 - inbox/react -  key prop.md",
+    "0 - inbox/react props.md",
+    "0 - inbox/DOM intro.md",
+    "98 - attachments/Screenshot_2024-08-17_at_4.26.44_PM.png",
+    "3 - moc/sub-mocs/JavaScript-MOC.md",
+    "3 - moc/sub-mocs/react-MOC.md",
+    "0 - inbox/js - array.md",
+    "4 - sources/yt/react course by chai aur code.md",
     "1 - notes/z. others/Tasks for coding.md",
     "3 - moc/sub-mocs/Java-MOC.md",
     "1 - notes/b. languages/java/@Override in detail.md",
     "97 - templates/tmp-full-note.md",
-    "1 - notes/z. others/vault-status.md",
-    "1 - notes/z. others/Websites List.md",
-    "1 - notes/z. others/videos to watch eventually.md",
-    "1 - notes/z. others/Project Ideas.md",
-    "3 - moc/Projects-MOC.md",
-    "1 - notes/z. others/Questions asked in interview.md",
-    "3 - moc/Languages-MOC.md",
-    "3 - moc/sub-mocs/Other-Concepts-MOC.md",
-    "97 - templates/Templates-MOC.md",
-    "97 - templates/tmp-project.md",
-    "97 - templates/tmp-tab-panels.md",
-    "97 - templates/tmp-source-note.md",
-    "97 - templates/tmp-inbox.md",
-    "4 - sources/courses/SQL crash course by Maven Analytics.md",
-    "4 - sources/Qspiders/JS by Shresth Sir.md",
-    "4 - sources/Qspiders/Programming by shambu sir.md",
-    "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
-    "4 - sources/yt/every react concept in 12 mints.md",
-    "4 - sources/yt/mern stack crash course by freecodecamp.md",
     "1 - notes/b. languages/library/react",
     "98 - attachments/Pasted image 20250423072234.png",
     "98 - attachments/Pasted image 20250303205605.png",
-    "98 - attachments/Pasted image 20250303205501.png",
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",
     "98 - attachments/Recording 20250414141155.m4a",
-    "98 - attachments/Pasted image 20250414081624.png",
     "1 - notes/e. terms",
-    "98 - attachments/image 1.png",
     "1 - notes/a. concepts/imp",
     "1 - notes/a. concepts/other",
-    "98 - attachments/Pasted image 20250409182314.png",
     "1 - notes/c. tools/mongoDB",
     "1 - notes/c. tools/github",
-    "98 - attachments/Pasted image 20250404141621.png",
     "4 - sources/yt",
-    "98 - attachments/Screenshot 2024-08-24 at 4.48.38 PM.png",
-    "98 - attachments/Pasted image 20250326225644.png",
-    "98 - attachments/Pasted image 20250311163608.png",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

@@ -1,16 +1,19 @@
 ---
 created: 2025-04-11T10:49
-updated: 2025-04-11T10:51
+updated: 2025-04-25T18:47
 ---
 
 # Concepts-MOC
 
 here will be all the notes around Concepts-MOC
 
-- [[Core-Concepts-MOC]]
 - [[Basic-Concepts-MOC]]
+- [[Core-Concepts-MOC]]
 - [[Other-Concepts-MOC]]
 
+stored in core folder
+- [[Operating-System-MOC]] 
+- [[DBMS-MOC]]
 
 
 
