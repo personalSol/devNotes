@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[react-MOC]]"
 created: 2025-04-22T16:46
-updated: 2025-04-24T21:51
+updated: 2025-04-26T20:31
 ---
 ---
 
@@ -29,29 +29,28 @@ updated: 2025-04-24T21:51
 
 Link: [useState – React](https://react.dev/reference/react/useState#adding-state-to-a-component)
 
-- syntax: `const [state, setState] = useState(initialState)`
-- setState: used to set new value to state
-- **Two Update Styles**:
-    - **Direct**: `setState(newValue)` → Replaces state.
-    - **Functional**: `setState(prev => prev + 1)` → Uses previous state.
-- **Initial Value**: Set once on first render (`useState(0)` → 0 is initial).
-- **Async**: Updates batched; state doesn’t change immediately.
-		- can check it by immediately logging state
-		- but it does update which we can see on the second `console.log`
-		- preState is like .then in promise. the next one works when the previous one completes
-- **Batching**: Multiple `setState` calls in same event → merged.
-	- **Reset on Reload**: State is in-memory → reload = reinitialize.
-	- **Persist State**: Use `localStorage`/backend to save across reloads.
+![[Hooks - useState#basic]]
 
-- it is prefered that we change or update the value of state directly inside setState and not first update it and then load it.
-
-extras: [[Hooks - setState]]
+extras: [[Hooks - useState]]
 
 
 ````
 
+- effect hooks
+	- useEffect()
+		- **executes** the code inside it whenever its dependencies change.
+- performance hooks
+	- `useCallback()`
+		- **memoizes** the function, meaning it creates a new version of the function only when its dependencies change.
+		- It does **not execute** the function. It just ensures that the function reference remains stable unless the dependencies change.
+		- it only stores the values in cache and not run them
+		- it is used for function and prevents it from being recreated and only recreates when one of the dependencies of useCallBack changes
+- ref hooks
+	- use it when we want to work directly with DOM
+	- ![[Pasted image 20250426203121.png]]
+	- 
 
-	
+
 
 # Reference
 `related tags + notes + source + link(if any)`

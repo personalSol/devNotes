@@ -1,8 +1,8 @@
 ---
 created: 2025-04-23T07:23:07
-status: 
+status: adult
 source: 
-updated: 2025-04-26T11:36
+updated: 2025-04-26T15:18
 ---
 ---
 
@@ -74,6 +74,7 @@ updated: 2025-04-26T11:36
 - strict mode
 	- to prevent errors, tells us about mistake in our components
 	- gives us warning in console
+	![[Pasted image 20250426151837.png||500]]
 - effects
 	- use when we want to interact with outside
 	- effect is code that helps us reach outside of our react app
@@ -96,7 +97,25 @@ updated: 2025-04-26T11:36
 	- Refs **don’t trigger re-renders** if they change
 	- you use `.current` to get the actual thing it’s pointing to
 - context - [[ react - context]]
-- 
+- portals
+	- portals are like context but for components
+	- portals let us move react component into any html element we select
+	- portals are perfect for components that can't be displayed properly becuase of their parent component style
+	- ex: ![[Pasted image 20250426142312.png||400]]
+	- ![[Pasted image 20250426142339.png||450]]
+- suspense
+	- special component
+	- helps handle loading of component or it's data
+	- ![[Pasted image 20250426142543.png||450]]
+	- ![[Pasted image 20250426142629.png||450]]
+	- it shows a dummy component until the real component loads with data
+	- useful for lazily loading a component : means only loading the data when needed
+	- ![[Pasted image 20250426142749.png||450]]
+- error boundaries
+	- react is basically js, errors that happen during rendering can break our app
+	- error boundaries are used to catch app breaking error and show a fallback to use to show what happen
+	- ![[Pasted image 20250426143114.png]]
+	- ![[Pasted image 20250426143150.png]]
 
 
 

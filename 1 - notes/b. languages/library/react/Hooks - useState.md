@@ -1,13 +1,14 @@
 ---
 status: newBorn
-related-links:
-  - "[[react-MOC]]"
+related-links: []
 created: 2025-03-11T11:11
-updated: 2025-04-26T08:07
+updated: 2025-04-26T20:29
 ---
 ---
 
 Link: [useState – React](https://react.dev/reference/react/useState#adding-state-to-a-component)
+
+### basic
 
 - syntax: `const [state, setState] = useState(initialState)`
 - return an array which we destructure
@@ -23,12 +24,12 @@ Link: [useState – React](https://react.dev/reference/react/useState#adding-st
 - **Batching**: Multiple `setState` calls in same event → merged.
     - **Reset on Reload**: State is in-memory → reload = reinitialize.
     - **Persist State**: Use `localStorage`/backend to save across reloads.
-- it is prefered that we change or update the value of state directly inside setState and not first update it and then load it.
+- best for client components that need simple state
+- it is prefered that we change or update the value of state directly inside setState and not first update it and then load it.  
 
 
-in setState update styles:
-- it's set that in function method we will use previous state value so it doesn't matter what we name it
-- though it's prefered to use first letter of state name
+### details
+
 - setState is async and batched all the function together. 
 
 what I have understood is it batches all the setCount and after that is completed it updates the state value for re render. And that's why new value only shows after re render even in code 2.
@@ -83,7 +84,8 @@ function App() {
 export default App;
 ```
 
-
+- can be used to give custom classes
+![[Pasted image 20250426145546.pngSZS]]
 
 # Reference
 `related tags + notes + source + link(if any)`
