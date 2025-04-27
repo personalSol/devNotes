@@ -114,6 +114,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "react - hooks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/react - hooks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - hooks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
                   "title": "Hooks - useState",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/Hooks - useState.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hooks - useState\"}",
@@ -124,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/library/react/react - hooks.md",
+                "file": "1 - notes/z. others/Youtubers for programming.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -139,7 +145,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react - hooks"
+              "title": "Youtubers for programming"
             }
           },
           {
@@ -353,7 +359,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -435,7 +441,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "3888432cac3b4f06",
@@ -457,7 +463,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/library/react/react - hooks.md",
+                "file": "4 - sources/yt/every react concept in 12 mints.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -485,7 +491,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of react - hooks"
+              "title": "Graph of every react concept in 12 mints"
             }
           }
         ]
@@ -732,13 +738,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5ffdbebdee4c5d0f",
+  "active": "184246ec12a7ab42",
   "lastOpenFiles": [
+    "1 - notes/z. others/Youtubers for programming.md",
+    "1 - notes/b. languages/library/react/react - hooks.md",
     "98 - attachments/Pasted image 20250426203121.png",
     "1 - notes/b. languages/library/react/Hooks - useState.md",
     "4 - sources/yt/all react hooks explained in 12 mints.md",
     "4 - sources/yt/every react concept in 12 mints.md",
-    "1 - notes/b. languages/library/react/react - hooks.md",
     "98 - attachments/Pasted image 20250426151837.png",
     "98 - attachments/Pasted image 20250426145546.png",
     "0 - inbox/Hooks - setState.md",
@@ -751,7 +758,6 @@
     "98 - attachments/Pasted image 20250426142629.png",
     "98 - attachments/Pasted image 20250426142543.png",
     "98 - attachments/Pasted image 20250426142339.png",
-    "98 - attachments/Pasted image 20250426142312.png",
     "0 - inbox/react - event handling.md",
     "0 - inbox/OS basics.md",
     "3 - moc/sub-mocs/Operating-System-MOC.md",
