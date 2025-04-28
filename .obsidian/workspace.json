@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "763ffe5dc5d38a4c",
+        "id": "d9d3661f0bc40e44",
         "type": "tabs",
         "children": [
           {
-            "id": "09191f8dbc1e042c",
+            "id": "13d97b7070bebe44",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,23 +18,53 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "every react concept in 12 mints",
+                  "title": "Terms-MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/every react concept in 12 mints.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"every react concept in 12 mints\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":75,\"ch\":30},\"to\":{\"line\":75,\"ch\":30}},\"scroll\":76.13477953004953}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Terms-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Terms-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}},\"scroll\":6.591111416286893}"
                 },
                 {
-                  "title": "react - event handling",
+                  "title": "AI and ML",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react - event handling.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - event handling\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI and ML.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI and ML\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}},\"scroll\":0.35254235995017874}"
+                },
+                {
+                  "title": "cpp datatypes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/cpp datatypes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp datatypes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":5},\"to\":{\"line\":9,\"ch\":5}}}"
+                },
+                {
+                  "title": "Cpp-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":14},\"to\":{\"line\":18,\"ch\":14}}}"
+                },
+                {
+                  "title": "Languages-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Languages-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Languages-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":2},\"to\":{\"line\":11,\"ch\":2}}}"
+                },
+                {
+                  "title": "flowchart",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/basics/flowchart.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"flowchart\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":20},\"to\":{\"line\":10,\"ch\":20}}}"
+                },
+                {
+                  "title": "types of languages",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/types of languages.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"types of languages\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":97},\"to\":{\"line\":16,\"ch\":97}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - sources/yt/all react hooks explained in 12 mints.md",
+                "file": "3 - moc/AI and ML.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,11 +79,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "all react hooks explained in 12 mints"
+              "title": "AI and ML"
             }
           },
           {
-            "id": "184246ec12a7ab42",
+            "id": "232e71342f206957",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -63,29 +93,23 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "react - hooks",
+                  "title": "AI roadmap by ansh mehra",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/react - hooks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - hooks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":48,\"ch\":3},\"to\":{\"line\":48,\"ch\":3}},\"scroll\":38.58059177318203}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/AI roadmap by ansh mehra.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI roadmap by ansh mehra\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":36},\"to\":{\"line\":41,\"ch\":36}},\"scroll\":41.04375548215931}"
                 },
                 {
-                  "title": "Hooks - useState",
+                  "title": "terms around AI",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/Hooks - useState.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hooks - useState\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "react - context",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react - context.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - context\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":50},\"to\":{\"line\":7,\"ch\":50}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/terms for AI.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"terms around AI\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":92},\"to\":{\"line\":9,\"ch\":92}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - sources/yt/every react concept in 12 mints.md",
+                "file": "0 - inbox/terms for AI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,56 +124,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "every react concept in 12 mints"
+              "title": "terms for AI"
             }
           },
           {
-            "id": "5ffdbebdee4c5d0f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "react - hooks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/react - hooks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - hooks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "Hooks - useState",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/Hooks - useState.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hooks - useState\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":86,\"ch\":36},\"to\":{\"line\":86,\"ch\":36}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/z. others/Youtubers for programming.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Youtubers for programming"
-            }
-          },
-          {
-            "id": "2342dcc48c2df613",
+            "id": "21a8e8d851541a1e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -163,7 +142,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/react - UI update process.md",
+                "file": "0 - inbox/ai - augmentation and automation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -178,103 +157,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react - UI update process"
+              "title": "ai - augmentation and automation"
             }
           },
           {
-            "id": "8e55d15263f77b9b",
+            "id": "f272bb5b57b580dd",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/react -  key prop.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react -  key prop"
-            }
-          },
-          {
-            "id": "47bc2a3a0d58429e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/react props.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react props"
-            }
-          },
-          {
-            "id": "770547a9d9084cde",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "DOM intro",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/DOM intro.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"DOM intro\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":116},\"to\":{\"line\":31,\"ch\":116}},\"scroll\":12.060755489472628}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
-                  "title": "JavaScript-MOC",
+                  "title": "Ai tools list",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/JavaScript-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"JavaScript-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":14},\"to\":{\"line\":16,\"ch\":14}},\"scroll\":9.72000003390842}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/Ai tools list.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Ai tools list\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":36},\"to\":{\"line\":23,\"ch\":36}},\"scroll\":4.800000123303346}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/javascript/DOM Manipulation.md",
+                "file": "4 - sources/yt/AI roadmap by ansh mehra.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -289,11 +196,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DOM Manipulation"
+              "title": "AI roadmap by ansh mehra"
             }
           },
           {
-            "id": "e36890a81bbe7d44",
+            "id": "6959d3525d88cfe2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -307,7 +214,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/js - array.md",
+                "file": "0 - inbox/cpp intro.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -322,44 +229,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "js - array"
-            }
-          },
-          {
-            "id": "33d90b12b9e43235",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/react-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react-MOC"
+              "title": "cpp intro"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -410,7 +284,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "useRef",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -440,8 +314,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -463,7 +336,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4 - sources/yt/every react concept in 12 mints.md",
+                "file": "4 - sources/yt/AI roadmap by ansh mehra.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -491,7 +364,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of every react concept in 12 mints"
+              "title": "Graph of AI roadmap by ansh mehra"
             }
           }
         ]
@@ -738,44 +611,44 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "184246ec12a7ab42",
+  "active": "f272bb5b57b580dd",
   "lastOpenFiles": [
+    "0 - inbox/Ai tools list.md",
+    "3 - moc/AI and ML.md",
+    "0 - inbox/terms for AI.md",
+    "0 - inbox/ai - augmentation and automation.md",
+    "4 - sources/yt/AI roadmap by ansh mehra.md",
+    "98 - attachments/Pasted image 20250428104132.png",
+    "98 - attachments/Pasted image 20250428104128.png",
+    "98 - attachments/Pasted image 20250428104023.png",
+    "98 - attachments/Pasted image 20250428103222.png",
+    "3 - moc/Terms-MOC.md",
+    "0 - inbox/cpp datatypes.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
+    "0 - inbox/cpp boilerplate.md",
+    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
+    "0 - inbox/cpp intro.md",
+    "3 - moc/Languages-MOC.md",
+    "0 - inbox/Cpp-MOC.md",
+    "1 - notes/a. concepts/basics/flowchart.md",
+    "0 - inbox/types of languages.md",
+    "3 - moc/Concepts-MOC.md",
+    "0 - inbox/psuedo code.md",
+    "1 - notes/a. concepts/basics/program vs algorithm.md",
+    "3 - moc/sub-mocs/react-MOC.md",
+    "0 - inbox/js - array.md",
+    "1 - notes/b. languages/javascript/DOM Manipulation.md",
+    "0 - inbox/react props.md",
+    "0 - inbox/react -  key prop.md",
+    "0 - inbox/react - UI update process.md",
     "1 - notes/z. others/Youtubers for programming.md",
-    "1 - notes/b. languages/library/react/react - hooks.md",
-    "98 - attachments/Pasted image 20250426203121.png",
-    "1 - notes/b. languages/library/react/Hooks - useState.md",
     "4 - sources/yt/all react hooks explained in 12 mints.md",
-    "4 - sources/yt/every react concept in 12 mints.md",
+    "98 - attachments/Pasted image 20250426203121.png",
     "98 - attachments/Pasted image 20250426151837.png",
     "98 - attachments/Pasted image 20250426145546.png",
-    "0 - inbox/Hooks - setState.md",
-    "0 - inbox/react - context.md",
     "98 - attachments/Pasted image 20250426143512.png",
-    "0 - inbox/Untitled.md",
     "98 - attachments/Pasted image 20250426143150.png",
     "98 - attachments/Pasted image 20250426143114.png",
-    "98 - attachments/Pasted image 20250426142749.png",
-    "98 - attachments/Pasted image 20250426142629.png",
-    "98 - attachments/Pasted image 20250426142543.png",
-    "98 - attachments/Pasted image 20250426142339.png",
-    "0 - inbox/react - event handling.md",
-    "0 - inbox/OS basics.md",
-    "3 - moc/sub-mocs/Operating-System-MOC.md",
-    "3 - moc/sub-mocs/react-MOC.md",
-    "4 - sources/yt/AI roadmap by ansh mehra.md",
-    "1 - notes/z. others/roadmap.md",
-    "3 - moc/Concepts-MOC.md",
-    "0 - inbox/Operating-System-MOC.md",
-    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
-    "1 - notes/a. concepts/basics/compile time vs runtime.md",
-    "1 - notes/a. concepts/basics/Cores vs Threads.md",
-    "3 - moc/sub-mocs/Core-Concepts-MOC.md",
-    "0 - inbox/react - UI update process.md",
-    "1 - notes/b. languages/javascript/DOM Manipulation.md",
-    "0 - inbox/react -  key prop.md",
-    "0 - inbox/react props.md",
-    "0 - inbox/DOM intro.md",
-    "3 - moc/sub-mocs/JavaScript-MOC.md",
     "1 - notes/b. languages/library/react",
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",

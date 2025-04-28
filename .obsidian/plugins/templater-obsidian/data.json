@@ -21,6 +21,14 @@
     {
       "folder": "4 - sources",
       "template": "97 - templates/tmp-source-note.md"
+    },
+    {
+      "folder": "2 - projects",
+      "template": "97 - templates/tmp-project.md"
+    },
+    {
+      "folder": "3 - moc",
+      "template": "97 - templates/tmp-moc.md"
     }
   ],
   "enable_file_templates": false,

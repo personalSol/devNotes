@@ -1,6 +1,6 @@
 ---
 created: 2025-02-24T23:16
-updated: 2025-03-13T05:54
+updated: 2025-04-28T08:40
 ---
 
 `Here I will mention all the mocs of languaes`
@@ -8,6 +8,7 @@ updated: 2025-03-13T05:54
 - [[Java-MOC]]
 - [[JavaScript-MOC]]
 - [[CSS-MOC]]
+- [[Cpp-MOC]]
 - 
 
 
