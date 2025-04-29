@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[react-MOC]]"
 created: 2025-04-22T16:46
-updated: 2025-04-29T10:10
+updated: 2025-04-29T15:29
 ---
 ---
 
@@ -12,6 +12,7 @@ updated: 2025-04-29T10:10
 - use to update content/variables in a page without reloading the page or using normal DOM
 - limitation: state will go to initial value if page reloads
 - to use variables inside react, we use `expression or evaluated expression or {}` and write variable inside these curly braces
+- hooks are basically functions which return something
 	![[Pasted image 20250304141710.png]]
 
 
@@ -48,7 +49,11 @@ extras: [[Hooks - useState]]
 - ref hooks
 	- use it when we want to work directly with DOM
 	- ![[Pasted image 20250426203121.png]]
-	- 
+	- in this we first import it
+	- create a variable and assisiate it to `useRef(<initial_value`) 
+	- then we use `ref={variable}` to associate that variable with the element that we write it inside
+	- after that we can perform any actions on that element using that variable
+- 
 
 
 

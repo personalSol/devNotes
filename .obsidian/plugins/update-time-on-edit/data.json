@@ -41,7 +41,7 @@
     "1 - notes/c. tools/chrome extension.md": "7c02c0bb4aeea7a7049ea3a5dc7e6fa325e52c9c70ec0c066ec4e647323ed39b",
     "1 - notes/z. others/vault-status.md": "2bdfa894a7709332af976bdd7d505ec85b3a8a29c0a64de8f29702c906d2b416",
     "3 - moc/sub-mocs/git-and-github-MOC.md": "90b941932653dd7943a4e5f1c481465816587e04277d3a8cc354cbee3c5a2c94",
-    "3 - moc/sub-mocs/react-MOC.md": "3847dc5f42aff07bb8ec0e53b96dbe74736f66b14bbf4d1c7a20b76cb05a665e",
+    "3 - moc/sub-mocs/react-MOC.md": "eee3a6d74a91e0c00304a4f6913079cf0b99c8d8b4c8b3ef37652c7b6dc2872c",
     "1 - notes/b. languages/css/CSS connecting with HTML.md": "1038447284d66b1dd9228cafd96fe57ad6bde7a70a2d79fb307262a5093e4c33",
     "1 - notes/b. languages/css/CSS margin and padding.md": "fbb9ecca87388333b981fc0b30e8b7806ec9e3d75f372612e362bd8557aa0d30",
     "1 - notes/b. languages/css/CSS units.md": "9ba2428a8561b7f6a5d4c5d9ebdbdeb51bf9d0a51d0baf9c8e6b5cc9aec77e50",
@@ -50,7 +50,7 @@
     "1 - notes/b. languages/css/CSS Specificity.md": "eb28a375e437a105616f25b39305ff5d0631ca002a43217e4cabe625a43269c5",
     "1 - notes/b. languages/css/CSS selectors.md": "d537a6c4c87650a3459dc13cc7a5078ac789889cdcb25a3d5d3dfa641e29e140",
     "1 - notes/c. tools/github/about github and github.md": "dce9fdb014168da7a9fd85e155bf3cf6814e65dd9166374afe2181e14a180459",
-    "1 - notes/c. tools/github/add or stage.md": "2366a48e660a57b5998606d6c97be93e05aad5ca1488250b886f0e0f94fc84ef",
+    "1 - notes/c. tools/github/add or stage.md": "54e8cfea1d9c4deb62eeceb69b95b6e6f47c455cd14d5197321e1ece9cc0b3f7",
     "1 - notes/c. tools/github/basic git commands.md": "d74887ef00fb13489d6f63a768aa85bc68d8548d98971077542edd6b1fc421a5",
     "1 - notes/c. tools/github/commit.md": "c77aea9536282ca1d7b36b76cd1f6d5bb4ee795adcc0dc8db9bdaf033d6d1227",
     "1 - notes/c. tools/github/detached headstate.md": "411c72bd6bd59901540c13c01f8fc44da718fdacddecdb458aad8db1591e6532",
@@ -89,7 +89,7 @@
     "1 - notes/a. concepts/core/space complexity.md": "5e0eaedeee04a8a8e3c843ed83a3b94104e28473df188c03e112d617b3d69a17",
     "1 - notes/a. concepts/core/data structure and algorithms.md": "41c38b0d2cab201c1dbdeeb4b3b9d20c0a6cc9e61781b086194bc4da5b7f0d86",
     "1 - notes/a. concepts/core/time complexity.md": "d30db8390c8c60a5753c8a48bed24af80e284ec6aa5e8851cdea4a6e8208311c",
-    "1 - notes/a. concepts/core/api.md": "d8102015da8994ac41f5eb18b17941a91045bc52064e8f97513caa761df84f60",
+    "1 - notes/a. concepts/core/api.md": "2539322734be62bac32d9de251336e40697f7091dda36b69183f8d94f872a1f5",
     "1 - notes/a. concepts/basics/library vs framework.md": "d052c4777139c64496abd4cdde88d7e8e2082e904047001a955fcb6536084f85",
     "1 - notes/a. concepts/basics/environment variables and path.md": "58798b6c0d0b09400e4ef066e1fcc6ae80fc9707a3016ccacaa839494775956f",
     "1 - notes/a. concepts/basics/program vs algorithm.md": "6690494256e369e3f97cf72a965cf09d20758bad9533f52e01c9b19d932fcfd1",
@@ -133,7 +133,7 @@
     "1 - notes/b. languages/library/react/react - about.md": "0f54362fbba668245cf7d4d9878ba323aefbf8f8931fbaaf25716b98250eee32",
     "1 - notes/b. languages/library/react/react topics to learn.md": "9e441c4a955e05f4a650951beabc05b01d153e8238e6863868675d1c8712642c",
     "1 - notes/b. languages/library/react/react - conventions to follow.md": "2ae24aea9c1ff04b32a18651ba360a8742dadbb0191251180f729ab58d08bb6d",
-    "1 - notes/b. languages/library/react/react - hooks.md": "975ee64cd71addda0aab644fc8d204605362e684ae9ec25d4b14d91f29fba0a2",
+    "1 - notes/b. languages/library/react/react - hooks.md": "6fcc9072b3a2e547843a587554814ebc144b876cb8819b3fe380ef4f78c62c73",
     "1 - notes/b. languages/library/react/react - how it works.md": "a8593f87b09fb41c142c166e67f19decd0cc97dad740edd2540340acc054f167",
     "1 - notes/b. languages/library/react/react - methods.md": "5b1a68054c6e01c0e145e93b2b219c323681b631019eb715f4f47df94c47dee6",
     "1 - notes/b. languages/library/react/react - things to remember.md": "ad7969a8f6d280fce9bda1ce7d5ba02f7e21346e1b166c080ba20a944f15e9e2",
@@ -174,6 +174,7 @@
     "0 - inbox/ai - augmentation and automation.md": "a27ec5e10075f5d047137ad2e4f4e1d7416f08b3a507eb1df92b27996e534db5",
     "0 - inbox/webhooks.md": "003281438c9af092e060740405dc38c97cc2ed50be8c4e345f8d30624a7994ba",
     "0 - inbox/ai agents.md": "4d72db77236c84d5569e17b5b8c61d43aad25e35488180b705719835d9366529",
-    "1 - notes/z. others/Websites and Resources.md": "8d79d53a8cd113e3f4ce55c2a38fbccbf4b54e6c7d23d4b2055e68903d16f754"
+    "1 - notes/z. others/Websites and Resources.md": "952f64b4896643df7ad63ce41732f353ddf7abeaff2d516575f0ad0b01241460",
+    "0 - inbox/react - custom hooks.md": "89c153bad14e2056f368e91a7bb2378e08f6e31e87bd2bee4eb4b8401279e614"
   }
 }

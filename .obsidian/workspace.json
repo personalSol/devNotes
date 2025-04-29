@@ -11,8 +11,20 @@
             "id": "f3554bd1d0981b8f",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 2,
               "stack": [
+                {
+                  "title": "add or stage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/github/add or stage.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"add or stage\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":2},\"to\":{\"line\":15,\"ch\":2}},\"scroll\":0.018855219136183512}"
+                },
+                {
+                  "title": "git-and-github-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/git-and-github-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"git-and-github-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":12},\"to\":{\"line\":16,\"ch\":12}},\"scroll\":5.731833708500234}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -39,8 +51,81 @@
               "icon": "lucide-file",
               "title": "react - hooks"
             }
+          },
+          {
+            "id": "e90fa082aaf046dd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - moc/sub-mocs/react-MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react-MOC"
+            }
+          },
+          {
+            "id": "51a5d85aaab0838a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "react - custom hooks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react - custom hooks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - custom hooks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":7},\"to\":{\"line\":11,\"ch\":7}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/a. concepts/core/api.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "api"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -144,7 +229,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/library/react/react - hooks.md",
+                "file": "1 - notes/a. concepts/core/api.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -172,7 +257,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of react - hooks"
+              "title": "Graph of api"
             }
           }
         ]
@@ -419,10 +504,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f3554bd1d0981b8f",
+  "active": "51a5d85aaab0838a",
   "lastOpenFiles": [
-    "0 - inbox/ai agents.md",
+    "0 - inbox/react - custom hooks.md",
+    "3 - moc/sub-mocs/react-MOC.md",
+    "1 - notes/b. languages/library/react/react - hooks.md",
+    "3 - moc/sub-mocs/git-and-github-MOC.md",
+    "1 - notes/c. tools/github/add or stage.md",
+    "1 - notes/b. languages/library/react/Hooks - useState.md",
     "1 - notes/z. others/Websites and Resources.md",
+    "0 - inbox/ai agents.md",
     "1 - notes/z. others/Tasks for coding.md",
     "2 - projects/Portfolio Project.md",
     "4 - sources/yt/AI roadmap by ansh mehra.md",
@@ -445,12 +536,6 @@
     "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
     "0 - inbox/cpp intro.md",
     "3 - moc/Languages-MOC.md",
-    "0 - inbox/Cpp-MOC.md",
-    "1 - notes/a. concepts/basics/flowchart.md",
-    "0 - inbox/types of languages.md",
-    "3 - moc/Concepts-MOC.md",
-    "0 - inbox/psuedo code.md",
-    "1 - notes/a. concepts/basics/program vs algorithm.md",
     "98 - attachments/Pasted image 20250426203121.png",
     "98 - attachments/Pasted image 20250426151837.png",
     "98 - attachments/Pasted image 20250426145546.png",

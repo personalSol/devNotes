@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[git-and-github-MOC]]"
 created: 2025-03-02T01:08
-updated: 2025-03-03T18:25
+updated: 2025-04-29T14:16
 ---
 ---
 
@@ -11,7 +11,7 @@ updated: 2025-03-03T18:25
 	- for all files: `git add .` 
 	- `git add <file-name>`
 - to unstage: 
-	- `git rm --cached <file-name>` or `git reset <file-name>`
+	- `git rm --cached <file-name>`
 	- `git reset <file-name>`
 - 
 # Reference

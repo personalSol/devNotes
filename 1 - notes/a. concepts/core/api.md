@@ -3,23 +3,34 @@ status: newBorn
 related-links:
   - "[[tG api]]"
 created: 2025-02-28T21:54
-updated: 2025-04-28T15:18
+updated: 2025-04-29T15:41
 ---
 ---
 
 
 ### basic
 
-![[What-is-an-API.png]]
+#### what is API
 - stands for Application Programming Interface
 - is like a messenger that allows two different programs or systems to talk to each other
 - defines how software components should interact
 - eg. when you use an app on your phone to check the weather, the app communicates with a server via an API to get the weather data and display it to you.
-- Analogy
-	It's like a waiter in a restaurant: you tell the waiter what you want, they take your request to the kitchen (the server), and then bring the food (the data) back to you. The waiter (API) handles the communication between you and the kitchen!
+- Like: if we have a software in which we have to send an email at the user’s request then we can use API for gmail, etc to send that email instead of making our own program.
+	- all app that use maps use google maps api, all wheather apps use weather api to get real time data on weather
 
-Like: if we have a software in which we have to send an email at the user’s request then we can use API for gmail, etc to send that email instead of making our own program.
-- all app that use maps use google maps api, all wheather apps use weather api to get real time data on weather
+#### Analogy
+
+It's like a waiter in a restaurant: you tell the waiter what you want, they take your request to the kitchen (the server), and then bring the food (the data) back to you. The waiter (API) handles the communication between you and the kitchen!
+
+![[What-is-an-API.png||350]]
+
+
+#### how it works
+
+- mostly api's give a string response which is in json format but still of string type
+- so we have to convert it to json
+- to convert it in js, we use `<data>.json()`
+
 
 ### ways to get data from API
 
@@ -35,7 +46,7 @@ inside this we had condition that wehenever readyState is 4 which means the oper
 
 because the data we recieve is in string format so we have to convert it into JSON ( almost like an object ) to get inside it.
 
-##### code
+###### code
 ```html
 <!DOCTYPE html>
 <html lang="en">
@@ -67,6 +78,10 @@ because the data we recieve is in string format so we have to convert it into JS
 </script>
 </html>
 ```
+
+##### latest method
+- 
+
 
 ##### new method
 - fetch // have to write about it
