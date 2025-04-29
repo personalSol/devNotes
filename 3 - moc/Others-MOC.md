@@ -1,6 +1,6 @@
 ---
 created: 2025-04-11T10:53
-updated: 2025-04-11T10:55
+updated: 2025-04-28T17:15
 ---
 
 # Others-MOC
@@ -13,7 +13,7 @@ here will be all the notes around Others-MOC
 - [[Tasks for coding]]
 - [[vault-status]]
 - [[videos to watch eventually]]
-- [[Websites List]]
+- [[Websites and Resources]]
 - [[Youtubers for programming]]
 - [[Questions asked in interview]]
 

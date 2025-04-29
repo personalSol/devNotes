@@ -1,6 +1,6 @@
 ---
 created: 2025-04-28T09:54
-updated: 2025-04-28T10:49
+updated: 2025-04-28T16:18
 ---
 
 # {{title}}
@@ -14,7 +14,8 @@ here will be all the notes around {{title}}
 
 ### basic
 
-- 
+- [[ai agents]]
+- [[ai - augmentation and automation]]
 
 ### advance
 

@@ -2,12 +2,12 @@
 created: 2025-04-25T21:34:39
 status: 
 source: 
-updated: 2025-04-28T10:41
+updated: 2025-04-28T16:24
 ---
 ---
 
-Newsletter:
-- hubstop simple.ai
+~~Newsletter:~~
+- ~~hubstop simple.ai~~
 
 
 ## Lessons
@@ -27,19 +27,17 @@ routine to improve your ai skills and become a good ai operator:
 
 
 
-Traditional AI:
-- can't operate manually
-- requires manual activation each time
 
-AI Agents:
-- acts as a proactive personal assistant to achieve set goals
-- Ai agents are not ai models ( models like gpt, gemini, claude )
-- ai agents are workflows
-- to make decisions while running those workflows, ai agent can use any AI MODEL
 
-ex of a popolar chinese ai agent: 
-![[Pasted image 20250428104023.png||400]]
-![[Pasted image 20250428104132.png]]
+
+# chapter 2
+
+An AI Agent, on the other hand, is more like an
+end to end solution. It's like building a personal
+assistant who can open up multiple softwares,
+ask for data, process it, find patterns in it and
+actually complete tasks.
+
 
 # Reference
 `related link(if any)`
