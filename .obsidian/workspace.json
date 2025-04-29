@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d9d3661f0bc40e44",
+        "id": "78230ac88dab2e14",
         "type": "tabs",
         "children": [
           {
-            "id": "13d97b7070bebe44",
+            "id": "f3554bd1d0981b8f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,61 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "AI and ML",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI and ML.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI and ML\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":9},\"to\":{\"line\":16,\"ch\":9}},\"scroll\":5.717993089062029}"
-                },
-                {
-                  "title": "Terms-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Terms-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Terms-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}},\"scroll\":6.591111416286893}"
-                },
-                {
-                  "title": "AI and ML",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI and ML.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI and ML\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}},\"scroll\":0.35254235995017874}"
-                },
-                {
-                  "title": "cpp datatypes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/cpp datatypes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp datatypes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":5},\"to\":{\"line\":9,\"ch\":5}}}"
-                },
-                {
-                  "title": "Cpp-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":14},\"to\":{\"line\":18,\"ch\":14}}}"
-                },
-                {
-                  "title": "Languages-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Languages-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Languages-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":2},\"to\":{\"line\":11,\"ch\":2}}}"
-                },
-                {
-                  "title": "flowchart",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/basics/flowchart.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"flowchart\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":20},\"to\":{\"line\":10,\"ch\":20}}}"
-                },
-                {
-                  "title": "types of languages",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/types of languages.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"types of languages\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":97},\"to\":{\"line\":16,\"ch\":97}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/ai agents.md",
+                "file": "1 - notes/b. languages/library/react/react - hooks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,68 +37,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ai agents"
-            }
-          },
-          {
-            "id": "232e71342f206957",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "AI roadmap by ansh mehra",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/AI roadmap by ansh mehra.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI roadmap by ansh mehra\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":29,\"ch\":0},\"to\":{\"line\":29,\"ch\":0}},\"scroll\":24.622784835879813}"
-                },
-                {
-                  "title": "terms for AI",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/terms for AI.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"terms for AI\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":40},\"to\":{\"line\":9,\"ch\":40}},\"scroll\":0}"
-                },
-                {
-                  "title": "AI roadmap by ansh mehra",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/AI roadmap by ansh mehra.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI roadmap by ansh mehra\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":41,\"ch\":36},\"to\":{\"line\":41,\"ch\":36}},\"scroll\":41.04375548215931}"
-                },
-                {
-                  "title": "terms around AI",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/terms for AI.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"terms around AI\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":92},\"to\":{\"line\":9,\"ch\":92}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/z. others/Websites and Resources.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Websites and Resources"
+              "title": "react - hooks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -250,7 +144,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/z. others/Websites and Resources.md",
+                "file": "1 - notes/b. languages/library/react/react - hooks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -278,7 +172,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Websites and Resources"
+              "title": "Graph of react - hooks"
             }
           }
         ]
@@ -525,11 +419,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "232e71342f206957",
+  "active": "f3554bd1d0981b8f",
   "lastOpenFiles": [
+    "0 - inbox/ai agents.md",
+    "1 - notes/z. others/Websites and Resources.md",
+    "1 - notes/z. others/Tasks for coding.md",
+    "2 - projects/Portfolio Project.md",
     "4 - sources/yt/AI roadmap by ansh mehra.md",
     "0 - inbox/Untitled.md",
-    "0 - inbox/ai agents.md",
     "3 - moc/AI and ML.md",
     "0 - inbox/terms for AI.md",
     "1 - notes/a. concepts/core/api.md",
@@ -554,9 +451,6 @@
     "3 - moc/Concepts-MOC.md",
     "0 - inbox/psuedo code.md",
     "1 - notes/a. concepts/basics/program vs algorithm.md",
-    "3 - moc/sub-mocs/react-MOC.md",
-    "0 - inbox/js - array.md",
-    "1 - notes/b. languages/javascript/DOM Manipulation.md",
     "98 - attachments/Pasted image 20250426203121.png",
     "98 - attachments/Pasted image 20250426151837.png",
     "98 - attachments/Pasted image 20250426145546.png",

@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[react-MOC]]"
 created: 2025-04-22T16:46
-updated: 2025-04-26T20:31
+updated: 2025-04-29T10:10
 ---
 ---
 
@@ -41,8 +41,8 @@ extras: [[Hooks - useState]]
 		- **executes** the code inside it whenever its dependencies change.
 - performance hooks
 	- `useCallback()`
+		- use to optimize the function and not execute it
 		- **memoizes** the function, meaning it creates a new version of the function only when its dependencies change.
-		- It does **not execute** the function. It just ensures that the function reference remains stable unless the dependencies change.
 		- it only stores the values in cache and not run them
 		- it is used for function and prevents it from being recreated and only recreates when one of the dependencies of useCallBack changes
 - ref hooks

@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Others-MOC]]"
 created: 2025-03-12T06:02
-updated: 2025-04-25T07:14
+updated: 2025-04-29T06:33
 ---
 ---
 
@@ -30,6 +30,18 @@ learn in public:
 - twitter
 - dev io
 - codeforces for blog
+
+
+
+
+For ai:
+
+- [ ] see about mcp servers
+- [ ] learn about n8n
+- [ ] 
+
+
+
 
 # Reference
 `related tags + notes + source + link(if any)`

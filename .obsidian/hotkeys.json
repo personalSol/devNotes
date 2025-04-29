@@ -402,7 +402,14 @@
     }
   ],
   "editor:cycle-list-checklist": [],
-  "editor:toggle-checklist-status": [],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "Enter"
+    }
+  ],
   "theme:switch": [
     {
       "modifiers": [
@@ -743,5 +750,6 @@
       ],
       "key": "Enter"
     }
-  ]
+  ],
+  "editor:follow-link": []
 }

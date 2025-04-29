@@ -63,7 +63,9 @@ things to keep in mind:
 - **People**: 
 - Related Projects: 
 	- [Bits Of Mandal](https://about.bitsofmandal.com/)
-- **Video:** [CREATE a Stunning REACT JS Portfolio Website in 3 Hours - YouTube](https://youtu.be/k3JMkRwd_Nw?si=god3oKrxzL_ocKvr)
+- **Video:** 
+	- [CREATE a Stunning REACT JS Portfolio Website in 3 Hours - YouTube](https://youtu.be/k3JMkRwd_Nw?si=god3oKrxzL_ocKvr)
+	- [Build a Stunning Portfolio Website with React, Tailwind CSS & Framer Motion! - YouTube](https://youtu.be/hw4bzV9Uu7A?si=p9TFYr2aikZo6Td7)
 
 
 
