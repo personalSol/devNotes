@@ -137,7 +137,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -241,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/z. others/Websites and Resources.md",
+                "file": "3 - moc/sub-mocs/react-MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -269,7 +269,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Websites and Resources"
+              "title": "Graph of react-MOC"
             }
           }
         ]
@@ -516,8 +516,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "51a5d85aaab0838a",
+  "active": "e90fa082aaf046dd",
   "lastOpenFiles": [
+    "1 - notes/z. others/Websites and Resources.md",
     "1 - notes/c. tools/github/commit.md",
     "1 - notes/a. concepts/core/api.md",
     "0 - inbox/react - custom hooks.md",
@@ -526,7 +527,6 @@
     "3 - moc/sub-mocs/git-and-github-MOC.md",
     "1 - notes/c. tools/github/add or stage.md",
     "1 - notes/b. languages/library/react/Hooks - useState.md",
-    "1 - notes/z. others/Websites and Resources.md",
     "0 - inbox/ai agents.md",
     "1 - notes/z. others/Tasks for coding.md",
     "2 - projects/Portfolio Project.md",
