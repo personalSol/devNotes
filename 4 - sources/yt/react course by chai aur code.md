@@ -2,7 +2,7 @@
 created: 2025-03-03T21:10:27
 status: 
 source: 
-updated: 2025-04-25T11:21
+updated: 2025-05-02T17:08
 ---
 ---
 
@@ -120,6 +120,13 @@ const ClrButton = ({ updatedColor, setBgClr }) => {
 
 remember that in js, onclick requires reference of functiona and to pass value in function we can directly use arrow function like this
 `onClick={() => setBgClr(updatedColor)}`
+
+
+
+
+
+
+
 # Reference
 `related link(if any)`
 

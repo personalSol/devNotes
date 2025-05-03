@@ -1,6 +1,6 @@
 ---
 created: 2025-03-03T18:37
-updated: 2025-04-29T15:31
+updated: 2025-05-02T17:09
 ---
 
 ### react-MOC
@@ -20,7 +20,7 @@ here will be all the notes around react-MOC from: [[Languages-MOC]] & [[Web-Dev-
 - [[react - hooks]]
 - [[react - methods]]
 - [[react - custom hooks]]
-- 
+- [[react - components]]
 
 
 ### advance

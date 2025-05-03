@@ -26,7 +26,7 @@
     "1 - notes/d. maths/simple interest.md": "f6f0a7a4a8136a215b32643c6cea0071deb6d4991e7b6a8210d5d3d67b753590",
     "3 - moc/Maths-MOC.md": "18e9b5bee2f4871c31e5073ed5baae89b6f89648e057d77c64e576b3c28774c6",
     "3 - moc/sub-mocs/Java-MOC.md": "491d6ee2b3f3096ccfd352da8aa24a01c3c4001f70521a4e55f1c677b1dfae59",
-    "3 - moc/sub-mocs/JavaScript-MOC.md": "db887a4d9a891361c91beb834c816f5dddc1cc9d1fab42d9191091f96e0bdcb4",
+    "3 - moc/sub-mocs/JavaScript-MOC.md": "2169550216155c2de9e0d967a0abf7f238fc27d80e43e201e82c11f719e2f3c0",
     "3 - moc/sub-mocs/CSS-MOC.md": "ba3aa0ac42398850780ef48116323853316e6f05f43ac63445117dc1504e91cc",
     "1 - notes/b. languages/css/CSS Positioning.md": "b077ba25a3805ba332284c8d1666c9518fa10854fa57a0af8e1b2093f1e8f1db",
     "1 - notes/b. languages/css/CSS flex property.md": "21b01a7e2578afce4c1f41686f16a789267bb7a59121a3021dcffabc03770126",
@@ -41,7 +41,7 @@
     "1 - notes/c. tools/chrome extension.md": "7c02c0bb4aeea7a7049ea3a5dc7e6fa325e52c9c70ec0c066ec4e647323ed39b",
     "1 - notes/z. others/vault-status.md": "2bdfa894a7709332af976bdd7d505ec85b3a8a29c0a64de8f29702c906d2b416",
     "3 - moc/sub-mocs/git-and-github-MOC.md": "90b941932653dd7943a4e5f1c481465816587e04277d3a8cc354cbee3c5a2c94",
-    "3 - moc/sub-mocs/react-MOC.md": "eee3a6d74a91e0c00304a4f6913079cf0b99c8d8b4c8b3ef37652c7b6dc2872c",
+    "3 - moc/sub-mocs/react-MOC.md": "6793e0ee475f560a9f1b110eec0d99ccd2da1f216d4c3ec942d7486245f63cfc",
     "1 - notes/b. languages/css/CSS connecting with HTML.md": "1038447284d66b1dd9228cafd96fe57ad6bde7a70a2d79fb307262a5093e4c33",
     "1 - notes/b. languages/css/CSS margin and padding.md": "fbb9ecca87388333b981fc0b30e8b7806ec9e3d75f372612e362bd8557aa0d30",
     "1 - notes/b. languages/css/CSS units.md": "9ba2428a8561b7f6a5d4c5d9ebdbdeb51bf9d0a51d0baf9c8e6b5cc9aec77e50",
@@ -67,7 +67,7 @@
     "4 - sources/yt/Mern Crash Course by sheriyans.md": "c4678a63222abe9241330212f556e3184f648f594f6919e8e74e5d299f429873",
     "4 - sources/yt/mern stack crash course by freecodecamp.md": "10906ce9f00d3216247ee81bb14758b65ffbab43c5f384ab85fdfab24848505e",
     "4 - sources/yt/Mongodb by code with harry.md": "79707d6bf0156fe09db839c03e0734a7a8e80ca7fdc7f288b4afeec9ad2c2353",
-    "4 - sources/yt/react course by chai aur code.md": "359f2def7dfcf1a2c4fe23e2a3de948bad094d87a4b11b68b8bed22e351920fe",
+    "4 - sources/yt/react course by chai aur code.md": "411a9c6df399c5989a38fa8a8c232f66ca9c27bb727b14d10aec4bbe7b880985",
     "4 - sources/yt/MongoDB by Simpli Learn Dev.md": "7fbe4324f66f6074e3578eb23c38a52100c18b1e6ec2d3433d33abf99d39235e",
     "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md": "0d086457c4a05a320531c7d9164c133674e0cc2189fe7016b2dc8affae807e59",
     "4 - sources/Qspiders/Programming by shambu sir.md": "06f55d196ce23329874c819b598ca40c10bd7d6cb50c16e75bb4e2ecf4e34f8f",
@@ -133,7 +133,7 @@
     "1 - notes/b. languages/library/react/react - about.md": "0f54362fbba668245cf7d4d9878ba323aefbf8f8931fbaaf25716b98250eee32",
     "1 - notes/b. languages/library/react/react topics to learn.md": "9e441c4a955e05f4a650951beabc05b01d153e8238e6863868675d1c8712642c",
     "1 - notes/b. languages/library/react/react - conventions to follow.md": "2ae24aea9c1ff04b32a18651ba360a8742dadbb0191251180f729ab58d08bb6d",
-    "1 - notes/b. languages/library/react/react - hooks.md": "6fcc9072b3a2e547843a587554814ebc144b876cb8819b3fe380ef4f78c62c73",
+    "1 - notes/b. languages/library/react/react - hooks.md": "35fafb74228021c83c01803e35822bba75139783324b3f5067c29f79857d7f12",
     "1 - notes/b. languages/library/react/react - how it works.md": "a8593f87b09fb41c142c166e67f19decd0cc97dad740edd2540340acc054f167",
     "1 - notes/b. languages/library/react/react - methods.md": "5b1a68054c6e01c0e145e93b2b219c323681b631019eb715f4f47df94c47dee6",
     "1 - notes/b. languages/library/react/react - things to remember.md": "ad7969a8f6d280fce9bda1ce7d5ba02f7e21346e1b166c080ba20a944f15e9e2",
@@ -175,6 +175,9 @@
     "0 - inbox/webhooks.md": "003281438c9af092e060740405dc38c97cc2ed50be8c4e345f8d30624a7994ba",
     "0 - inbox/ai agents.md": "4d72db77236c84d5569e17b5b8c61d43aad25e35488180b705719835d9366529",
     "1 - notes/z. others/Websites and Resources.md": "401bcee684ad000dbf9009d61917c017ee41b80d91a446b9b9bf49ff3fb2f26c",
-    "0 - inbox/react - custom hooks.md": "89c153bad14e2056f368e91a7bb2378e08f6e31e87bd2bee4eb4b8401279e614"
+    "0 - inbox/react - custom hooks.md": "89c153bad14e2056f368e91a7bb2378e08f6e31e87bd2bee4eb4b8401279e614",
+    "0 - inbox/js - functions.md": "e13a60863309f17231eae45acdd059efa8ba7eab2f5832518091827552f4cbbb",
+    "0 - inbox/react - components.md": "9e67208928c724a3f37472420d59d0f583162b025f56a43f397f2b7c6e4637d0",
+    "0 - inbox/js - objects.md": "6731424e05b19e0a5a5cd026fa3b2b54724568b73c5f141e135d90b1778cf6e3"
   }
 }

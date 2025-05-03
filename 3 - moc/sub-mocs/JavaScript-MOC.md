@@ -1,6 +1,6 @@
 ---
 created: 2025-02-24T23:18
-updated: 2025-04-25T16:00
+updated: 2025-05-02T17:47
 ---
 # JavaScript MOC
 
@@ -18,7 +18,9 @@ it will have all the notes around JS connected to it.
 - 
 - [[JS Events]]
 - [[js - array]]
+- [[js - objects]]
 - 
+- [[js - functions]]
 
 
 ## Advance

@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[react-MOC]]"
 created: 2025-04-22T16:46
-updated: 2025-04-29T15:29
+updated: 2025-05-02T17:27
 ---
 ---
 
@@ -53,7 +53,10 @@ extras: [[Hooks - useState]]
 	- create a variable and assisiate it to `useRef(<initial_value`) 
 	- then we use `ref={variable}` to associate that variable with the element that we write it inside
 	- after that we can perform any actions on that element using that variable
-- 
+- Random hooks
+	- useID
+		- use to generate random id which can be use.
+		- shouldn't be use to generate keys
 
 
 
