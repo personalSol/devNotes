@@ -118,13 +118,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "SOP-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/SOP-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SOP-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":33},\"to\":{\"line\":20,\"ch\":33}},\"scroll\":3.864406779661017}"
+                },
+                {
+                  "title": "js - objects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/js - objects.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js - objects\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/js - objects.md",
+                "file": "0 - inbox/how to use android in virtual machine.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -139,7 +151,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "js - objects"
+              "title": "how to use android in virtual machine"
             }
           },
           {
@@ -381,7 +393,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/js - objects.md",
+                "file": "0 - inbox/how to use android in virtual machine.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -409,7 +421,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of js - objects"
+              "title": "Graph of how to use android in virtual machine"
             }
           }
         ]
@@ -658,7 +670,10 @@
   },
   "active": "02c8b8dde7117f28",
   "lastOpenFiles": [
+    "3 - moc/SOP-MOC.md",
+    "0 - inbox/how to use android in virtual machine.md",
     "0 - inbox/js - objects.md",
+    "1 - notes/f. sops",
     "3 - moc/sub-mocs/JavaScript-MOC.md",
     "0 - inbox/react - components.md",
     "1 - notes/b. languages/library/react/react - hooks.md",
@@ -682,8 +697,6 @@
     "0 - inbox/Untitled.md",
     "3 - moc/AI and ML.md",
     "0 - inbox/terms for AI.md",
-    "0 - inbox/ai - augmentation and automation.md",
-    "0 - inbox/webhooks.md",
     "98 - attachments/Pasted image 20250428104132.png",
     "98 - attachments/Pasted image 20250428104128.png",
     "98 - attachments/Pasted image 20250428104023.png",
@@ -703,7 +716,6 @@
     "1 - notes/a. concepts/other",
     "1 - notes/c. tools/mongoDB",
     "1 - notes/c. tools/github",
-    "4 - sources/yt",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",
