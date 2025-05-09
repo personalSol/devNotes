@@ -120,6 +120,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "Cpp-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":13},\"to\":{\"line\":18,\"ch\":13}}}"
+                },
+                {
+                  "title": "how to use android in virtual machine",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/how to use android in virtual machine.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"how to use android in virtual machine\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":28},\"to\":{\"line\":10,\"ch\":28}}}"
+                },
+                {
                   "title": "SOP-MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/SOP-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SOP-MOC\"}",
@@ -136,7 +148,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/how to use android in virtual machine.md",
+                "file": "0 - inbox/cpp datatypes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -151,7 +163,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "how to use android in virtual machine"
+              "title": "cpp datatypes"
             }
           },
           {
@@ -393,7 +405,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/how to use android in virtual machine.md",
+                "file": "0 - inbox/cpp datatypes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -421,7 +433,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of how to use android in virtual machine"
+              "title": "Graph of cpp datatypes"
             }
           }
         ]
@@ -670,8 +682,9 @@
   },
   "active": "02c8b8dde7117f28",
   "lastOpenFiles": [
-    "3 - moc/SOP-MOC.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
     "0 - inbox/how to use android in virtual machine.md",
+    "3 - moc/SOP-MOC.md",
     "0 - inbox/js - objects.md",
     "1 - notes/f. sops",
     "3 - moc/sub-mocs/JavaScript-MOC.md",
@@ -696,7 +709,6 @@
     "4 - sources/yt/AI roadmap by ansh mehra.md",
     "0 - inbox/Untitled.md",
     "3 - moc/AI and ML.md",
-    "0 - inbox/terms for AI.md",
     "98 - attachments/Pasted image 20250428104132.png",
     "98 - attachments/Pasted image 20250428104128.png",
     "98 - attachments/Pasted image 20250428104023.png",
