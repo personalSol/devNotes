@@ -4,221 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78230ac88dab2e14",
+        "id": "da96c69b6d08eefd",
         "type": "tabs",
         "children": [
           {
-            "id": "f3554bd1d0981b8f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 2,
-              "stack": [
-                {
-                  "title": "add or stage",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/github/add or stage.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"add or stage\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":2},\"to\":{\"line\":15,\"ch\":2}},\"scroll\":0.018855219136183512}"
-                },
-                {
-                  "title": "git-and-github-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/git-and-github-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"git-and-github-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":12},\"to\":{\"line\":16,\"ch\":12}},\"scroll\":5.731833708500234}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/library/react/react - hooks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react - hooks"
-            }
-          },
-          {
-            "id": "e90fa082aaf046dd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Languages-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Languages-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Languages-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":13},\"to\":{\"line\":8,\"ch\":13}}}"
-                },
-                {
-                  "title": "Maths-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Maths-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Maths-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Web-Dev-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Web-Dev-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Web-Dev-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":1.694915254237288}"
-                },
-                {
-                  "title": "react-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/react-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":2},\"to\":{\"line\":22,\"ch\":2}},\"scroll\":3.389830508474576}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/JavaScript-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "JavaScript-MOC"
-            }
-          },
-          {
-            "id": "02c8b8dde7117f28",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Cpp-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":13},\"to\":{\"line\":18,\"ch\":13}}}"
-                },
-                {
-                  "title": "how to use android in virtual machine",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/how to use android in virtual machine.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"how to use android in virtual machine\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":28},\"to\":{\"line\":10,\"ch\":28}}}"
-                },
-                {
-                  "title": "SOP-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/SOP-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SOP-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":33},\"to\":{\"line\":20,\"ch\":33}},\"scroll\":3.864406779661017}"
-                },
-                {
-                  "title": "js - objects",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/js - objects.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js - objects\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/cpp datatypes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp datatypes"
-            }
-          },
-          {
-            "id": "ae8a669aebb04dee",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "react-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/react-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":21},\"to\":{\"line\":22,\"ch\":21}},\"scroll\":5.785984859842024}"
-                },
-                {
-                  "title": "react course by chai aur code",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/react course by chai aur code.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react course by chai aur code\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":125,\"ch\":0},\"to\":{\"line\":125,\"ch\":0}},\"scroll\":110.97721778021918}"
-                },
-                {
-                  "title": "js - functions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/js - functions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js - functions\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":75},\"to\":{\"line\":12,\"ch\":75}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/library/react/react - hooks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react - hooks"
-            }
-          },
-          {
-            "id": "9a03139d09853cd6",
+            "id": "d56689f7638421f6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -232,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/react - components.md",
+                "file": "3 - moc/sub-mocs/Cpp-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -247,11 +37,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react - components"
+              "title": "Cpp-MOC"
             }
           },
           {
-            "id": "51a5d85aaab0838a",
+            "id": "f33a09ec781065db",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -261,29 +51,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "commit",
+                  "title": "cpp - call by reference and call by value",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/github/commit.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"commit\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "api",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/core/api.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"api\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "react - custom hooks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react - custom hooks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - custom hooks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":7},\"to\":{\"line\":11,\"ch\":7}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/cpp - call by reference and call by value.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp - call by reference and call by value\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":48},\"to\":{\"line\":34,\"ch\":48}},\"scroll\":21.419047037760418}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/z. others/Websites and Resources.md",
+                "file": "1 - notes/a. concepts/core/time complexity.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -298,11 +76,44 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Websites and Resources"
+              "title": "time complexity"
+            }
+          },
+          {
+            "id": "0ae7aa98b1902be7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/cpp arrays.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp arrays"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -405,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/cpp datatypes.md",
+                "file": "1 - notes/a. concepts/core/time complexity.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -433,7 +244,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cpp datatypes"
+              "title": "Graph of time complexity"
             }
           }
         ]
@@ -466,13 +277,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/b. languages/library/react/react - hooks.md",
+                "file": "1 - notes/a. concepts/core/time complexity.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of react - hooks"
+              "title": "Outline of time complexity"
             }
           },
           {
@@ -660,8 +471,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -680,35 +490,36 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "02c8b8dde7117f28",
+  "active": "f33a09ec781065db",
   "lastOpenFiles": [
+    "0 - inbox/cpp - call by reference and call by value.md",
+    "0 - inbox/cpp arrays.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
+    "0 - inbox/Cpp cheatsheet.md",
+    "3 - moc/Cheatsheets-MOC.md",
+    "1 - notes/z. others/Websites and Resources.md",
+    "0 - inbox/react - components.md",
+    "1 - notes/b. languages/library/react/react - hooks.md",
+    "0 - inbox/cpp - string.md",
+    "3 - moc/sub-mocs/JavaScript-MOC.md",
+    "0 - inbox/cpp datatypes.md",
+    "97 - templates/tmp-full-note.md",
+    "98 - attachments/vlc_ODr8n1wrA6.png",
     "0 - inbox/how to use android in virtual machine.md",
     "3 - moc/SOP-MOC.md",
     "0 - inbox/js - objects.md",
     "1 - notes/f. sops",
-    "3 - moc/sub-mocs/JavaScript-MOC.md",
-    "0 - inbox/react - components.md",
-    "1 - notes/b. languages/library/react/react - hooks.md",
     "3 - moc/sub-mocs/react-MOC.md",
     "4 - sources/yt/react course by chai aur code.md",
     "0 - inbox/js - functions.md",
     "3 - moc/Languages-MOC.md",
     "3 - moc/Maths-MOC.md",
     "3 - moc/Web-Dev-MOC.md",
-    "1 - notes/z. others/Websites and Resources.md",
     "1 - notes/c. tools/github/commit.md",
     "1 - notes/a. concepts/core/api.md",
     "0 - inbox/react - custom hooks.md",
     "3 - moc/sub-mocs/git-and-github-MOC.md",
     "1 - notes/c. tools/github/add or stage.md",
-    "1 - notes/b. languages/library/react/Hooks - useState.md",
-    "0 - inbox/ai agents.md",
-    "1 - notes/z. others/Tasks for coding.md",
-    "2 - projects/Portfolio Project.md",
-    "4 - sources/yt/AI roadmap by ansh mehra.md",
-    "0 - inbox/Untitled.md",
-    "3 - moc/AI and ML.md",
     "98 - attachments/Pasted image 20250428104132.png",
     "98 - attachments/Pasted image 20250428104128.png",
     "98 - attachments/Pasted image 20250428104023.png",
@@ -718,7 +529,6 @@
     "98 - attachments/Pasted image 20250426145546.png",
     "98 - attachments/Pasted image 20250426143512.png",
     "98 - attachments/Pasted image 20250426143150.png",
-    "98 - attachments/Pasted image 20250426143114.png",
     "1 - notes/b. languages/library/react",
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",

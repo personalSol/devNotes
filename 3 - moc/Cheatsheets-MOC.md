@@ -1,6 +1,6 @@
 ---
 created: 2025-02-10T23:09
-updated: 2025-04-11T10:38
+updated: 2025-05-09T11:26
 ---
 
 ## Cheatsheet list
@@ -10,7 +10,7 @@ updated: 2025-04-11T10:38
 - [[Javascript Cheatsheet]]
 - [[Git-n-GitHub Cheatsheet]]
 - [[Mongoose Cheatsheet]]
-- 
+- [[Cpp cheatsheet]]
 
 
 

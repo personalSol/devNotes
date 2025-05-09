@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-04-28T09:00
-updated: 2025-05-08T10:12
+updated: 2025-05-09T10:38
 ---
 ---
 
@@ -18,12 +18,21 @@ for decimal:
 for string
 - string
 	- only takes characters until first whitespace
+	- should be inside `"` double quotes
+	- it's a collection of char and each individual char need to be accessed/modified with `'` single quote
 - getline
 	- it takes one full line
 	- no next line 
 	- takes 2 arguments
 		- cin as first
 		- input variable as second
+
+
+for char
+- char
+	- must be initialized with `'` single quotes and not double
+
+- ![[vlc_ODr8n1wrA6.png]]
 
 
 # Reference
