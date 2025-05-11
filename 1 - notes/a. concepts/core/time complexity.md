@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Core-Concepts-MOC]]"
 created: 2025-02-12T18:27
-updated: 2025-02-24T23:49
+updated: 2025-05-09T20:17
 ---
 ---
 
@@ -47,6 +47,26 @@ to get better time complexity, we must find:
 	- that pass all test cases
 
 
+### rules for TC
+
+- always measure it in worst case scenario
+	- reason: prepare for worst and to generally keep in mind that our system will be scalable
+- avoid constants
+	- means avoid fix numbers, imagine a code with big time complexity and then you are also adding small numbers. Those numbers will be insignificant so we don't add them to reduce the complexity of code
+- avoid lower values
+	- we also avoid lower power values like `O(4n^3 + n^2)`
+	- here we will avoid n^2 as it's not that significant
+
+
+### different methods to measure
+
+- upper bound or worse case
+	- measured in Big-Oh
+- average complexity
+	- measured in theta
+- lower bound or best case
+	- measured in Omega
+
 
 ## Types
 
@@ -54,6 +74,19 @@ to get better time complexity, we must find:
 	- when time complexity is calculated directly from number of iterations means - O(n) (ig)
 - Constant time complexity
 	- when time complexity is O(1)
+
+
+## tips
+
+- in most coding platforms for CP, 1 sec is equal to 10^8 operations 
+- 2 sec = 2 x 10^8 operations
+
+in some rounds they might say that you have 1 sec time limit so that means you can do a maximum of 10^8 operations only
+
+
+### code example
+
+- [[tc - code example]]
 
 
 ## Reference

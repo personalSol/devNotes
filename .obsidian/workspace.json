@@ -44,8 +44,14 @@
             "id": "f33a09ec781065db",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "space complexity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/core/space complexity.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"space complexity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":27},\"to\":{\"line\":28,\"ch\":27}},\"scroll\":1.451851815888376}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -77,6 +83,39 @@
               },
               "icon": "lucide-file",
               "title": "time complexity"
+            }
+          },
+          {
+            "id": "5117f3752f2ff0b1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/tc - code example.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "tc - code example"
             }
           },
           {
@@ -492,6 +531,11 @@
   },
   "active": "f33a09ec781065db",
   "lastOpenFiles": [
+    "1 - notes/a. concepts/core/space complexity.md",
+    "98 - attachments/Pasted image 20250509201128.png",
+    "1 - notes/a. concepts/core/time complexity.md",
+    "0 - inbox/tc - code example.md",
+    "3 - moc/Maths-MOC.md",
     "0 - inbox/cpp - call by reference and call by value.md",
     "0 - inbox/cpp arrays.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
@@ -513,13 +557,8 @@
     "4 - sources/yt/react course by chai aur code.md",
     "0 - inbox/js - functions.md",
     "3 - moc/Languages-MOC.md",
-    "3 - moc/Maths-MOC.md",
     "3 - moc/Web-Dev-MOC.md",
     "1 - notes/c. tools/github/commit.md",
-    "1 - notes/a. concepts/core/api.md",
-    "0 - inbox/react - custom hooks.md",
-    "3 - moc/sub-mocs/git-and-github-MOC.md",
-    "1 - notes/c. tools/github/add or stage.md",
     "98 - attachments/Pasted image 20250428104132.png",
     "98 - attachments/Pasted image 20250428104128.png",
     "98 - attachments/Pasted image 20250428104023.png",
@@ -528,7 +567,6 @@
     "98 - attachments/Pasted image 20250426151837.png",
     "98 - attachments/Pasted image 20250426145546.png",
     "98 - attachments/Pasted image 20250426143512.png",
-    "98 - attachments/Pasted image 20250426143150.png",
     "1 - notes/b. languages/library/react",
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",

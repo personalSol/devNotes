@@ -24,7 +24,7 @@
     "1 - notes/b. languages/java/Java Cheatsheet.md": "d684dcaec433736efe2719379a07f5f95280a7911325d8b7516c410455f9c07f",
     "1 - notes/d. maths/area and parameter.md": "27885295713d0f5acc04ffb09ff85a58ac1121522902f6049a8fb957ad133fa8",
     "1 - notes/d. maths/simple interest.md": "f6f0a7a4a8136a215b32643c6cea0071deb6d4991e7b6a8210d5d3d67b753590",
-    "3 - moc/Maths-MOC.md": "18e9b5bee2f4871c31e5073ed5baae89b6f89648e057d77c64e576b3c28774c6",
+    "3 - moc/Maths-MOC.md": "6695ecaf6e59837a8df00daf93e4b0128b927ec00ba69ba4c54cd0d9057e40d7",
     "3 - moc/sub-mocs/Java-MOC.md": "491d6ee2b3f3096ccfd352da8aa24a01c3c4001f70521a4e55f1c677b1dfae59",
     "3 - moc/sub-mocs/JavaScript-MOC.md": "2169550216155c2de9e0d967a0abf7f238fc27d80e43e201e82c11f719e2f3c0",
     "3 - moc/sub-mocs/CSS-MOC.md": "ba3aa0ac42398850780ef48116323853316e6f05f43ac63445117dc1504e91cc",
@@ -86,9 +86,9 @@
     "1 - notes/a. concepts/basics/browser storage.md": "8ec76cd121896ed33b72e0236e9e8f9c12d69060ca3f8bf690d3aeeab3f836e2",
     "1 - notes/a. concepts/basics/flowchart.md": "69d90b445f98777ffc8a96b37b43c022fa5f5ed4bf370e23c4434b53ee4e4d32",
     "1 - notes/a. concepts/core/asymptotic notation.md": "73491f15bc92b0732283e4103d80b42cc8d140be4592bc325616f2a47929a7bd",
-    "1 - notes/a. concepts/core/space complexity.md": "5e0eaedeee04a8a8e3c843ed83a3b94104e28473df188c03e112d617b3d69a17",
+    "1 - notes/a. concepts/core/space complexity.md": "58ceb7d8ec6fa22ed5ace2ba0d16049fa53ee331abaaca39c3b07848d272afbb",
     "1 - notes/a. concepts/core/data structure and algorithms.md": "41c38b0d2cab201c1dbdeeb4b3b9d20c0a6cc9e61781b086194bc4da5b7f0d86",
-    "1 - notes/a. concepts/core/time complexity.md": "d30db8390c8c60a5753c8a48bed24af80e284ec6aa5e8851cdea4a6e8208311c",
+    "1 - notes/a. concepts/core/time complexity.md": "a979ca7f485822a1f27c090bf5dbe2d32c60f3bcfd311df5c891b4a84dfd2689",
     "1 - notes/a. concepts/core/api.md": "2539322734be62bac32d9de251336e40697f7091dda36b69183f8d94f872a1f5",
     "1 - notes/a. concepts/basics/library vs framework.md": "d052c4777139c64496abd4cdde88d7e8e2082e904047001a955fcb6536084f85",
     "1 - notes/a. concepts/basics/environment variables and path.md": "58798b6c0d0b09400e4ef066e1fcc6ae80fc9707a3016ccacaa839494775956f",
@@ -184,6 +184,7 @@
     "0 - inbox/cpp arrays.md": "ecb3ca00cf7317c6f44c9309b072589297b65bc634a64e7e5de4eeca96364744",
     "0 - inbox/cpp - string.md": "2f05daac9b63c62f745f95a004685d8278b30838fa5294fb59fbc811181a9e3b",
     "0 - inbox/Cpp cheatsheet.md": "7c5846c34af4841ccb27737ef6f6fceb4676cf3bfe9aac4c67abeb77b0d92251",
-    "0 - inbox/cpp - call by reference and call by value.md": "4c7c362c8196c629e70963b7ddc0859f020b69e3df0e1d64f93438c5b1c3d966"
+    "0 - inbox/cpp - call by reference and call by value.md": "4c7c362c8196c629e70963b7ddc0859f020b69e3df0e1d64f93438c5b1c3d966",
+    "0 - inbox/tc - code example.md": "e46c3073c941263ebadafbc432ad389999cb089fa7438e3d853162c9e7481583"
   }
 }

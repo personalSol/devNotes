@@ -1,6 +1,6 @@
 ---
 created: 2025-02-14T22:17
-updated: 2025-02-24T23:47
+updated: 2025-05-09T19:50
 ---
 
 # Maths-MOC
@@ -16,6 +16,7 @@ here will be all the notes around Maths
 - [[divisibility rules]]
 - [[unit digit rules]]
 - [[probability]]
+- 
 
 ## advance
 
