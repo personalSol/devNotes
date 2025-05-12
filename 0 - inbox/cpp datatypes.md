@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-04-28T09:00
-updated: 2025-05-09T10:38
+updated: 2025-05-12T05:42
 ---
 ---
 
@@ -31,8 +31,16 @@ for string
 for char
 - char
 	- must be initialized with `'` single quotes and not double
-
 - ![[vlc_ODr8n1wrA6.png]]
+
+
+
+```cpp
+
+bool state = false;
+state = true;
+```
+
 
 
 # Reference
