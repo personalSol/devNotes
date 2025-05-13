@@ -1,24 +1,22 @@
 ---
-created: 2025-04-28T08:40
-updated: 2025-05-12T17:27
+created: 2025-05-12T18:34
+updated: 2025-05-12T18:39
 ---
 
-# Cpp-MOC
+# System-Design-MOC
 
-here will be all the notes around Cpp-MOC
+here will be all the notes around 
 
 
 ### extras ( not that imp but still here )
 
-- [[Cpp cheatsheet]]
+- [[sd - topics to cover]]
+- 
 
 ### basic
 
-- [[cpp intro]]
-- [[cpp boilerplate]]
-- [[cpp datatypes]]
-- [[cpp - call by reference and call by value]]
-- [[cpp - stl]]
+
+- [[sd - intro]]
 - 
 
 ### advance

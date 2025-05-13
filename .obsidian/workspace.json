@@ -4,44 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "da96c69b6d08eefd",
+        "id": "c97e95f9c73ae81d",
         "type": "tabs",
         "children": [
           {
-            "id": "d56689f7638421f6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/Cpp-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cpp-MOC"
-            }
-          },
-          {
-            "id": "f33a09ec781065db",
+            "id": "e59f01e661f17c63",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -51,29 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Cpp-MOC",
+                  "title": "sd - topics to cover",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":14},\"to\":{\"line\":18,\"ch\":14}},\"scroll\":5.482698862712014}"
-                },
-                {
-                  "title": "time complexity",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/core/time complexity.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"time complexity\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":75,\"ch\":31},\"to\":{\"line\":75,\"ch\":31}}}"
-                },
-                {
-                  "title": "cpp - call by reference and call by value",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/cpp - call by reference and call by value.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp - call by reference and call by value\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":48},\"to\":{\"line\":34,\"ch\":48}},\"scroll\":21.419047037760418}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/sd - topics to cover.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"sd - topics to cover\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":105},\"to\":{\"line\":32,\"ch\":105}},\"scroll\":16.514573191478224}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/cpp datatypes.md",
+                "file": "4 - sources/courses/system design by coder army/lect - 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,11 +43,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cpp datatypes"
+              "title": "lect - 1"
             }
           },
           {
-            "id": "5117f3752f2ff0b1",
+            "id": "4f091929ee87c1d1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -106,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/tc - code example.md",
+                "file": "0 - inbox/CDN.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -121,11 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tc - code example"
+              "title": "CDN"
             }
           },
           {
-            "id": "0ae7aa98b1902be7",
+            "id": "69a7073d5d740603",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -139,7 +94,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/cpp arrays.md",
+                "file": "0 - inbox/database.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -154,11 +109,76 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cpp arrays"
+              "title": "database"
+            }
+          },
+          {
+            "id": "e877f0e9989bfca5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/load balancer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "load balancer"
+            }
+          },
+          {
+            "id": "ba58023f4a50d693",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/vertical scalling.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "vertical scalling"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -209,7 +229,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(horizontal)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -261,7 +281,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/cpp datatypes.md",
+                "file": "4 - sources/courses/system design by coder army/lect - 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -289,7 +309,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cpp datatypes"
+              "title": "Graph of lect - 1"
             }
           }
         ]
@@ -322,13 +342,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/cpp datatypes.md",
+                "file": "4 - sources/courses/system design by coder army/lect - 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cpp datatypes"
+              "title": "Outline of lect - 1"
             }
           },
           {
@@ -516,7 +536,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5
+    "width": 309.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -535,36 +556,38 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f33a09ec781065db",
+  "active": "e59f01e661f17c63",
   "lastOpenFiles": [
+    "98 - attachments/Pasted image 20250512204932.png",
+    "0 - inbox/sd - topics to cover.md",
+    "4 - sources/courses/system design by coder army/lect - 1.md",
+    "4 - sources/courses/system design by coder army",
+    "0 - inbox/CDN.md",
+    "0 - inbox/database.md",
+    "0 - inbox/load balancer.md",
+    "0 - inbox/vertical scalling.md",
+    "3 - moc/System-Design-MOC.md",
+    "0 - inbox/horizontal scaling.md",
+    "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
+    "0 - inbox/sd - intro.md",
+    "0 - inbox/cpp - vectors.md",
+    "0 - inbox/Cpp cheatsheet.md",
+    "0 - inbox/cpp - stl.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
+    "0 - inbox/cpp datatypes.md",
+    "0 - inbox/cpp boilerplate.md",
+    "0 - inbox/cpp - pairs.md",
+    "0 - inbox/tc - code example.md",
+    "0 - inbox/cpp arrays.md",
     "1 - notes/a. concepts/core/time complexity.md",
     "1 - notes/a. concepts/core/space complexity.md",
     "98 - attachments/Pasted image 20250509201128.png",
-    "0 - inbox/tc - code example.md",
     "3 - moc/Maths-MOC.md",
     "0 - inbox/cpp - call by reference and call by value.md",
-    "0 - inbox/cpp arrays.md",
-    "0 - inbox/Cpp cheatsheet.md",
     "3 - moc/Cheatsheets-MOC.md",
     "1 - notes/z. others/Websites and Resources.md",
-    "0 - inbox/react - components.md",
-    "1 - notes/b. languages/library/react/react - hooks.md",
-    "0 - inbox/cpp - string.md",
-    "3 - moc/sub-mocs/JavaScript-MOC.md",
-    "0 - inbox/cpp datatypes.md",
-    "97 - templates/tmp-full-note.md",
     "98 - attachments/vlc_ODr8n1wrA6.png",
-    "0 - inbox/how to use android in virtual machine.md",
-    "3 - moc/SOP-MOC.md",
-    "0 - inbox/js - objects.md",
     "1 - notes/f. sops",
-    "3 - moc/sub-mocs/react-MOC.md",
-    "4 - sources/yt/react course by chai aur code.md",
-    "0 - inbox/js - functions.md",
-    "3 - moc/Languages-MOC.md",
-    "3 - moc/Web-Dev-MOC.md",
-    "1 - notes/c. tools/github/commit.md",
     "98 - attachments/Pasted image 20250428104132.png",
     "98 - attachments/Pasted image 20250428104128.png",
     "98 - attachments/Pasted image 20250428104023.png",
@@ -581,7 +604,6 @@
     "1 - notes/a. concepts/imp",
     "1 - notes/a. concepts/other",
     "1 - notes/c. tools/mongoDB",
-    "1 - notes/c. tools/github",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

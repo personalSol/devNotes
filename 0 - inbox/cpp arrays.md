@@ -2,10 +2,11 @@
 status: newBorn
 related-links: []
 created: 2025-05-09T08:55
-updated: 2025-05-09T18:42
+updated: 2025-05-12T17:24
 ---
 ---
 
+- fixed in size
 - stores similar type of data
 - zero based indexing
 - location of first ( zeroth index ) can be anywhere

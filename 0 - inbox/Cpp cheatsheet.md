@@ -1,273 +1,553 @@
 ---
-status: newBorn
-related-links: []
 created: 2025-05-09T10:44
-updated: 2025-05-09T10:46
+updated: 2025-05-12T17:28
 ---
+  
 
+# 🧠 C++ Cheatsheet (With Explanations)
 
-Here's a properly formatted Markdown (.md) file for your C++ cheatsheet, optimized for Obsidian:
+  
 
-### Basic Data Types
-- `int`: Whole numbers (e.g., 1, 2, etc.)
-- `char`: Single character (e.g., 'A', 'B')
-- `float`: Floating-point numbers (e.g., 3.14)
-- `double`: Double-precision floating-point numbers
-- `bool`: Boolean values (true/false)
-- `void`: No type
+## 📌 Basics
 
-### Modifiers
-- `short`, `long`
-- `unsigned`, `signed`
-
-### Example
 ```cpp
-int num = 10;
-char letter = 'A';
+
+#include <iostream>
+
+using namespace std;
+
+  
+
+int main() {
+
+    cout << "Hello, World!" << endl;
+
+    return 0;
+
+}
+
 ```
 
-### Sizeof Operator
-```cpp
-sizeof(int) // Returns the size of int in bytes
-```
+- `#include <iostream>`: includes input/output stream.
 
----
+- `main()` is the program's entry point.
 
-## Operators
-### Arithmetic Operators
-- `+` Addition
-- `-` Subtraction
-- `*` Multiplication
-- `/` Division
-- `%` Modulus
+- `cout`, `cin` are used for output/input.
 
-### Assignment Operators
-- `=` Assignment
-- `+=`, `-=`, `*=`, `/=`, `%=`
-
-### Comparison Operators
-- `==` Equal to
-- `!=` Not equal to
-- `>` Greater than
-- `<` Less than
-- `>=` Greater than or equal to
-- `<=` Less than or equal to
-
-### Logical Operators
-- `&&` Logical AND
-- `||` Logical OR
-- `!` Logical NOT
-
-### Increment/Decrement Operators
-- `++a` Pre-increment
-- `a++` Post-increment
-
-### Bitwise Operators
-- `&` Bitwise AND
-- `|` Bitwise OR
-- `^` Bitwise XOR
-- `~` Bitwise NOT
-- `<<` Left shift
-- `>>` Right shift
-
-### Ternary Operator
-```cpp
-condition ? true_expression : false_expression;
-```
+  
 
 ---
 
-## Control Structures
-### If-Else Statement
-```cpp
-if (condition) {
-    // Code to execute if condition is true
-} else {
-    // Code to execute if condition is false
-}
-```
+  
 
-### Switch-Case Statement
-```cpp
-switch (variable) {
-    case 1:
-        // Code to execute if variable == 1
-        break;
-    case 2:
-        // Code to execute if variable == 2
-        break;
-    default:
-        // Code to execute if no cases match
-        break;
-}
-```
+## 📦 Data Types
 
-### Loops
-#### For Loop
-```cpp
-for (int i = 0; i < 5; i++) {
-    // Code to execute
-}
-```
+| Type       | Description          | Example             |
+|------------|----------------------|---------------------|
+| `int`      | Integer values       | `int x = 42;`       |
+| `float`    | Floating point       | `float f = 3.14;`   |
+| `double`   | Double precision     | `double d = 9.81;`  |
+| `char`     | Character            | `char c = 'A';`     |
+| `bool`     | Boolean true/false   | `bool b = true;`    |
+| `string`   | Text string          | `string s = "Hi";`  *(`#include <string>`)*
 
-#### While Loop
-```cpp
-while (condition) {
-    // Code to execute
-}
-```
-
-#### Do-While Loop
-```cpp
-do {
-    // Code to execute
-} while (condition);
-```
-
-### Jump Statements
-- `break`: Exits the nearest enclosing loop or switch statement
-- `continue`: Skips the rest of the current iteration and moves to the next one
-- `goto`: Jumps to a labeled statement
 
 ---
 
-## Functions
-### Function Declaration
-```cpp
-return_type function_name(parameters) {
-    // Function body
-}
-```
+  
 
-### Function Parameters
-- Pass by value: `func(int x)`
-- Pass by reference: `func(int &x)`
+## 🔁 Control Structures
 
-### Function Overloading
 ```cpp
-int add(int a, int b);
-double add(double a, double b);
-```
 
-### Default Arguments
-```cpp
-void func(int a, int b = 5);
+if (x > 0) { ... }
+
+else if (x < 0) { ... }
+
+else { ... }
+
+  
+
+for (int i = 0; i < 10; i++) { ... }
+
+while (condition) { ... }
+
+do { ... } while (condition);
+
 ```
+  
 
 ---
 
-## Arrays and Vectors
-### Arrays
+  
+
+## 🧮 Operators
+
+| Type        | Operators             
+|-------------|------------------------|
+| Arithmetic  | `+ - * / %`            |
+| Logical     | `&& || !`              |
+| Comparison  | ` == != < > <= >= `      |
+| Bitwise     | `& | ^ ~ << >>`        |
+| Assignment  | ` = += -= *= /= %= `     |
+
+  
+
+---
+
+  
+
+## 🧰 Functions
+
 ```cpp
-int arr[5] = {1, 2, 3, 4, 5};
+
+int add(int a, int b) {
+
+    return a + b;
+
+}
+
 ```
 
-### Vectors
+- Functions allow reusable blocks of code.
+
+  
+
+---
+
+  
+
+## 🔤 I/O
+
+```cpp
+
+cin >> name;
+
+cout << "Hi " << name << endl;
+
+```
+
+- `cin` reads input, `cout` prints output.
+
+  
+
+---
+
+  
+
+## 📚 Arrays & Vectors
+
+```cpp
+
+int arr[3] = {1, 2, 3};
+
+  
+
+#include <vector>
+
+vector<int> v = {1, 2, 3};
+
+v.push_back(4);
+
+v.size();
+
+```
+
+- `array` is fixed size.
+- `vector` is dynamic and resizable.
+
+---
+
+  
+
+## 📦 Structs & Classes
+
+```cpp
+
+struct Point {
+
+    int x, y;
+
+}; // Struct groups related variables.
+
+  
+
+class Person {
+
+public:
+
+    string name;
+
+    int age;
+
+  
+
+    Person(string n, int a) : name(n), age(a) {}
+
+    void greet() {
+
+        cout << "Hi, I'm " << name << endl;
+
+    }
+
+};
+
+```
+
+- `struct`: groups variables, members public by default.
+
+- `class`: encapsulates data/functions, members private by default.
+
+  
+
+---
+
+  
+
+## 🧱 Inheritance
+
+```cpp
+
+class Animal {
+
+public:
+
+    void speak() { cout << "Generic sound\n"; }
+
+};
+
+  
+
+class Dog : public Animal {
+
+public:
+
+    void speak() { cout << "Woof!\n"; }
+
+};
+
+```
+
+- Enables code reuse and polymorphism.
+
+  
+
+---
+
+  
+
+## 🧠 Pointers
+
+```cpp
+
+int x = 10;
+
+int* p = &x;
+
+cout << *p << endl; // 10
+
+```
+
+- Store address of variables.
+
+  
+
+---
+
+  
+
+## 🔄 References
+
+```cpp
+
+void modify(int& x) {
+
+    x += 5;
+
+}
+
+```
+
+- Alias for another variable.
+
+  
+
+---
+
+  
+
+## 🛠️ STL Containers
+
+  
+
+### `vector` (dynamic array)
+
 ```cpp
 #include <vector>
-std::vector<int> vec = {1, 2, 3};
+vector<int> v = {1, 2};
+v.push_back(3);
 ```
+
+  
+
+### `deque` (double-ended queue)
+
+```cpp
+
+#include <deque>
+
+deque<int> dq;
+
+dq.push_front(1);
+
+dq.push_back(2);
+
+```
+
+  
+
+### `list` (doubly-linked list)
+
+```cpp
+
+#include <list>
+
+list<int> lst = {1, 2, 3};
+
+```
+
+  
+
+### `stack` (LIFO)
+
+```cpp
+
+#include <stack>
+
+stack<int> st;
+
+st.push(1); st.pop();
+
+```
+
+  
+
+### `queue` (FIFO)
+
+```cpp
+
+#include <queue>
+
+queue<int> q;
+
+q.push(1); q.pop();
+
+```
+
+  
+
+### `priority_queue` (heap)
+
+```cpp
+
+#include <queue>
+
+priority_queue<int> pq;
+
+pq.push(10); pq.top();
+
+```
+
+  
+
+### `set` (unique sorted elements)
+
+```cpp
+
+#include <set>
+
+set<int> s = {1, 2, 2}; // stores 1, 2
+
+```
+
+  
+
+### `multiset` (sorted duplicates allowed)
+
+```cpp
+
+#include <set>
+
+multiset<int> ms;
+
+ms.insert(1); ms.insert(1);
+
+```
+
+  
+
+### `unordered_set` (hash table)
+
+```cpp
+
+#include <unordered_set>
+
+unordered_set<int> us = {1, 2};
+
+```
+
+  
+
+### `map` (key-value, sorted by key)
+
+```cpp
+
+#include <map>
+
+map<string, int> m;
+
+m["age"] = 25;
+
+```
+
+  
+
+### `unordered_map` (hash map)
+
+```cpp
+
+#include <unordered_map>
+
+unordered_map<string, int> um;
+
+um["a"] = 1;
+
+```
+
+  
 
 ---
 
-## Pointers
-### Pointer Declaration
+  
+
+## ⚙️ Algorithms (`<algorithm>`)
+
 ```cpp
-int *ptr;
+
+#include <algorithm>
+
+sort(v.begin(), v.end());
+
+reverse(v.begin(), v.end());
+
+auto it = find(v.begin(), v.end(), 3);
+
+count(v.begin(), v.end(), 3);
+
 ```
 
-### Dynamic Memory Allocation
-```cpp
-int* p = new int;   // Allocate memory
-delete p;           // Deallocate memory
-```
+  
 
 ---
 
-## Classes and Objects
-### Class Definition
+  
+
+## 🧼 Memory Management
+
 ```cpp
-class MyClass {
-private:
-    int x;          // Private member variable
-public:
-    MyClass() {     // Constructor
-        x = 0;
-    }
-    ~MyClass() {    // Destructor
-        // Cleanup code
-    }
-    void func();    // Member function
-};
+
+int* ptr = new int(5);
+
+delete ptr;
+
+  
+
+int* arr = new int[10];
+
+delete[] arr;
+
 ```
+
+  
 
 ---
 
-## File Handling
-### Reading from a File
-```cpp
-#include <fstream>
-std::ifstream infile("file.txt");
-```
+  
 
-### Writing to a File
-```cpp
-#include <fstream>
-std::ofstream outfile("file.txt");
-```
+## 🧪 Exception Handling
 
----
-
-## Additional Features
-### Namespaces
 ```cpp
-using namespace std;
-```
 
-### Templates
-```cpp
-template <typename T>
-T max(T a, T b) {
-    return (a > b) ? a : b;
-}
-```
-
-### Exception Handling
-```cpp
 try {
-    // Code that may throw an exception
-} catch (exception_type) {
-    // Code to handle the exception
+
+    throw runtime_error("Error");
+
+} catch (exception& e) {
+
+    cout << e.what();
+
 }
-throw exception; // Throw an exception
+
 ```
 
-### Smart Pointers
-```cpp
-#include <memory>
-std::unique_ptr<int> ptr(new int); // Unique pointer
-std::shared_ptr<int> ptr(new int);  // Shared pointer
-```
+- Use for error handling.
 
-### Lambda Expressions
-```cpp
-[] (int x) { 
-    // Code to execute
-};
-```
-
-### Move Semantics
-```cpp
-std::string a = "Hello";
-std::string b = std::move(a); // Transfer ownership
-```
-
-### Multithreading
-```cpp
-#include <thread>
-std::thread t(func); // Create a new thread
-```
+  
 
 ---
 
-You can copy this entire content into a new note in Obsidian. The Markdown formatting will make it easy to read and navigate. You can also expand on any section as needed!
+  
+
+## 🧾 Namespace
+
+```cpp
+
+namespace myspace {
+
+    int val = 100;
+
+}
+
+cout << myspace::val;
+
+```
+
+  
+
+---
+
+  
+
+## 🧩 Templates
+
+```cpp
+
+template<typename T>
+
+T add(T a, T b) {
+
+    return a + b;
+
+}
+
+```
+
+- Enables generic programming.
+
+  
+
+---
+
+  
+
+## 🧹 Smart Pointers (`<memory>`)
+
+```cpp
+
+#include <memory>
+
+unique_ptr<int> up = make_unique<int>(10);
+
+shared_ptr<int> sp = make_shared<int>(20);
+
+```
