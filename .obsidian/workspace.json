@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "n8n course by sheriyas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/n8n course by sheriyas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"n8n course by sheriyas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":12},\"to\":{\"line\":14,\"ch\":12}}}"
+                },
+                {
+                  "title": "lect - 1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/system design by coder army/lect - 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"lect - 1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
                   "title": "sd - topics to cover",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/sd - topics to cover.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"sd - topics to cover\"}",
@@ -28,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - sources/courses/system design by coder army/lect - 1.md",
+                "file": "0 - inbox/webhooks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +55,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lect - 1"
+              "title": "webhooks"
             }
           },
           {
@@ -281,7 +293,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4 - sources/courses/system design by coder army/lect - 1.md",
+                "file": "0 - inbox/webhooks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -309,7 +321,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of lect - 1"
+              "title": "Graph of webhooks"
             }
           }
         ]
@@ -558,9 +570,11 @@
   },
   "active": "e59f01e661f17c63",
   "lastOpenFiles": [
+    "4 - sources/courses/n8n course by sheriyas.md",
+    "98 - attachments/Pasted image 20250513074712.png",
+    "4 - sources/courses/system design by coder army/lect - 1.md",
     "98 - attachments/Pasted image 20250512204932.png",
     "0 - inbox/sd - topics to cover.md",
-    "4 - sources/courses/system design by coder army/lect - 1.md",
     "4 - sources/courses/system design by coder army",
     "0 - inbox/CDN.md",
     "0 - inbox/database.md",
@@ -585,7 +599,6 @@
     "3 - moc/Maths-MOC.md",
     "0 - inbox/cpp - call by reference and call by value.md",
     "3 - moc/Cheatsheets-MOC.md",
-    "1 - notes/z. others/Websites and Resources.md",
     "98 - attachments/vlc_ODr8n1wrA6.png",
     "1 - notes/f. sops",
     "98 - attachments/Pasted image 20250428104132.png",
@@ -594,8 +607,6 @@
     "98 - attachments/Pasted image 20250428103222.png",
     "98 - attachments/Pasted image 20250426203121.png",
     "98 - attachments/Pasted image 20250426151837.png",
-    "98 - attachments/Pasted image 20250426145546.png",
-    "98 - attachments/Pasted image 20250426143512.png",
     "1 - notes/b. languages/library/react",
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",

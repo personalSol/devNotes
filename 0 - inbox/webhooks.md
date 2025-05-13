@@ -2,9 +2,9 @@
 status: newBorn
 related-links: []
 created: 2025-04-28T15:42
-updated: 2025-04-28T16:17
+updated: 2025-05-13T11:34
 ---
----
+	---
 
 A **webhook** is a way for one system to send real-time information to another system automatically when something happens.
 
