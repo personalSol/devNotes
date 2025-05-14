@@ -2,7 +2,7 @@
 created: 2025-05-13T07:47:04
 status: 
 source: 
-updated: 2025-05-14T10:47
+updated: 2025-05-14T17:01
 ---
 ---
 
@@ -51,6 +51,8 @@ Higher = more variety. Lower = more accuracy.
 Memory:
 - remembers what were the last 10 onput and output. This helps personalize the output because it remembers/keep in mind the last conversations  
 
+![[Pasted image 20250514170056.png]]
+- it's a agent flow which I took screenshot of in which he have show an automated way to create and upload videos
 
 # Reference
 `related link(if any)`
