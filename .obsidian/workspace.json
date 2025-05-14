@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c97e95f9c73ae81d",
+        "id": "4547f816aada8843",
         "type": "tabs",
         "children": [
           {
-            "id": "e59f01e661f17c63",
+            "id": "cc3b7ae7bcd675c2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,31 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "n8n course by sheriyas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/n8n course by sheriyas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"n8n course by sheriyas\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":12},\"to\":{\"line\":14,\"ch\":12}}}"
-                },
-                {
-                  "title": "lect - 1",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/system design by coder army/lect - 1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"lect - 1\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "sd - topics to cover",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/sd - topics to cover.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"sd - topics to cover\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":105},\"to\":{\"line\":32,\"ch\":105}},\"scroll\":16.514573191478224}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/webhooks.md",
+                "file": "4 - sources/courses/n8n course by sheriyas.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,139 +37,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "webhooks"
-            }
-          },
-          {
-            "id": "4f091929ee87c1d1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/CDN.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CDN"
-            }
-          },
-          {
-            "id": "69a7073d5d740603",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/database.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "database"
-            }
-          },
-          {
-            "id": "e877f0e9989bfca5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/load balancer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "load balancer"
-            }
-          },
-          {
-            "id": "ba58023f4a50d693",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/vertical scalling.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "vertical scalling"
+              "title": "n8n course by sheriyas"
             }
           }
         ]
@@ -293,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/webhooks.md",
+                "file": "4 - sources/courses/n8n course by sheriyas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -321,7 +171,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of webhooks"
+              "title": "Graph of n8n course by sheriyas"
             }
           }
         ]
@@ -568,18 +418,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e59f01e661f17c63",
+  "active": "cc3b7ae7bcd675c2",
   "lastOpenFiles": [
+    "0 - inbox/vertical scalling.md",
+    "0 - inbox/load balancer.md",
+    "0 - inbox/database.md",
+    "0 - inbox/CDN.md",
+    "0 - inbox/webhooks.md",
     "4 - sources/courses/n8n course by sheriyas.md",
     "98 - attachments/Pasted image 20250513074712.png",
     "4 - sources/courses/system design by coder army/lect - 1.md",
     "98 - attachments/Pasted image 20250512204932.png",
     "0 - inbox/sd - topics to cover.md",
     "4 - sources/courses/system design by coder army",
-    "0 - inbox/CDN.md",
-    "0 - inbox/database.md",
-    "0 - inbox/load balancer.md",
-    "0 - inbox/vertical scalling.md",
     "3 - moc/System-Design-MOC.md",
     "0 - inbox/horizontal scaling.md",
     "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
