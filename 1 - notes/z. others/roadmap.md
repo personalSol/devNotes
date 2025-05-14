@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Others-MOC]]"
 created: 2025-04-20T07:09
-updated: 2025-04-26T08:00
+updated: 2025-05-14T07:34
 ---
 ---
 
@@ -19,9 +19,9 @@ roadmap to a good web dev:
 
 
 
-For dsa ( postponed rn as I will only focus on Dev for now )
-- [ ] complete the java crash course
-- [ ] see oops from forrestknight
+For dsa 
+ 
+
 
 
 

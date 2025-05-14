@@ -103,7 +103,7 @@
     "1 - notes/b. languages/java/java boiler plate.md": "1ada4f228b9671d2a4ae329f3f1b92c7976b4f6acd1425e769679ce8459aaa20",
     "1 - notes/b. languages/java/java basics.md": "2296fc38c15fe1691731317d0a8fa1d414ea146dcdb76aefd8e5cc673445e92e",
     "1 - notes/b. languages/java/java access modifiers.md": "8f6a772a5213fca2045be0f9edbbe506e81a40bffa84036ebb00f8ee4414ce1e",
-    "3 - moc/Others-MOC.md": "7ff7b02ed3c8c11f595f7abc1c4785e08408f52e3e0c45587504599b94b8f9bc",
+    "3 - moc/Others-MOC.md": "cf83a3759c4a3cadd933c7177a04d849a7b2170a90743fd906f614bc2df57b07",
     "1 - notes/z. others/purpose of notes.md": "127ae1ad91bdf8508539b8bec3ba18141a2c0543c6e85cec1ade0caf4c45dbf3",
     "1 - notes/a. concepts/core/DSA Approaches.md": "a482c0de73ea13c648edea37b2eff6b2f94a92ead6b9c09259dbe4cc7a57461b",
     "3 - moc/Terms-MOC.md": "7d0107ab1df0e4f9b8462330c461eb0de9da0a75c2da6929b839364e46800633",
@@ -113,7 +113,7 @@
     "1 - notes/a. concepts/core/objects.md": "b8d14320daae453dbb15eda3c0c993c78b1d42da11c69f401f2ec47a35408d68",
     "1 - notes/a. concepts/core/multi-threading.md": "71638ac01abb25a32030cec25150a6a0b05486c9cbdbfb166fc92005da934684",
     "1 - notes/a. concepts/basics/memory management in programming (stack and heap ).md": "40f754a1e22f50b442a0c12d3b6353d6f96e6771562c9801cf37b654550bf20c",
-    "1 - notes/z. others/roadmap.md": "69a40adddf78cee184e38e94946cadb9cf6a4a2a0ffe4ce3ed4f0731c168e7ec",
+    "1 - notes/z. others/roadmap.md": "4a5d63af184d99bc2dc3de9868ab0b63857efc4e056041fc29c54f9387e39453",
     "1 - notes/b. languages/java/java operators.md": "592f992ca3d1f8cc891a2791a3ee5f9b8b8f1a66eba40d5fde984d7e33da1fcd",
     "1 - notes/a. concepts/basics/Cores vs Threads.md": "5d3a107e4dd42c279f6d21a1fcd94f64cfccf3456f28f049ad640238f23093d8",
     "1 - notes/b. languages/java/java interface.md": "cb37ec41e5a98ab60fb3caf2ee4df084611db4f45bcd8c5699dca00fea0a54b5",
@@ -198,6 +198,9 @@
     "0 - inbox/database.md": "2ecf82dbbb4a6450327f78e9b7a7f3c6f1e9b71b05bc2a171484325a3940c12c",
     "0 - inbox/CDN.md": "0e85bd64b3c19e619f485bb7fc311c6ac9eff0ecffb3c9789fee56c2fbcfbc74",
     "4 - sources/courses/system design by coder army/lect - 1.md": "1ac8b12ae496f2142a20191450f2818a6b9483a478222a55a170484352941ae6",
-    "4 - sources/courses/n8n course by sheriyas.md": "38a7823f82c1142f809edfa73edd3f0a9a7652ba6870b89b7a55fda680b170e5"
+    "4 - sources/courses/n8n course by sheriyas.md": "f3cb592abb06bc0c17a15b9ccea8f4462f5b48de6624ddce98f785d6f23d2252",
+    "3 - moc/DSA-MOC.md": "1121e0b03c6037790a8a09dc2b59b47acab9b3a8088104792389adac5e870637",
+    "0 - inbox/dsa - tips.md": "70c659592ed83b3856e8944f75ebfa45c90a9eb63dda242494c222d5a807abc7",
+    "0 - inbox/dsa  - resources.md": "153eb8294921b68583e692b87ba62936540833b1b899dfe32eaf7e16b4bcdfc4"
   }
 }

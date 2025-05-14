@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "4547f816aada8843",
+        "id": "cab7e6e6009c13cc",
         "type": "tabs",
         "children": [
           {
-            "id": "cc3b7ae7bcd675c2",
+            "id": "a0ca24989a4cd7df",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -91,7 +91,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "line:(horizontal)",
+                "query": "dsa",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -418,14 +418,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "cc3b7ae7bcd675c2",
+  "active": "a0ca24989a4cd7df",
   "lastOpenFiles": [
+    "3 - moc/Others-MOC.md",
+    "0 - inbox/dsa - tips.md",
+    "0 - inbox/dsa  - resources.md",
+    "3 - moc/DSA-MOC.md",
+    "1 - notes/z. others/roadmap.md",
+    "1 - notes/a. concepts/core/DSA Approaches.md",
+    "1 - notes/d. maths/boat and stream.md",
+    "4 - sources/courses/n8n course by sheriyas.md",
     "0 - inbox/vertical scalling.md",
     "0 - inbox/load balancer.md",
     "0 - inbox/database.md",
     "0 - inbox/CDN.md",
     "0 - inbox/webhooks.md",
-    "4 - sources/courses/n8n course by sheriyas.md",
     "98 - attachments/Pasted image 20250513074712.png",
     "4 - sources/courses/system design by coder army/lect - 1.md",
     "98 - attachments/Pasted image 20250512204932.png",
@@ -442,14 +449,7 @@
     "0 - inbox/cpp datatypes.md",
     "0 - inbox/cpp boilerplate.md",
     "0 - inbox/cpp - pairs.md",
-    "0 - inbox/tc - code example.md",
-    "0 - inbox/cpp arrays.md",
-    "1 - notes/a. concepts/core/time complexity.md",
-    "1 - notes/a. concepts/core/space complexity.md",
     "98 - attachments/Pasted image 20250509201128.png",
-    "3 - moc/Maths-MOC.md",
-    "0 - inbox/cpp - call by reference and call by value.md",
-    "3 - moc/Cheatsheets-MOC.md",
     "98 - attachments/vlc_ODr8n1wrA6.png",
     "1 - notes/f. sops",
     "98 - attachments/Pasted image 20250428104132.png",
