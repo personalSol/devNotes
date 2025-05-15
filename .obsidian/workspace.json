@@ -39,6 +39,39 @@
               "icon": "lucide-file",
               "title": "n8n course by sheriyas"
             }
+          },
+          {
+            "id": "decdc7c2741a7de8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/IMAP vs SMTP.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "IMAP vs SMTP"
+            }
           }
         ]
       }
@@ -420,6 +453,8 @@
   },
   "active": "a0ca24989a4cd7df",
   "lastOpenFiles": [
+    "0 - inbox/IMAP vs SMTP.md",
+    "4 - sources/courses/n8n course by sheriyas.md",
     "98 - attachments/Pasted image 20250514170056.png",
     "3 - moc/Others-MOC.md",
     "0 - inbox/dsa - tips.md",
@@ -428,7 +463,6 @@
     "1 - notes/z. others/roadmap.md",
     "1 - notes/a. concepts/core/DSA Approaches.md",
     "1 - notes/d. maths/boat and stream.md",
-    "4 - sources/courses/n8n course by sheriyas.md",
     "0 - inbox/vertical scalling.md",
     "0 - inbox/load balancer.md",
     "0 - inbox/database.md",
@@ -457,7 +491,6 @@
     "98 - attachments/Pasted image 20250428104023.png",
     "98 - attachments/Pasted image 20250428103222.png",
     "98 - attachments/Pasted image 20250426203121.png",
-    "98 - attachments/Pasted image 20250426151837.png",
     "1 - notes/b. languages/library/react",
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",
