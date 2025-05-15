@@ -1,6 +1,6 @@
 ---
 created: 2025-04-28T08:40
-updated: 2025-05-12T17:27
+updated: 2025-05-15T07:41
 ---
 
 # Cpp-MOC
@@ -14,6 +14,7 @@ here will be all the notes around Cpp-MOC
 
 ### basic
 
+- [[cpp - things to remember]]
 - [[cpp intro]]
 - [[cpp boilerplate]]
 - [[cpp datatypes]]

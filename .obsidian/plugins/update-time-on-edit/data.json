@@ -164,7 +164,7 @@
     "4 - sources/yt/all react hooks explained in 12 mints.md": "b81df1ffa3e21bd7665b5260e88384374ef5addf760fa9857b8ed3521ef73a1f",
     "0 - inbox/psuedo code.md": "27718038070a21fd853d19bffcb3d821df8bfca32c93ccde79e0a8ddfe544351",
     "0 - inbox/types of languages.md": "bf808c5bbe90e1b985c6b3171fc5fd993ece724729f52e02cb1a9ce4e446faf6",
-    "3 - moc/sub-mocs/Cpp-MOC.md": "2a44a455ba0f66c5c3a245bc541fe7dbd193aff24a40ccbc3894e9d81f9e5ea7",
+    "3 - moc/sub-mocs/Cpp-MOC.md": "8d355edb95164d89568eb636e96da5f56cdb256315f8f97d12fd5889219b7bb6",
     "0 - inbox/cpp intro.md": "d08b2af013204d6d19a80d6ad12fde72abdd36ef3b7c058360c37bcc9ec7211f",
     "0 - inbox/cpp boilerplate.md": "cae994dce6d3d610017b4652e2e10c83ee9b600f366665cfd50dab1bcae340bc",
     "0 - inbox/cpp datatypes.md": "cc942e6400a8262ee28b75b73b6d07717bb5d40029ed69d7eb933c2ff2adc53e",
@@ -183,7 +183,7 @@
     "0 - inbox/how to use android in virtual machine.md": "1f66ba4a3294a99aa771761c40d9c89eae39daf4362a4102a951ba78a301a41b",
     "0 - inbox/cpp arrays.md": "bc4ba45a98a8fb2c690a0fb111efee184b315a4de646681c22defe7d9b53ad4d",
     "0 - inbox/cpp - string.md": "2f05daac9b63c62f745f95a004685d8278b30838fa5294fb59fbc811181a9e3b",
-    "0 - inbox/Cpp cheatsheet.md": "df685ca9c45181ef3a10fa0feabe19e4e0d8c6e78b110fb6ae033d8d40575455",
+    "0 - inbox/Cpp cheatsheet.md": "6233aefd25bf4d16620933f8a2ee54d1feddc24e44e4ab76458a81b2ba6e9dda",
     "0 - inbox/cpp - call by reference and call by value.md": "4c7c362c8196c629e70963b7ddc0859f020b69e3df0e1d64f93438c5b1c3d966",
     "0 - inbox/tc - code example.md": "e46c3073c941263ebadafbc432ad389999cb089fa7438e3d853162c9e7481583",
     "0 - inbox/cpp - stl.md": "6cb211bc955375b65680519f02b8fa90b45a43391b7cbe87cc8af19970660ed3",
@@ -202,6 +202,7 @@
     "3 - moc/DSA-MOC.md": "1121e0b03c6037790a8a09dc2b59b47acab9b3a8088104792389adac5e870637",
     "0 - inbox/dsa - tips.md": "70c659592ed83b3856e8944f75ebfa45c90a9eb63dda242494c222d5a807abc7",
     "0 - inbox/dsa  - resources.md": "153eb8294921b68583e692b87ba62936540833b1b899dfe32eaf7e16b4bcdfc4",
-    "0 - inbox/IMAP vs SMTP.md": "b334a71a92d0d7e61451a667444022678400eaf707c4636dbcce3e18055949b8"
+    "0 - inbox/IMAP vs SMTP.md": "b334a71a92d0d7e61451a667444022678400eaf707c4636dbcce3e18055949b8",
+    "0 - inbox/cpp - things to remember.md": "dba7a43b33d2eea8d1ebc1e5673cb5d9d46c4cca15a2dff81c2a685d522c6ed2"
   }
 }

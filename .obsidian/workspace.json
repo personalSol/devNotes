@@ -11,18 +11,30 @@
             "id": "a0ca24989a4cd7df",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Cpp cheatsheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/Cpp cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp cheatsheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":181.75175044952877}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "n8n course by sheriyas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/n8n course by sheriyas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"n8n course by sheriyas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - sources/courses/n8n course by sheriyas.md",
+                "file": "3 - moc/sub-mocs/Cpp-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +49,73 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "n8n course by sheriyas"
+              "title": "Cpp-MOC"
+            }
+          },
+          {
+            "id": "ca0631b4d5830fbd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/Cpp cheatsheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Cpp cheatsheet"
+            }
+          },
+          {
+            "id": "240a693365073e9b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/cpp - things to remember.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp - things to remember"
             }
           },
           {
@@ -73,7 +151,8 @@
               "title": "IMAP vs SMTP"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -176,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4 - sources/courses/n8n course by sheriyas.md",
+                "file": "0 - inbox/cpp - things to remember.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
@@ -204,7 +283,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of n8n course by sheriyas"
+              "title": "Graph of cpp - things to remember"
             }
           }
         ]
@@ -451,10 +530,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a0ca24989a4cd7df",
+  "active": "240a693365073e9b",
   "lastOpenFiles": [
-    "0 - inbox/IMAP vs SMTP.md",
+    "0 - inbox/Cpp cheatsheet.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
+    "0 - inbox/cpp - things to remember.md",
     "4 - sources/courses/n8n course by sheriyas.md",
+    "0 - inbox/IMAP vs SMTP.md",
     "98 - attachments/Pasted image 20250514170056.png",
     "3 - moc/Others-MOC.md",
     "0 - inbox/dsa - tips.md",
@@ -478,11 +560,8 @@
     "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
     "0 - inbox/sd - intro.md",
     "0 - inbox/cpp - vectors.md",
-    "0 - inbox/Cpp cheatsheet.md",
     "0 - inbox/cpp - stl.md",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
     "0 - inbox/cpp datatypes.md",
-    "0 - inbox/cpp boilerplate.md",
     "98 - attachments/Pasted image 20250509201128.png",
     "98 - attachments/vlc_ODr8n1wrA6.png",
     "1 - notes/f. sops",
