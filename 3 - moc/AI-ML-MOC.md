@@ -1,6 +1,6 @@
 ---
 created: 2025-04-28T09:54
-updated: 2025-04-28T16:18
+updated: 2025-05-16T00:23
 ---
 
 # {{title}}
@@ -22,8 +22,9 @@ here will be all the notes around {{title}}
 - 
 
 
-### courses i did around it
+### courses/videos i did around it
 
+- [[AI roadmap by ansh mehra]]
 - 
 
 

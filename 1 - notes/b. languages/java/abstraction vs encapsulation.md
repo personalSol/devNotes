@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Java-MOC]]"
 created: 2025-04-20T18:12
-updated: 2025-04-24T21:51
+updated: 2025-05-15T19:30
 ---
 ---
 
@@ -13,6 +13,7 @@ updated: 2025-04-24T21:51
 | Focuses on   | Data protection & access control  | Functionality design & simplification |
 | Achieved via | `private` fields, getters/setters | `abstract` classes, `interface`s      |
 | Goal         | Safely expose the internals       | Show only necessary parts to the user |
+| For          | Data security                     | Data hiding to keep it simple         |
 
 ```java
 a

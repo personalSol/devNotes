@@ -1,14 +1,15 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[System-Design-MOC]]"
 created: 2025-05-12T18:39
-updated: 2025-05-12T19:11
+updated: 2025-05-16T00:17
 ---
 ---
 
 - [[horizontal scaling]] vs [[vertical scalling]]
-- [[load balancer]]
-- [[database]]
+- [[sd - load balancer]]
+- [[sd - database]]
 - data indexing
 	- understanding how can I fastly fetch data from server
 - sharding

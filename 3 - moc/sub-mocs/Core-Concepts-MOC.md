@@ -1,6 +1,6 @@
 ---
 created: 2025-02-11T14:47
-updated: 2025-04-14T09:48
+updated: 2025-05-16T00:16
 ---
 
 
@@ -11,14 +11,17 @@ updated: 2025-04-14T09:48
 - 324224e-2f  ( here e shows exponent of 10 with power -2 )
 
 
-### different topics
+
+# Core-Concepts-MOC
+
+here will be all the notes around Core-Concepts-MOC which is a part of [[Concepts-MOC]]
+
+
+### extras ( not that imp but still here )
 
 - [[V8 engine]]
 
-
-
-### basics of programming & technology
-
+### basic
 
 - to understand how browser stores data: [[browser storage]]
 - [[data structure and algorithms]]
@@ -28,13 +31,37 @@ updated: 2025-04-14T09:48
 - [[program vs algorithm]]
 - [[library vs framework]]
 - [[environment variables and path]]
-# main concepts
+- 
+
+### advance
+
+- 
+
+
+### main ( imp )
 
 - [[api]]
 - [[multi-threading]]
+- [[concept - oops]]
 
 
+### segregation
 
+- [[System-Design-MOC]]
+
+### courses i did around it
+
+- 
+
+
+### all which are inside other pages
+
+- [[polymorphism]]
+- [[concept - inheritence]]
+- [[abstraction]]
+- [[encapsulation]]
+- [[classes]]
+- [[objects]]
 ## **Links not included yet list:**
 ```dataview
 list

@@ -1,6 +1,8 @@
 ---
 created: 2025-05-12T18:34
-updated: 2025-05-12T18:39
+updated: 2025-05-16T00:15
+related-links:
+  - "[[Core-Concepts-MOC]]"
 ---
 
 # System-Design-MOC

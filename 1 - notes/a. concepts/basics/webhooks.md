@@ -1,10 +1,11 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Basic-Concepts-MOC]]"
 created: 2025-04-28T15:42
-updated: 2025-05-13T11:34
+updated: 2025-05-16T00:25
 ---
-	---
+---
 
 A **webhook** is a way for one system to send real-time information to another system automatically when something happens.
 

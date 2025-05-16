@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[SOP-MOC]]"
 created: 2025-05-04T11:02
-updated: 2025-05-04T16:44
+updated: 2025-05-16T00:26
 ---
 ---
 

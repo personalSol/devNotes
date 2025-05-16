@@ -4,12 +4,12 @@ related-links:
   - "[[JavaScript-MOC]]"
   - "[[Javascript Cheatsheet]]"
 created: 2025-02-23T10:54
-updated: 2025-04-25T18:05
+updated: 2025-05-15T23:45
 ---
 ---
 
 
-[[DOM intro]]
+[[js - DOM intro]]
 
 
 

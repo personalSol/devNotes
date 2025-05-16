@@ -4,56 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cab7e6e6009c13cc",
+        "id": "dba8e3d42ec6b955",
         "type": "tabs",
         "children": [
           {
-            "id": "a0ca24989a4cd7df",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Cpp cheatsheet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/Cpp cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp cheatsheet\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":181.75175044952877}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "n8n course by sheriyas",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/n8n course by sheriyas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"n8n course by sheriyas\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/Cpp-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cpp-MOC"
-            }
-          },
-          {
-            "id": "ca0631b4d5830fbd",
+            "id": "02cc09ab2cd37c71",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -65,94 +20,13 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/Cpp cheatsheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Cpp cheatsheet"
-            }
-          },
-          {
-            "id": "240a693365073e9b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/cpp - things to remember.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp - things to remember"
-            }
-          },
-          {
-            "id": "decdc7c2741a7de8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/IMAP vs SMTP.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "IMAP vs SMTP"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,7 +107,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3888432cac3b4f06",
@@ -255,11 +130,10 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/cpp - things to remember.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
-                  "localJumps": 1,
+                  "localJumps": 5,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -278,12 +152,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.2510858808807368,
+                  "scale": 0.17909339784317138,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cpp - things to remember"
+              "title": "Graph view"
             }
           }
         ]
@@ -316,13 +190,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - sources/courses/system design by coder army/lect - 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lect - 1"
+              "title": "Outline"
             }
           },
           {
@@ -510,8 +383,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 309.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -530,38 +402,40 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "240a693365073e9b",
+  "active": "02cc09ab2cd37c71",
   "lastOpenFiles": [
-    "0 - inbox/Cpp cheatsheet.md",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
-    "0 - inbox/cpp - things to remember.md",
-    "4 - sources/courses/n8n course by sheriyas.md",
-    "0 - inbox/IMAP vs SMTP.md",
+    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
+    "1 - notes/a. concepts/core/abstraction.md",
+    "1 - notes/e. ai/ai agents.md",
+    "3 - moc/Terms-MOC.md",
+    "1 - notes/z. others/vault-status.md",
+    "1 - notes/b. languages/cpp/cpp - things to remember.md",
+    "1 - notes/b. languages/library/react/react - UI update process.md",
+    "1 - notes/b. languages/cpp/cpp arrays.md",
+    "1 - notes/b. languages/cpp/cpp - call by reference and call by value.md",
+    "1 - notes/f. sops/how to use android in virtual machine.md",
+    "1 - notes/b. languages/java/abstraction vs encapsulation.md",
+    "1 - notes/z. others/Youtubers for programming.md",
+    "1 - notes/b. languages/java/autoboxing and unboxing in java.md",
+    "1 - notes/z. others/Questions asked in interview.md",
+    "1 - notes/c. tools/github/github authentication methods.md",
+    "1 - notes/a. concepts/basics/environment variables and path.md",
+    "1 - notes/b. languages/css/CSS connecting with HTML.md",
+    "1 - notes/a. concepts/core/data structure and algorithms.md",
+    "1 - notes/b. languages/css/CSS Cheatsheet.md",
+    "1 - notes/b. languages/css/CSS flex property.md",
+    "1 - notes/b. languages/cpp/cpp - stl.md",
+    "1 - notes/b. languages/cpp/cpp - classes and objects.md",
+    "1 - notes/b. languages/javascript/about node-js.md",
+    "3 - moc/sub-mocs/Node-JS-MOC.md",
+    "1 - notes/b. languages/javascript/npx.md",
+    "1 - notes/a. concepts/basics/types of languages.md",
+    "1 - notes/g. ai",
+    "1 - notes/b. languages/cpp",
     "98 - attachments/Pasted image 20250514170056.png",
-    "3 - moc/Others-MOC.md",
-    "0 - inbox/dsa - tips.md",
-    "0 - inbox/dsa  - resources.md",
-    "3 - moc/DSA-MOC.md",
-    "1 - notes/z. others/roadmap.md",
-    "1 - notes/a. concepts/core/DSA Approaches.md",
-    "1 - notes/d. maths/boat and stream.md",
-    "0 - inbox/vertical scalling.md",
-    "0 - inbox/load balancer.md",
-    "0 - inbox/database.md",
-    "0 - inbox/CDN.md",
-    "0 - inbox/webhooks.md",
     "98 - attachments/Pasted image 20250513074712.png",
-    "4 - sources/courses/system design by coder army/lect - 1.md",
     "98 - attachments/Pasted image 20250512204932.png",
-    "0 - inbox/sd - topics to cover.md",
     "4 - sources/courses/system design by coder army",
-    "3 - moc/System-Design-MOC.md",
-    "0 - inbox/horizontal scaling.md",
-    "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
-    "0 - inbox/sd - intro.md",
-    "0 - inbox/cpp - vectors.md",
-    "0 - inbox/cpp - stl.md",
-    "0 - inbox/cpp datatypes.md",
     "98 - attachments/Pasted image 20250509201128.png",
     "98 - attachments/vlc_ODr8n1wrA6.png",
     "1 - notes/f. sops",
@@ -574,10 +448,8 @@
     "98 - attachments/Recording 20250414141417.m4a",
     "98 - attachments/Recording 20250304163338.m4a",
     "98 - attachments/Recording 20250414141155.m4a",
-    "1 - notes/e. terms",
+    "1 - notes/e. ai",
     "1 - notes/a. concepts/imp",
-    "1 - notes/a. concepts/other",
-    "1 - notes/c. tools/mongoDB",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

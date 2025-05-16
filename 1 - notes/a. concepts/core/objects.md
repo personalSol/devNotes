@@ -2,8 +2,9 @@
 status: newBorn
 related-links:
   - "[[Core-Concepts-MOC]]"
+  - "[[concept - oops]]"
 created: 2025-04-11T17:59
-updated: 2025-04-20T11:10
+updated: 2025-05-15T23:38
 ---
 ---
 

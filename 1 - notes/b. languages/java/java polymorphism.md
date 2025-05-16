@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Java-MOC]]"
 created: 2025-04-20T18:11
-updated: 2025-04-24T21:53
+updated: 2025-05-15T20:35
 ---
 ---
 
@@ -11,7 +11,7 @@ updated: 2025-04-24T21:53
 
 In simple terms:
 
-> You can use **one method name**, but it can do **different things** depending on the object.
+> You can use **one method name**, but it can do **different things** depending on the object it is called
 
 ---
 

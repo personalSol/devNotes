@@ -1,11 +1,11 @@
 ---
 created: 2025-04-28T08:40
-updated: 2025-05-15T07:41
+updated: 2025-05-15T23:28
 ---
 
 # Cpp-MOC
 
-here will be all the notes around Cpp-MOC
+here will be all the notes around Cpp-MOC which is a part of [[Languages-MOC]]
 
 
 ### extras ( not that imp but still here )
@@ -20,11 +20,13 @@ here will be all the notes around Cpp-MOC
 - [[cpp datatypes]]
 - [[cpp - call by reference and call by value]]
 - [[cpp - stl]]
-- 
+- [[cpp - struct vs class]]
+- [[cpp - classes and objects]]
+- [[cpp - oops]]
 
 ### advance
 
-- 
+- [[cpp - access modifiers]]
 
 
 ### courses i did around it
@@ -34,8 +36,11 @@ here will be all the notes around Cpp-MOC
 
 ### all which are inside other pages
 
-- 
-
+- [[cpp - polymorphism]]
+- [[cpp - inheritance]]
+- [[cpp - encapsulation]]
+- [[cpp - abstraction]]
+- [[cpp - pairs]]
 
 ### **Links not included yet list:**
 ```dataview

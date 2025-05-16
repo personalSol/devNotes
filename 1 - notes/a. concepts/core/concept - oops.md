@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Core-Concepts-MOC]]"
 created: 2025-04-12T14:00
-updated: 2025-04-20T11:11
+updated: 2025-05-15T23:46
 ---
 ---
 
@@ -14,7 +14,7 @@ in this we study:
 - [[classes]]
 - [[objects]]
 - [[encapsulation]]
-- [[inheritence]]
+- [[concept - inheritence]]
 - [[polymorphism]]
 - [[abstraction]]
 

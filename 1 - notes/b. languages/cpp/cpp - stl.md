@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Cpp-MOC]]"
 created: 2025-05-12T16:58
-updated: 2025-05-12T17:27
+updated: 2025-05-16T00:27
 ---
 ---
 

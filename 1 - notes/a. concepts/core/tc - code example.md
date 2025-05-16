@@ -1,8 +1,10 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[Core-Concepts-MOC]]"
+  - "[[time complexity]]"
 created: 2025-05-09T19:52
-updated: 2025-05-09T20:04
+updated: 2025-05-16T00:18
 ---
 ---
 
