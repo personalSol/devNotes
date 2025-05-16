@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Cpp-MOC]]"
 created: 2025-05-09T08:55
-updated: 2025-05-16T00:28
+updated: 2025-05-16T08:16
 ---
 ---
 
@@ -21,6 +21,12 @@ code
 ```cpp
 int arr1[5] // 1d array of size 5 from 0 to 4
 int arr2[2][10] // 2d array of 2 rows and 10 columns
+
+// initialization
+int a[3] = {1, 2, 3};
+float b[] = {1.1, 2.2, 3.3};  // size is inferred
+char c[4] = {'a', 'b', 'c', '\0'};
+
 ```
 
 
