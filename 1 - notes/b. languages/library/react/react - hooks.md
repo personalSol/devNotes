@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[React-MOC]]"
 created: 2025-04-22T16:46
-updated: 2025-05-17T10:29
+updated: 2025-05-17T16:42
 ---
 ---
 
@@ -18,28 +18,17 @@ updated: 2025-05-17T10:29
 
 ## map of hooks:
 
-![[Pasted image 20250423072234.png]]
+![[Pasted image 20250423072234.png|||500]]
 
 
 ## types of hooks:
 
 - state management hooks:
-
-````tabs
---- useState
-
-Link: [useState – React](https://react.dev/reference/react/useState#adding-state-to-a-component)
-
-![[Hooks - useState#basic]]
-
-extras: [[Hooks - useState]]
-
-
-````
+	- [[Hooks - useState]]
 
 - effect hooks
-	- useEffect()
-		- **executes** the code inside it whenever its dependencies change.
+	- [[hooks - useEffect]]
+	- 
 - performance hooks
 	- `useCallback()`
 		- use to optimize the function and not execute it

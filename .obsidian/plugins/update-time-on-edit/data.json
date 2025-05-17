@@ -5,16 +5,20 @@
   "headerCreated": "created",
   "minMinutesBetweenSaves": 1,
   "ignoreGlobalFolder": [
-    "97 - templates",
     "96 - tags",
-    "3 - moc",
-    "99 - archive"
+    "97 - templates",
+    "98 - attachments",
+    "3 - moc"
   ],
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
     "0 - inbox/js loops.md": "472889aec009b8c883ae2d52249e92a5d13693424adde68af5762cdbebe00c02",
     "97 - templates/Templates-MOC.md": "ecb35f7f8108feddd2763fc38a6225de2221eb7217275e343370ccdfd12a70a2",
-    "97 - templates/tmp-inbox.md": "c4dff400490113c9d7c395c87cb30ca2d5900f2aa15e75e81747f6a59e3790b7"
+    "97 - templates/tmp-inbox.md": "c4dff400490113c9d7c395c87cb30ca2d5900f2aa15e75e81747f6a59e3790b7",
+    "0 - inbox/cors.md": "7fc475a931ca5c56be38acae34db0385d7416976d2d1ebfe4e544559d9d670df",
+    "0 - inbox/proxy and cors.md": "f03de25b8d369f21fbaa455617fa04454d097009c2b1383974b9f538a241dfc4",
+    "1 - notes/b. languages/library/react/react - hooks.md": "e0e071db358a8022578565f001d47cf32d5904f168d29a6f0853f3838508d70f",
+    "0 - inbox/hooks - useEffect.md": "d1cff526ea2c89215942c8707fe7c5c2feab89163e55a29d859739a4d230596d"
   }
 }
