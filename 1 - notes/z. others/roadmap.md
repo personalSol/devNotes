@@ -3,48 +3,71 @@ status: newBorn
 related-links:
   - "[[Others-MOC]]"
 created: 2025-04-20T07:09
-updated: 2025-05-16T10:16
+updated: 2025-05-16T18:58
 ---
 ---
 
-- [ ] ⭐⭐create a roadmap from sheriyans video
+Priorities:
+1. web dev
+2. dsa
+3. system design ( but being regular in system design is most imp )
 
 
 roadmap to a good web dev:
 
-- [ ] complete react course from chai aur code
-- [ ] complete backend course from chai aur code
-- [ ] make the dropbox clone from chai aur code
+objectives:
+
+- [ ] complete backend course from chai aur code - 2 weeks
+- [ ] complete react course from chai aur code - 1 week
+- [ ] make the dropbox clone from chai aur code - 3 days
 
 
 
 
 For dsa 
- 
+- will be doing it will cpp
+- complete the basics ( stl )
+- objective:
+	- build streak on leetcode
+	- atleast solve one leetcode question daily
+- sheet
+	- primary: coder army sheet
+	- extra: striver's sheet
 
 
 
 
 
 
-things to do daily
 
-- [ ] study computer fundamentals
-	- [ ] operating system
-	- [ ] dbms
-	- [ ] 
 
-> am I not trying? huh? maybe not to my best. But I am trying. I swear I am. Why do you think i am trying to earn money quickly. That harshman kaur. can she even understand that. she is financially well off and her mother works in government. She doesn't have diseases, she isn't a boy, she is not a graduate unemployed. I am that person, I am an unemployed who is trying to get a good job and make money asap. I am failing. I know that I am failing. why am i angry on my father? he is doing his very best. he is facing multiple diseases, from arthritis to 
 
-whenever I get angry I cry, I don't know if that's panic attack or pain that I get from being angry. but I am sad rn. I have to learn to better control myself. I know that I am weak. I am trying yaaar. i amn't trying my hardest. otherwise i wouldnt have been unemployed rn. who cries over food smell? that's stupid. Anyways you have cried, now move on. move forward. 
+
 
 things to do on side
 - [ ] learn maths from that krish naik course
 - [ ] follow chai aur code cohort
 
 
-For learn in public:
+### For learn in public:
+
+steps:
+- declare you are learning something on Linkedin 
+	- always mention that you will complete it in this amount of time
+- mention that you will post about it every week
+- github
+	- whatever you code
+		- post it on github
+- hashnode & devio
+	- write: these are concepts I learned this week
+	- some code in crux
+	- sources where you learned it from
+	- same should be on linkedin and twitter and medium
+
 - daily linkedin post
+	- post daily on linkedin
+	- engage with others
+	- try to do a good comment on a famous person's profile quickly as they post
 - daily twitter post
 - weelkly dev io post
 - weekly hashnode post

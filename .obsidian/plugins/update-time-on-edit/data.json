@@ -111,7 +111,7 @@
     "1 - notes/a. concepts/core/objects.md": "11df4e9b7ea27945c1a13f2f38648bc0a75180ab53bef11e0eb9c01df0bdc4bc",
     "1 - notes/a. concepts/core/multi-threading.md": "71638ac01abb25a32030cec25150a6a0b05486c9cbdbfb166fc92005da934684",
     "1 - notes/a. concepts/basics/memory management in programming (stack and heap ).md": "40f754a1e22f50b442a0c12d3b6353d6f96e6771562c9801cf37b654550bf20c",
-    "1 - notes/z. others/roadmap.md": "1957c1eb4ea0d986681ceee0f3e46583df6bf1707af0f693edf996d5abea362c",
+    "1 - notes/z. others/roadmap.md": "295691cd9b18c5aef0c4a8385a61338e949f34b9f98d863a69e7b656d15251e4",
     "1 - notes/b. languages/java/java operators.md": "592f992ca3d1f8cc891a2791a3ee5f9b8b8f1a66eba40d5fde984d7e33da1fcd",
     "1 - notes/a. concepts/basics/Cores vs Threads.md": "5d3a107e4dd42c279f6d21a1fcd94f64cfccf3456f28f049ad640238f23093d8",
     "1 - notes/b. languages/java/java interface.md": "cb37ec41e5a98ab60fb3caf2ee4df084611db4f45bcd8c5699dca00fea0a54b5",
@@ -214,6 +214,7 @@
     "1 - notes/a. concepts/basics/webhooks.md": "2a4b5c1340c63272c1c5880d0635df7950dfbb315f8b4d61904c5596df7ffff9",
     "1 - notes/a. concepts/basics/types of languages.md": "5bc07c0e9f16bacb9288ec90a96ecd72b326f4e81cf5f74b3aad7d0b56a8dfd9",
     "1 - notes/b. languages/javascript/npx.md": "4c70b77d83208633ac650401a9b5a8657bcc05c4bcdf6172b58f8a898d241f9b",
-    "1 - notes/f. sops/how to use android in virtual machine.md": "3b42a1ea649d8f1e2ccd717f3671bb37c09c80dba66a2b38e232510a7774e7b9"
+    "1 - notes/f. sops/how to use android in virtual machine.md": "3b42a1ea649d8f1e2ccd717f3671bb37c09c80dba66a2b38e232510a7774e7b9",
+    "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md": "685c94353b4307ac995feb91f76496bf09c8a020c59f2f614caa9e64743aed05"
   }
 }
