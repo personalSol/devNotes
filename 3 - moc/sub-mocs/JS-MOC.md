@@ -1,6 +1,6 @@
 ---
 created: 2025-02-24T23:18
-updated: 2025-05-02T17:47
+updated: 2025-05-17T14:53
 ---
 # JavaScript MOC
 
@@ -14,6 +14,9 @@ it will have all the notes around JS connected to it.
 - [[JS runtime environment]]
 ## Basic
 
+
+- [[js loops]]
+- 
 - [[DOM Manipulation]]
 - 
 - [[JS Events]]
@@ -21,6 +24,12 @@ it will have all the notes around JS connected to it.
 - [[js - objects]]
 - 
 - [[js - functions]]
+
+
+### mid
+
+- [[ js fetch]]
+- 
 
 
 ## Advance

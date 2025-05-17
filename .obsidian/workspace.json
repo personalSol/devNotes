@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "cpp - struct vs class",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp - struct vs class.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp - struct vs class\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":98},\"to\":{\"line\":15,\"ch\":98}},\"scroll\":0}"
+                },
+                {
                   "title": "lect - 4 UML diagrams",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"lect - 4 UML diagrams\"}",
@@ -46,7 +52,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp - struct vs class.md",
+                "file": "3 - moc/sub-mocs/Node-JS-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -61,10 +67,317 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cpp - struct vs class"
+              "title": "Node-JS-MOC"
+            }
+          },
+          {
+            "id": "1c87b54ee14983f4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/npm packages.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "npm packages"
+            }
+          },
+          {
+            "id": "71880bc41ed1f020",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "JS-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/JS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"JS-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":10},\"to\":{\"line\":17,\"ch\":10}},\"scroll\":19.311392482322983}"
+                },
+                {
+                  "title": "axios",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/axios.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"axios\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - moc/MOC-LIST.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MOC-LIST"
+            }
+          },
+          {
+            "id": "c17b851c894eab5e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/js loops.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "js loops"
+            }
+          },
+          {
+            "id": "6f9cad314e7e6b0d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/Untitled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "js loops",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/js loops.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js loops\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":8},\"to\":{\"line\":9,\"ch\":8}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "97 - templates/tmp-full-note.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "tmp-full-note"
+            }
+          },
+          {
+            "id": "bf68702585db4d13",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "express methods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/express methods.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"express methods\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":0},\"to\":{\"line\":17,\"ch\":0}},\"scroll\":3.167676623822864}"
+                },
+                {
+                  "title": "Express - MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Express - MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Express - MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":11},\"to\":{\"line\":20,\"ch\":11}},\"scroll\":7.091695291746137}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - sources/yt/mern stack crash course by freecodecamp.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "mern stack crash course by freecodecamp"
+            }
+          },
+          {
+            "id": "9b1352793d3a586e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/express static method.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "express static method"
+            }
+          },
+          {
+            "id": "dd88ebad89503f31",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "tmp-moc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/tmp-moc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tmp-moc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - moc/sub-mocs/JS-MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "JS-MOC"
+            }
+          },
+          {
+            "id": "8656d7d93c5d99da",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/js fetch.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "js fetch"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -115,7 +428,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "dsa",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,11 +480,11 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp - struct vs class.md",
+                "file": "0 - inbox/js loops.md",
                 "options": {
                   "collapse-filter": false,
-                  "search": "-path:\"96 - tags\" -path:\"98 - attachments\"  \"98 - attachments\"  ",
-                  "localJumps": 5,
+                  "search": "",
+                  "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
                   "localInterlinks": true,
@@ -190,12 +503,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.17909339784317138,
+                  "scale": 0.15538790053342127,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cpp - struct vs class"
+              "title": "Graph of js loops"
             }
           }
         ]
@@ -228,13 +541,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp - struct vs class.md",
+                "file": "0 - inbox/js loops.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cpp - struct vs class"
+              "title": "Outline of js loops"
             }
           },
           {
@@ -441,35 +754,36 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "02cc09ab2cd37c71",
+  "active": "c17b851c894eab5e",
   "lastOpenFiles": [
-    "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md",
+    "0 - inbox/js map.md",
+    "97 - templates/tmp-full-note.md",
+    "97 - templates/Untitled.md",
+    "0 - inbox/js loops.md",
+    "3 - moc/MOC-LIST.md",
+    "3 - moc/sub-mocs/JS-MOC.md",
+    "97 - templates/tmp-ref.md",
+    "97 - templates/tmp-tab-panels.md",
+    "97 - templates/tmp-project.md",
+    "97 - templates/tmp-moc.md",
+    "97 - templates/tmp-inbox.md",
+    "97 - templates/Templates-MOC.md",
+    "96 - tags/tG algorithms.md",
+    "97 - templates/hlf-tmp-reference.md",
+    "0 - inbox/axios.md",
+    "0 - inbox/npm packages.md",
+    "3 - moc/sub-mocs/Express - MOC.md",
+    "0 - inbox/js fetch.md",
+    "4 - sources/yt/mern stack crash course by freecodecamp.md",
+    "0 - inbox/express static method.md",
+    "3 - moc/Languages-MOC.md",
+    "3 - moc/sub-mocs/Node-JS-MOC.md",
+    "0 - inbox/express methods.md",
+    "0 - inbox/express basics.md",
+    "0 - inbox/express vs node.md",
+    "3 - moc/sub-mocs/Other-Concepts-MOC.md",
     "98 - attachments/Pasted image 20250516195519.png",
-    "1 - notes/b. languages/cpp/cpp arrays.md",
-    "1 - notes/z. others/roadmap.md",
     "98 - attachments/Pasted image 20250516192122.png",
-    "1 - notes/b. languages/cpp/cpp - vectors.md",
-    "1 - notes/b. languages/cpp/cpp - stl.md",
-    "1 - notes/b. languages/cpp/cpp - pairs.md",
-    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
-    "1 - notes/a. concepts/core/abstraction.md",
-    "1 - notes/e. ai/ai agents.md",
-    "3 - moc/Terms-MOC.md",
-    "1 - notes/z. others/vault-status.md",
-    "1 - notes/b. languages/cpp/cpp - things to remember.md",
-    "1 - notes/b. languages/library/react/react - UI update process.md",
-    "1 - notes/b. languages/cpp/cpp - call by reference and call by value.md",
-    "1 - notes/f. sops/how to use android in virtual machine.md",
-    "1 - notes/b. languages/java/abstraction vs encapsulation.md",
-    "1 - notes/z. others/Youtubers for programming.md",
-    "1 - notes/b. languages/java/autoboxing and unboxing in java.md",
-    "1 - notes/z. others/Questions asked in interview.md",
-    "1 - notes/c. tools/github/github authentication methods.md",
-    "1 - notes/a. concepts/basics/environment variables and path.md",
-    "1 - notes/b. languages/css/CSS connecting with HTML.md",
-    "1 - notes/a. concepts/core/data structure and algorithms.md",
-    "1 - notes/b. languages/css/CSS Cheatsheet.md",
-    "1 - notes/b. languages/css/CSS flex property.md",
     "1 - notes/g. ai",
     "1 - notes/b. languages/cpp",
     "98 - attachments/Pasted image 20250514170056.png",

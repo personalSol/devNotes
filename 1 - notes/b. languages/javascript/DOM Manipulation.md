@@ -1,10 +1,10 @@
 ---
 status: newBorn
 related-links:
-  - "[[JavaScript-MOC]]"
+  - "[[JS-MOC]]"
   - "[[Javascript Cheatsheet]]"
 created: 2025-02-23T10:54
-updated: 2025-05-15T23:45
+updated: 2025-05-17T14:37
 ---
 ---
 

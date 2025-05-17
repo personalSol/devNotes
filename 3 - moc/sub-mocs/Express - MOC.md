@@ -1,7 +1,13 @@
+---
+status: newBorn
+related-links: 
+created: 2025-05-17T10:21
+updated: 2025-05-17T10:48
+---
 
-# {{title}}
+# Express - MOC
 
-here will be all the notes around {{title}} which is a part of main MOC - [[MOC-LIST]]
+here will be all the notes around Express - MOC
 
 
 ### extras ( not that imp but still here )
@@ -10,12 +16,11 @@ here will be all the notes around {{title}} which is a part of main MOC - [[MOC-
 
 ### basic
 
+- [[express vs node]]
+- [[express basics]]
+- [[express methods]]
 - 
 
-
-### mid
-
-- 
 
 ### advance
 

@@ -1,6 +1,6 @@
 ---
 created: 2025-03-28T16:07
-updated: 2025-03-28T16:09
+updated: 2025-05-17T10:09
 ---
 
 # Node-JS-MOC
@@ -16,6 +16,7 @@ here will be all the notes around Node-JS-MOC
 
 - [[about node-js]]
 - [[npm]]
+- [[npm packages]]
 - 
 
 ## advance

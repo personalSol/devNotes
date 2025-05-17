@@ -1,12 +1,12 @@
 ---
 created: 2025-02-24T23:16
-updated: 2025-04-28T08:40
+updated: 2025-05-17T14:37
 ---
 
 `Here I will mention all the mocs of languaes`
 
 - [[Java-MOC]]
-- [[JavaScript-MOC]]
+- [[JS-MOC]]
 - [[CSS-MOC]]
 - [[Cpp-MOC]]
 - 
@@ -14,7 +14,7 @@ updated: 2025-04-28T08:40
 
 Library and frameworks:
 
-- [[react-MOC]]
+- [[React-MOC]]
 
 
 ## **Links not included yet list:**

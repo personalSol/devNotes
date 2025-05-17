@@ -1,3 +1,4 @@
+
 <%*
 const filename = app.workspace.activeLeaf.view.file.name;
 

@@ -1,6 +1,6 @@
 ---
 created: 2025-02-11T05:52
-updated: 2025-03-28T16:07
+updated: 2025-05-17T14:37
 ---
 # Web Development MOC
 
@@ -9,8 +9,8 @@ updated: 2025-03-28T16:07
 
 - [[html]]
 - [[CSS-MOC]]
-- [[JavaScript-MOC]]
-- [[react-MOC]]
+- [[JS-MOC]]
+- [[React-MOC]]
 - 
 
 

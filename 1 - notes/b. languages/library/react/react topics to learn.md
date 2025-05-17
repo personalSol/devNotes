@@ -1,9 +1,9 @@
 ---
 status: newBorn
 related-links:
-  - "[[react-MOC]]"
+  - "[[React-MOC]]"
 created: 2025-04-22T10:47
-updated: 2025-04-24T21:57
+updated: 2025-05-17T10:29
 ---
 ---
 
