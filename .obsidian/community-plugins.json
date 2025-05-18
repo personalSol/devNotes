@@ -10,7 +10,6 @@
   "convert-url-to-iframe",
   "callout-manager",
   "templater-obsidian",
-  "update-time-on-edit",
   "obsidian-copy-block-link",
   "obsidian-footnotes",
   "obsidian42-strange-new-worlds",
@@ -20,5 +19,6 @@
   "obsidian-checklist-plugin",
   "obsidian-outliner",
   "obsidian-git",
-  "tab-panels"
+  "tab-panels",
+  "update-time-on-edit"
 ]

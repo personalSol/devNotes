@@ -1,8 +1,8 @@
 ---
 status: newBorn
-related-links: []
+related-links:
 ---
----
+
 
 <% tp.file.cursor(0) %>
 
