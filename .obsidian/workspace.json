@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d7cc0d7eef4e7065",
+        "id": "d69bff65cbb75761",
         "type": "tabs",
         "children": [
           {
-            "id": "09f1a3e683334b23",
+            "id": "e5fe37465ae620aa",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,23 +18,23 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Cpp-MOC",
+                  "title": "mern stack crash course by freecodecamp",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":18},\"to\":{\"line\":16,\"ch\":18}},\"scroll\":1.694915254237288}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/mern stack crash course by freecodecamp.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mern stack crash course by freecodecamp\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":82},\"to\":{\"line\":19,\"ch\":82}},\"scroll\":8.71561222639768}"
                 },
                 {
-                  "title": "cpp - vectors",
+                  "title": "Mongoose Cheatsheet",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp - vectors.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp - vectors\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":46,\"ch\":25},\"to\":{\"line\":46,\"ch\":25}},\"scroll\":21.701261536076593}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mongoose Cheatsheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":45,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}},\"scroll\":28.28722229003906}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
+                "file": "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,30 +49,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cpp - things to remember"
-            }
-          },
-          {
-            "id": "c284339b0a44c28b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Mongoose Cheatsheet"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +103,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "mongoose",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -175,6 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +183,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Mongoose Cheatsheet"
             }
           }
         ]
@@ -235,12 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Mongoose Cheatsheet"
             }
           },
           {
@@ -323,7 +305,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       },
       {
         "id": "289ab9f3e538cb86",
@@ -428,8 +411,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 309.5,
-    "collapsed": true
+    "width": 457.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -448,8 +430,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c284339b0a44c28b",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "1 - notes/b. languages/library/mongoose",
+    "4 - sources/yt/mern stack crash course by freecodecamp.md",
+    "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
     "1 - notes/b. languages/cpp/cpp - things to remember.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
     "1 - notes/b. languages/cpp/cpp - vectors.md",
@@ -463,7 +448,6 @@
     "0 - inbox/js fetch.md",
     "3 - moc/sub-mocs/JS-MOC.md",
     "0 - inbox/express static method.md",
-    "4 - sources/yt/mern stack crash course by freecodecamp.md",
     "0 - inbox/js loops.md",
     "0 - inbox/axios.md",
     "3 - moc/sub-mocs/Node-JS-MOC.md",
@@ -474,8 +458,6 @@
     "0 - inbox/npm packages.md",
     "3 - moc/MOC-LIST.md",
     "0 - inbox/js map.md",
-    "97 - templates/Untitled.md",
-    "97 - templates/tmp-ref.md",
     "98 - attachments/Pasted image 20250516195519.png",
     "98 - attachments/Pasted image 20250516192122.png",
     "1 - notes/g. ai",

@@ -3,17 +3,10 @@ status: adult
 related-links:
   - "[[Cheatsheets-MOC]]"
 created: 2025-04-05T12:11
-updated: 2025-04-11T10:38
+updated: 2025-05-18T06:55
 ---
 ---
 
-# 🧬 Mongoose Cheatsheet (with Simple Explanations)
-
-A beginner-friendly guide for using **Mongoose** (MongoDB ODM) in Node.js apps.
-
----
-
-## 🚀 Getting Started
 
 ### Install Mongoose
 
