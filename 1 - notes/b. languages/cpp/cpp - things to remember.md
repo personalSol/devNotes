@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-05-15T07:41
-updated: 2025-05-15T07:51
+updated: 2025-05-17T21:47
 ---
 ---
 
@@ -24,7 +24,8 @@ updated: 2025-05-15T07:51
 	}
 
 	```
-
+- .size()
+	- to get the length of array & vectors
 
 
 ### other things
