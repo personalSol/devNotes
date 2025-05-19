@@ -17,19 +17,22 @@ here will be all the notes around Cpp-MOC which is a part of [[Languages-MOC]]
 - [[cpp - things to remember]]
 - [[cpp intro]]
 - [[cpp boilerplate]]
+- [[cpp - variables]]
 - [[cpp datatypes]]
-- [[cpp - call by reference and call by value]]
+- [[cpp call by reference and call by value]]
 - [[cpp stl]]
 - [[cpp struct vs class]]
 - [[cpp classes and objects]]
 - [[cpp oops]]
+- [[cpp enum]]
+- 
 
 ### advance
 
 - [[cpp - access modifiers]]
 - [[cpp pointers]]
 - [[cpp objects]]
-- 
+- [[cpp enum class]]
 
 
 ### courses i did around it

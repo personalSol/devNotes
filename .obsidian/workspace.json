@@ -4,110 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5143a82df54904f6",
+        "id": "2f86f0b8548e4585",
         "type": "tabs",
         "children": [
           {
-            "id": "ef008d98ef728636",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/Cpp-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cpp-MOC"
-            }
-          },
-          {
-            "id": "7430c6addb217b50",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/cpp objects.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp objects"
-            }
-          },
-          {
-            "id": "1b5bf068569ebc94",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/cpp/cpp classes and objects.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp classes and objects"
-            }
-          },
-          {
-            "id": "e3570a1707e1870b",
+            "id": "a75d7852914159d0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -117,19 +18,19 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Cpp-MOC",
+                  "title": "Mongoose-MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":23},\"to\":{\"line\":16,\"ch\":23}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Mongoose-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mongoose-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":20},\"to\":{\"line\":15,\"ch\":20}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
+                "file": "0 - inbox/mongoose schema and model.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -142,11 +43,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cpp - things to remember"
+              "title": "mongoose schema and model"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/cpp objects.md",
+                "file": "0 - inbox/mongoose schema and model.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cpp objects"
+              "title": "Graph of mongoose schema and model"
             }
           }
         ]
@@ -310,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/cpp objects.md",
+                "file": "0 - inbox/mongoose schema and model.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cpp objects"
+              "title": "Outline of mongoose schema and model"
             }
           },
           {
@@ -523,36 +423,36 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7430c6addb217b50",
+  "active": "a75d7852914159d0",
   "lastOpenFiles": [
-    "1 - notes/b. languages/cpp/cpp classes and objects.md",
-    "0 - inbox/cpp objects.md",
-    "1 - notes/b. languages/cpp/cpp - things to remember.md",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
-    "1 - notes/b. languages/cpp/cpp struct vs class.md",
-    "3 - moc/Web-Dev-MOC.md",
-    "0 - inbox/cpp pointers.md",
-    "1 - notes/b. languages/cpp/cpp - stl.md",
-    "1 - notes/b. languages/cpp/cpp stl.md",
-    "1 - notes/b. languages/cpp/cpp oops.md",
-    "1 - notes/b. languages/cpp/Cpp cheatsheet.md",
     "3 - moc/sub-mocs/Mongoose-MOC.md",
-    "0 - inbox/mongoose flow.md",
-    "0 - inbox/mongoose schema and model.md",
-    "0 - inbox/model, schema and document concept.md",
-    "0 - inbox/mongoose intro.md",
-    "1 - notes/a. concepts/basics/library vs framework.md",
-    "0 - inbox/mongoose things to remember.md",
+    "3 - moc/sub-mocs/MongoDB-MOC.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
+    "0 - inbox/cpp - variables.md",
+    "1 - notes/b. languages/cpp/cpp datatypes.md",
+    "1 - notes/b. languages/cpp/cpp boilerplate.md",
+    "1 - notes/b. languages/cpp/cpp call by reference and call by value.md",
+    "0 - inbox/cpp enum class.md",
+    "0 - inbox/cpp enum.md",
     "97 - templates/tmp-full-note.md",
-    "0 - inbox/Untitled.md",
-    "3 - moc/sub-mocs/Express-MOC.md",
-    "1 - notes/b. languages/frameworks/express/express basics.md",
-    "0 - inbox/middleware.md",
-    "1 - notes/b. languages/frameworks/express",
-    "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
-    "98 - attachments/Recording 20250518100548.m4a",
-    "0 - inbox/Untitled 1.md",
     "97 - templates/tmp-inbox.md",
+    "0 - inbox/Untitled.md",
+    "3 - moc/sub-mocs/JS-MOC.md",
+    "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
+    "97 - templates/tmp-moc.md",
+    "3 - moc/sub-mocs/Core-Concepts-MOC.md",
+    "3 - moc/sub-mocs/React-MOC.md",
+    "1 - notes/b. languages/library/react/react topics to learn.md",
+    "3 - moc/Languages-MOC.md",
+    "0 - inbox/mongodb things to remember.md",
+    "3 - moc/Web-Dev-MOC.md",
+    "0 - inbox/MongoDB-MOC.md",
+    "0 - inbox/mongoose things to remember.md",
+    "0 - inbox/cpp objects.md",
+    "1 - notes/b. languages/cpp/cpp classes and objects.md",
+    "1 - notes/b. languages/cpp/cpp - things to remember.md",
+    "1 - notes/b. languages/frameworks/express",
+    "98 - attachments/Recording 20250518100548.m4a",
     "1 - notes/b. languages/library/mongoose",
     "98 - attachments/Pasted image 20250516195519.png",
     "98 - attachments/Pasted image 20250516192122.png",

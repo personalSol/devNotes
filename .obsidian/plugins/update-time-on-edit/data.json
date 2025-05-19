@@ -29,11 +29,11 @@
     "1 - notes/b. languages/frameworks/express/express static method.md": "2dc54dbde3b3a0cd5e83722a287cc6088f964edaea752b9ac4d6ee3796692e04",
     "3 - moc/sub-mocs/Mongoose-MOC.md": "bf1a5a3b900faadd37190e55e67b5409537cbc5c14479be0304583c009139e78",
     "0 - inbox/mongoose intro.md": "a16d87500d1e4df34427f6612716a53f4a301dc238fea2f7e4b50ba2dcd7f762",
-    "0 - inbox/mongoose things to remember.md": "048a9875a45bf493ad9e1d6b5477838e9153f5a8c2a428035942a5ec703b90c9",
+    "0 - inbox/mongoose things to remember.md": "6d7ec7dc683c2b73406bf89df627420f932dd6cfe1aa6fc55b8f6819d3a27fee",
     "1 - notes/a. concepts/basics/library vs framework.md": "5700ab03c4a1d4298c4f0e61c07578d23b4d1515ecb7e7d035b60dd698b4456b",
     "0 - inbox/mongoose flow.md": "391a44413e0f9f6794f73a85971bff9e3932fa63495fe3fdccd5232ad4235068",
     "0 - inbox/model, schema and document concept.md": "89895c3e805fecaebeb3dc82adcb335d00793a2f4c0a959839017bd92acd6db8",
-    "0 - inbox/mongoose schema and model.md": "db976bcd7de10867d49d1e2b894654f9b6bccae9c05be712919de16e75b7e346",
+    "0 - inbox/mongoose schema and model.md": "7a0e603faa50e45fa459f153ecd7843c89ba7dfb5606ea196e02ea92207f2b7c",
     "1 - notes/b. languages/cpp/Cpp cheatsheet.md": "49f4843fba85c7778b133e081ff3945714c901d0167b5557e25d7e7a2d3c756b",
     "1 - notes/b. languages/cpp/cpp oops.md": "7b416dc6b6a050c38acfd9772b3c13633952bbdece7f62435b8561c58f285433",
     "1 - notes/b. languages/cpp/cpp - abstraction.md": "5d8e8b3c16e8d41c6c0f5e4de3c783e2e14ef9f60748f6373a9dd55e2e60b9c6",
@@ -45,6 +45,15 @@
     "1 - notes/b. languages/cpp/cpp - pairs.md": "d26f7bb8682179f0b63208da98941b3d25ae9a2658901e2e7acb4bb6b357a1d8",
     "1 - notes/b. languages/cpp/cpp - stl.md": "e005705544480baee36fa5234fff7bb34958ad67979b3982d0f30af08ca06794",
     "0 - inbox/cpp pointers.md": "31e0a90219fb61e4c00d0f0daa9014576a4a2387fa3e4d3ce0fa5cedc2f38c72",
-    "0 - inbox/cpp objects.md": "5e3b847eeba7a93eeca4855e190157b3a4c2163710625a05a73e1bf368a0b535"
+    "0 - inbox/cpp objects.md": "5e3b847eeba7a93eeca4855e190157b3a4c2163710625a05a73e1bf368a0b535",
+    "0 - inbox/mongodb things to remember.md": "f98d51d2bf525137695c3c2840ef57ab4f33b00789d5dc61c4b039dbf666c06e",
+    "1 - notes/b. languages/library/react/react topics to learn.md": "49ebdbb887ce604d37fed387c9a8300d289773b399c45ceb4e22c5a78b20170c",
+    "1 - notes/b. languages/javascript/Javascript Cheatsheet.md": "43ede079efff7a0b74801eb586e161ca9569aa16639db85e54fc4838122ed454",
+    "0 - inbox/Untitled.md": "ff50bada39d1a05b71815d228ea9aa2e8429972ae0a6fb2f9ed8f09058336e31",
+    "0 - inbox/cpp enum.md": "032688f6b365d8312997486807f91764307500ce4781c309f94b43b0ed6fc737",
+    "0 - inbox/cpp enum class.md": "9075bfac070670776df2c3694af4c63caffc377dfc47cdf91866a9a8b55dc70d",
+    "1 - notes/b. languages/cpp/cpp arrays.md": "cca4bce90328854dacc4b008eb13e4fb9dc64a8e017f8ae5eb92906359ae57f9",
+    "1 - notes/b. languages/cpp/cpp call by reference and call by value.md": "09cb91369660f15af9c560010d78768d5a696efd1ef359fd0a204d3a12ecc2cc",
+    "0 - inbox/cpp - variables.md": "b4347c02c72a2016452435a977366b6c6be5e7d82ef33117cb9d19ee7f5b22ae"
   }
 }

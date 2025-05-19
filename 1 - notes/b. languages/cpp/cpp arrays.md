@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Cpp-MOC]]"
 created: 2025-05-09T08:55
-updated: 2025-05-16T08:16
+updated: 2025-05-19T09:56
 ---
 ---
 
@@ -13,7 +13,7 @@ updated: 2025-05-16T08:16
 - location of first ( zeroth index ) can be anywhere
 	- but the second ( 1st index ) will be right after zeroth and so on
 - in a array which is not initialized, c++ throws a random garbage value
-![[cpp - call by reference and call by value#^fqmpwk]]
+![[cpp call by reference and call by value#^fqmpwk]]
 
 
 
