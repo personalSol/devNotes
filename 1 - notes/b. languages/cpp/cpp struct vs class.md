@@ -3,17 +3,12 @@ status: newBorn
 related-links:
   - "[[Cpp-MOC]]"
 created: 2025-05-15T17:09
-updated: 2025-05-15T23:29
+updated: 2025-05-18T20:13
 ---
 ---
 
-# Struct vs Class in C++
-
-  
 
 ## 🔹 What's a `struct`?
-
-A `struct` is a user-defined data type that groups related variables. Originally used in C for simple data grouping.
 
 ```c
 

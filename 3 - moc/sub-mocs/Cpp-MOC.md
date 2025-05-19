@@ -19,14 +19,17 @@ here will be all the notes around Cpp-MOC which is a part of [[Languages-MOC]]
 - [[cpp boilerplate]]
 - [[cpp datatypes]]
 - [[cpp - call by reference and call by value]]
-- [[cpp - stl]]
-- [[cpp - struct vs class]]
-- [[cpp - classes and objects]]
-- [[cpp - oops]]
+- [[cpp stl]]
+- [[cpp struct vs class]]
+- [[cpp classes and objects]]
+- [[cpp oops]]
 
 ### advance
 
 - [[cpp - access modifiers]]
+- [[cpp pointers]]
+- [[cpp objects]]
+- 
 
 
 ### courses i did around it

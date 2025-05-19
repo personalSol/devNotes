@@ -1,6 +1,6 @@
 ---
 created: 2025-05-09T10:44
-updated: 2025-05-15T07:48
+updated: 2025-05-18T17:30
 ---
 	  
 
@@ -83,13 +83,13 @@ do { ... } while (condition);
 
 ## 🧮 Operators
 
-| Type        | Operators             
-|-------------|------------------------|
-| Arithmetic  | `+ - * / %`            |
-| Logical     | `&& || !`              |
-| Comparison  | ` == != < > <= >= `      |
-| Bitwise     | `& | ^ ~ << >>`        |
-| Assignment  | ` = += -= *= /= %= `     |
+| Type         | Operators                 |                    |                  |
+| ------------ | ------------------------- | ------------------ | ---------------- |
+| Arithmetic   | `+ - * / %`               |                    |                  |
+| Logical      | `&&                       |                    | !`               |
+| Comparison   | ` == != < > <= >= `       |                    |                  |
+| Bitwise      | `&                        | ^ ~ << >>`         |                  |
+| Assignment   | ` = += -= *= /= %= `      |                    |                  |
 
   
 
@@ -100,13 +100,9 @@ do { ... } while (condition);
 ## 🧰 Functions
 
 ```cpp
-
 int add(int a, int b) {
-
     return a + b;
-
 }
-
 ```
 
 - Functions allow reusable blocks of code.
