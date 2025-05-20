@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-18T15:31
-updated: 2025-05-19T12:03
+updated: 2025-05-19T19:08
 ---
 ---
 
@@ -133,9 +133,6 @@ userSchema.methods.sayHi = function () {
 userSchema.virtual('info').get(function () {
   return `${this.name} (${this.age})`;
 });
-
-
-
 ```
 
 

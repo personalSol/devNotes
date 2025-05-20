@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "mongoose schema and model",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/mongoose schema and model.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mongoose schema and model\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":0},\"to\":{\"line\":84,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "Mongoose-MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Mongoose-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mongoose-MOC\"}",
@@ -28,9 +34,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/mongoose schema and model.md",
+                "file": "1 - notes/z. others/roadmap.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -43,7 +49,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mongoose schema and model"
+              "title": "roadmap"
             }
           }
         ]
@@ -149,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/mongoose schema and model.md",
+                "file": "1 - notes/z. others/roadmap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +183,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of mongoose schema and model"
+              "title": "Graph of roadmap"
             }
           }
         ]
@@ -210,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/mongoose schema and model.md",
+                "file": "1 - notes/z. others/roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of mongoose schema and model"
+              "title": "Outline of roadmap"
             }
           },
           {
@@ -425,6 +431,7 @@
   },
   "active": "a75d7852914159d0",
   "lastOpenFiles": [
+    "0 - inbox/mongoose schema and model.md",
     "3 - moc/sub-mocs/Mongoose-MOC.md",
     "3 - moc/sub-mocs/MongoDB-MOC.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
@@ -450,7 +457,6 @@
     "0 - inbox/mongoose things to remember.md",
     "0 - inbox/cpp objects.md",
     "1 - notes/b. languages/cpp/cpp classes and objects.md",
-    "1 - notes/b. languages/cpp/cpp - things to remember.md",
     "1 - notes/b. languages/frameworks/express",
     "98 - attachments/Recording 20250518100548.m4a",
     "1 - notes/b. languages/library/mongoose",
