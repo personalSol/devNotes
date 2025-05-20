@@ -11,6 +11,8 @@ here will be all the notes around git-and-github
 
 ## basic
 
+- [[git standard practices]]
+- 
 - [[about github and github]]
 - [[setting git credentials]]
 - [[basic git commands]]

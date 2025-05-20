@@ -15,7 +15,8 @@ here will be all the notes around Node-JS-MOC
 ## basic
 
 - [[about node-js]]
-- [[npm]]
+- [[node commands]]
+- 
 - [[npm packages]]
 - [[cors]]
 - [[proxy and cors]]

@@ -3,6 +3,7 @@
 
 here will be all the notes around {{title}} which is a part of main MOC - [[MOC-LIST]]
 
+`Cheatsheet:`  
 
 ### extras ( not that imp but still here )
 

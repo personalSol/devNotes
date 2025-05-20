@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "roadmap",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/roadmap.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"roadmap\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":14.049999952316284}"
+                },
+                {
                   "title": "mongoose schema and model",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/mongoose schema and model.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mongoose schema and model\"}",
@@ -34,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/z. others/roadmap.md",
+                "file": "3 - moc/sub-mocs/git-and-github-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,10 +55,188 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "roadmap"
+              "title": "git-and-github-MOC"
+            }
+          },
+          {
+            "id": "3d8204e03cf5a6d4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Node-JS-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Node-JS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Node-JS-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":15},\"to\":{\"line\":17,\"ch\":15}},\"scroll\":3.278688524590164}"
+                },
+                {
+                  "title": "git standard practices",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/git standard practices.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"git standard practices\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":94},\"to\":{\"line\":8,\"ch\":94}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/npm packages.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "npm packages"
+            }
+          },
+          {
+            "id": "027c7244e373fec0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/prettier.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "prettier"
+            }
+          },
+          {
+            "id": "ca3a41f79dba314d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/nodemon.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "nodemon"
+            }
+          },
+          {
+            "id": "c7b4b84b666a6c18",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/node commands.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "node commands"
+            }
+          },
+          {
+            "id": "5f33eb2405642b7e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/dev dependencies.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "dev dependencies"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +287,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mongoose",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -133,7 +317,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3888432cac3b4f06",
@@ -155,7 +340,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/z. others/roadmap.md",
+                "file": "0 - inbox/prettier.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -183,7 +368,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of roadmap"
+              "title": "Graph of prettier"
             }
           }
         ]
@@ -216,13 +401,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/z. others/roadmap.md",
+                "file": "0 - inbox/prettier.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of roadmap"
+              "title": "Outline of prettier"
             }
           },
           {
@@ -429,8 +614,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a75d7852914159d0",
+  "active": "027c7244e373fec0",
   "lastOpenFiles": [
+    "0 - inbox/prettier.md",
+    "0 - inbox/npm packages.md",
+    "0 - inbox/node commands.md",
+    "0 - inbox/nodemon.md",
+    "0 - inbox/model, schema and document concept.md",
+    "3 - moc/sub-mocs/Node-JS-MOC.md",
+    "0 - inbox/dev dependencies.md",
+    "0 - inbox/git standard practices.md",
+    "3 - moc/sub-mocs/git-and-github-MOC.md",
+    "97 - templates/tmp-moc.md",
+    "1 - notes/z. others/roadmap.md",
     "0 - inbox/mongoose schema and model.md",
     "3 - moc/sub-mocs/Mongoose-MOC.md",
     "3 - moc/sub-mocs/MongoDB-MOC.md",
@@ -446,17 +642,6 @@
     "0 - inbox/Untitled.md",
     "3 - moc/sub-mocs/JS-MOC.md",
     "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
-    "97 - templates/tmp-moc.md",
-    "3 - moc/sub-mocs/Core-Concepts-MOC.md",
-    "3 - moc/sub-mocs/React-MOC.md",
-    "1 - notes/b. languages/library/react/react topics to learn.md",
-    "3 - moc/Languages-MOC.md",
-    "0 - inbox/mongodb things to remember.md",
-    "3 - moc/Web-Dev-MOC.md",
-    "0 - inbox/MongoDB-MOC.md",
-    "0 - inbox/mongoose things to remember.md",
-    "0 - inbox/cpp objects.md",
-    "1 - notes/b. languages/cpp/cpp classes and objects.md",
     "1 - notes/b. languages/frameworks/express",
     "98 - attachments/Recording 20250518100548.m4a",
     "1 - notes/b. languages/library/mongoose",
