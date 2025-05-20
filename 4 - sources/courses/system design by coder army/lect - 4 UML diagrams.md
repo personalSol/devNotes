@@ -2,7 +2,7 @@
 created: 2025-05-16T18:58:40
 status: 
 source: 
-updated: 2025-05-16T20:31
+updated: 2025-05-20T18:03
 ---
 ---
 
@@ -62,6 +62,8 @@ A class in UML is drawn as a **rectangle divided into 3 compartments**:
 - we add `<<static>>` at the top of class rectangle if the class is static
 
 #### association
+
+![[Pasted image 20250520180332.png||500]]
 
 - whenever two classes are connected somehow then we say that those classe are connected
 - are of two types

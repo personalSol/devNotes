@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2f86f0b8548e4585",
+        "id": "146863d20cf3c941",
         "type": "tabs",
         "children": [
           {
-            "id": "a75d7852914159d0",
+            "id": "52898722cfef5d7a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,29 +18,23 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "roadmap",
+                  "title": "ChaiAurCode SQL course",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/roadmap.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"roadmap\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":14.049999952316284}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/ChaiAurCode SQL course.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ChaiAurCode SQL course\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
                 },
                 {
-                  "title": "mongoose schema and model",
+                  "title": "System-Design-MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/mongoose schema and model.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mongoose schema and model\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":0},\"to\":{\"line\":84,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Mongoose-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Mongoose-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mongoose-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":20},\"to\":{\"line\":15,\"ch\":20}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/System-Design-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"System-Design-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":4.3478260869565215}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/git-and-github-MOC.md",
+                "file": "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,188 +49,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "git-and-github-MOC"
-            }
-          },
-          {
-            "id": "3d8204e03cf5a6d4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Node-JS-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Node-JS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Node-JS-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":15},\"to\":{\"line\":17,\"ch\":15}},\"scroll\":3.278688524590164}"
-                },
-                {
-                  "title": "git standard practices",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/git standard practices.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"git standard practices\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":94},\"to\":{\"line\":8,\"ch\":94}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/npm packages.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "npm packages"
-            }
-          },
-          {
-            "id": "027c7244e373fec0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/prettier.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "prettier"
-            }
-          },
-          {
-            "id": "ca3a41f79dba314d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/nodemon.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "nodemon"
-            }
-          },
-          {
-            "id": "c7b4b84b666a6c18",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/node commands.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "node commands"
-            }
-          },
-          {
-            "id": "5f33eb2405642b7e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/dev dependencies.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "dev dependencies"
+              "title": "lect - 4 UML diagrams"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -317,8 +133,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -340,7 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/prettier.md",
+                "file": "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -368,7 +183,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of prettier"
+              "title": "Graph of lect - 4 UML diagrams"
             }
           }
         ]
@@ -401,13 +216,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/prettier.md",
+                "file": "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of prettier"
+              "title": "Outline of lect - 4 UML diagrams"
             }
           },
           {
@@ -614,17 +429,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "027c7244e373fec0",
+  "active": "52898722cfef5d7a",
   "lastOpenFiles": [
-    "0 - inbox/prettier.md",
-    "0 - inbox/npm packages.md",
+    "98 - attachments/Pasted image 20250520180332.png",
+    "4 - sources/courses/ChaiAurCode SQL course.md",
+    "3 - moc/System-Design-MOC.md",
+    "0 - inbox/dev dependencies.md",
     "0 - inbox/node commands.md",
     "0 - inbox/nodemon.md",
+    "3 - moc/sub-mocs/git-and-github-MOC.md",
+    "0 - inbox/npm packages.md",
+    "0 - inbox/prettier.md",
     "0 - inbox/model, schema and document concept.md",
     "3 - moc/sub-mocs/Node-JS-MOC.md",
-    "0 - inbox/dev dependencies.md",
     "0 - inbox/git standard practices.md",
-    "3 - moc/sub-mocs/git-and-github-MOC.md",
     "97 - templates/tmp-moc.md",
     "1 - notes/z. others/roadmap.md",
     "0 - inbox/mongoose schema and model.md",
@@ -639,9 +457,6 @@
     "0 - inbox/cpp enum.md",
     "97 - templates/tmp-full-note.md",
     "97 - templates/tmp-inbox.md",
-    "0 - inbox/Untitled.md",
-    "3 - moc/sub-mocs/JS-MOC.md",
-    "1 - notes/b. languages/javascript/Javascript Cheatsheet.md",
     "1 - notes/b. languages/frameworks/express",
     "98 - attachments/Recording 20250518100548.m4a",
     "1 - notes/b. languages/library/mongoose",
