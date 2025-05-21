@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "146863d20cf3c941",
+        "id": "93ee51fc48aeeb09",
         "type": "tabs",
         "children": [
           {
-            "id": "52898722cfef5d7a",
+            "id": "a48da42c35b10f16",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,29 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "lect - 4 UML diagrams",
+                  "title": "React-MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"lect - 4 UML diagrams\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "ChaiAurCode SQL course",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/ChaiAurCode SQL course.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ChaiAurCode SQL course\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "System-Design-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/System-Design-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"System-Design-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":4.3478260869565215}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":15},\"to\":{\"line\":13,\"ch\":15}},\"scroll\":1.6786885496045723}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/Web-Dev-MOC.md",
+                "file": "1 - notes/b. languages/library/react/react topics to learn.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,161 +43,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Web-Dev-MOC"
-            }
-          },
-          {
-            "id": "c11c678a46ace8c0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "mongodb atlas basics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/mongodb atlas basics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mongodb atlas basics\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":0},\"to\":{\"line\":22,\"ch\":0}},\"scroll\":12.1772151394468}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/MongoDB-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MongoDB-MOC"
-            }
-          },
-          {
-            "id": "dbc3f869cffcf794",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "connecting mongodb",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/connecting mongodb.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"connecting mongodb\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":130},\"to\":{\"line\":31,\"ch\":130}},\"scroll\":5.049350887149959}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/JS-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "JS-MOC"
-            }
-          },
-          {
-            "id": "b7db64bb03a22d0e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "js throw error",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/js throw error.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js throw error\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":78},\"to\":{\"line\":12,\"ch\":78}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/frameworks/express/express and app methods.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "express and app methods"
-            }
-          },
-          {
-            "id": "a3be09d0193d66a7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/mongodb things to remember.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "mongodb things to remember"
+              "title": "react topics to learn"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -312,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/frameworks/express/express and app methods.md",
+                "file": "1 - notes/b. languages/library/react/react topics to learn.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -340,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of express and app methods"
+              "title": "Graph of react topics to learn"
             }
           }
         ]
@@ -373,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/b. languages/frameworks/express/express and app methods.md",
+                "file": "1 - notes/b. languages/library/react/react topics to learn.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of express and app methods"
+              "title": "Outline of react topics to learn"
             }
           },
           {
@@ -586,17 +423,19 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b7db64bb03a22d0e",
+  "active": "a48da42c35b10f16",
   "lastOpenFiles": [
-    "0 - inbox/js throw error.md",
+    "3 - moc/sub-mocs/React-MOC.md",
+    "0 - inbox/mongodb things to remember.md",
+    "3 - moc/Web-Dev-MOC.md",
     "3 - moc/sub-mocs/JS-MOC.md",
+    "1 - notes/b. languages/frameworks/express/express and app methods.md",
+    "0 - inbox/js throw error.md",
     "1 - notes/b. languages/javascript/closure function.md",
     "0 - inbox/connecting mongodb.md",
     "3 - moc/sub-mocs/MongoDB-MOC.md",
-    "0 - inbox/mongodb things to remember.md",
     "0 - inbox/mongodb atlas basics.md",
     "98 - attachments/Pasted image 20250521080702.png",
-    "3 - moc/Web-Dev-MOC.md",
     "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md",
     "98 - attachments/Pasted image 20250520180332.png",
     "4 - sources/courses/ChaiAurCode SQL course.md",
@@ -614,8 +453,6 @@
     "1 - notes/z. others/roadmap.md",
     "0 - inbox/mongoose schema and model.md",
     "3 - moc/sub-mocs/Mongoose-MOC.md",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
-    "0 - inbox/cpp - variables.md",
     "1 - notes/b. languages/frameworks/express",
     "98 - attachments/Recording 20250518100548.m4a",
     "1 - notes/b. languages/library/mongoose",
