@@ -18,7 +18,7 @@ here will be all the notes around Express - MOC
 
 - [[express vs node]]
 - [[express basics]]
-- [[express methods]]
+- [[express and app methods]]
 - 
 
 

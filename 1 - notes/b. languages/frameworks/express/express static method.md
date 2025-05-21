@@ -2,9 +2,9 @@
 status: newBorn
 related-links:
   - "[[Express-MOC]]"
-  - "[[express methods]]"
+  - "[[express and app methods]]"
 created: 2025-05-17T12:26
-updated: 2025-05-18T12:23
+updated: 2025-05-21T13:02
 ---
 ---
 

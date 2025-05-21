@@ -36,6 +36,7 @@ it will have all the notes around JS connected to it.
 
 - [[about node-js]]
 - [[closure function]]
+- [[js throw error]]
 - 
 
 

@@ -25,8 +25,7 @@
     "1 - notes/b. languages/frameworks/express/express basics.md": "8c21dd1bd75c2736a6a0efee22d0b362c31865f25cd7a07f2e7566e8b17ed214",
     "0 - inbox/middleware.md": "01c36ed46066cb0d0ef6fd18863e17a4b89b7c32a799bd725fbd67cf669e5906",
     "0 - inbox/npm packages.md": "a1726157397ba2e865c8f9f1bc85486098cfacc0d2e673c4c1e8df62a0679405",
-    "1 - notes/b. languages/frameworks/express/express methods.md": "32b59fa8595e5d33d3435d6c47e28a3cbef7126c00cb09e8a939017f1efef38b",
-    "1 - notes/b. languages/frameworks/express/express static method.md": "2dc54dbde3b3a0cd5e83722a287cc6088f964edaea752b9ac4d6ee3796692e04",
+    "1 - notes/b. languages/frameworks/express/express static method.md": "6315853092a79e312c74a9bc7b294bb6b033d1575b20b935d0a112a33778c4ca",
     "3 - moc/sub-mocs/Mongoose-MOC.md": "bf1a5a3b900faadd37190e55e67b5409537cbc5c14479be0304583c009139e78",
     "0 - inbox/mongoose intro.md": "a16d87500d1e4df34427f6612716a53f4a301dc238fea2f7e4b50ba2dcd7f762",
     "0 - inbox/mongoose things to remember.md": "6d7ec7dc683c2b73406bf89df627420f932dd6cfe1aa6fc55b8f6819d3a27fee",
@@ -46,7 +45,7 @@
     "1 - notes/b. languages/cpp/cpp - stl.md": "e005705544480baee36fa5234fff7bb34958ad67979b3982d0f30af08ca06794",
     "0 - inbox/cpp pointers.md": "31e0a90219fb61e4c00d0f0daa9014576a4a2387fa3e4d3ce0fa5cedc2f38c72",
     "0 - inbox/cpp objects.md": "5e3b847eeba7a93eeca4855e190157b3a4c2163710625a05a73e1bf368a0b535",
-    "0 - inbox/mongodb things to remember.md": "f98d51d2bf525137695c3c2840ef57ab4f33b00789d5dc61c4b039dbf666c06e",
+    "0 - inbox/mongodb things to remember.md": "97352356584e43ac5435a097c3b8d389eaa154e67eed092f70792a1796d6af32",
     "1 - notes/b. languages/library/react/react topics to learn.md": "49ebdbb887ce604d37fed387c9a8300d289773b399c45ceb4e22c5a78b20170c",
     "1 - notes/b. languages/javascript/Javascript Cheatsheet.md": "43ede079efff7a0b74801eb586e161ca9569aa16639db85e54fc4838122ed454",
     "0 - inbox/Untitled.md": "ff50bada39d1a05b71815d228ea9aa2e8429972ae0a6fb2f9ed8f09058336e31",
@@ -61,6 +60,10 @@
     "0 - inbox/dev dependencies.md": "4a105f34a799a278e3630665f7f9ab5465772a5af37510416065dd7cb91b78fb",
     "0 - inbox/nodemon.md": "767e6b7d33781ddc7c1e262930e9b09b5e178dd4ae131492d70e9c5ff3df569f",
     "0 - inbox/prettier.md": "43b2634acd3ee1194e8a081bc51571bc510093925a79c09a7969d0cf378fdc2b",
-    "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md": "29f8ff8aaf10be3fb54aa867dba5938eeea49d15cb21ee137c3f49711d627e5b"
+    "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md": "29f8ff8aaf10be3fb54aa867dba5938eeea49d15cb21ee137c3f49711d627e5b",
+    "0 - inbox/mongodb atlas basics.md": "da3f2188764ee2e8d98a284a62a941fd2504d893b6090bed9918d6132a64bf68",
+    "0 - inbox/connecting mongodb.md": "cc81b808b0b2f3d56647720caa1ccda4c67caa23c81ad190f36484b3a2df8d03",
+    "0 - inbox/js throw error.md": "7733c152c251aae53b96c7e4eb374013ddc755a8b83ea21feb2d7135ce2de0ab",
+    "1 - notes/b. languages/frameworks/express/express and app methods.md": "92d4cb1d2fe71e5f019387672fe9a4ff709cd6eb408a197990046fb6421596cd"
   }
 }
