@@ -3,14 +3,16 @@ status: newBorn
 related-links:
   - "[[Others-MOC]]"
 created: 2025-04-20T07:09
-updated: 2025-05-19T19:53
+updated: 2025-05-21T19:33
 ---
 ---
 
 Priorities:
 1. web dev
-2. dsa
-3. system design ( but being regular in system design is most imp )
+2. system design ( but being regular in system design is most imp )
+3. dsa
+
+
 
 
 roadmap to a good web dev:
@@ -19,7 +21,11 @@ objectives:
 
 - [ ] complete backend course from chai aur code - 2 weeks
 - [ ] complete react course from chai aur code - 1 week
-- [ ] make the dropbox clone from chai aur code - 3 days
+- [ ] projects
+	- [ ] portfolio project
+	- [ ] sifra ai 
+	- [ ] task manager with authentication
+	- [ ] make the dropbox clone from chai aur code - 3 days
 
 
 
@@ -39,6 +45,18 @@ For dsa
 
 For system design
 
+
+- [ ] watch that grag guy video on system design
+- [ ] complete the course of system design from Coder army
+- [ ] do everything you need and you can to complete the both above
+	- [ ] complete oops from rohit negi
+	- [ ] complete the stl video from striver
+	- [ ] complete iterators
+	- [ ] complete classes and struct
+	- [ ] complete day 4 of system design
+		- [ ] draw a uml diagram of car and manual and electric car with function changeGear() and chargeBattery() 
+		- [ ] you should be able to do it remember ( if you can't do this then forget about hackathon )
+	- [ ] study operator overloading in cpp and why it is not implemented in java and other languages
 
 
 

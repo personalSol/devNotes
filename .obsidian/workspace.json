@@ -11,11 +11,23 @@
             "id": "a48da42c35b10f16",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Recording 20250521185414",
+                  "icon": "lucide-file-audio",
+                  "state": "{\"type\":\"audio\",\"state\":{\"file\":\"98 - attachments/Recording 20250521185414.m4a\"},\"icon\":\"lucide-file-audio\",\"title\":\"Recording 20250521185414\"}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "react topics to learn",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/react topics to learn.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react topics to learn\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
                 },
                 {
                   "title": "React-MOC",
@@ -28,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/library/react/react topics to learn.md",
+                "file": "1 - notes/z. others/roadmap.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +55,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react topics to learn"
+              "title": "roadmap"
             }
           }
         ]
@@ -149,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/library/react/react topics to learn.md",
+                "file": "1 - notes/z. others/roadmap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of react topics to learn"
+              "title": "Graph of roadmap"
             }
           }
         ]
@@ -210,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/b. languages/library/react/react topics to learn.md",
+                "file": "1 - notes/z. others/roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of react topics to learn"
+              "title": "Outline of roadmap"
             }
           },
           {
@@ -425,6 +437,9 @@
   },
   "active": "a48da42c35b10f16",
   "lastOpenFiles": [
+    "98 - attachments/Recording 20250521185414.m4a",
+    "1 - notes/z. others/roadmap.md",
+    "1 - notes/b. languages/library/react/react topics to learn.md",
     "3 - moc/sub-mocs/React-MOC.md",
     "0 - inbox/mongodb things to remember.md",
     "3 - moc/Web-Dev-MOC.md",
@@ -450,9 +465,6 @@
     "3 - moc/sub-mocs/Node-JS-MOC.md",
     "0 - inbox/git standard practices.md",
     "97 - templates/tmp-moc.md",
-    "1 - notes/z. others/roadmap.md",
-    "0 - inbox/mongoose schema and model.md",
-    "3 - moc/sub-mocs/Mongoose-MOC.md",
     "1 - notes/b. languages/frameworks/express",
     "98 - attachments/Recording 20250518100548.m4a",
     "1 - notes/b. languages/library/mongoose",
@@ -470,7 +482,6 @@
     "98 - attachments/Pasted image 20250428104132.png",
     "1 - notes/b. languages/library/react",
     "98 - attachments/Recording 20250414141417.m4a",
-    "98 - attachments/Recording 20250304163338.m4a",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",
