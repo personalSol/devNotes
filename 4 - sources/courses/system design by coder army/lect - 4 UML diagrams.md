@@ -2,7 +2,7 @@
 created: 2025-05-16T18:58:40
 status: 
 source: 
-updated: 2025-05-20T18:03
+updated: 2025-05-22T12:35
 ---
 ---
 
@@ -97,13 +97,16 @@ A class in UML is drawn as a **rectangle divided into 3 compartments**:
 - much stronger relationship that simple association
 - ex: room contrains a chair, sofa, table
 - shows with an empty diamond arrow
-- in uml, we represent it with `◇───` where empty diamond side are on individual objects and arrow side are on aggregator object
+- in uml, we represent it with `◇───` 
+- **Diamond is placed on the side of the container class**.
+
 - ![[Pasted image 20250516195519.png||400]]
 
 **composition**
-- same as aggregation but objects in this cannot exist individually
+- **Has-a** relationship where the **contained object can exist independently**.
+- Denoted by: `◆—` (filled diamond)
 - ex: chair contains wheels, seat, arms ( these individually have no usecase)
-- in uml, we represent it with `■──────` where empty 
+- - **Diamond is placed on the side of the container/owner class**.
 
 
 ## behavioural diagram
@@ -116,6 +119,34 @@ A class in UML is drawn as a **rectangle divided into 3 compartments**:
 
 - rarely asked in interviews
 - but will be very helpful in some usecases
+- shows how one object will communicate/interact with another
+- we represent classes and variables by Characters and we don't have to show properties or anything
+	- as we are onl telling how they interact with each other
+- we create sequence diagram of each usecase
+	- a single application can have 1000rs of sequence diagram according to flows
+
+
+**Purpose**: Illustrate communication/interaction between objects in time sequence
+
+**Elements**:
+1. **Objects/Actors** (drawn at the top)
+2. **Lifelines** (dotted vertical lines)
+3. **Messages**:
+    - **Synchronous**: Solid arrow with filled head
+        - can send only one request at a time and then have to wait for response
+    - **Asynchronous**: Solid arrow with open head
+        - can send multiple requests at the same time without waiting for response
+- **Object Creation**: `Create →`
+- **Object Destruction**: `Destroy →` or marked with `X`
+- **Control Structures**:
+	- `alt`: if/else
+	- `opt`: optional
+	- `loop`: iteration (for/while
+
+![[notes.pdf]]
+
+- here transaction is a little down because that transaction never existed before while all the other things existed before.
+
 
 # Reference
 `related link(if any)`

@@ -19,6 +19,7 @@ here will be all the notes around
 
 
 - [[sd - intro]]
+- [[uml diagrams]]
 - 
 
 ### advance

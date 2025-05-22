@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: 
+related-links:
+  - "[[Cpp-MOC]]"
 created: 2025-05-18T21:29
-updated: 2025-05-18T23:14
+updated: 2025-05-22T15:14
 ---
 ---
 
@@ -14,6 +15,7 @@ updated: 2025-05-18T23:14
 | Storage            | Stack                    | Heap                           |
 | Lifetime           | Auto                     | Manual (use `delete`)          |
 | Access             | `ob.method()`            | `ob->method()`                 |
+|                    |                          |                                |
 
 
 ### 🔹 Object Creation
@@ -60,4 +62,4 @@ MyClass* obj = new MyClass();
 - You need it because `new` gives you a **memory address**, not the object itself.
 - Stack holds the pointer; **heap holds the object**.
 - When function ends, stack pointer is gone, but heap memory stays.
-- ❗️Must use `delete` to free that memory manually.
+- ❗️Always `delete` if you used `new`
