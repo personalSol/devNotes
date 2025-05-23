@@ -1,14 +1,15 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[React-MOC]]"
 created: 2025-04-25T16:07
-updated: 2025-04-25T17:42
+updated: 2025-05-23T09:01
 ---
 ---
 
-- built in prop in react
+- built-in prop in react
 	- helps distinguising one component from another
-	- often used with lists ( don't know lists tbh )
+	- often used with lists ( like generating same type of element or componen using loop like map )
 	- it can be a:
 		- unique string
 		- unique number

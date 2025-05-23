@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[CSS-MOC]]"
 created: 2025-03-24T16:54
-updated: 2025-04-11T10:44
+updated: 2025-05-23T08:27
 ---
 ---
 
@@ -16,15 +16,16 @@ px - absolute
 relative:
 - vh/vw: changes according to viewport
 	- vh - applied to height
-	- cw - applied to width
+	- vw - applied to width
 - %: changes according to parent element
 - em: 
     1em = 16px
-    em values are dependant uppon font size of current and parent element
+    - **Relative to the font-size of the **parent** element.**
+    - If a parent element has a font size of `20px`, then `1em` inside that element equals `20px`.
 - rem
-    1rem = 16px
-    rem values are also dependant on font size but not of current element. 
-    it's dependant on root elements font size which is html element/tag
+    - 1rem = 16px
+    - **Relative to the font-size of the **root** element (`<html>`).**
+    - `1rem` is always based on the root font size, regardless of nesting.
 
 
 

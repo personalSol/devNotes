@@ -11,17 +11,53 @@
             "id": "e2966617b2960b4c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "react - hooks",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/react - hooks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - hooks\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":127},\"to\":{\"line\":13,\"ch\":127}},\"scroll\":6.090909090909091}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "React-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":9.399999777475992}"
+                },
+                {
+                  "title": "js loops",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/js loops.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js loops\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":2},\"to\":{\"line\":11,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "react -  key prop",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/react -  key prop.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react -  key prop\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":96},\"to\":{\"line\":11,\"ch\":96}},\"scroll\":15.708860618146334}"
+                },
+                {
+                  "title": "React-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":31.278481709462397}"
+                },
+                {
+                  "title": "js - functions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/js - functions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js - functions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":1.5428570834073154}"
+                },
+                {
+                  "title": "JS-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/JS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"JS-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":11},\"to\":{\"line\":25,\"ch\":11}},\"scroll\":11.537879041294316}"
+                },
+                {
+                  "title": "React-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":11.333332856496176}"
                 },
                 {
                   "title": "lect - 5",
@@ -40,7 +76,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/React-MOC.md",
+                "file": "1 - notes/b. languages/library/react/react - UI update process.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,11 +91,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "React-MOC"
+              "title": "react - UI update process"
             }
           },
           {
-            "id": "2665e2eb8989ca82",
+            "id": "93a496950eabb3b6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -73,7 +109,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/react events.md",
+                "file": "0 - inbox/js map loop.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +124,52 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react events"
+              "title": "js map loop"
+            }
+          },
+          {
+            "id": "2665e2eb8989ca82",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "CSS-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/CSS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":10},\"to\":{\"line\":19,\"ch\":10}},\"scroll\":12.15000057220459}"
+                },
+                {
+                  "title": "react events",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react events.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react events\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/css/CSS units.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CSS units"
             }
           },
           {
@@ -123,9 +204,48 @@
               "icon": "lucide-file",
               "title": "React Cheatsheet"
             }
+          },
+          {
+            "id": "d374d03d3ea6bbd0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "React-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":18},\"to\":{\"line\":24,\"ch\":18}},\"scroll\":13.136363652783649}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/library/react/react - components.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react - components"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,7 +296,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "reconci",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,7 +326,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "3888432cac3b4f06",
@@ -228,7 +349,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/react events.md",
+                "file": "1 - notes/b. languages/library/react/react - components.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,7 +377,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of react events"
+              "title": "Graph of react - components"
             }
           }
         ]
@@ -289,13 +410,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/react events.md",
+                "file": "1 - notes/b. languages/library/react/react - components.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of react events"
+              "title": "Outline of react - components"
             }
           },
           {
@@ -483,7 +604,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 457.5
+    "width": 374.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -502,35 +623,35 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2665e2eb8989ca82",
+  "active": "d374d03d3ea6bbd0",
   "lastOpenFiles": [
-    "0 - inbox/react events.md",
     "3 - moc/sub-mocs/React-MOC.md",
-    "1 - notes/b. languages/library/react/react - components.md",
-    "0 - inbox/React Cheatsheet.md",
+    "1 - notes/z. others/vault-status.md",
+    "1 - notes/b. languages/library/react/react - event handling.md",
+    "1 - notes/b. languages/javascript/js - DOM intro.md",
+    "1 - notes/b. languages/javascript/js - functions.md",
+    "1 - notes/b. languages/library/react/Hooks - useState.md",
+    "1 - notes/b. languages/library/react/react - context.md",
+    "1 - notes/b. languages/cpp/cpp - things to remember.md",
+    "0 - inbox/mongoose schema and model.md",
+    "1 - notes/b. languages/cpp/cpp call by reference and call by value.md",
     "1 - notes/b. languages/library/react/react - things to remember.md",
-    "4 - sources/courses/system design by coder army/lect - 5.md",
-    "1 - notes/b. languages/library/react/react - hooks.md",
-    "1 - notes/b. languages/library/react/react - to create react app.md",
-    "1 - notes/b. languages/library/react/react - conventions to follow.md",
-    "1 - notes/b. languages/library/react/react - how it works.md",
-    "1 - notes/b. languages/library/react/react - about.md",
-    "1 - notes/b. languages/library/react/react story + W's.md",
-    "1 - notes/b. languages/library/react/react topics to learn.md",
-    "0 - inbox/sd - componsition.md",
-    "0 - inbox/cpp constructor.md",
-    "0 - inbox/cpp destructure.md",
-    "0 - inbox/cpp objects.md",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
-    "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md",
-    "4 - sources/courses/system design by coder army/lect - 1.md",
-    "0 - inbox/sd - aggregation.md",
-    "1 - notes/b. languages/cpp/cpp classes and objects.md",
-    "0 - inbox/class diagram.md",
-    "0 - inbox/uml diagrams.md",
-    "3 - moc/System-Design-MOC.md",
+    "1 - notes/b. languages/frameworks/express/express and app methods.md",
+    "0 - inbox/mongoose things to remember.md",
+    "1 - notes/b. languages/java/abstraction vs encapsulation.md",
+    "1 - notes/z. others/videos to watch eventually.md",
+    "1 - notes/a. concepts/basics/compile time vs runtime.md",
+    "1 - notes/a. concepts/basics/memory management in programming (stack and heap ).md",
+    "1 - notes/z. others/Questions asked in interview.md",
+    "1 - notes/a. concepts/core/data structure and algorithms.md",
+    "1 - notes/b. languages/library/react/react - components.md",
+    "1 - notes/b. languages/library/react/react - UI update process.md",
+    "0 - inbox/js loops.md",
+    "0 - inbox/js map loop.md",
+    "1 - notes/b. languages/library/react/react -  key prop.md",
+    "3 - moc/sub-mocs/JS-MOC.md",
+    "1 - notes/b. languages/library/react/react props.md",
     "98 - attachments/notes.pdf",
-    "1 - notes/z. others/roadmap.md",
     "98 - attachments/Recording 20250521185414.m4a",
     "98 - attachments/Pasted image 20250521080702.png",
     "98 - attachments/Pasted image 20250520180332.png",

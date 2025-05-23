@@ -13,7 +13,7 @@
   "ignoreCreatedFolder": [],
   "enableExperimentalHash": false,
   "fileHashMap": {
-    "0 - inbox/js loops.md": "472889aec009b8c883ae2d52249e92a5d13693424adde68af5762cdbebe00c02",
+    "0 - inbox/js loops.md": "b4484e5540215801fb6d56c86c4c7e61173f344e96605ffc946deaddfdb621b4",
     "97 - templates/Templates-MOC.md": "ecb35f7f8108feddd2763fc38a6225de2221eb7217275e343370ccdfd12a70a2",
     "97 - templates/tmp-inbox.md": "c4dff400490113c9d7c395c87cb30ca2d5900f2aa15e75e81747f6a59e3790b7",
     "0 - inbox/cors.md": "7fc475a931ca5c56be38acae34db0385d7416976d2d1ebfe4e544559d9d670df",
@@ -79,6 +79,16 @@
     "1 - notes/b. languages/library/react/react - to create react app.md": "c52ffb9e36f7db14f5a25799bc9504798911e5bd39dce209fac72195077b14a3",
     "1 - notes/b. languages/library/react/react - things to remember.md": "76c4a3aa33e8449286edc55cdcbd91640dd020b61983a14d1408c972d569ed46",
     "0 - inbox/React Cheatsheet.md": "af1171a8a42f4eb2483238fb3b491355b805c789a8635e28787f3a5015d32880",
-    "0 - inbox/react events.md": "2fe30e8f3048ad81cde7d153513d52b204b75124026c33808dfbf6d9c010f0b7"
+    "0 - inbox/react events.md": "2fe30e8f3048ad81cde7d153513d52b204b75124026c33808dfbf6d9c010f0b7",
+    "1 - notes/b. languages/css/CSS units.md": "03e3b3c3c7e50f7092a6bc8126962578311b51c991477e4dd2cc851d89945e27",
+    "1 - notes/b. languages/library/react/react props.md": "8c714c19275926377797bd0fc3f9fe0108d65a670218bbe0125734ff0aaa80e7",
+    "1 - notes/b. languages/javascript/js - functions.md": "29432580bf86fcc8544e06fec67624f5e4f21da48d3fc2961a40d62c15893070",
+    "1 - notes/b. languages/library/react/react -  key prop.md": "b94c9edfe5660d07bda7846d75dc33973f296e455cfcff1e5be39785ee803752",
+    "0 - inbox/js map loop.md": "d6c2f6dcf2358ae95ca87764b7c443ab84e7c71784289168f69abbe6fb0b7761",
+    "1 - notes/b. languages/library/react/react - UI update process.md": "5edd2a6a8a3e74c712aecda76bcd7c6c55038f57da9f347e6cd60c9c230c664d",
+    "1 - notes/b. languages/library/react/react - components.md": "366e7c0f83aef00f8eed69f3fd93a60e99960d734be4b750b8db64d165864c1d",
+    "1 - notes/b. languages/library/react/react - context.md": "386df0853409efc9a770ac8facc3dfe65a57eb0faca10f59745b2c4ae874e318",
+    "1 - notes/b. languages/library/react/Hooks - useState.md": "47d96d2fb2bcc7aa882347760dae698d1be7e824a0eb7bd5184bf98c944614fe",
+    "1 - notes/b. languages/library/react/react - event handling.md": "51568ecee1501ba6909dac9ffbf81e5d9ecf5ab94515eaed102f9240af879d85"
   }
 }

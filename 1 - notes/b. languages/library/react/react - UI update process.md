@@ -1,8 +1,8 @@
 ---
 status: newBorn
-related-links: []
+related-links: "[[React-MOC]]"
 created: 2025-04-25T18:14
-updated: 2025-04-25T18:19
+updated: 2025-05-23T09:11
 ---
 ---
 
@@ -37,7 +37,7 @@ This is React's smart diffing and updating phase.
     - Very efficient: only the changed nodes are updated
 
 ✅ **Both of these steps (diffing + patching)** are part of **Reconciliation**
-
+❌ Updating the real DOM is **not just** reconciliation — it's the final part of the reconciliation process.
 
 ### diagram
 
@@ -52,8 +52,3 @@ This is React's smart diffing and updating phase.
 ```
 
 ---
-# Reference
-`related tags + notes + source + link(if any)`
- 
-
-- 

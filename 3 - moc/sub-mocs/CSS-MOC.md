@@ -17,6 +17,7 @@ here will be all the notes around CSS
 - [[CSS pseudo selectors]]
 - [[CSS flex property]]
 - [[CSS Specificity]]
+- [[CSS units]]
 
 ## advance
 

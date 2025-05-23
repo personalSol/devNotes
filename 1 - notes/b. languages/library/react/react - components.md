@@ -1,10 +1,17 @@
 ---
 status: newBorn
-related-links: []
+related-links: "[[React-MOC]]"
 created: 2025-05-02T17:09
-updated: 2025-05-02T17:36
+updated: 2025-05-23T10:00
 ---
 ---
+
+components are of two types:
+- functional components
+- class components
+
+
+
 
 a good approach for big projects with multiple components:
 - instead of separately importing all the components in app.jsx or any other file
@@ -19,8 +26,3 @@ export {InputBox}
 ```
 
 
-# Reference
-`related tags + notes + source + link(if any)`
- 
-
-- 

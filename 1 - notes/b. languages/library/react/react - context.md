@@ -1,8 +1,8 @@
 ---
 status: newBorn
-related-links: []
+related-links: "[[React-MOC]]"
 created: 2025-04-26T11:36
-updated: 2025-04-26T14:20
+updated: 2025-05-23T09:12
 ---
 ---
 - used when we want to pass prop into depper child components without having them to go through each component to react there
