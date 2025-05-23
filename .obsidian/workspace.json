@@ -8,209 +8,26 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a48da42c35b10f16",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "roadmap",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/roadmap.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"roadmap\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}}}"
-                },
-                {
-                  "title": "react topics to learn",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/react topics to learn.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react topics to learn\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "React-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":15},\"to\":{\"line\":13,\"ch\":15}},\"scroll\":1.6786885496045723}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "lect - 4 UML diagrams"
-            }
-          },
-          {
-            "id": "c9c3bc9d99b34ea0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "cpp objects",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/cpp objects.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp objects\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":31},\"to\":{\"line\":16,\"ch\":31}},\"scroll\":2.1974026568524248}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/Cpp-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Cpp-MOC"
-            }
-          },
-          {
-            "id": "783aac419b30f379",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "cpp classes and objects",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp classes and objects.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp classes and objects\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":2},\"to\":{\"line\":14,\"ch\":2}},\"scroll\":4.566233647334111}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/cpp objects.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp objects"
-            }
-          },
-          {
-            "id": "3ccaea20b45afafc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/cpp destructure.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp destructure"
-            }
-          },
-          {
-            "id": "9dad21ea220d3b14",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/cpp constructor.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp constructor"
-            }
-          },
-          {
             "id": "e2966617b2960b4c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "react - hooks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/react - hooks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - hooks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":127},\"to\":{\"line\":13,\"ch\":127}},\"scroll\":6.090909090909091}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "lect - 5",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/system design by coder army/lect - 5.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"lect - 5\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "title": "sd - aggregation",
@@ -223,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - sources/courses/system design by coder army/lect - 5.md",
+                "file": "3 - moc/sub-mocs/React-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -238,11 +55,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lect - 5"
+              "title": "React-MOC"
             }
           },
           {
-            "id": "1fbd1906502a79b7",
+            "id": "2665e2eb8989ca82",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -256,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/sd - componsition.md",
+                "file": "0 - inbox/react events.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -271,11 +88,44 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sd - componsition"
+              "title": "react events"
+            }
+          },
+          {
+            "id": "2be12d14c39f0319",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/React Cheatsheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "React Cheatsheet"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -378,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4 - sources/courses/system design by coder army/lect - 5.md",
+                "file": "0 - inbox/react events.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -406,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of lect - 5"
+              "title": "Graph of react events"
             }
           }
         ]
@@ -439,13 +289,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - sources/courses/system design by coder army/lect - 5.md",
+                "file": "0 - inbox/react events.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lect - 5"
+              "title": "Outline of react events"
             }
           },
           {
@@ -652,38 +502,38 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e2966617b2960b4c",
+  "active": "2665e2eb8989ca82",
   "lastOpenFiles": [
-    "4 - sources/courses/system design by coder army/lect - 1.md",
+    "0 - inbox/react events.md",
+    "3 - moc/sub-mocs/React-MOC.md",
+    "1 - notes/b. languages/library/react/react - components.md",
+    "0 - inbox/React Cheatsheet.md",
+    "1 - notes/b. languages/library/react/react - things to remember.md",
     "4 - sources/courses/system design by coder army/lect - 5.md",
-    "0 - inbox/sd - aggregation.md",
+    "1 - notes/b. languages/library/react/react - hooks.md",
+    "1 - notes/b. languages/library/react/react - to create react app.md",
+    "1 - notes/b. languages/library/react/react - conventions to follow.md",
+    "1 - notes/b. languages/library/react/react - how it works.md",
+    "1 - notes/b. languages/library/react/react - about.md",
+    "1 - notes/b. languages/library/react/react story + W's.md",
+    "1 - notes/b. languages/library/react/react topics to learn.md",
+    "0 - inbox/sd - componsition.md",
     "0 - inbox/cpp constructor.md",
+    "0 - inbox/cpp destructure.md",
     "0 - inbox/cpp objects.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
+    "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md",
+    "4 - sources/courses/system design by coder army/lect - 1.md",
+    "0 - inbox/sd - aggregation.md",
     "1 - notes/b. languages/cpp/cpp classes and objects.md",
     "0 - inbox/class diagram.md",
-    "0 - inbox/sd - componsition.md",
     "0 - inbox/uml diagrams.md",
-    "0 - inbox/cpp destructure.md",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
     "3 - moc/System-Design-MOC.md",
-    "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md",
     "98 - attachments/notes.pdf",
     "1 - notes/z. others/roadmap.md",
     "98 - attachments/Recording 20250521185414.m4a",
-    "1 - notes/b. languages/library/react/react topics to learn.md",
-    "3 - moc/sub-mocs/React-MOC.md",
-    "0 - inbox/mongodb things to remember.md",
-    "3 - moc/Web-Dev-MOC.md",
-    "3 - moc/sub-mocs/JS-MOC.md",
-    "1 - notes/b. languages/frameworks/express/express and app methods.md",
-    "0 - inbox/js throw error.md",
-    "1 - notes/b. languages/javascript/closure function.md",
-    "0 - inbox/connecting mongodb.md",
-    "3 - moc/sub-mocs/MongoDB-MOC.md",
-    "0 - inbox/mongodb atlas basics.md",
     "98 - attachments/Pasted image 20250521080702.png",
     "98 - attachments/Pasted image 20250520180332.png",
-    "4 - sources/courses/ChaiAurCode SQL course.md",
     "1 - notes/b. languages/frameworks/express",
     "98 - attachments/Recording 20250518100548.m4a",
     "1 - notes/b. languages/library/mongoose",

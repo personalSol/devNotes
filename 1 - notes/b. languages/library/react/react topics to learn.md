@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[React-MOC]]"
 created: 2025-04-22T10:47
-updated: 2025-05-19T08:37
+updated: 2025-05-22T18:17
 ---
 ---
 
@@ -13,7 +13,7 @@ core of react ( state or UI manipulation, jsx)
 - how to propogate change ( hooks )
 
 Additional addon to react:
-- router ( react doesn't have router and we have to install react-router-DOM package forr that)
+- router ( react doesn't have router and we have to install react-router-DOM package for that)
 	- basically changing url without loading page ( like in flipkart it changed url but the page didn't reload )
 ![[Pasted image 20250303205501.png]]
 ![[Pasted image 20250303205605.png]]

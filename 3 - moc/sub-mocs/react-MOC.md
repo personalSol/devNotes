@@ -9,6 +9,8 @@ here will be all the notes around react-MOC from: [[Languages-MOC]] & [[Web-Dev-
 
 [[react - things to remember]]
 
+cheatsheet: [[React Cheatsheet]]
+
 ### basic
 
 - [[react topics to learn]]
@@ -21,6 +23,8 @@ here will be all the notes around react-MOC from: [[Languages-MOC]] & [[Web-Dev-
 - [[react - methods]]
 - [[react - custom hooks]]
 - [[react - components]]
+- [[react events]]
+- 
 
 
 ### advance
