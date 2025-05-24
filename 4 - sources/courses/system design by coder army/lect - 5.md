@@ -2,7 +2,7 @@
 created: 2025-05-22T15:46:51
 status: 
 source: 
-updated: 2025-05-23T18:18
+updated: 2025-05-24T05:56
 ---
 ---
 
@@ -12,7 +12,7 @@ SOLID PRINCIPLES:
 - `S`: Single Reponosibility Principle
 - `O`: Open-close Principle
 - `L`: Liskov Substitution Principle
-- `I`: Interface segregation Principle
+- `I`: Interface Segregation Principle
 - `D`: Dependency Inversion Principle
 
 
@@ -30,8 +30,5 @@ in **UML class diagrams**, `1..*` is the correct way to indicate that a class ca
 - it says that a class should be open for extension and closed for modification
 - means that if we are adding a new feature in out existing class then we should be able to do it without modifying existing methods and properties
 - it's a very string method which cannot be followed always but we should try to follow it as much as possible
-
-
-# Reference
-`related link(if any)`
+- 
 
