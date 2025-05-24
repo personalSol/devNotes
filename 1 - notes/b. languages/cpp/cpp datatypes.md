@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-04-28T09:00
-updated: 2025-05-12T17:27
+updated: 2025-05-23T17:33
 ---
 ---
 ### primitive datatypes
@@ -31,7 +31,7 @@ for string
 
 for char
 - char
-	- must be initialized with `'` single quotes and not double
+	- must be initialized with `'` single quotes
 - ![[vlc_ODr8n1wrA6.png]]
 
 

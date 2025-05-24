@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "93ee51fc48aeeb09",
+        "id": "e0b2c99c7e16e0d3",
         "type": "tabs",
         "children": [
           {
-            "id": "e2966617b2960b4c",
+            "id": "507748a21d93eaa1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,67 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "React-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":9.399999777475992}"
-                },
-                {
-                  "title": "js loops",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/js loops.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js loops\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":2},\"to\":{\"line\":11,\"ch\":2}},\"scroll\":0}"
-                },
-                {
-                  "title": "react -  key prop",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/library/react/react -  key prop.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react -  key prop\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":96},\"to\":{\"line\":11,\"ch\":96}},\"scroll\":15.708860618146334}"
-                },
-                {
-                  "title": "React-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":31.278481709462397}"
-                },
-                {
-                  "title": "js - functions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/js - functions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js - functions\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":1.5428570834073154}"
-                },
-                {
-                  "title": "JS-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/JS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"JS-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":11},\"to\":{\"line\":25,\"ch\":11}},\"scroll\":11.537879041294316}"
-                },
-                {
-                  "title": "React-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":11.333332856496176}"
-                },
-                {
-                  "title": "lect - 5",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/system design by coder army/lect - 5.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"lect - 5\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "sd - aggregation",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/sd - aggregation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"sd - aggregation\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":5},\"to\":{\"line\":33,\"ch\":5}},\"scroll\":20.799999418712797}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/library/react/react - UI update process.md",
+                "file": "4 - sources/courses/system design by coder army/lect - 5.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -91,161 +37,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react - UI update process"
-            }
-          },
-          {
-            "id": "93a496950eabb3b6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/js map loop.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "js map loop"
-            }
-          },
-          {
-            "id": "2665e2eb8989ca82",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "CSS-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/CSS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":10},\"to\":{\"line\":19,\"ch\":10}},\"scroll\":12.15000057220459}"
-                },
-                {
-                  "title": "react events",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react events.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react events\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/css/CSS units.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CSS units"
-            }
-          },
-          {
-            "id": "2be12d14c39f0319",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/React Cheatsheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "React Cheatsheet"
-            }
-          },
-          {
-            "id": "d374d03d3ea6bbd0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "React-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":18},\"to\":{\"line\":24,\"ch\":18}},\"scroll\":13.136363652783649}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/library/react/react - components.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react - components"
+              "title": "lect - 5"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -326,8 +121,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -349,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/library/react/react - components.md",
+                "file": "4 - sources/courses/system design by coder army/lect - 5.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -377,7 +171,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of react - components"
+              "title": "Graph of lect - 5"
             }
           }
         ]
@@ -410,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/b. languages/library/react/react - components.md",
+                "file": "4 - sources/courses/system design by coder army/lect - 5.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of react - components"
+              "title": "Outline of lect - 5"
             }
           },
           {
@@ -623,8 +417,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "d374d03d3ea6bbd0",
+  "active": "507748a21d93eaa1",
   "lastOpenFiles": [
+    "98 - attachments/Pasted image 20250523175902.png",
+    "1 - notes/b. languages/cpp/cpp datatypes.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
+    "1 - notes/b. languages/library/react/react - components.md",
+    "0 - inbox/React Cheatsheet.md",
+    "1 - notes/b. languages/library/react/react - UI update process.md",
+    "0 - inbox/js map loop.md",
+    "1 - notes/b. languages/css/CSS units.md",
     "3 - moc/sub-mocs/React-MOC.md",
     "1 - notes/z. others/vault-status.md",
     "1 - notes/b. languages/library/react/react - event handling.md",
@@ -643,14 +445,6 @@
     "1 - notes/a. concepts/basics/compile time vs runtime.md",
     "1 - notes/a. concepts/basics/memory management in programming (stack and heap ).md",
     "1 - notes/z. others/Questions asked in interview.md",
-    "1 - notes/a. concepts/core/data structure and algorithms.md",
-    "1 - notes/b. languages/library/react/react - components.md",
-    "1 - notes/b. languages/library/react/react - UI update process.md",
-    "0 - inbox/js loops.md",
-    "0 - inbox/js map loop.md",
-    "1 - notes/b. languages/library/react/react -  key prop.md",
-    "3 - moc/sub-mocs/JS-MOC.md",
-    "1 - notes/b. languages/library/react/react props.md",
     "98 - attachments/notes.pdf",
     "98 - attachments/Recording 20250521185414.m4a",
     "98 - attachments/Pasted image 20250521080702.png",
