@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e0b2c99c7e16e0d3",
+        "id": "676a2fd975ccf42f",
         "type": "tabs",
         "children": [
           {
-            "id": "507748a21d93eaa1",
+            "id": "0e604b883f7f7c8a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - sources/courses/system design by coder army/lect - 5.md",
+                "file": "4 - sources/courses/gen ai course by rohit negi/lect 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +37,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lect - 5"
+              "title": "lect 1"
+            }
+          },
+          {
+            "id": "b7fe19791a493196",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/z. others/Websites and Resources.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Websites and Resources"
             }
           }
         ]
@@ -143,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4 - sources/courses/system design by coder army/lect - 5.md",
+                "file": "4 - sources/courses/gen ai course by rohit negi/lect 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of lect - 5"
+              "title": "Graph of lect 1"
             }
           }
         ]
@@ -204,13 +237,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - sources/courses/system design by coder army/lect - 5.md",
+                "file": "4 - sources/courses/gen ai course by rohit negi/lect 1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lect - 5"
+              "title": "Outline of lect 1"
             }
           },
           {
@@ -417,8 +450,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "507748a21d93eaa1",
+  "active": "0e604b883f7f7c8a",
   "lastOpenFiles": [
+    "1 - notes/z. others/Websites and Resources.md",
+    "4 - sources/courses/gen ai course by rohit negi/lect 1.md",
+    "97 - templates/tmp-full-note.md",
+    "97 - templates/tmp-source-note.md",
+    "4 - sources/courses/system design by coder army/lect - 5.md",
+    "4 - sources/courses/gen ai course by rohit negi",
     "98 - attachments/Pasted image 20250523175902.png",
     "1 - notes/b. languages/cpp/cpp datatypes.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
@@ -441,10 +480,6 @@
     "1 - notes/b. languages/frameworks/express/express and app methods.md",
     "0 - inbox/mongoose things to remember.md",
     "1 - notes/b. languages/java/abstraction vs encapsulation.md",
-    "1 - notes/z. others/videos to watch eventually.md",
-    "1 - notes/a. concepts/basics/compile time vs runtime.md",
-    "1 - notes/a. concepts/basics/memory management in programming (stack and heap ).md",
-    "1 - notes/z. others/Questions asked in interview.md",
     "98 - attachments/notes.pdf",
     "98 - attachments/Recording 20250521185414.m4a",
     "98 - attachments/Pasted image 20250521080702.png",
@@ -463,8 +498,6 @@
     "98 - attachments/Pasted image 20250509201128.png",
     "98 - attachments/vlc_ODr8n1wrA6.png",
     "1 - notes/f. sops",
-    "98 - attachments/Pasted image 20250428104132.png",
-    "1 - notes/b. languages/library/react",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",
