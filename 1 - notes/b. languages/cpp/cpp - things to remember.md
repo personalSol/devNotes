@@ -1,8 +1,8 @@
 ---
 status: newBorn
-related-links: []
+related-links: "[[Cpp-MOC]]"
 created: 2025-05-15T07:41
-updated: 2025-05-17T21:47
+updated: 2025-05-25T18:18
 ---
 ---
 
@@ -26,7 +26,7 @@ updated: 2025-05-17T21:47
 	```
 - .size()
 	- to get the length of array & vectors
-
+ 
 
 ### other things
 

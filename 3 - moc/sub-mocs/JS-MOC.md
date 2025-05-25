@@ -18,7 +18,7 @@ it will have all the notes around JS connected to it.
 - [[js loops]]
 - 
 - [[DOM Manipulation]]
-- 
+- [[js execution context]]
 - [[JS Events]]
 - [[js - array]]
 - [[js - objects]]

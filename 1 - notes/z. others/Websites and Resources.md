@@ -1,8 +1,7 @@
 ---
 created: 2025-02-14T21:54
-updated: 2025-05-24T17:38
-related-links:
-  - "[[Others-MOC]]"
+updated: 2025-05-25T18:24
+related-links: "[[Others-MOC]]"
 ---
 here is a list of websites and apps around engineering and programming.
 
@@ -16,4 +15,8 @@ For cheatsheets:
 
 For tokenization
 - [Tiktokenizer](https://tiktokenizer.vercel.app/) (recommended by rohit negi) ^8cqevc
-- 
+
+For AI:
+- learning:
+	- [Prerequisites Roadmap \| Your Roadmap to AI Mastery](https://www.mldl.study/prerequisites)
+	- 

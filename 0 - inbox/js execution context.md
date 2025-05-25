@@ -1,8 +1,8 @@
 ---
-created: 2025-03-26T15:33:27
-status: 
-source: 
-updated: 2025-04-07T12:40
+status: newBorn
+related-links: 
+created: 2025-05-25T18:20
+updated: 2025-05-25T18:20
 ---
 ---
 
@@ -40,13 +40,9 @@ actually during V.P if it sees a variable getting initialized then it creates a 
 
 all the variables which are declared by var gets declared in global scope and it doesn't get temporal dead zone. but the variable doesn't get declared too. it stores undefined and then during Execution phrase it stores the value and until then it's undefined. 
 
-
-
-1. Execution phrase
-
+2. Execution phrase
 
 after variable phrase gets completed. It starts execution phrase in which it executes the code, process things, log things, and also all the temporal zones get removed and variables get declared. 
-
 
 > imp: when a variable is not initialized with anything like var, let or const and directly declared. then that variable gets automatically declared in global scope for that program and it functions exactly like var. 
 
@@ -84,11 +80,3 @@ console.log(b);
 console.log(c);
 console.log("end");
 ```
-
-
-
-
-
-# Reference
-`related link(if any)`
-

@@ -20,7 +20,7 @@
     "0 - inbox/proxy and cors.md": "f03de25b8d369f21fbaa455617fa04454d097009c2b1383974b9f538a241dfc4",
     "1 - notes/b. languages/library/react/react - hooks.md": "8ca9930ed1eeb929bad631c442a77ee8e06538e93c40c89f16417d1352f17d22",
     "0 - inbox/hooks - useEffect.md": "d1cff526ea2c89215942c8707fe7c5c2feab89163e55a29d859739a4d230596d",
-    "1 - notes/b. languages/cpp/cpp - things to remember.md": "071300c15d26180d6995ac133a67be8f7a1ff33949debf39cec0e255b4449562",
+    "1 - notes/b. languages/cpp/cpp - things to remember.md": "9fd47d9e5ef536aaae0b2607e7a5882e29f17204744020d429c2b8f057e72a5e",
     "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md": "521e1b3d66008254d29adef171e2664988eb39f56e543bfca404f3e8a01d474c",
     "1 - notes/b. languages/frameworks/express/express basics.md": "8c21dd1bd75c2736a6a0efee22d0b362c31865f25cd7a07f2e7566e8b17ed214",
     "0 - inbox/middleware.md": "01c36ed46066cb0d0ef6fd18863e17a4b89b7c32a799bd725fbd67cf669e5906",
@@ -92,7 +92,7 @@
     "1 - notes/b. languages/library/react/react - event handling.md": "51568ecee1501ba6909dac9ffbf81e5d9ecf5ab94515eaed102f9240af879d85",
     "1 - notes/b. languages/cpp/cpp datatypes.md": "7a7f6f02de50138e0bc330ee418e164b4d88620ec8b97785d60be5db9688bbc3",
     "4 - sources/courses/gen ai course by rohit negi/lect 1.md": "b7ea7a86b230094f109857e25f419ebef42cc870841940270e6c3464e663ec51",
-    "1 - notes/z. others/Websites and Resources.md": "ee821729ae6e2cbc62175c7ee79845fd8de481d3a70f452b89564c32f69ac283",
+    "1 - notes/z. others/Websites and Resources.md": "ea59b30b7987a62679d82c18774f3c988a45131e544466ae0c9c7091752dc5c4",
     "0 - inbox/32 Bit vs 64 Bit system.md": "1d1d3913845097e9c74251de316f6bf724296666f0c82be7f3de3cda34cee018",
     "0 - inbox/hexadecimal.md": "c45936512f88bb94f3d47d059204f7cd649cc4951fdddc6d73061ca4909a1573",
     "0 - inbox/number system.md": "fcf169b3b35a22c9a27d5f77b8e9fab315ee884dea34cb9394fe9dfa08a08b13",
@@ -103,6 +103,7 @@
     "0 - inbox/method to solve a problem.md": "f0d939bdb3925a613c1333eaf70cb90aa78cfdbb24377d74a0f713edc7e461e0",
     "0 - inbox/Programming-Language-Concepts-MOC.md": "612ac4ba1cad5188e0f0a70d35b03115bef21c4dffb8bf97412c8a20a0fc64aa",
     "0 - inbox/datatype.md": "597dd5f7da3fd508e939483bb443460ae9f2f76133b3151ced8ae97a47e72bdf",
-    "1 - notes/b. languages/java/java datatypes.md": "64621c44a83058a844e8fe50380a3c1cfaf68cb72911c7be36102a1e3186755d"
+    "1 - notes/b. languages/java/java datatypes.md": "64621c44a83058a844e8fe50380a3c1cfaf68cb72911c7be36102a1e3186755d",
+    "0 - inbox/js execution context.md": "260ec2ecb56f31bbf801809cde06b42a0b302dd30d23864d358af6900fbb3d73"
   }
 }

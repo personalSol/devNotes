@@ -116,11 +116,35 @@
             "id": "f8dd0bde514035f1",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "AI-ML-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI-ML-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI-ML-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":14.712121012891727}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Programming by shambu sir",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/Qspiders/Programming by shambu sir.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Programming by shambu sir\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":46.533335458664666}"
+                },
+                {
+                  "title": "MongoDB class by Utkarsh Sir",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MongoDB class by Utkarsh Sir\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "cpp - things to remember",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp - things to remember.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp - things to remember\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":1},\"to\":{\"line\":28,\"ch\":1}},\"scroll\":1.3272727619517932}"
                 },
                 {
                   "title": "cpp datatypes",
@@ -133,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
+                "file": "1 - notes/z. others/Websites and Resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -148,7 +172,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cpp - things to remember"
+              "title": "Websites and Resources"
+            }
+          },
+          {
+            "id": "73f556fcd41fd7e8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/js execution context.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "js execution context"
             }
           },
           {
@@ -242,7 +299,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "machine language",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -294,7 +351,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
+                "file": "1 - notes/z. others/Websites and Resources.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -322,7 +379,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cpp - things to remember"
+              "title": "Graph of Websites and Resources"
             }
           }
         ]
@@ -355,13 +412,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
+                "file": "1 - notes/z. others/Websites and Resources.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cpp - things to remember"
+              "title": "Outline of Websites and Resources"
             }
           },
           {
@@ -570,9 +627,17 @@
   },
   "active": "f8dd0bde514035f1",
   "lastOpenFiles": [
+    "3 - moc/AI-ML-MOC.md",
+    "1 - notes/z. others/Websites and Resources.md",
+    "4 - sources/Qspiders/Programming by shambu sir.md",
+    "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
+    "1 - notes/b. languages/cpp/cpp - things to remember.md",
+    "4 - sources/Qspiders/JS by Shresth Sir.md",
+    "0 - inbox/js execution context.md",
+    "3 - moc/sub-mocs/JS-MOC.md",
+    "1 - notes/b. languages/java/java datatypes.md",
     "1 - notes/b. languages/cpp/cpp datatypes.md",
     "0 - inbox/datatype.md",
-    "1 - notes/b. languages/java/java datatypes.md",
     "0 - inbox/Programming-Language-Concepts-MOC.md",
     "3 - moc/Concepts-MOC.md",
     "0 - inbox/cpp - variables.md",
@@ -588,17 +653,9 @@
     "98 - attachments/Pasted image 20250525085114.png",
     "0 - inbox/32 Bit vs 64 Bit system.md",
     "4 - sources/courses/gen ai course by rohit negi/lect 1.md",
-    "1 - notes/z. others/Websites and Resources.md",
     "97 - templates/tmp-full-note.md",
-    "97 - templates/tmp-source-note.md",
-    "4 - sources/courses/system design by coder army/lect - 5.md",
     "4 - sources/courses/gen ai course by rohit negi",
     "98 - attachments/Pasted image 20250523175902.png",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
-    "1 - notes/b. languages/library/react/react - components.md",
-    "0 - inbox/React Cheatsheet.md",
-    "1 - notes/b. languages/library/react/react - UI update process.md",
-    "0 - inbox/js map loop.md",
     "98 - attachments/notes.pdf",
     "98 - attachments/Recording 20250521185414.m4a",
     "98 - attachments/Pasted image 20250521080702.png",
