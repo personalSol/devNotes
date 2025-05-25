@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-04-28T09:00
-updated: 2025-05-23T17:33
+updated: 2025-05-25T11:59
 ---
 ---
 ### primitive datatypes
@@ -10,7 +10,7 @@ updated: 2025-05-23T17:33
 for integer:
 - int
 - long
-- long long
+- long long 
 
 for decimal:
 - float

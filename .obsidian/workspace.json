@@ -4,11 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "919e1fb84f378bf9",
+        "id": "30851fc477bbb7ec",
         "type": "tabs",
         "children": [
           {
-            "id": "10848026cc81a8e7",
+            "id": "df2dafcd080c9538",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "cpp datatypes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp datatypes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp datatypes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - moc/Concepts-MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Concepts-MOC"
+            }
+          },
+          {
+            "id": "227e4ad92d238005",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,13 +59,139 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/Programming-Language-Concepts-MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Programming-Language-Concepts-MOC"
+            }
+          },
+          {
+            "id": "52120b44710f480e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/datatype.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "datatype"
+            }
+          },
+          {
+            "id": "f8dd0bde514035f1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "cpp datatypes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp datatypes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp datatypes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp - things to remember"
+            }
+          },
+          {
+            "id": "b1bbfec341db5f54",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "datatype",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/datatype.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"datatype\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":7.930232558139535}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/java/java datatypes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "java datatypes"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -77,8 +242,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "reconci",
-                "matchingCase": false,
+                "query": "machine language",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -129,6 +294,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +322,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of cpp - things to remember"
             }
           }
         ]
@@ -189,12 +355,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of cpp - things to remember"
             }
           },
           {
@@ -401,8 +568,24 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "10848026cc81a8e7",
+  "active": "f8dd0bde514035f1",
   "lastOpenFiles": [
+    "1 - notes/b. languages/cpp/cpp datatypes.md",
+    "0 - inbox/datatype.md",
+    "1 - notes/b. languages/java/java datatypes.md",
+    "0 - inbox/Programming-Language-Concepts-MOC.md",
+    "3 - moc/Concepts-MOC.md",
+    "0 - inbox/cpp - variables.md",
+    "0 - inbox/method to solve a problem.md",
+    "0 - inbox/hexadecimal.md",
+    "1 - notes/a. concepts/basics/program vs algorithm.md",
+    "96 - tags/tG algorithms.md",
+    "1 - notes/a. concepts/basics/types of languages.md",
+    "0 - inbox/Development of languages.md",
+    "0 - inbox/Moore Law.md",
+    "0 - inbox/number system.md",
+    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
+    "98 - attachments/Pasted image 20250525085114.png",
     "0 - inbox/32 Bit vs 64 Bit system.md",
     "4 - sources/courses/gen ai course by rohit negi/lect 1.md",
     "1 - notes/z. others/Websites and Resources.md",
@@ -411,26 +594,11 @@
     "4 - sources/courses/system design by coder army/lect - 5.md",
     "4 - sources/courses/gen ai course by rohit negi",
     "98 - attachments/Pasted image 20250523175902.png",
-    "1 - notes/b. languages/cpp/cpp datatypes.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
     "1 - notes/b. languages/library/react/react - components.md",
     "0 - inbox/React Cheatsheet.md",
     "1 - notes/b. languages/library/react/react - UI update process.md",
     "0 - inbox/js map loop.md",
-    "1 - notes/b. languages/css/CSS units.md",
-    "3 - moc/sub-mocs/React-MOC.md",
-    "1 - notes/z. others/vault-status.md",
-    "1 - notes/b. languages/library/react/react - event handling.md",
-    "1 - notes/b. languages/javascript/js - DOM intro.md",
-    "1 - notes/b. languages/javascript/js - functions.md",
-    "1 - notes/b. languages/library/react/Hooks - useState.md",
-    "1 - notes/b. languages/library/react/react - context.md",
-    "1 - notes/b. languages/cpp/cpp - things to remember.md",
-    "0 - inbox/mongoose schema and model.md",
-    "1 - notes/b. languages/cpp/cpp call by reference and call by value.md",
-    "1 - notes/b. languages/library/react/react - things to remember.md",
-    "1 - notes/b. languages/frameworks/express/express and app methods.md",
-    "0 - inbox/mongoose things to remember.md",
     "98 - attachments/notes.pdf",
     "98 - attachments/Recording 20250521185414.m4a",
     "98 - attachments/Pasted image 20250521080702.png",
@@ -447,7 +615,6 @@
     "98 - attachments/Pasted image 20250512204932.png",
     "4 - sources/courses/system design by coder army",
     "98 - attachments/Pasted image 20250509201128.png",
-    "98 - attachments/vlc_ODr8n1wrA6.png",
     "1 - notes/f. sops",
     "Untitled.canvas",
     "Life Canvas.canvas",

@@ -1,9 +1,8 @@
 ---
 status: newBorn
-related-links:
-  - "[[Java-MOC]]"
+related-links: "[[Java-MOC]]"
 created: 2025-04-11T15:15
-updated: 2025-04-20T11:08
+updated: 2025-05-25T11:35
 ---
 ---
 
@@ -11,37 +10,7 @@ updated: 2025-04-20T11:08
 - 1 byte represents 8 bits
 - The first bit is used to store sign and all the other bits are used to store number
 
-### **How Data Types Are Stored (Binary Representation)**
-
-|Sign Bit (0 = positive, 1 = negative)|Remaining bits store the value in binary (0s and 1s)|
-|---|---|
-|`0`|`0001010`|
-**Example: Storing `10` in 8 bits**
-
-|0|0|0|0|1|0|1|0|
-|---|---|---|---|---|---|---|---|
-|**`0`** indicates the number is **positive**.||||||||
-
-##### **Storing Negative Numbers: Two’s Complement Format**
-
-To store `-10`, follow these steps:
-
-1. Start with binary of `10`:  
-    `00001010`
-2. Get **1’s complement** (flip all bits):  
-    `11110101`
-3. Add `1` to get **2’s complement**:  
-    `11110110`
-
-|1|1|1|1|0|1|1|0|
-|---|---|---|---|---|---|---|---|
-|**`1`** as the first bit indicates it's **negative**.||||||||
-
----
-
-**Why Two’s Complement?**
-
-It simplifies arithmetic operations like subtraction. Using two’s complement, subtraction can be performed as addition internally, avoiding separate circuitry for negative numbers.
+how they are stored: [[datatype#How Data Types Are Stored Binary Representation]]
 
 ### Types of DATA TYPES:
 

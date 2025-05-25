@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Core-Concepts-MOC]]"
 created: 2025-02-25T18:52
-updated: 2025-03-13T06:00
+updated: 2025-05-25T10:40
 ---
 ---
 
@@ -28,7 +28,6 @@ updated: 2025-03-13T06:00
 - effectiveness: there mustn't be any unnecessary things in algorithm 
 
 ##### to analyze an algorithm
-
 - time
 - space
 - Network: How much data is getting transfered over the network
@@ -40,8 +39,14 @@ main are top 2
 this is just my speculation but the way we check O(`<anything>`) is that we check if there is any variable in the last in f(n) or S(n) and if there is then we take that variable and it's exponent. If there is no variable then we consider variable with power 0 and it will be 1. We ignore constants
 
 
+### example of algorithm
 
-# Reference
-`related tags + notes + source + link(if any)`
-- [[tG algorithms]]
-- [[tG program]]
+- a task is given, add 0 to 1 lakh numbers
+- there can be two ways/algorithms
+	- adding each number from 0 to 1 lakh one by one
+	- using n(n+1)/2 formula to get sum
+- first will take a lot of time while second will not
+- this is the difference in algorithms, we need to try to write an optimized algorithm with any way possible.
+
+
+

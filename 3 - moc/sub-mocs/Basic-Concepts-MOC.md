@@ -17,6 +17,7 @@ here will be all the notes around Basic-Concepts-MOC which is a part of [[Concep
 - [[Statically vs Dynamically Typed Language]]
 - [[flowchart]]
 - [[library vs framework]]
+- [[number system]]
 - 
 ## advance
 

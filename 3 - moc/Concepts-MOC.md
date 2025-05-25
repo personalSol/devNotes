@@ -10,6 +10,8 @@ here will be all the notes around Concepts-MOC
 - [[Basic-Concepts-MOC]]
 - [[Core-Concepts-MOC]]
 - [[Other-Concepts-MOC]]
+- [[Programming-Language-Concepts-MOC]]
+- 
 
 stored in core folder
 - [[Operating-System-MOC]] 
