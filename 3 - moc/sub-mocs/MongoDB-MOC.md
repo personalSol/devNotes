@@ -13,7 +13,7 @@ here will be all the notes around MongoDB-MOC which is a part of main MOC - [[MO
 - [[MongoDB Cheatsheet]]
 - [[mongodb things to remember]]
 - [[mongodb atlas basics]]
-- [[connecting mongodb]]
+- [[mongoose connecting to mongodb]]
 - [[mongosh commands]]
 - 
 

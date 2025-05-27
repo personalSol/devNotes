@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-05-17T10:09
-updated: 2025-05-20T10:17
+updated: 2025-05-28T02:57
 ---
 ---
 
@@ -21,6 +21,8 @@ here are all the npm packages
 - **production dependencies**
 	- [[Express-MOC]]
 	- [[axios]]
+	- [[dotenv]]
+	- 
 - **dev dependencies**
 	- [[nodemon]]
 	- [[prettier]]

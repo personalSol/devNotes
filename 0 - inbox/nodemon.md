@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: 
+related-links:
+  - "[[Node-JS-MOC]]"
 created: 2025-05-20T10:00
-updated: 2025-05-20T10:00
+updated: 2025-05-28T03:31
 ---
 ---
 
@@ -11,6 +12,7 @@ Why: Whenever we updata data in the server then we have to restart the server to
 Instead of running the file/server on node, we can run it on nodemon.
 
 After running the server to stop it, we press **CTRL + C**
+- whenever we do some changes in `.env` then we have to restart the server ourselves
 
 ## Code
 
