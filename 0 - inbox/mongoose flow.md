@@ -1,9 +1,8 @@
 ---
 status: newBorn
-related-links:
-  - "[[Mongoose-MOC]]"
+related-links: "[[Mongoose-MOC]]"
 created: 2025-05-18T15:26
-updated: 2025-05-18T15:26
+updated: 2025-05-28T02:23
 ---
 ---
 
@@ -17,7 +16,7 @@ npm install mongoose
 const mongoose = require('mongoose');
 
 const connectDB = async () => {
-  await mongoose.connect('mongodb://localhost:27017/mydb');
+  await mongoose.connect(`${process.env.MONGO_URI}/${DB_NAME}`);
 };
 
 module.exports = connectDB;

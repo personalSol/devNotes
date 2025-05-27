@@ -2,7 +2,7 @@
 created: 2025-03-24T13:53:45
 status: 
 source: 
-updated: 2025-03-28T13:55
+updated: 2025-05-28T02:24
 ---
 ---
 
@@ -149,13 +149,7 @@ same as sql database but cols are dynamic in nature
 
 ## Mongosh Commands:
 
-- `use <database-name>` : use to switch database, will create and then switch if not present
-- `show databases` or shorthand `show dbs`: use to show all the databases 
-- `db.createCollection("collection-name")` : creates a collection( tables for mongodb ) in the database
-	- `db.createCollection(library)`
-- show collections : to see collections
-- `db` : show current database ( although we can see that in side )
-- 
+
 
 
 > mongodb storage engine: it temperoarily stores the database until we create connection or inside data in database. it comes with compass ( told by sir )

@@ -28,10 +28,10 @@
     "1 - notes/b. languages/frameworks/express/express static method.md": "6315853092a79e312c74a9bc7b294bb6b033d1575b20b935d0a112a33778c4ca",
     "3 - moc/sub-mocs/Mongoose-MOC.md": "bf1a5a3b900faadd37190e55e67b5409537cbc5c14479be0304583c009139e78",
     "0 - inbox/mongoose intro.md": "a16d87500d1e4df34427f6612716a53f4a301dc238fea2f7e4b50ba2dcd7f762",
-    "0 - inbox/mongoose things to remember.md": "6d7ec7dc683c2b73406bf89df627420f932dd6cfe1aa6fc55b8f6819d3a27fee",
+    "0 - inbox/mongoose things to remember.md": "2152abe1d4c5580d61134f58e6b0f3c7712021ad508badcbd71541f692bca2ed",
     "1 - notes/a. concepts/basics/library vs framework.md": "5700ab03c4a1d4298c4f0e61c07578d23b4d1515ecb7e7d035b60dd698b4456b",
-    "0 - inbox/mongoose flow.md": "391a44413e0f9f6794f73a85971bff9e3932fa63495fe3fdccd5232ad4235068",
-    "0 - inbox/model, schema and document concept.md": "89895c3e805fecaebeb3dc82adcb335d00793a2f4c0a959839017bd92acd6db8",
+    "0 - inbox/mongoose flow.md": "0cd05de3dd0fb64df724cf9c6751035e0ca17aa4968e67bbf80f0dc358666ae6",
+    "0 - inbox/model, schema and document concept.md": "ddca668dcb4b33fd1a7b51811c8a1ff2096d1047eba2b25821f85fbec6791190",
     "0 - inbox/mongoose schema and model.md": "cf313da04f417304b5ec049089556da9373a90005685a05a96b9f662533b6a81",
     "1 - notes/b. languages/cpp/Cpp cheatsheet.md": "49f4843fba85c7778b133e081ff3945714c901d0167b5557e25d7e7a2d3c756b",
     "1 - notes/b. languages/cpp/cpp oops.md": "7b416dc6b6a050c38acfd9772b3c13633952bbdece7f62435b8561c58f285433",
@@ -61,10 +61,10 @@
     "0 - inbox/nodemon.md": "767e6b7d33781ddc7c1e262930e9b09b5e178dd4ae131492d70e9c5ff3df569f",
     "0 - inbox/prettier.md": "43b2634acd3ee1194e8a081bc51571bc510093925a79c09a7969d0cf378fdc2b",
     "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md": "ed9b84494cbcf655b5fc48c7218592d723c3b03dc8d3d30e1896203ba8622afa",
-    "0 - inbox/mongodb atlas basics.md": "da3f2188764ee2e8d98a284a62a941fd2504d893b6090bed9918d6132a64bf68",
+    "0 - inbox/mongodb atlas basics.md": "17b560468374856a26c734b9f6564ec2edd52ba6d09ee55ed049a00eecfe54f3",
     "0 - inbox/connecting mongodb.md": "cc81b808b0b2f3d56647720caa1ccda4c67caa23c81ad190f36484b3a2df8d03",
     "0 - inbox/js throw error.md": "7733c152c251aae53b96c7e4eb374013ddc755a8b83ea21feb2d7135ce2de0ab",
-    "1 - notes/b. languages/frameworks/express/express and app methods.md": "92d4cb1d2fe71e5f019387672fe9a4ff709cd6eb408a197990046fb6421596cd",
+    "1 - notes/b. languages/frameworks/express/express and app methods.md": "3d045989fa3f613df86f824a632e71df04b9d558d7d8c368e7bbbd235c38a43f",
     "0 - inbox/uml diagrams.md": "95427885c7486bbafbab1ce50c93aa0fcd191baec0a9bee6c99751b87aad9e78",
     "0 - inbox/class diagram.md": "9d9c32b2f2a650fd7bc30236afd63545e508365855b71ff6c3efc5ed39ccae4c",
     "0 - inbox/sd - componsition.md": "3d7de6e61cd9789cf6914c5cbfbd4ae97b92fca5449a6ae4e41cc3c80fcd6001",
@@ -107,6 +107,9 @@
     "1 - notes/e. ai/ai agents.md": "79142cdffb6108b04b87543e2324a8c2915db316a8088019227b64363f9d8cf3",
     "0 - inbox/ai models basics.md": "67899ea753fbb49fa4dc1cee26e560039b8ef7911633744c8b26d1a0959e483b",
     "0 - inbox/memory address.md": "1e2a7d891066787e2fac011494150e8de6bcb85bb555b28844da456982bf14af",
-    "0 - inbox/registers.md": "de897ddd4adca433b4f34453af9b0eafcec89f79a1b018819da7ef181bc82907"
+    "0 - inbox/registers.md": "de897ddd4adca433b4f34453af9b0eafcec89f79a1b018819da7ef181bc82907",
+    "0 - inbox/mongoose connecting database.md": "d0cc81dbfcde15afd5258854e8841ee0dce2e65142374f500417faaef7c7ba2c",
+    "0 - inbox/mongosh commands.md": "e23afea4f4b71cb07cd4c10512a375eb54f443f78238378ee3efc4b76d8dc2ce",
+    "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md": "5a063b6f21a29314745ef3de55cf67f5ac2dbbef2664fefe6100320cac792cc0"
   }
 }

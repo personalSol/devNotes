@@ -1,8 +1,8 @@
 ---
 status: newBorn
-related-links: 
+related-links: "[[MongoDB-MOC]]"
 created: 2025-05-21T07:47
-updated: 2025-05-21T08:12
+updated: 2025-05-28T02:22
 ---
 ---
 

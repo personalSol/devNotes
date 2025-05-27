@@ -14,6 +14,7 @@ here will be all the notes around Mongoose-MOC which is a part of main MOC - [[M
 - [[mongoose intro]]
 - [[model, schema and document concept]]
 - [[mongoose schema and model]]
+- [[mongoose connecting database]]
 - 
 
 
