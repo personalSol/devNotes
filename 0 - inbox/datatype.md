@@ -1,8 +1,8 @@
 ---
 status: newBorn
-related-links: 
+related-links: "[[Programming-Language-Concepts-MOC]]"
 created: 2025-05-25T11:18
-updated: 2025-05-25T11:57
+updated: 2025-05-26T08:53
 ---
 ---
 ##### basic

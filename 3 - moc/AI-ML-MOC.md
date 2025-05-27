@@ -14,6 +14,7 @@ here will be all the notes around {{title}}
 
 ### basic
 
+- [[ai models basics]]
 - [[ai agents]]
 - [[ai - augmentation and automation]]
 

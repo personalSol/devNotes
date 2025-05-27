@@ -8,125 +8,74 @@
         "type": "tabs",
         "children": [
           {
-            "id": "df2dafcd080c9538",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "cpp datatypes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp datatypes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp datatypes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/Concepts-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Concepts-MOC"
-            }
-          },
-          {
-            "id": "227e4ad92d238005",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/Programming-Language-Concepts-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Programming-Language-Concepts-MOC"
-            }
-          },
-          {
-            "id": "52120b44710f480e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/datatype.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "datatype"
-            }
-          },
-          {
             "id": "f8dd0bde514035f1",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "AI-ML-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI-ML-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI-ML-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":14.712121012891727}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "all react hooks explained in 12 mints",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/all react hooks explained in 12 mints.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"all react hooks explained in 12 mints\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":10.251905480160904}"
+                },
+                {
+                  "title": "Programming by shambu sir",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/Qspiders/Programming by shambu sir.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Programming by shambu sir\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":55.07913661191913}"
+                },
+                {
+                  "title": "MongoDB class by Utkarsh Sir",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MongoDB class by Utkarsh Sir\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":22},\"to\":{\"line\":17,\"ch\":22}},\"scroll\":169.06875761349997}"
+                },
+                {
+                  "title": "SQL crash course by Maven Analytics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/SQL crash course by Maven Analytics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SQL crash course by Maven Analytics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":34},\"to\":{\"line\":10,\"ch\":34}},\"scroll\":9.2405067004372}"
+                },
+                {
+                  "title": "ChaiAurCode SQL course",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/ChaiAurCode SQL course.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ChaiAurCode SQL course\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":1.0129870129870129}"
+                },
+                {
+                  "title": "n8n course by sheriyas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/n8n course by sheriyas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"n8n course by sheriyas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":25},\"to\":{\"line\":8,\"ch\":25}},\"scroll\":7.099999745686849}"
+                },
+                {
+                  "title": "SQL crash course by Maven Analytics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/SQL crash course by Maven Analytics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"SQL crash course by Maven Analytics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":4.176623257723722}"
+                },
+                {
+                  "title": "n8n course by sheriyas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/n8n course by sheriyas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"n8n course by sheriyas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":0},\"to\":{\"line\":59,\"ch\":0}},\"scroll\":53.625890326427125}"
+                },
+                {
+                  "title": "ChaiAurCode SQL course",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/ChaiAurCode SQL course.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ChaiAurCode SQL course\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":30},\"to\":{\"line\":11,\"ch\":30}},\"scroll\":19.56962084987953}"
+                },
+                {
+                  "title": "Websites and Resources",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/Websites and Resources.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Websites and Resources\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}}}"
                 },
                 {
                   "title": "Programming by shambu sir",
@@ -157,7 +106,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/z. others/Websites and Resources.md",
+                "file": "0 - inbox/cors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,11 +121,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Websites and Resources"
+              "title": "cors"
             }
           },
           {
-            "id": "73f556fcd41fd7e8",
+            "id": "102417bc555cf412",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -190,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/js execution context.md",
+                "file": "0 - inbox/ai models basics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -205,50 +154,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "js execution context"
-            }
-          },
-          {
-            "id": "b1bbfec341db5f54",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "datatype",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/datatype.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"datatype\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":7.930232558139535}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/java/java datatypes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "java datatypes"
+              "title": "ai models basics"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -351,7 +260,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/z. others/Websites and Resources.md",
+                "file": "0 - inbox/cors.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -379,7 +288,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Websites and Resources"
+              "title": "Graph of cors"
             }
           }
         ]
@@ -412,13 +321,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/z. others/Websites and Resources.md",
+                "file": "0 - inbox/cors.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Websites and Resources"
+              "title": "Outline of cors"
             }
           },
           {
@@ -627,33 +536,33 @@
   },
   "active": "f8dd0bde514035f1",
   "lastOpenFiles": [
-    "3 - moc/AI-ML-MOC.md",
-    "1 - notes/z. others/Websites and Resources.md",
+    "4 - sources/yt/all react hooks explained in 12 mints.md",
     "4 - sources/Qspiders/Programming by shambu sir.md",
     "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
+    "4 - sources/courses/SQL crash course by Maven Analytics.md",
+    "4 - sources/courses/ChaiAurCode SQL course.md",
+    "4 - sources/courses/n8n course by sheriyas.md",
+    "1 - notes/z. others/Websites and Resources.md",
+    "4 - sources/courses/gen ai course by rohit negi/lect 1.md",
+    "0 - inbox/ai models basics.md",
+    "3 - moc/AI-ML-MOC.md",
+    "1 - notes/e. ai/ai agents.md",
+    "3 - moc/Concepts-MOC.md",
+    "0 - inbox/Programming-Language-Concepts-MOC.md",
+    "0 - inbox/datatype.md",
+    "1 - notes/b. languages/java/java datatypes.md",
+    "3 - moc/sub-mocs/Java-MOC.md",
+    "0 - inbox/js execution context.md",
     "1 - notes/b. languages/cpp/cpp - things to remember.md",
     "4 - sources/Qspiders/JS by Shresth Sir.md",
-    "0 - inbox/js execution context.md",
     "3 - moc/sub-mocs/JS-MOC.md",
-    "1 - notes/b. languages/java/java datatypes.md",
     "1 - notes/b. languages/cpp/cpp datatypes.md",
-    "0 - inbox/datatype.md",
-    "0 - inbox/Programming-Language-Concepts-MOC.md",
-    "3 - moc/Concepts-MOC.md",
     "0 - inbox/cpp - variables.md",
     "0 - inbox/method to solve a problem.md",
     "0 - inbox/hexadecimal.md",
     "1 - notes/a. concepts/basics/program vs algorithm.md",
     "96 - tags/tG algorithms.md",
-    "1 - notes/a. concepts/basics/types of languages.md",
-    "0 - inbox/Development of languages.md",
-    "0 - inbox/Moore Law.md",
-    "0 - inbox/number system.md",
-    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
     "98 - attachments/Pasted image 20250525085114.png",
-    "0 - inbox/32 Bit vs 64 Bit system.md",
-    "4 - sources/courses/gen ai course by rohit negi/lect 1.md",
-    "97 - templates/tmp-full-note.md",
     "4 - sources/courses/gen ai course by rohit negi",
     "98 - attachments/Pasted image 20250523175902.png",
     "98 - attachments/notes.pdf",
