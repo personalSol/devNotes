@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "cors",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/cors.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cors\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
                   "title": "all react hooks explained in 12 mints",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/all react hooks explained in 12 mints.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"all react hooks explained in 12 mints\"}",
@@ -106,7 +112,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/cors.md",
+                "file": "0 - inbox/32 Bit vs 64 Bit system.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -121,7 +127,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cors"
+              "title": "32 Bit vs 64 Bit system"
             }
           },
           {
@@ -156,8 +162,144 @@
               "icon": "lucide-file",
               "title": "ai models basics"
             }
+          },
+          {
+            "id": "c789dddbd16add15",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Programming-Language-Concepts-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/Programming-Language-Concepts-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Programming-Language-Concepts-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":8},\"to\":{\"line\":18,\"ch\":8}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/memory address.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "memory address"
+            }
+          },
+          {
+            "id": "9bc09568d21a3e73",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "cpp - things to remember",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp - things to remember.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp - things to remember\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":3.040514587206089}"
+                },
+                {
+                  "title": "cpp pointers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/cpp pointers.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp pointers\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":33},\"to\":{\"line\":84,\"ch\":33}},\"scroll\":49.08333285649618}"
+                },
+                {
+                  "title": "Cpp-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":12},\"to\":{\"line\":32,\"ch\":12}},\"scroll\":14.10606039807378}"
+                },
+                {
+                  "title": "registers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/registers.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"registers\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":8},\"to\":{\"line\":19,\"ch\":8}},\"scroll\":4.12987012987013}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/z. others/roadmap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "roadmap"
+            }
+          },
+          {
+            "id": "79434e827455024e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "memory address",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/memory address.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"memory address\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/32 Bit vs 64 Bit system.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "32 Bit vs 64 Bit system"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -208,7 +350,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "derefere",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -238,7 +380,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3888432cac3b4f06",
@@ -260,7 +403,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/cors.md",
+                "file": "1 - notes/z. others/roadmap.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -288,7 +431,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cors"
+              "title": "Graph of roadmap"
             }
           }
         ]
@@ -321,13 +464,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/cors.md",
+                "file": "1 - notes/z. others/roadmap.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cors"
+              "title": "Outline of roadmap"
             }
           },
           {
@@ -534,8 +677,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f8dd0bde514035f1",
+  "active": "9bc09568d21a3e73",
   "lastOpenFiles": [
+    "1 - notes/b. languages/cpp/cpp - things to remember.md",
+    "0 - inbox/cpp pointers.md",
+    "0 - inbox/memory address.md",
+    "0 - inbox/hexadecimal.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
+    "0 - inbox/registers.md",
+    "0 - inbox/Programming-Language-Concepts-MOC.md",
+    "0 - inbox/datatype.md",
+    "0 - inbox/32 Bit vs 64 Bit system.md",
+    "0 - inbox/cors.md",
     "4 - sources/yt/all react hooks explained in 12 mints.md",
     "4 - sources/Qspiders/Programming by shambu sir.md",
     "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
@@ -548,20 +701,10 @@
     "3 - moc/AI-ML-MOC.md",
     "1 - notes/e. ai/ai agents.md",
     "3 - moc/Concepts-MOC.md",
-    "0 - inbox/Programming-Language-Concepts-MOC.md",
-    "0 - inbox/datatype.md",
     "1 - notes/b. languages/java/java datatypes.md",
     "3 - moc/sub-mocs/Java-MOC.md",
     "0 - inbox/js execution context.md",
-    "1 - notes/b. languages/cpp/cpp - things to remember.md",
     "4 - sources/Qspiders/JS by Shresth Sir.md",
-    "3 - moc/sub-mocs/JS-MOC.md",
-    "1 - notes/b. languages/cpp/cpp datatypes.md",
-    "0 - inbox/cpp - variables.md",
-    "0 - inbox/method to solve a problem.md",
-    "0 - inbox/hexadecimal.md",
-    "1 - notes/a. concepts/basics/program vs algorithm.md",
-    "96 - tags/tG algorithms.md",
     "98 - attachments/Pasted image 20250525085114.png",
     "4 - sources/courses/gen ai course by rohit negi",
     "98 - attachments/Pasted image 20250523175902.png",

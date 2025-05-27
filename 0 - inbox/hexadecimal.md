@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-25T08:49
-updated: 2025-05-25T09:21
+updated: 2025-05-27T16:42
 ---
 ---
 
@@ -10,8 +10,9 @@ updated: 2025-05-25T09:21
 
 </aside>
 
-![[Pasted image 20250525085114.png||500]]
+![[Pasted image 20250525085114.png||300]]
 - in short we call it hex
+- a hext value generally starts with `0x` zero x
 - `1 character = 4 bits`
     - Means after converting an integer to binary. It makes a group of 4 binary number from left. Each group represents 1 number of hexadecimal.
 - A single hex character can be any of the 16 possible values: `0-9` and `A-F`.

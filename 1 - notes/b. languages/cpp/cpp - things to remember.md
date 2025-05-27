@@ -2,14 +2,15 @@
 status: newBorn
 related-links: "[[Cpp-MOC]]"
 created: 2025-05-15T07:41
-updated: 2025-05-25T18:18
+updated: 2025-05-27T17:17
 ---
 ---
 
 ### methods
 
-- sizeof(`<datatype>`)
+- sizeof(`<datatype>`) || sizeof(`<any variable>`)
 	- returns size of data type in bytes
+	- can even give size of pointer
 	```cpp
 	#include <iostream>
 	using namespace std;
