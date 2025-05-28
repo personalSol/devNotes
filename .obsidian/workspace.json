@@ -4,11 +4,56 @@
     "type": "split",
     "children": [
       {
-        "id": "6feba812176f1f0d",
+        "id": "599198a810841493",
         "type": "tabs",
         "children": [
           {
-            "id": "0cb70a4494946861",
+            "id": "1bc5fa1349e3dbd1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "proxy and cors",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/proxy and cors.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"proxy and cors\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":23},\"to\":{\"line\":11,\"ch\":23}},\"scroll\":62.50000182787577}"
+                },
+                {
+                  "title": "http methods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/http methods.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"http methods\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":2},\"to\":{\"line\":17,\"ch\":2}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/cors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cors"
+            }
+          },
+          {
+            "id": "fb18dacf6212149f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/mongoose connecting to mongodb.md",
+                "file": "0 - inbox/cors brief intro.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,33 +82,111 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mongoose connecting to mongodb"
+              "title": "cors brief intro"
             }
-          }
-        ]
-      },
-      {
-        "id": "9cb2c08a45a6576a",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "4d98b4c5de0e23c4",
+            "id": "62784fd8ccf6fc12",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 2,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "mongoose flow",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/mongoose flow.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mongoose flow\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":2},\"to\":{\"line\":19,\"ch\":2}},\"scroll\":5.220779220779221}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "title": "mongoose connecting database",
+                  "title": "cors",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/mongoose connecting database.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mongoose connecting database\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/cors.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cors\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":15},\"to\":{\"line\":9,\"ch\":15}},\"scroll\":1.371428601153485}"
                 },
+                {
+                  "title": "Node-JS-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Node-JS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Node-JS-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":6},\"to\":{\"line\":23,\"ch\":6}},\"scroll\":4.833333333333333}"
+                },
+                {
+                  "title": "Web-Dev-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Web-Dev-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Web-Dev-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":9},\"to\":{\"line\":23,\"ch\":9}},\"scroll\":7.568181609647659}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/cors solutions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cors solutions"
+            }
+          },
+          {
+            "id": "724ac56b7e2940f8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Mern Crash Course by sheriyans",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/Mern Crash Course by sheriyans.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mern Crash Course by sheriyans\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":84,\"ch\":0},\"to\":{\"line\":84,\"ch\":0}},\"scroll\":74.6666689373198}"
+                },
+                {
+                  "title": "cors origin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/cors origin.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cors origin\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":67},\"to\":{\"line\":31,\"ch\":67}},\"scroll\":5.5168833546824265}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/middlewares.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "middlewares"
+            }
+          },
+          {
+            "id": "753234627be79164",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -73,7 +196,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/Mongoose-MOC.md",
+                "file": "0 - inbox/build-in middleware.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,10 +211,86 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mongoose-MOC"
+              "title": "build-in middleware"
+            }
+          },
+          {
+            "id": "b60266c2a7c70f7b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "express and app methods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/frameworks/express/express and app methods.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"express and app methods\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":52},\"to\":{\"line\":11,\"ch\":52}},\"scroll\":1.9090909090909092}"
+                },
+                {
+                  "title": "express.static() method",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/frameworks/express/express.static() method.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"express static method\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "express and app methods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/frameworks/express/express and app methods.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"express and app methods\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":49},\"to\":{\"line\":11,\"ch\":49}},\"scroll\":3.3090910478071733}"
+                },
+                {
+                  "title": "express.static() method",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/frameworks/express/express.static() method.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"express static method\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":1},\"to\":{\"line\":9,\"ch\":1}},\"scroll\":0.0207792210888553}"
+                },
+                {
+                  "title": "express and app methods",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/frameworks/express/express and app methods.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"express and app methods\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":51},\"to\":{\"line\":11,\"ch\":51}}}"
+                },
+                {
+                  "title": "express.static() method",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/frameworks/express/express.static() method.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"express static method\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":97,\"ch\":0},\"to\":{\"line\":97,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "body-parser",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/body-parser.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"body-parser\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":27},\"to\":{\"line\":21,\"ch\":27}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/frameworks/express/express.static() method.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "express.static() method"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -142,7 +341,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "express.json",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -194,7 +393,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 - moc/sub-mocs/Mongoose-MOC.md",
+                "file": "0 - inbox/middlewares.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -217,20 +416,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.15538790053342127,
+                  "scale": 0.24050565879638977,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Mongoose-MOC"
+              "title": "Graph of middlewares"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 217.5,
-    "collapsed": true
+    "width": 217.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -256,13 +454,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - moc/sub-mocs/Mongoose-MOC.md",
+                "file": "0 - inbox/middlewares.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Mongoose-MOC"
+              "title": "Outline of middlewares"
             }
           },
           {
@@ -345,8 +543,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       },
       {
         "id": "289ab9f3e538cb86",
@@ -470,34 +667,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "4d98b4c5de0e23c4",
+  "active": "724ac56b7e2940f8",
   "lastOpenFiles": [
-    "0 - inbox/mongoose connecting to mongodb.md",
+    "0 - inbox/build-in middleware.md",
+    "1 - notes/b. languages/frameworks/express/express.static() method.md",
+    "1 - notes/b. languages/frameworks/express/express and app methods.md",
+    "0 - inbox/middlewares.md",
+    "4 - sources/yt/Mern Crash Course by sheriyans.md",
+    "1 - notes/b. languages/javascript/body-parser.md",
+    "0 - inbox/cors origin.md",
+    "0 - inbox/cors solutions.md",
+    "0 - inbox/cors.md",
+    "3 - moc/sub-mocs/Node-JS-MOC.md",
+    "3 - moc/Web-Dev-MOC.md",
+    "0 - inbox/cors brief intro.md",
+    "0 - inbox/proxy and cors.md",
+    "0 - inbox/http methods.md",
+    "0 - inbox/get vs post method.md",
+    "1 - notes/b. languages/library/mongoose/mongoose connecting to mongodb.md",
+    "1 - notes/b. languages/javascript/js execution context.md",
+    "1 - notes/b. languages/cpp/cpp - variables.md",
+    "0 - inbox/Untitled.md",
+    "1 - notes/b. languages/library/mongoose/mongoose intro.md",
+    "1 - notes/b. languages/javascript/about node-js.md",
+    "0 - inbox/npm packages.md",
     "3 - moc/sub-mocs/Mongoose-MOC.md",
     "0 - inbox/mongoose connecting database.md",
-    "0 - inbox/mongoose flow.md",
+    "1 - notes/b. languages/library/mongoose/mongoose flow.md",
     "0 - inbox/cjs vs esm.md",
-    "0 - inbox/import and export in cjs.md",
-    "0 - inbox/import and export in es module js.md",
-    "0 - inbox/import and export in js.md",
-    "3 - moc/sub-mocs/JS-MOC.md",
-    "0 - inbox/code for js moc.md",
-    "3 - moc/sub-mocs/Node-JS-MOC.md",
-    "1 - notes/b. languages/javascript/about node-js.md",
-    "0 - inbox/nodemon.md",
-    "0 - inbox/dotenv.md",
-    "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
-    "0 - inbox/mongosh commands.md",
-    "3 - moc/sub-mocs/MongoDB-MOC.md",
-    "0 - inbox/node process.exit().md",
-    "0 - inbox/node - global object - process.md",
-    "0 - inbox/node global object.md",
-    "0 - inbox/npm packages.md",
-    "0 - inbox/dev dependencies.md",
-    "97 - templates/tmp-inbox.md",
-    "97 - templates/tmp-full-note.md",
-    "0 - inbox/mongodb atlas basics.md",
-    "0 - inbox/mongoose schema and model.md",
     "98 - attachments/Pasted image 20250525085114.png",
     "4 - sources/courses/gen ai course by rohit negi",
     "98 - attachments/Pasted image 20250523175902.png",

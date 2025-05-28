@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-05-17T10:39
-updated: 2025-05-18T10:23
+updated: 2025-05-28T10:38
 ---
 ---
 
@@ -18,7 +18,7 @@ After running the server to stop it, we press **CTRL + C**
     - makes it easier to write code
     - pretty popular in industry
 - #### More
-    - It uses [[middleware]] to handle requests and send responses.
+    - It uses [[middlewares]] to handle requests and send responses.
     - a basic express code includes
         - importing express
         - using middleware with .use() method

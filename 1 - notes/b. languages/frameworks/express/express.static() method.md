@@ -4,10 +4,20 @@ related-links:
   - "[[Express-MOC]]"
   - "[[express and app methods]]"
 created: 2025-05-17T12:26
-updated: 2025-05-21T13:02
+updated: 2025-05-28T10:35
 ---
 ---
 
+#### basic
+- The `static` method in Express is used to serve static files, like images, CSS files, JavaScript, and HTML files, directly from a specified folder
+- useful for web applications that need to serve frontend assets to clients.
+- basically helps us handle browser requests for static file
+    ```jsx
+    app.use(express.static(path.join(__dirname, "public")));
+    ```
+
+
+#### indetail
 
 - flow of program in detail
     it is a complete example showing how static files work with Express, focusing on the request flow.
@@ -95,8 +105,3 @@ updated: 2025-05-21T13:02
 	- it automatically handles that second request for the CSS file
 	- Without it, the browser would get a 404 error when trying to fetch the CSS file.
 
-# Reference
-`related tags + notes + source + link(if any)`
- 
-
-- 

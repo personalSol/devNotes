@@ -21,18 +21,9 @@ updated: 2025-05-17T14:37
 - [[Express-MOC]]
 - [[Mongoose-MOC]]
 - [[MongoDB-MOC]]
+- [[Node-JS-MOC]]
 - 
 
-
-**for java full stack:**
-
-
-
-## Databases
-
-**for mern:**
-
-**for java full stack:**
 
 
 
