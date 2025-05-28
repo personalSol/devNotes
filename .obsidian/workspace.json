@@ -194,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/mongoose connecting to mongodb.md",
+                "file": "3 - moc/sub-mocs/Mongoose-MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +222,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of mongoose connecting to mongodb"
+              "title": "Graph of Mongoose-MOC"
             }
           }
         ]
@@ -256,13 +256,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/mongoose connecting to mongodb.md",
+                "file": "3 - moc/sub-mocs/Mongoose-MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of mongoose connecting to mongodb"
+              "title": "Outline of Mongoose-MOC"
             }
           },
           {
@@ -470,11 +470,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b1765a8f09cb9bf0",
+  "active": "4d98b4c5de0e23c4",
   "lastOpenFiles": [
+    "0 - inbox/mongoose connecting to mongodb.md",
     "3 - moc/sub-mocs/Mongoose-MOC.md",
     "0 - inbox/mongoose connecting database.md",
-    "0 - inbox/mongoose connecting to mongodb.md",
     "0 - inbox/mongoose flow.md",
     "0 - inbox/cjs vs esm.md",
     "0 - inbox/import and export in cjs.md",
