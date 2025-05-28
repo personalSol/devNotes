@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-05-17T10:09
-updated: 2025-05-28T08:51
+updated: 2025-05-28T21:03
 ---
 ---
 
@@ -23,6 +23,7 @@ here are all the npm packages
 	- [[axios]]
 	- [[dotenv]]
 	- [[body-parser]]
+	- [[cookie-parser]]
 	- 
 - **dev dependencies**
 	- [[nodemon]]

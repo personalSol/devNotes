@@ -7,7 +7,7 @@ updated: 2025-05-17T14:53
 it will have all the notes around JS connected to it.
 
 [[Javascript Cheatsheet]]
-- [[code for js moc]]
+- [[code copy block note]]
 - 
 
 ## got to know

@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-28T04:05
-updated: 2025-05-28T04:05
+updated: 2025-05-28T19:22
 ---
 ---
 
@@ -45,4 +45,24 @@ module.exports.someText = "Here is some hard coded text";
 // Option 4: Using `exports` as a shortcut (only works with dot notation)
 exports.handler = requestHandler;
 exports.someText = "Here is some hard coded text";
+```
+
+
+
+##### app.on() method
+```js
+;(
+    async ()=> {
+        try{
+            await mongoose.connect(`${process.env.MONGODB_URI}/${DB_NAME}`);
+            app.on("error", (error)=> {
+                console.log("ERR: ", error);
+                throw error;
+            }) 
+        } catch (error) {
+            console.error("error: ", error);
+            throw error;
+        }
+    }
+)()
 ```

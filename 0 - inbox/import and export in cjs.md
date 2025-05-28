@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-28T03:51
-updated: 2025-05-28T04:12
+updated: 2025-05-28T19:19
 ---
 ---
 
@@ -48,7 +48,7 @@ We do import and export in JS files.
     We use `module.exports` to pass the value we want to be exported to other files which import that file.
     
     - we can export functions like this
-        ![[code for js moc#export in cjs]]![[code for js moc#to export multiple things in cjs]]
+        ![[code copy block note#export in cjs]]![[code copy block note#to export multiple things in cjs]]
     
 - code example doing import and export of a small file
 
