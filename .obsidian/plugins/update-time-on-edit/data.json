@@ -123,7 +123,7 @@
     "0 - inbox/cors solutions.md": "73d426b28a74e7150130ecb27085680aa5bda300152dcc8afef5a0a871b9ee5a",
     "0 - inbox/cors origin.md": "068c4dec9be98a07c7bae058411e69e85a262715e868718a7ad66d7c5579e18c",
     "4 - sources/yt/Mern Crash Course by sheriyans.md": "1703ab34feee65de6c588f1ec6a03861525a45ad7021f4a2aba28a48df77e33f",
-    "0 - inbox/middlewares.md": "73755d1f49dddd8425a644a2d6ab72fa171aad0b41fb11aed820ceaecd3bc672",
+    "0 - inbox/middlewares.md": "bdef1e36c31da9cd29ebdb9b09691392b126236e943b5ada6e21fd6c0991efc7",
     "0 - inbox/build-in middleware.md": "3819b135a0d4c3f489d6f731b2ec026c75240f69d62a4651b17d9a29c7e0cc3c",
     "1 - notes/b. languages/frameworks/express/express.static() method.md": "5f938e9f486a41aa37bb881fbb4742e249531e9943755135ca915b2230de6cab",
     "0 - inbox/Untitled.md": "f98243f8b897fb9ba734fa5c90e017526e4ad42d03633b16db204267ce33d772",
@@ -134,6 +134,7 @@
     "0 - inbox/express.json() method.md": "b10c147addbaf45bc536946b15ee090af59f64105a6b99996d8653fa5e454ac9",
     "0 - inbox/http status codes.md": "b2832c67c2a322d47c090db398f0dedd461cbeff65ebaa3f34b0b68e9d9c9d34",
     "0 - inbox/express.urlencoded().md": "27c2b1b323ed005fa1238a56a510ab1d3297ef23f859ec39ae3834af2998cd2e",
-    "0 - inbox/cookie-parser.md": "f06b615aabcaf39261c03b994a345b68acbbf79686f756219e5b614b389d91e9"
+    "0 - inbox/cookie-parser.md": "f06b615aabcaf39261c03b994a345b68acbbf79686f756219e5b614b389d91e9",
+    "0 - inbox/js higher order function.md": "85369fef2fc882abe5e55f60667087ac21d6212fef2ae974018f475c4ffc9c0b"
   }
 }

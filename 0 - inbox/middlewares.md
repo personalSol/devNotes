@@ -3,17 +3,20 @@ status: newBorn
 related-links:
   - "[[Express-MOC]]"
 created: 2025-05-28T10:37
-updated: 2025-05-28T19:37
+updated: 2025-05-28T23:52
 ---
 ---
 
-A middleware is **any function** with the signature: `(req, res, next) => { ... }`
-
-It’s part of the request–response cycle and can:
-- Modify `req` and `res`
-- End the response
-- Or call `next()` to pass control
-
+- A middleware is **any function** with the signature: `(req, res, next) => { ... }`
+- it's like a dalal which does things with request before we give response
+	- help us **process incoming requests and shape outgoing responses**.
+- We can use **multiple middleware functions**, and they run in sequence.
+	- The **order of middleware** matters — they execute in the order they are defined.
+- It’s part of the request–response cycle and can:
+	- Modify `req` and `res`
+	- End the response
+	- Or call `next()` to pass control
+		- in Express.js, **if a middleware function does not call `next()` (or end the response with something like `res.send()`, `res.end()`, or `res.redirect()`), the request will hang** and never move forward.
 
 
 there are mainly three types of middlewares:

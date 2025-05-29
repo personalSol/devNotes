@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ffb6c69be849f4f9",
+        "id": "64d472635b29ec33",
         "type": "tabs",
         "children": [
           {
-            "id": "77c887aa6eb65d2a",
+            "id": "07915472e4f6b09b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,19 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "express.urlencoded()",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/express.urlencoded().md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"express.urlencoded()\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":48},\"to\":{\"line\":15,\"ch\":48}},\"scroll\":3.054545513995282}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/npm packages.md",
+                "file": "3 - moc/sub-mocs/JS-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,11 +37,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "npm packages"
+              "title": "JS-MOC"
             }
           },
           {
-            "id": "a5b846972db8d93c",
+            "id": "1647c53b8208aa64",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -61,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/cookie-parser.md",
+                "file": "0 - inbox/js higher order function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +70,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cookie-parser"
+              "title": "js higher order function"
             }
           }
         ],
@@ -131,8 +125,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "express.json",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -183,7 +177,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/cookie-parser.md",
+                "file": "0 - inbox/js higher order function.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,7 +205,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cookie-parser"
+              "title": "Graph of js higher order function"
             }
           }
         ]
@@ -458,8 +452,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a5b846972db8d93c",
+  "active": "1647c53b8208aa64",
   "lastOpenFiles": [
+    "0 - inbox/js higher order function.md",
+    "3 - moc/sub-mocs/JS-MOC.md",
+    "1 - notes/z. others/Questions asked in interview.md",
+    "0 - inbox/middlewares.md",
+    "1 - notes/b. languages/frameworks/express/express.static() method.md",
     "0 - inbox/cookie-parser.md",
     "0 - inbox/npm packages.md",
     "0 - inbox/express.urlencoded().md",
@@ -476,16 +475,11 @@
     "0 - inbox/third party middleware.md",
     "0 - inbox/cors brief intro.md",
     "3 - moc/sub-mocs/Express-MOC.md",
-    "0 - inbox/middlewares.md",
-    "1 - notes/b. languages/frameworks/express/express.static() method.md",
     "1 - notes/b. languages/frameworks/express/express basics.md",
     "4 - sources/yt/Mern Crash Course by sheriyans.md",
     "0 - inbox/Untitled.md",
     "1 - notes/b. languages/javascript/body-parser.md",
     "3 - moc/sub-mocs/Node-JS-MOC.md",
-    "3 - moc/Web-Dev-MOC.md",
-    "0 - inbox/proxy and cors.md",
-    "0 - inbox/http methods.md",
     "98 - attachments/Pasted image 20250525085114.png",
     "4 - sources/courses/gen ai course by rohit negi",
     "98 - attachments/Pasted image 20250523175902.png",
