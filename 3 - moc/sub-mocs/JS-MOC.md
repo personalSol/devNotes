@@ -30,6 +30,7 @@ it will have all the notes around JS connected to it.
 ### mid
 
 - [[ js fetch]]
+- [[js oops]]
 - 
 
 

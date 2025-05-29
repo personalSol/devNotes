@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "64d472635b29ec33",
+        "id": "07db92453fadba2a",
         "type": "tabs",
         "children": [
           {
-            "id": "07915472e4f6b09b",
+            "id": "252f38885dbe9036",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "js constrctor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/js constrctor.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js constrctor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":45},\"to\":{\"line\":32,\"ch\":45}},\"scroll\":13.40209108883694}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/JS-MOC.md",
+                "file": "1 - notes/b. languages/library/mongoose/mongoose schema and model.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,44 +43,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "JS-MOC"
-            }
-          },
-          {
-            "id": "1647c53b8208aa64",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/js higher order function.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "js higher order function"
+              "title": "mongoose schema and model"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/js higher order function.md",
+                "file": "1 - notes/b. languages/library/mongoose/mongoose schema and model.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of js higher order function"
+              "title": "Graph of mongoose schema and model"
             }
           }
         ]
@@ -452,34 +424,37 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1647c53b8208aa64",
+  "active": "252f38885dbe9036",
   "lastOpenFiles": [
-    "0 - inbox/js higher order function.md",
+    "0 - inbox/js constrctor.md",
+    "1 - notes/b. languages/cpp/cpp constructor.md",
+    "0 - inbox/js inheritance.md",
     "3 - moc/sub-mocs/JS-MOC.md",
+    "1 - notes/a. concepts/core/concept - oops.md",
+    "0 - inbox/js static.md",
+    "0 - inbox/js oops.md",
+    "0 - inbox/constructor.md",
+    "1 - notes/b. languages/java/java instance variable, this and constructor.md",
+    "1 - notes/a. concepts/core/objects.md",
+    "1 - notes/a. concepts/basics/classes.md",
+    "3 - moc/Concepts-MOC.md",
+    "0 - inbox/Untitled 1.md",
+    "0 - inbox/Untitled.md",
+    "3 - moc/sub-mocs/Express-MOC.md",
+    "1 - notes/b. languages/frameworks/express/methods in express.md",
+    "0 - inbox/express utility function.md",
+    "0 - inbox/express response methods.md",
+    "0 - inbox/utility function ApiError.md",
+    "98 - attachments/Recording 20250529123418.m4a",
+    "98 - attachments/Recording 20250529123501.m4a",
+    "98 - attachments/Recording 20250529123335.m4a",
+    "0 - inbox/utility function asyncHandler.md",
+    "0 - inbox/asyncHandler syntax and explaination.md",
+    "0 - inbox/express app methods.md",
+    "0 - inbox/js higher order function.md",
     "1 - notes/z. others/Questions asked in interview.md",
     "0 - inbox/middlewares.md",
     "1 - notes/b. languages/frameworks/express/express.static() method.md",
-    "0 - inbox/cookie-parser.md",
-    "0 - inbox/npm packages.md",
-    "0 - inbox/express.urlencoded().md",
-    "0 - inbox/express.json() method.md",
-    "0 - inbox/cors origin.md",
-    "0 - inbox/express.json() and express.urlencoded().md",
-    "0 - inbox/http status codes.md",
-    "0 - inbox/build-in middleware.md",
-    "0 - inbox/cors solutions.md",
-    "0 - inbox/cors.md",
-    "1 - notes/z. others/code copy block note.md",
-    "1 - notes/b. languages/frameworks/express/express and app methods.md",
-    "0 - inbox/user defined middleware.md",
-    "0 - inbox/third party middleware.md",
-    "0 - inbox/cors brief intro.md",
-    "3 - moc/sub-mocs/Express-MOC.md",
-    "1 - notes/b. languages/frameworks/express/express basics.md",
-    "4 - sources/yt/Mern Crash Course by sheriyans.md",
-    "0 - inbox/Untitled.md",
-    "1 - notes/b. languages/javascript/body-parser.md",
-    "3 - moc/sub-mocs/Node-JS-MOC.md",
     "98 - attachments/Pasted image 20250525085114.png",
     "4 - sources/courses/gen ai course by rohit negi",
     "98 - attachments/Pasted image 20250523175902.png",
@@ -493,13 +468,10 @@
     "98 - attachments/Pasted image 20250516195519.png",
     "98 - attachments/Pasted image 20250516192122.png",
     "1 - notes/g. ai",
-    "1 - notes/b. languages/cpp",
     "98 - attachments/Pasted image 20250514170056.png",
     "98 - attachments/Pasted image 20250513074712.png",
     "98 - attachments/Pasted image 20250512204932.png",
-    "4 - sources/courses/system design by coder army",
     "98 - attachments/Pasted image 20250509201128.png",
-    "1 - notes/f. sops",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

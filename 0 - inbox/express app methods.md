@@ -1,21 +1,11 @@
 ---
 status: newBorn
-related-links:
-  - "[[Express-MOC]]"
-created: 2025-05-17T10:48
-updated: 2025-05-28T19:27
+related-links: 
+created: 2025-05-29T11:29
+updated: 2025-05-29T11:29
 ---
 ---
 
-### express methods
-
-- `express.static()` -- for more detail: [[express.static() method]]
-- express.json() & express.urlencoded() - [[express.json() and express.urlencoded()]]
-- 
--  -- 
-
-
-### app methods
 
 - app.on() 
 	- Used to **listen for events** on an `EventEmitter` (like an Express app or HTTP server).
@@ -35,8 +25,4 @@ updated: 2025-05-28T19:27
 |`.set()`|Configuration|Sets app-level settings|
 
 
-# Reference
-`related tags + notes + source + link(if any)`
- 
 
-- 
