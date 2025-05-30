@@ -3,9 +3,12 @@ status: newBorn
 related-links:
   - "[[Node-JS-MOC]]"
 created: 2025-05-20T10:00
-updated: 2025-05-28T03:31
+updated: 2025-05-30T10:42
 ---
 ---
+
+> does node monetoring. see if anything changes then restart the server
+
 
 Why: Whenever we updata data in the server then we have to restart the server to see changes. Nodemon solves this problem.
 

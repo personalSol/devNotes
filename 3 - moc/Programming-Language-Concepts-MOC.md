@@ -1,6 +1,6 @@
 ---
 created: 2025-05-25T11:18
-updated: 2025-05-27T15:36
+updated: 2025-05-30T09:35
 ---
 
 # Programming-Language-Concepts-MOC
@@ -17,7 +17,7 @@ here will be all the notes around Programming-Language-Concepts-MOC which is a p
 
 - [[datatype]]
 - [[memory address]]
-- 
+- [[concept - oops]]
 
 
 ### mid

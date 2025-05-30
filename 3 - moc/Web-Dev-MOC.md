@@ -25,6 +25,11 @@ updated: 2025-05-17T14:37
 - 
 
 
+## Concepts
+
+- [[authentication vs authorization]]
+
+
 
 
 ## **Links not included yet list:**

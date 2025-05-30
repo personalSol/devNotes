@@ -2,14 +2,13 @@
 status: newBorn
 related-links: 
 created: 2025-05-28T19:36
-updated: 2025-05-28T19:36
+updated: 2025-05-30T09:45
 ---
 ---
 
 ##### Simple middleware Code
 
 ```js
-
 // custom middleware
 
 app.use((req, res, next)=> {

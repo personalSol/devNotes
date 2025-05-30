@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: 
+related-links:
+  - "[[concept - oops]]"
 created: 2025-05-29T13:03
-updated: 2025-05-29T13:03
+updated: 2025-05-30T09:32
 ---
 ---
 

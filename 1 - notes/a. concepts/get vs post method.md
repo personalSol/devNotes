@@ -1,8 +1,10 @@
 ---
 status: newBorn
-related-links: 
+related-links:
+  - "[[Core-Concepts-MOC]]"
+  - "[[http methods]]"
 created: 2025-05-28T09:09
-updated: 2025-05-28T09:09
+updated: 2025-05-30T10:03
 ---
 ---
 ## 🔍 GET — "Read" or Retrieve Data

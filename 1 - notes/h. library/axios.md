@@ -1,8 +1,10 @@
 ---
 status: newBorn
-related-links: []
+related-links:
+  - "[[npm packages]]"
+  - "[[Node-JS-MOC]]"
 created: 2025-05-17T14:47
-updated: 2025-05-17T14:51
+updated: 2025-05-30T09:44
 ---
 ---
 
@@ -56,8 +58,3 @@ Axios is like a **helper tool** that makes working with web requests **cleaner, 
 
 
 
-# Reference
-`related tags + notes + source + link(if any)`
- 
-
-- 

@@ -4,194 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "07db92453fadba2a",
+        "id": "05c67d81cbbc14eb",
         "type": "tabs",
         "children": [
           {
-            "id": "252f38885dbe9036",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "js constrctor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/js constrctor.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js constrctor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":45},\"to\":{\"line\":32,\"ch\":45}},\"scroll\":13.40209108883694}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/library/mongoose/mongoose schema and model.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "mongoose schema and model"
-            }
-          },
-          {
-            "id": "8083203cc2c215ae",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "npm packages",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/npm packages.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"npm packages\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":15},\"to\":{\"line\":26,\"ch\":15}},\"scroll\":11.992108178787927}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/mongoose-aggregate-paginate-v2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "mongoose-aggregate-paginate-v2"
-            }
-          },
-          {
-            "id": "811b25d7afd3109b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/authentication.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "authentication"
-            }
-          },
-          {
-            "id": "1d22dc0e6e7f4a61",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/npm packages.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "npm packages"
-            }
-          },
-          {
-            "id": "fed652825ce68b1b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "jsonwebtoken",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/jsonwebtoken.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"jsonwebtoken\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/Terms-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Terms-MOC"
-            }
-          },
-          {
-            "id": "a9e3ae9590a0a6f8",
+            "id": "99873d14f38a554a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -204,20 +21,32 @@
                   "title": "Mongoose-MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Mongoose-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mongoose-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":14},\"to\":{\"line\":17,\"ch\":14}},\"scroll\":10.571969611311964}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":19},\"to\":{\"line\":16,\"ch\":19}}}"
                 },
                 {
-                  "title": "payload",
+                  "title": "nodemon",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/payload.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"payload\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":55},\"to\":{\"line\":8,\"ch\":55}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/nodemon.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"nodemon\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "express.json() method",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/i. frameworks/express/express.json() method.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"express.json() method\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":43},\"to\":{\"line\":14,\"ch\":43}}}"
+                },
+                {
+                  "title": "authentication vs authorization",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/authentication vs authorization.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication vs authorization\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/mongoose middlewares.md",
+                "file": "1 - notes/h. library/mongoose/mongoose connecting to mongodb.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -232,56 +61,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mongoose middlewares"
+              "title": "mongoose connecting to mongodb"
             }
           },
           {
-            "id": "476ea8bffc03aea8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "npm packages",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/npm packages.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"npm packages\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":14},\"to\":{\"line\":28,\"ch\":14}},\"scroll\":19.906249125798542}"
-                },
-                {
-                  "title": "bcrypt",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/bcrypt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"bcrypt\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":66},\"to\":{\"line\":22,\"ch\":66}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/jsonwebtoken.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "jsonwebtoken"
-            }
-          },
-          {
-            "id": "2eb77996aedd1926",
+            "id": "d1adc4863e15b177",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -295,7 +79,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/mongoose-aggregate-paginate-v2.md",
+                "file": "3 - moc/Web-Dev-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -310,11 +94,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mongoose-aggregate-paginate-v2"
+              "title": "Web-Dev-MOC"
             }
           },
           {
-            "id": "a09037c75f51775d",
+            "id": "b5928c186317a273",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -322,13 +106,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "node commands",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/node js/node commands.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"node commands\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":56},\"to\":{\"line\":10,\"ch\":56}},\"scroll\":0.015584415816641474}"
+                },
+                {
+                  "title": "Node-JS-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Node-JS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Node-JS-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":12},\"to\":{\"line\":20,\"ch\":12}},\"scroll\":5.721088340929101}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/javascript/js - functions.md",
+                "file": "1 - notes/c. tools/node js/dev dependencies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -343,11 +139,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "js - functions"
+              "title": "dev dependencies"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -450,7 +245,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/jsonwebtoken.md",
+                "file": "1 - notes/h. library/mongoose/mongoose connecting to mongodb.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -478,7 +273,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of jsonwebtoken"
+              "title": "Graph of mongoose connecting to mongodb"
             }
           }
         ]
@@ -725,34 +520,37 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "476ea8bffc03aea8",
+  "active": "99873d14f38a554a",
   "lastOpenFiles": [
-    "0 - inbox/npm packages.md",
-    "0 - inbox/bcrypt.md",
-    "1 - notes/b. languages/javascript/js - functions.md",
-    "0 - inbox/mongoose middlewares.md",
-    "0 - inbox/mongoose-aggregate-paginate-v2.md",
     "3 - moc/sub-mocs/Mongoose-MOC.md",
-    "1 - notes/b. languages/library/mongoose/mongoose connecting to mongodb.md",
-    "1 - notes/b. languages/library/mongoose/mongoose schema and model.md",
-    "0 - inbox/payload.md",
+    "1 - notes/h. library/nodemon.md",
+    "1 - notes/c. tools/node js/dev dependencies.md",
+    "3 - moc/Web-Dev-MOC.md",
+    "1 - notes/c. tools/node js/node commands.md",
+    "3 - moc/sub-mocs/Node-JS-MOC.md",
+    "1 - notes/b. languages/javascript/about node-js.md",
+    "1 - notes/i. frameworks/express/express.json() method.md",
+    "0 - inbox/authentication vs authorization.md",
+    "1 - notes/a. concepts/get vs post method.md",
+    "1 - notes/a. concepts/http methods.md",
+    "1 - notes/a. concepts/http status codes.md",
+    "1 - notes/g. dsa/method to solve a problem.md",
+    "1 - notes/a. concepts/hexadecimal.md",
+    "1 - notes/c. tools/github/git standard practices.md",
+    "1 - notes/a. concepts/development of languages.md",
+    "1 - notes/a. concepts/32 Bit vs 64 Bit system.md",
+    "1 - notes/h. library/jsonwebtoken.md",
+    "1 - notes/a. concepts/memory address.md",
+    "1 - notes/i. frameworks/express/middlewares.md",
+    "1 - notes/a. concepts/uml diagrams.md",
+    "1 - notes/i. frameworks/express/proxy and cors.md",
+    "3 - moc/Programming-Language-Concepts-MOC.md",
+    "1 - notes/c. tools/node js/npm packages.md",
+    "1 - notes/a. concepts/number system.md",
     "3 - moc/Terms-MOC.md",
-    "0 - inbox/jsonwebtoken.md",
-    "0 - inbox/authentication.md",
-    "0 - inbox/js constrctor.md",
-    "1 - notes/b. languages/cpp/cpp constructor.md",
-    "0 - inbox/js inheritance.md",
-    "3 - moc/sub-mocs/JS-MOC.md",
-    "1 - notes/a. concepts/core/concept - oops.md",
-    "0 - inbox/js static.md",
-    "0 - inbox/js oops.md",
-    "0 - inbox/constructor.md",
-    "1 - notes/b. languages/java/java instance variable, this and constructor.md",
-    "1 - notes/a. concepts/core/objects.md",
-    "1 - notes/a. concepts/basics/classes.md",
-    "3 - moc/Concepts-MOC.md",
-    "0 - inbox/Untitled 1.md",
-    "3 - moc/sub-mocs/Express-MOC.md",
+    "1 - notes/c. tools/node js",
+    "1 - notes/g. dsa",
+    "1 - notes/h. library/cors",
     "98 - attachments/Recording 20250529123418.m4a",
     "98 - attachments/Recording 20250529123501.m4a",
     "98 - attachments/Recording 20250529123335.m4a",
@@ -763,12 +561,9 @@
     "98 - attachments/Recording 20250521185414.m4a",
     "98 - attachments/Pasted image 20250521080702.png",
     "98 - attachments/Pasted image 20250520180332.png",
-    "1 - notes/b. languages/frameworks/express",
-    "98 - attachments/Recording 20250518100548.m4a",
-    "1 - notes/b. languages/library/mongoose",
+    "1 - notes/i. frameworks/express",
     "98 - attachments/Pasted image 20250516195519.png",
     "98 - attachments/Pasted image 20250516192122.png",
-    "1 - notes/g. ai",
     "98 - attachments/Pasted image 20250514170056.png",
     "98 - attachments/Pasted image 20250513074712.png",
     "98 - attachments/Pasted image 20250512204932.png",

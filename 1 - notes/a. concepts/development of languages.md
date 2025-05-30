@@ -1,8 +1,9 @@
 ---
 status: newBorn
-related-links: 
+related-links:
+  - "[[Basic-Concepts-MOC]]"
 created: 2025-05-25T10:24
-updated: 2025-05-25T10:24
+updated: 2025-05-30T09:48
 ---
 ---
 

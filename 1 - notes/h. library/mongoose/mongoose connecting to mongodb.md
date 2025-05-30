@@ -4,10 +4,11 @@ related-links:
   - "[[Mongoose-MOC]]"
   - "[[MongoDB-MOC]]"
 created: 2025-05-21T08:26
-updated: 2025-05-28T04:25
+updated: 2025-05-30T12:37
 ---
 ---
 
+> remember:: mongoose.connect returns a promise so we can use .then and .catch with it.  
 #### ways
 - now there are two methods to connect with database
 	- one is to keep all the code including database connection code in `index.js/server.js`
