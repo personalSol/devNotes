@@ -22,7 +22,7 @@
     "1 - notes/b. languages/cpp/cpp - things to remember.md": "14593612ed7a64333c972ff4f62deba834bac4049acce4abef3a4475d73badde",
     "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md": "521e1b3d66008254d29adef171e2664988eb39f56e543bfca404f3e8a01d474c",
     "1 - notes/b. languages/frameworks/express/express basics.md": "72ad5f6d2a94fa132413745ae79425f0d8205022fead445a75b811e323dc9767",
-    "0 - inbox/npm packages.md": "79028d450efd0ca9e08f8b7636bbdf3e9c7b5b31540b34bbaa6c27ea075d38f4",
+    "0 - inbox/npm packages.md": "1cd1a5f66078e2f3dbc480e782e622d5e4d374c5c6e737162936e771a2104d35",
     "3 - moc/sub-mocs/Mongoose-MOC.md": "bf1a5a3b900faadd37190e55e67b5409537cbc5c14479be0304583c009139e78",
     "1 - notes/a. concepts/basics/library vs framework.md": "5700ab03c4a1d4298c4f0e61c07578d23b4d1515ecb7e7d035b60dd698b4456b",
     "0 - inbox/model, schema and document concept.md": "ddca668dcb4b33fd1a7b51811c8a1ff2096d1047eba2b25821f85fbec6791190",
@@ -64,7 +64,7 @@
     "0 - inbox/react events.md": "2fe30e8f3048ad81cde7d153513d52b204b75124026c33808dfbf6d9c010f0b7",
     "1 - notes/b. languages/css/CSS units.md": "03e3b3c3c7e50f7092a6bc8126962578311b51c991477e4dd2cc851d89945e27",
     "1 - notes/b. languages/library/react/react props.md": "8c714c19275926377797bd0fc3f9fe0108d65a670218bbe0125734ff0aaa80e7",
-    "1 - notes/b. languages/javascript/js - functions.md": "29432580bf86fcc8544e06fec67624f5e4f21da48d3fc2961a40d62c15893070",
+    "1 - notes/b. languages/javascript/js - functions.md": "7cce02498e75152251a79655d7e4ea0a44853d6b0b7332961e2b532f007b5793",
     "1 - notes/b. languages/library/react/react -  key prop.md": "b94c9edfe5660d07bda7846d75dc33973f296e455cfcff1e5be39785ee803752",
     "1 - notes/b. languages/library/react/react - UI update process.md": "5edd2a6a8a3e74c712aecda76bcd7c6c55038f57da9f347e6cd60c9c230c664d",
     "1 - notes/b. languages/library/react/react - components.md": "366e7c0f83aef00f8eed69f3fd93a60e99960d734be4b750b8db64d165864c1d",
@@ -148,6 +148,12 @@
     "0 - inbox/js constrctor.md": "7d62d88fd852eec0f53540cac2ba4cdedbcf1fef2f48563fcf826ed7496d0373",
     "0 - inbox/js oops.md": "0a3dee805206246490b5f7f221359a3ebbfe38a03d502bc712f54a77da3d1ca3",
     "0 - inbox/js inheritance.md": "2d9936b1541dfb21db50e02462fa9cbb2ff31dc2549ce66161dab6cda1f0e934",
-    "0 - inbox/js static.md": "601b37fe0c99c2c9a5e70204763ec4867fa394803bf5076dafe1fa7f380b84ea"
+    "0 - inbox/js static.md": "601b37fe0c99c2c9a5e70204763ec4867fa394803bf5076dafe1fa7f380b84ea",
+    "0 - inbox/mongoose-aggregate-paginate-v2.md": "8e1e5b020288b248abada8951c1abac6563e5e0717b7b78f26eaa407759d3351",
+    "0 - inbox/authentication.md": "1c8bc4451abfd61aee7a48e416041138be7395b8aebdff0d811510ba9a14daf1",
+    "0 - inbox/bcrypt.md": "a8ea96e34cad0b55e59af9b3c894886c8ffb16ee8bdb7e4fcb3bfcab1cb3273a",
+    "0 - inbox/jsonwebtoken.md": "cefba6b759ed0dacc9aaaff2d8442925d3ad427d7ef38d81c081c078aabaef66",
+    "0 - inbox/payload.md": "8985117ad59a2a1044e4ff82fa8bb40fedad5b4defa55a80b32932f6bba30813",
+    "0 - inbox/mongoose middlewares.md": "11246cced81bad3a84f34f020b1118130f336056ff6d61bbf5a95c266a35f20d"
   }
 }

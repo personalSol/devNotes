@@ -45,8 +45,309 @@
               "icon": "lucide-file",
               "title": "mongoose schema and model"
             }
+          },
+          {
+            "id": "8083203cc2c215ae",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "npm packages",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/npm packages.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"npm packages\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":15},\"to\":{\"line\":26,\"ch\":15}},\"scroll\":11.992108178787927}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/mongoose-aggregate-paginate-v2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "mongoose-aggregate-paginate-v2"
+            }
+          },
+          {
+            "id": "811b25d7afd3109b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/authentication.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "authentication"
+            }
+          },
+          {
+            "id": "1d22dc0e6e7f4a61",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/npm packages.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "npm packages"
+            }
+          },
+          {
+            "id": "fed652825ce68b1b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "jsonwebtoken",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/jsonwebtoken.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"jsonwebtoken\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - moc/Terms-MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Terms-MOC"
+            }
+          },
+          {
+            "id": "a9e3ae9590a0a6f8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Mongoose-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Mongoose-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mongoose-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":14},\"to\":{\"line\":17,\"ch\":14}},\"scroll\":10.571969611311964}"
+                },
+                {
+                  "title": "payload",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/payload.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"payload\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":55},\"to\":{\"line\":8,\"ch\":55}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/mongoose middlewares.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "mongoose middlewares"
+            }
+          },
+          {
+            "id": "476ea8bffc03aea8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "npm packages",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/npm packages.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"npm packages\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":28,\"ch\":14},\"to\":{\"line\":28,\"ch\":14}},\"scroll\":19.906249125798542}"
+                },
+                {
+                  "title": "bcrypt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/bcrypt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"bcrypt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":66},\"to\":{\"line\":22,\"ch\":66}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/jsonwebtoken.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "jsonwebtoken"
+            }
+          },
+          {
+            "id": "2eb77996aedd1926",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/mongoose-aggregate-paginate-v2.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "mongoose-aggregate-paginate-v2"
+            }
+          },
+          {
+            "id": "a09037c75f51775d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/javascript/js - functions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "js - functions"
+            }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -149,7 +450,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/library/mongoose/mongoose schema and model.md",
+                "file": "0 - inbox/jsonwebtoken.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +478,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of mongoose schema and model"
+              "title": "Graph of jsonwebtoken"
             }
           }
         ]
@@ -424,8 +725,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "252f38885dbe9036",
+  "active": "476ea8bffc03aea8",
   "lastOpenFiles": [
+    "0 - inbox/npm packages.md",
+    "0 - inbox/bcrypt.md",
+    "1 - notes/b. languages/javascript/js - functions.md",
+    "0 - inbox/mongoose middlewares.md",
+    "0 - inbox/mongoose-aggregate-paginate-v2.md",
+    "3 - moc/sub-mocs/Mongoose-MOC.md",
+    "1 - notes/b. languages/library/mongoose/mongoose connecting to mongodb.md",
+    "1 - notes/b. languages/library/mongoose/mongoose schema and model.md",
+    "0 - inbox/payload.md",
+    "3 - moc/Terms-MOC.md",
+    "0 - inbox/jsonwebtoken.md",
+    "0 - inbox/authentication.md",
     "0 - inbox/js constrctor.md",
     "1 - notes/b. languages/cpp/cpp constructor.md",
     "0 - inbox/js inheritance.md",
@@ -439,22 +752,10 @@
     "1 - notes/a. concepts/basics/classes.md",
     "3 - moc/Concepts-MOC.md",
     "0 - inbox/Untitled 1.md",
-    "0 - inbox/Untitled.md",
     "3 - moc/sub-mocs/Express-MOC.md",
-    "1 - notes/b. languages/frameworks/express/methods in express.md",
-    "0 - inbox/express utility function.md",
-    "0 - inbox/express response methods.md",
-    "0 - inbox/utility function ApiError.md",
     "98 - attachments/Recording 20250529123418.m4a",
     "98 - attachments/Recording 20250529123501.m4a",
     "98 - attachments/Recording 20250529123335.m4a",
-    "0 - inbox/utility function asyncHandler.md",
-    "0 - inbox/asyncHandler syntax and explaination.md",
-    "0 - inbox/express app methods.md",
-    "0 - inbox/js higher order function.md",
-    "1 - notes/z. others/Questions asked in interview.md",
-    "0 - inbox/middlewares.md",
-    "1 - notes/b. languages/frameworks/express/express.static() method.md",
     "98 - attachments/Pasted image 20250525085114.png",
     "4 - sources/courses/gen ai course by rohit negi",
     "98 - attachments/Pasted image 20250523175902.png",
