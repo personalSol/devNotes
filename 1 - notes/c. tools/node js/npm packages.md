@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-05-17T10:09
-updated: 2025-05-29T20:34
+updated: 2025-05-31T23:02
 ---
 ---
 
@@ -26,7 +26,7 @@ here are all the npm packages
 	- [[cookie-parser]]
 	- [[mongoose-aggregate-paginate-v2]]
 	- [[bcrypt]]
-	- [[jsonwebtoken]]
+	- [[jwt]]
 	- 
 - **dev dependencies**
 	- [[nodemon]]

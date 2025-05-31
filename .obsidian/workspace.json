@@ -86,14 +86,32 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "tmp-project",
+                  "title": "how jwt helps with remember me thing",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/tmp-project.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tmp-project\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/how jwt helps with remember me thing.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"how jwt helps with remember me thing\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "entire authentication process",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/entire authentication process.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"entire authentication process\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":134},\"to\":{\"line\":9,\"ch\":134}}}"
+                },
+                {
+                  "title": "authentication",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/authentication.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":27},\"to\":{\"line\":17,\"ch\":27}},\"scroll\":0}"
+                },
+                {
+                  "title": "authentication patterns",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/authentication patterns.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication patterns\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":3.4909090314592635}"
                 },
                 {
                   "title": "authentication",
@@ -112,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/authentication patterns.md",
+                "file": "1 - notes/h. library/jwt.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -127,7 +145,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "authentication patterns"
+              "title": "jwt"
             }
           },
           {
@@ -170,7 +188,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "2244774545802daa",
@@ -312,7 +330,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/stateless authentication.md",
+                "file": "1 - notes/h. library/jwt.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -340,7 +358,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of stateless authentication"
+              "title": "Graph of jwt"
             }
           }
         ]
@@ -588,17 +606,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "5fb8e027853e0907",
+  "active": "a7eb4049e35099a5",
   "lastOpenFiles": [
-    "1 - notes/h. library/jsonwebtoken.md",
+    "0 - inbox/how jwt helps with remember me thing.md",
+    "1 - notes/h. library/jwt.md",
+    "0 - inbox/jwt signature key.md",
+    "0 - inbox/entire authentication process.md",
+    "1 - notes/h. library/bcrypt.md",
+    "0 - inbox/bcrypt vs jwt.md",
     "0 - inbox/stateless authentication.md",
+    "0 - inbox/authentication.md",
+    "0 - inbox/authentication patterns.md",
     "0 - inbox/stateful authentication.md",
     "0 - inbox/serverless architecture.md",
     "1 - notes/b. languages/javascript/js loops.md",
-    "0 - inbox/authentication patterns.md",
     "97 - templates/tmp-project.md",
     "0 - inbox/session vs cookies.md",
-    "0 - inbox/authentication.md",
     "0 - inbox/authentication why bcrypt and not crypto.md",
     "0 - inbox/authentication - hash vs encrypt.md",
     "0 - inbox/authentication - why not encryption and when.md",
@@ -611,15 +634,10 @@
     "0 - inbox/Symmetric encryption.md",
     "0 - inbox/hashing.md",
     "0 - inbox/encryption.md",
-    "0 - inbox/Asymmetric encryption.md",
     "98 - attachments/Pasted image 20250531103955.png",
     "98 - attachments/Pasted image 20250531103809.png",
     "98 - attachments/Pasted image 20250531103723.png",
     "98 - attachments/image 2.png",
-    "0 - inbox/dsa roadmap checklist.md",
-    "1 - notes/z. others/roadmap.md",
-    "97 - templates/tmp-full-note.md",
-    "97 - templates/tmp-inbox.md",
     "1 - notes/j. devops",
     "1 - notes/c. tools/node js",
     "1 - notes/g. dsa",
