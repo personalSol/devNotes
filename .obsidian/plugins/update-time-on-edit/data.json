@@ -176,7 +176,10 @@
     "0 - inbox/authentication - why not encryption and when.md": "7ddbb96855a65acb468796d9e6877a974fc7a9d571bb0bb9c0f902d69ec1fc1f",
     "0 - inbox/authentication - hash vs encrypt.md": "945f3f9a295020a09dc49026b8914751e4a96514039b059780d9d02fbcd5bdac",
     "0 - inbox/authentication why bcrypt and not crypto.md": "7273642e4a7357a4396b14f3d7bbba6a2580eb180c3d367580662231c1e29eda",
-    "0 - inbox/authentication patterns.md": "4b8c7bb66a461531d34bfdf1f4a34dbc3132c727d25719119c40e56aef13e05d",
-    "0 - inbox/session vs cookies.md": "8920de55dbb5b90c10747d395ec1475ab127a64fd065716cb47d9fbe630603ac"
+    "0 - inbox/authentication patterns.md": "dc0ad098691f63f174090eaa9a9e76606b509d7ba337cc9b16e12d690a9ba436",
+    "0 - inbox/session vs cookies.md": "8920de55dbb5b90c10747d395ec1475ab127a64fd065716cb47d9fbe630603ac",
+    "0 - inbox/stateful authentication.md": "a7e1751b19e51468cf41cb19dad2e69df04b946b678097dfb9035073d8b9f535",
+    "0 - inbox/stateless authentication.md": "7a80654e7fc93cda5cee73947ef35e632d286e0cf1da97a85e5e98581cdb6c38",
+    "0 - inbox/serverless architecture.md": "3ea34fb695497639f041c7f0bb450af4111538d578b0eb7e6a71d84bde683b35"
   }
 }
