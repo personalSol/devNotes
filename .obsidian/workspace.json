@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0680d64d1ece8bbc",
+        "id": "476db359a4a51c66",
         "type": "tabs",
         "children": [
           {
-            "id": "b3da1cb2cabcac39",
+            "id": "d171312a83aac75a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,17 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "roadmap",
+                  "title": "authentication vs authorization",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/roadmap.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"roadmap\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":16},\"to\":{\"line\":42,\"ch\":16}},\"scroll\":23.7974686707428}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/authentication vs authorization.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication vs authorization\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":10},\"to\":{\"line\":8,\"ch\":10}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/dsa roadmap checklist.md",
+                "file": "0 - inbox/authentication.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,10 +43,89 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "dsa roadmap checklist"
+              "title": "authentication"
+            }
+          },
+          {
+            "id": "1d03ea3a8be81c7b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - moc/Web-Dev-MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Web-Dev-MOC"
+            }
+          },
+          {
+            "id": "a7eb4049e35099a5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "authentication",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/authentication.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":18},\"to\":{\"line\":16,\"ch\":18}},\"scroll\":5.251948170847707}"
+                },
+                {
+                  "title": "secure systems",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/secure systems.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"secure systems\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":8},\"to\":{\"line\":12,\"ch\":8}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/authentication patterns.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "authentication patterns"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -370,35 +449,39 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b3da1cb2cabcac39",
+  "active": "a7eb4049e35099a5",
   "lastOpenFiles": [
-    "1 - notes/z. others/roadmap.md",
+    "0 - inbox/session vs cookies.md",
+    "0 - inbox/authentication patterns.md",
+    "0 - inbox/authentication.md",
+    "0 - inbox/authentication why bcrypt and not crypto.md",
+    "0 - inbox/authentication - hash vs encrypt.md",
+    "0 - inbox/authentication - why not encryption and when.md",
+    "0 - inbox/what actually happens in authentication.md",
+    "0 - inbox/secure systems.md",
+    "0 - inbox/data integrity.md",
+    "0 - inbox/data confidentiality.md",
+    "3 - moc/Web-Dev-MOC.md",
+    "0 - inbox/authentication vs authorization.md",
+    "0 - inbox/Symmetric encryption.md",
+    "0 - inbox/hashing.md",
+    "0 - inbox/encryption.md",
+    "0 - inbox/Asymmetric encryption.md",
+    "98 - attachments/Pasted image 20250531103955.png",
+    "98 - attachments/Pasted image 20250531103809.png",
+    "98 - attachments/Pasted image 20250531103723.png",
+    "98 - attachments/image 2.png",
     "0 - inbox/dsa roadmap checklist.md",
+    "1 - notes/z. others/roadmap.md",
     "97 - templates/tmp-full-note.md",
     "97 - templates/tmp-inbox.md",
     "97 - templates/tmp-moc.md",
     "97 - templates/Templates-MOC.md",
     "1 - notes/h. library/mongoose/mongoose connecting to mongodb.md",
-    "0 - inbox/authentication vs authorization.md",
     "3 - moc/Devops-MOC.md",
     "1 - notes/j. devops/linux commands for devops.md",
     "0 - inbox/Devops-MOC.md",
     "1 - notes/j. devops",
-    "3 - moc/MOC-LIST.md",
-    "1 - notes/c. tools/node js/dev dependencies.md",
-    "3 - moc/Web-Dev-MOC.md",
-    "3 - moc/sub-mocs/Mongoose-MOC.md",
-    "1 - notes/h. library/nodemon.md",
-    "1 - notes/c. tools/node js/node commands.md",
-    "3 - moc/sub-mocs/Node-JS-MOC.md",
-    "1 - notes/b. languages/javascript/about node-js.md",
-    "1 - notes/i. frameworks/express/express.json() method.md",
-    "1 - notes/a. concepts/get vs post method.md",
-    "1 - notes/a. concepts/http methods.md",
-    "1 - notes/a. concepts/http status codes.md",
-    "1 - notes/g. dsa/method to solve a problem.md",
-    "1 - notes/a. concepts/hexadecimal.md",
-    "1 - notes/c. tools/github/git standard practices.md",
     "1 - notes/c. tools/node js",
     "1 - notes/g. dsa",
     "1 - notes/h. library/cors",
@@ -414,10 +497,6 @@
     "98 - attachments/Pasted image 20250520180332.png",
     "98 - attachments/Pasted image 20250516195519.png",
     "98 - attachments/Pasted image 20250516192122.png",
-    "98 - attachments/Pasted image 20250514170056.png",
-    "98 - attachments/Pasted image 20250513074712.png",
-    "98 - attachments/Pasted image 20250512204932.png",
-    "98 - attachments/Pasted image 20250509201128.png",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

@@ -11,7 +11,8 @@
     "callouts",
     "cambria-font",
     "heading-styles",
-    "backtickColorChanger"
+    "backtickColorChanger",
+    "backticknhighlighColorChanger"
   ],
   "showViewHeader": true,
   "nativeMenus": false
