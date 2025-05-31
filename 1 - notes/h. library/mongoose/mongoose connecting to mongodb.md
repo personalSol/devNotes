@@ -4,7 +4,7 @@ related-links:
   - "[[Mongoose-MOC]]"
   - "[[MongoDB-MOC]]"
 created: 2025-05-21T08:26
-updated: 2025-05-30T12:37
+updated: 2025-05-30T21:33
 ---
 ---
 
@@ -72,5 +72,4 @@ const connectDB = async () => {
 };
 
 export default connectDB;
-
 ```

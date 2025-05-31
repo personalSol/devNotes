@@ -10,7 +10,8 @@
   "enabledCssSnippets": [
     "callouts",
     "cambria-font",
-    "heading-styles"
+    "heading-styles",
+    "backtickColorChanger"
   ],
   "showViewHeader": true,
   "nativeMenus": false

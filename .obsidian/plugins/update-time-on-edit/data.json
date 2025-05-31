@@ -31,7 +31,7 @@
     "1 - notes/b. languages/javascript/Javascript Cheatsheet.md": "43ede079efff7a0b74801eb586e161ca9569aa16639db85e54fc4838122ed454",
     "1 - notes/b. languages/cpp/cpp arrays.md": "cca4bce90328854dacc4b008eb13e4fb9dc64a8e017f8ae5eb92906359ae57f9",
     "1 - notes/b. languages/cpp/cpp call by reference and call by value.md": "09cb91369660f15af9c560010d78768d5a696efd1ef359fd0a204d3a12ecc2cc",
-    "1 - notes/z. others/roadmap.md": "39b6560c8e7b1321d914ba389d6bdc9b88c394eb427a5a91fdeaa2da323ef332",
+    "1 - notes/z. others/roadmap.md": "ed2a0d336dd6610d04f8a126ba5137e9fd82765e89068e022f8176ebf3a85eff",
     "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md": "ed9b84494cbcf655b5fc48c7218592d723c3b03dc8d3d30e1896203ba8622afa",
     "4 - sources/courses/system design by coder army/lect - 5.md": "13edbc5843b5c96e6746dcbbb53f804e31e11a72fbce734514b23d51209d8366",
     "1 - notes/b. languages/css/CSS units.md": "03e3b3c3c7e50f7092a6bc8126962578311b51c991477e4dd2cc851d89945e27",
@@ -80,7 +80,7 @@
     "1 - notes/a. concepts/DSA Approaches.md": "9c2ac86d0fdc16cb7de059670e7fdc434afc0f64b7142cb4bdd47c31ddf3680e",
     "1 - notes/h. library/mongoose/mongoose flow.md": "0cd05de3dd0fb64df724cf9c6751035e0ca17aa4968e67bbf80f0dc358666ae6",
     "1 - notes/h. library/mongoose/mongoose schema and model.md": "d37001eabd4fd151720d3a45b1597fc6244f5e32127f6fe24f86dff1725d63db",
-    "1 - notes/h. library/mongoose/mongoose connecting to mongodb.md": "e4af1174fcc43242ba4385dec611542b40173ed2c9addd671fd6170eee865755",
+    "1 - notes/h. library/mongoose/mongoose connecting to mongodb.md": "1fbb2f79e46bda343c26627f5bdd6a4797c7c376ba8faa45929bb5ae9b78046d",
     "1 - notes/h. library/mongoose/mongoose intro.md": "a16d87500d1e4df34427f6612716a53f4a301dc238fea2f7e4b50ba2dcd7f762",
     "1 - notes/h. library/react/react - about.md": "d097b966f2ba56c16ed9fa0697fd677b288baad107cf57165f1fcbca9be24217",
     "1 - notes/h. library/mongoose/mongoose things to remember.md": "2152abe1d4c5580d61134f58e6b0f3c7712021ad508badcbd71541f692bca2ed",
@@ -161,6 +161,8 @@
     "1 - notes/g. dsa/method to solve a problem.md": "f0d939bdb3925a613c1333eaf70cb90aa78cfdbb24377d74a0f713edc7e461e0",
     "1 - notes/a. concepts/http status codes.md": "b2832c67c2a322d47c090db398f0dedd461cbeff65ebaa3f34b0b68e9d9c9d34",
     "1 - notes/a. concepts/get vs post method.md": "79ba2cb6e00ed93f1939e0bd6965ac8e6da653eb75ee71bb652d20ab496ab885",
-    "0 - inbox/authentication vs authorization.md": "7ee88dc35b1c52884f1acb7ec4a508ce1c3ca14c3cd0de1b70d3f25de61b165d"
+    "0 - inbox/authentication vs authorization.md": "7ee88dc35b1c52884f1acb7ec4a508ce1c3ca14c3cd0de1b70d3f25de61b165d",
+    "1 - notes/j. devops/linux commands for devops.md": "3e255f5c47fb8e035f9a5b23eb7c9fbccb68ade30be2a4c50d751e7e29e1a645",
+    "0 - inbox/dsa roadmap checklist.md": "e2f4bf5c00ce0c753a1d9bfea943b87b8cb34450a7c1dd8913460a77ed111b7a"
   }
 }

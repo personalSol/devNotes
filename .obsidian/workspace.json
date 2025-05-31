@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "05c67d81cbbc14eb",
+        "id": "0680d64d1ece8bbc",
         "type": "tabs",
         "children": [
           {
-            "id": "99873d14f38a554a",
+            "id": "b3da1cb2cabcac39",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,35 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Mongoose-MOC",
+                  "title": "roadmap",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Mongoose-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mongoose-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":19},\"to\":{\"line\":16,\"ch\":19}}}"
-                },
-                {
-                  "title": "nodemon",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/nodemon.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"nodemon\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "express.json() method",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/i. frameworks/express/express.json() method.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"express.json() method\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":43},\"to\":{\"line\":14,\"ch\":43}}}"
-                },
-                {
-                  "title": "authentication vs authorization",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/authentication vs authorization.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication vs authorization\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/roadmap.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"roadmap\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":42,\"ch\":16},\"to\":{\"line\":42,\"ch\":16}},\"scroll\":23.7974686707428}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/h. library/mongoose/mongoose connecting to mongodb.md",
+                "file": "0 - inbox/dsa roadmap checklist.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -61,85 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mongoose connecting to mongodb"
-            }
-          },
-          {
-            "id": "d1adc4863e15b177",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/Web-Dev-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Web-Dev-MOC"
-            }
-          },
-          {
-            "id": "b5928c186317a273",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "node commands",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/node js/node commands.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"node commands\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":56},\"to\":{\"line\":10,\"ch\":56}},\"scroll\":0.015584415816641474}"
-                },
-                {
-                  "title": "Node-JS-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Node-JS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Node-JS-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":12},\"to\":{\"line\":20,\"ch\":12}},\"scroll\":5.721088340929101}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/c. tools/node js/dev dependencies.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "dev dependencies"
+              "title": "dsa roadmap checklist"
             }
           }
         ]
@@ -154,7 +58,6 @@
       {
         "id": "b208c03cadd231ee",
         "type": "tabs",
-        "dimension": 75.60975609756098,
         "children": [
           {
             "id": "dddbab8b18fd423a",
@@ -224,63 +127,10 @@
             }
           }
         ]
-      },
-      {
-        "id": "3888432cac3b4f06",
-        "type": "tabs",
-        "dimension": 24.390243902439025,
-        "children": [
-          {
-            "id": "727ed8f5dbac01b5",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "1 - notes/h. library/mongoose/mongoose connecting to mongodb.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": false,
-                  "showArrow": true,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.24050565879638977,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "Graph of mongoose connecting to mongodb"
-            }
-          }
-        ]
       }
     ],
     "direction": "horizontal",
-    "width": 217.5
+    "width": 249.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -306,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/cookie-parser.md",
+                "file": "0 - inbox/dsa roadmap checklist.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cookie-parser"
+              "title": "Outline of dsa roadmap checklist"
             }
           },
           {
@@ -500,7 +350,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 374.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -520,34 +370,35 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "99873d14f38a554a",
+  "active": "b3da1cb2cabcac39",
   "lastOpenFiles": [
-    "3 - moc/sub-mocs/Mongoose-MOC.md",
-    "1 - notes/h. library/nodemon.md",
+    "1 - notes/z. others/roadmap.md",
+    "0 - inbox/dsa roadmap checklist.md",
+    "97 - templates/tmp-full-note.md",
+    "97 - templates/tmp-inbox.md",
+    "97 - templates/tmp-moc.md",
+    "97 - templates/Templates-MOC.md",
+    "1 - notes/h. library/mongoose/mongoose connecting to mongodb.md",
+    "0 - inbox/authentication vs authorization.md",
+    "3 - moc/Devops-MOC.md",
+    "1 - notes/j. devops/linux commands for devops.md",
+    "0 - inbox/Devops-MOC.md",
+    "1 - notes/j. devops",
+    "3 - moc/MOC-LIST.md",
     "1 - notes/c. tools/node js/dev dependencies.md",
     "3 - moc/Web-Dev-MOC.md",
+    "3 - moc/sub-mocs/Mongoose-MOC.md",
+    "1 - notes/h. library/nodemon.md",
     "1 - notes/c. tools/node js/node commands.md",
     "3 - moc/sub-mocs/Node-JS-MOC.md",
     "1 - notes/b. languages/javascript/about node-js.md",
     "1 - notes/i. frameworks/express/express.json() method.md",
-    "0 - inbox/authentication vs authorization.md",
     "1 - notes/a. concepts/get vs post method.md",
     "1 - notes/a. concepts/http methods.md",
     "1 - notes/a. concepts/http status codes.md",
     "1 - notes/g. dsa/method to solve a problem.md",
     "1 - notes/a. concepts/hexadecimal.md",
     "1 - notes/c. tools/github/git standard practices.md",
-    "1 - notes/a. concepts/development of languages.md",
-    "1 - notes/a. concepts/32 Bit vs 64 Bit system.md",
-    "1 - notes/h. library/jsonwebtoken.md",
-    "1 - notes/a. concepts/memory address.md",
-    "1 - notes/i. frameworks/express/middlewares.md",
-    "1 - notes/a. concepts/uml diagrams.md",
-    "1 - notes/i. frameworks/express/proxy and cors.md",
-    "3 - moc/Programming-Language-Concepts-MOC.md",
-    "1 - notes/c. tools/node js/npm packages.md",
-    "1 - notes/a. concepts/number system.md",
-    "3 - moc/Terms-MOC.md",
     "1 - notes/c. tools/node js",
     "1 - notes/g. dsa",
     "1 - notes/h. library/cors",
@@ -561,7 +412,6 @@
     "98 - attachments/Recording 20250521185414.m4a",
     "98 - attachments/Pasted image 20250521080702.png",
     "98 - attachments/Pasted image 20250520180332.png",
-    "1 - notes/i. frameworks/express",
     "98 - attachments/Pasted image 20250516195519.png",
     "98 - attachments/Pasted image 20250516192122.png",
     "98 - attachments/Pasted image 20250514170056.png",

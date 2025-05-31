@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Others-MOC]]"
 created: 2025-04-20T07:09
-updated: 2025-05-21T19:33
+updated: 2025-05-30T22:41
 ---
 ---
 
@@ -39,6 +39,8 @@ For dsa
 - sheet
 	- primary: coder army sheet
 	- extra: striver's sheet
+
+[[dsa roadmap checklist]]
 
 
 
