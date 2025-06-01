@@ -3,9 +3,9 @@ created: 2025-04-28T09:54
 updated: 2025-05-16T00:23
 ---
 
-# {{title}}
+# AI-ML-MOC
 
-here will be all the notes around {{title}}
+here will be all the notes around AI-ML-MOC
 
 
 ### extras ( not that imp but still here )

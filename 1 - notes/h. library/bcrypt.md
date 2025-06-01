@@ -5,7 +5,7 @@ related-links:
   - "[[Node-JS-MOC]]"
   - "[[authentication]]"
 created: 2025-05-29T20:31
-updated: 2025-05-29T21:19
+updated: 2025-06-01T10:13
 ---
 ---
 
@@ -17,7 +17,10 @@ updated: 2025-05-29T21:19
 
 used for:
 - hashing passwords
+	- during sign up and login
 
 methods
 - bcrypt.hash() - hashes your password
 - bcrypt.compare() - compares two things or passwords specifically
+
+![[authentication sign in or login]]

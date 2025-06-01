@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Others-MOC]]"
 created: 2025-04-20T07:09
-updated: 2025-06-01T01:47
+updated: 2025-06-01T14:31
 ---
 ---
 
@@ -77,7 +77,6 @@ things to do on side
 steps:
 - declare you are learning something on Linkedin 
 	- always mention that you will complete it in this amount of time
-- mention that you will post about it every week
 - github
 	- whatever you code
 		- post it on github
@@ -92,10 +91,12 @@ steps:
 	- engage with others
 	- try to do a good comment on a famous person's profile quickly as they post
 - daily twitter post
-- weelkly dev io post
+- weekly dev io post
 - weekly hashnode post
 - weekly one video of me explaining what problems i faced and how I overcame them
 
+- monthly/weekly on linkedin progress showing in copy like this
+![[Pasted image 20250601140028.png||300]]
 
 
 # Reference

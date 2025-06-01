@@ -2,7 +2,7 @@
 status: newBorn
 related-links: "[[AI-ML-MOC]]"
 created: 2025-05-26T08:53
-updated: 2025-05-26T08:53
+updated: 2025-06-01T13:01
 ---
 ---
 
@@ -19,7 +19,7 @@ GPT is Generative Pre-Trained Transformer.
 	- each pattern is slightly or completely different from the previous one
 	- hence different outputs 
 
-### tokanization
+### Tokenization
 
 - after receiving the prompt from user, ai converts the prompt into individual token ( the process of creating token depends on model used )
 	- why tokanization: because machine doesn't understand english

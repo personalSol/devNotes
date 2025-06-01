@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-01T00:54
-updated: 2025-06-01T00:54
+updated: 2025-06-01T10:22
 ---
 ---
 
@@ -21,24 +21,17 @@ so the entire process of authentication is this:
 
 
 
-Why hacker can't generate a valid token?
-- because after tampering with the data, hacker will have to generate the signature too which requires the secret key.
-- he can just keep the signature as it is as it compares the signature but the thing is if hacker changes the payload data but don't change the signature then the new signature generated from request header data will not match the signature it's attached with as that signature was created with a different data one which was not tampered.
-
-is this recalculating the signature and comparing it a memory intensive task?
-no because HMAC works very very fast😎
+![[authentication - why hacker can't generate a valid token]]
 
 
-👤 What about using a valid JWT and decoding it(which is very easy) to impersonate someone?
+> is this recalculating the signature and comparing it a memory intensive task?
+	  no because HMAC works very very fast😎
 
-Yes — if the attacker somehow stole a valid token (e.g., via XSS, network sniffing, or poor storage), they can impersonate the user until:
+![[authentication what is token gets stolen]]
 
-- The token expires, or
-- You implement a revoke/blacklist mechanism
 
-This is not a flaw in JWT — it’s a flaw in token theft protection.
 
-what if the token is expired?
-- client/user can relog in or use refresh tokens ( which are just like expiry tokens but they have longer duration ) 
-- server checks the refresh token and issues a new access token
+
+![[authentication - what if the token is expired]]
+
 

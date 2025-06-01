@@ -2,16 +2,28 @@
 status: newBorn
 related-links: 
 created: 2025-05-31T22:33
-updated: 2025-06-01T00:54
+updated: 2025-06-01T10:52
 ---
 ---
 
 - [[entire authentical logic in simple words]] ⭐
+---
+- [[authentication signup or register]]
+- [[authentication sign in or login]] 
+- [[authentication - after login]]
+- [[jwt - Is Signature the Only Thing Verified]]
+	- [[jwt - token expiry]]
+	- [[jwt - refresh token]]
+- [[jwt - is verifying signature memory intensive]]
+- [[authentication why payload can't be tampered with]]
+- [[authentication what is token gets stolen]]
+- [[authentication - what if the token is expired]]
+- [[authentication - why hacker can't generate a valid token]]
 
-- for register we use [[bcrypt]]
-- for sign in we first have to varidate user using [[bcrypt]] and then create a token for him using [[jwt]] to help him stay logged in
-- for checking user accross requests we again use [[jwt]]
+**other things**
 - [[bcrypt vs jwt]]
-
+- [[access vs refresh token]]
+- [[jwt]]
+- [[bcrypt]]
 
 
