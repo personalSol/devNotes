@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-29T20:34
-updated: 2025-06-01T10:42
+updated: 2025-06-01T19:59
 ---
 ---
 
@@ -20,7 +20,7 @@ updated: 2025-06-01T10:42
 
 
 - as we can see signature is not encoded
-- we don't add [[jwt secret key]] to the token in any way
+- we don't add [[jwt secret keys]] to the token in any way
 - jwt is json web token which works like a key to verify the user
 - **UseCase of JWT**
 	- a token which gets created after validating the user to:

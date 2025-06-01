@@ -1,6 +1,6 @@
 ---
 created: 2025-02-14T21:54
-updated: 2025-06-01T00:48
+updated: 2025-06-01T17:34
 related-links: "[[Others-MOC]]"
 ---
 here is a list of websites and apps around engineering and programming.
@@ -19,6 +19,13 @@ For tokenization
 For AI:
 - learning:
 	- [Prerequisites Roadmap \| Your Roadmap to AI Mastery](https://www.mldl.study/prerequisites)
+- for building things around model
+	- [Gemini API  \|  Google AI for Developers](https://ai.google.dev/gemini-api/docs)
+
+FOR API's:
+- gemini free api: [Sign in - Google Accounts](https://aistudio.google.com/apikey)
+- 
+
 
 
 For authentication learning:

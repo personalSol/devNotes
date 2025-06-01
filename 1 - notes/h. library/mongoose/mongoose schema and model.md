@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-18T15:31
-updated: 2025-05-29T17:12
+updated: 2025-06-01T18:43
 ---
 ---
 ### 🔹 What is a Schema?
@@ -94,7 +94,7 @@ name: { type: String, required: true, minlength: 2, maxlength: 50 }
 createdBy: {
             type: mongoose.Schema.Types.ObjectId,
             ref: "User"
-        }
+}
 
 
 // for having `n` number of values, we use array⭐
@@ -130,6 +130,7 @@ SubTodo: [{
 const User = mongoose.model('User', userSchema);
 
 // custom methods
+// must be used with object/instance of the model attached (userSchema here)
 userSchema.methods.sayHi = function () {
   console.log(`Hi, I'm ${this.name}`);
 };

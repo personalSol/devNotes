@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-31T13:35
-updated: 2025-05-31T22:58
+updated: 2025-06-01T18:07
 ---
 ---
 
@@ -18,6 +18,8 @@ updated: 2025-05-31T22:58
     - The client sends the token (usually in the `Authorization` header).
     - The server **verifies** the token using the same secret key.
     - If valid, the server processes the request based on the token's payload.
+
+> the entire process in detail in: [[authentication - entire stateless process]]
 
 
 advantages:

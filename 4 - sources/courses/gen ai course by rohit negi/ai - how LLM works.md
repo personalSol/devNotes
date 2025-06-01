@@ -1,6 +1,6 @@
 ---
 created: 2025-06-01T13:00:40
-updated: 2025-06-01T13:16
+updated: 2025-06-01T15:33
 status: 
 source: 
 ---
@@ -19,4 +19,7 @@ source:
 - a pure LLM model can only and only predict next words
 - the response we get is based on the data we trained the model with
 	- if we train it with wrong data then it will product wrong output
+✅ LLMs process text —  
+❌ They don’t “remember” anything themselves.  
+🧩 Memory and personalization = achieved via **external tooling** + clever prompt engineering.
 

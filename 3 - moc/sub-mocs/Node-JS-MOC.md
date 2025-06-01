@@ -20,7 +20,7 @@ here will be all the notes around Node-JS-MOC
 - 
 - [[node commands]]
 - 
-- [[npm packages]]
+- [[npm packages for web dev]]
 - [[cors]]
 - [[proxy and cors]]
 - 

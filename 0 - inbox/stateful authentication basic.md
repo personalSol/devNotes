@@ -1,8 +1,8 @@
 ---
 status: newBorn
 related-links: 
-created: 2025-05-31T13:31
-updated: 2025-05-31T17:51
+created: 2025-06-01T18:10
+updated: 2025-06-01T18:10
 ---
 ---
 
@@ -34,3 +34,5 @@ updated: 2025-05-31T17:51
 - database intensive so yeah increases the cost
 - somehow if there is an error in the server and server have to restart then it will log out all the users because it will wipe the session ID data ( idk how only the session id data will go on restart and why )
 - can't work on serverless architecture directly as then we will have to buy additional database
+
+

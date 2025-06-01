@@ -1,11 +1,11 @@
 ---
 status: newBorn
 related-links:
-  - "[[npm packages]]"
+  - "[[npm packages for web dev]]"
   - "[[Node-JS-MOC]]"
   - "[[authentication]]"
 created: 2025-05-29T20:31
-updated: 2025-06-01T10:13
+updated: 2025-06-01T15:15
 ---
 ---
 
