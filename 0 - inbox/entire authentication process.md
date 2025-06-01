@@ -2,9 +2,11 @@
 status: newBorn
 related-links: 
 created: 2025-05-31T22:33
-updated: 2025-05-31T23:02
+updated: 2025-06-01T00:54
 ---
 ---
+
+- [[entire authentical logic in simple words]] ⭐
 
 - for register we use [[bcrypt]]
 - for sign in we first have to varidate user using [[bcrypt]] and then create a token for him using [[jwt]] to help him stay logged in

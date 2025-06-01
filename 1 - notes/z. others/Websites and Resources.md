@@ -1,6 +1,6 @@
 ---
 created: 2025-02-14T21:54
-updated: 2025-05-25T18:24
+updated: 2025-06-01T00:48
 related-links: "[[Others-MOC]]"
 ---
 here is a list of websites and apps around engineering and programming.
@@ -19,4 +19,8 @@ For tokenization
 For AI:
 - learning:
 	- [Prerequisites Roadmap \| Your Roadmap to AI Mastery](https://www.mldl.study/prerequisites)
-	- 
+
+
+For authentication learning:
+- [JSON Web Tokens - jwt.io](https://jwt.io/) ^6pk24c
+- 

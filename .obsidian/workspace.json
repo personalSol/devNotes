@@ -83,23 +83,23 @@
             "id": "a7eb4049e35099a5",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "how jwt helps with remember me thing",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/how jwt helps with remember me thing.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"how jwt helps with remember me thing\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
                 },
                 {
+                  "title": "jwt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/jwt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"jwt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":26,\"ch\":14},\"to\":{\"line\":26,\"ch\":14}},\"scroll\":16.195238658360072}"
+                },
+                {
                   "title": "entire authentication process",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/entire authentication process.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"entire authentication process\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":134},\"to\":{\"line\":9,\"ch\":134}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":103},\"to\":{\"line\":11,\"ch\":103}},\"scroll\":0.5922077847765638}"
                 },
                 {
                   "title": "authentication",
@@ -130,7 +130,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/h. library/jwt.md",
+                "file": "0 - inbox/jwt signature.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -145,7 +145,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "jwt"
+              "title": "jwt signature"
             }
           },
           {
@@ -186,9 +186,153 @@
               "icon": "lucide-file",
               "title": "stateful authentication"
             }
+          },
+          {
+            "id": "0f83c3453de4e7d9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/z. others/roadmap.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "roadmap"
+            }
+          },
+          {
+            "id": "130f90e76f2d3d24",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "DSA-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/DSA-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"DSA-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":7},\"to\":{\"line\":14,\"ch\":7}},\"scroll\":5.7346940946863665}"
+                },
+                {
+                  "title": "checkboxes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/checkboxes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"checkboxes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":13},\"to\":{\"line\":14,\"ch\":13}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/g. dsa/dsa - tips.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "dsa - tips"
+            }
+          },
+          {
+            "id": "d6157f4efe60d2b3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/dsa - question approaches which I was not able to solve.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "dsa - question approaches which I was not able to solve"
+            }
+          },
+          {
+            "id": "066684cfff658697",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/dsa - question approahes which I was able to solve.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "dsa - question approahes which I was able to solve"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       },
       {
         "id": "2244774545802daa",
@@ -226,8 +370,42 @@
               "icon": "lucide-file",
               "title": "stateless authentication"
             }
+          },
+          {
+            "id": "242a2b9296d8ce34",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/z. others/Websites and Resources.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Websites and Resources"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -330,7 +508,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/h. library/jwt.md",
+                "file": "1 - notes/g. dsa/dsa - tips.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -358,15 +536,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of jwt"
+              "title": "Graph of dsa - tips"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 249.5,
-    "collapsed": true
+    "width": 249.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -606,15 +783,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a7eb4049e35099a5",
+  "active": "130f90e76f2d3d24",
   "lastOpenFiles": [
-    "0 - inbox/how jwt helps with remember me thing.md",
+    "1 - notes/z. others/Websites and Resources.md",
+    "97 - templates/tmp-full-note.md",
+    "1 - notes/g. dsa/dsa - tips.md",
+    "3 - moc/DSA-MOC.md",
+    "1 - notes/a. concepts/DSA Approaches.md",
+    "1 - notes/z. others/roadmap.md",
+    "0 - inbox/dsa - question approaches which I was not able to solve.md",
+    "0 - inbox/dsa - question approahes which I was able to solve.md",
+    "0 - inbox/checkboxes.md",
+    "0 - inbox/jwt signature.md",
     "1 - notes/h. library/jwt.md",
-    "0 - inbox/jwt signature key.md",
     "0 - inbox/entire authentication process.md",
+    "0 - inbox/entire authentical logic in simple words.md",
+    "0 - inbox/jwt payload.md",
+    "0 - inbox/stateless authentication.md",
+    "0 - inbox/how jwt helps with remember me thing.md",
     "1 - notes/h. library/bcrypt.md",
     "0 - inbox/bcrypt vs jwt.md",
-    "0 - inbox/stateless authentication.md",
     "0 - inbox/authentication.md",
     "0 - inbox/authentication patterns.md",
     "0 - inbox/stateful authentication.md",
@@ -623,17 +811,6 @@
     "97 - templates/tmp-project.md",
     "0 - inbox/session vs cookies.md",
     "0 - inbox/authentication why bcrypt and not crypto.md",
-    "0 - inbox/authentication - hash vs encrypt.md",
-    "0 - inbox/authentication - why not encryption and when.md",
-    "0 - inbox/what actually happens in authentication.md",
-    "0 - inbox/secure systems.md",
-    "0 - inbox/data integrity.md",
-    "0 - inbox/data confidentiality.md",
-    "3 - moc/Web-Dev-MOC.md",
-    "0 - inbox/authentication vs authorization.md",
-    "0 - inbox/Symmetric encryption.md",
-    "0 - inbox/hashing.md",
-    "0 - inbox/encryption.md",
     "98 - attachments/Pasted image 20250531103955.png",
     "98 - attachments/Pasted image 20250531103809.png",
     "98 - attachments/Pasted image 20250531103723.png",
