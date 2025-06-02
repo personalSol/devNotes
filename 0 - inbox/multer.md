@@ -2,12 +2,11 @@
 status: newBorn
 related-links: 
 created: 2025-06-01T23:11
-updated: 2025-06-02T11:11
+updated: 2025-06-02T14:18
 ---
 ---
 
 > best resource: [GitHub - expressjs/multer: Node.js middleware for handling \`multipart/form-data\`.](https://github.com/expressjs/multer#readme)
-
 
 #### some quick add
 
@@ -30,3 +29,7 @@ app.post('/stats', upload.single('uploaded_file'), function (req, res) {
 
 - [[multer qna of concepts]]
 - [[multer code]]
+- to keep the extension with the file name, we have two ways
+	- keep the file name original using `file.originalname` inside cb in diskStorage
+	- extract the file extension using [[path#to get file extension]]
+- 

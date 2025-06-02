@@ -4,7 +4,7 @@ related-links:
   - "[[utility function asyncHandler]]"
   - "[[Express-MOC]]"
 created: 2025-05-29T11:55
-updated: 2025-05-29T11:55
+updated: 2025-06-02T18:24
 ---
 ---
 
@@ -61,3 +61,16 @@ const asyncHandler = (requestHandler) => {
     }
 }
 ```
+
+Now when you do this:
+```js
+app.get('/user', asyncHandler(handler))
+```
+
+how this works:
+- You call `asyncHandler(handler)`.
+- It returns a new function that has `(req, res, next)` as parameters.
+- Express sees that returned function and uses it as a route handler.
+- Express calls it with `req`, `res`, and `next`.
+- That function runs your original `handler(req, res, next)`.
+- If `handler` throws an error, it gets caught and passed to `next(err)`.

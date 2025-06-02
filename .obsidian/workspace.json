@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "62b2e8330f617e39",
+        "id": "2b6a6975cdbb0a5b",
         "type": "tabs",
         "children": [
           {
-            "id": "2506bcdf5e6936b2",
+            "id": "509834883ede6a29",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,37 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "express.json() method",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/i. frameworks/express/express.json() method.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"express.json() method\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":47},\"to\":{\"line\":12,\"ch\":47}},\"scroll\":0}"
+                },
+                {
+                  "title": "cors origin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/cors/cors origin.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cors origin\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":0},\"to\":{\"line\":32,\"ch\":0}},\"scroll\":13.082278673168632}"
+                },
+                {
+                  "title": "cors solutions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/cors/cors solutions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cors solutions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":9},\"to\":{\"line\":10,\"ch\":9}},\"scroll\":0.015584415816641474}"
+                },
+                {
+                  "title": "cors",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/cors/cors.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cors\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":7},\"to\":{\"line\":9,\"ch\":7}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/Node-JS-MOC.md",
+                "file": "1 - notes/h. library/cookie-parser.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,11 +61,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Node-JS-MOC"
+              "title": "cookie-parser"
             }
           },
           {
-            "id": "21cf8d1ab9ab940a",
+            "id": "45af1107fe547ba2",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -51,59 +75,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "express.static() method",
+                  "title": "Express-MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/i. frameworks/express/express.static() method.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"express.static() method\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "multer",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/multer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"multer\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":54},\"to\":{\"line\":19,\"ch\":54}},\"scroll\":0}"
-                },
-                {
-                  "title": "fs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/fs.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"fs\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":128,\"ch\":0},\"to\":{\"line\":128,\"ch\":0}},\"scroll\":106.7093726793925}"
-                },
-                {
-                  "title": "npm packages for web dev",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/node js/npm packages for web dev.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"npm packages for web dev\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":5},\"to\":{\"line\":16,\"ch\":5}},\"scroll\":3.1792207197709517}"
-                },
-                {
-                  "title": "fs",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/fs.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"fs\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":3.5220779815277496}"
-                },
-                {
-                  "title": "npm packages for web dev",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/node js/npm packages for web dev.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"npm packages for web dev\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":2},\"to\":{\"line\":16,\"ch\":2}},\"scroll\":4.098701179801644}"
-                },
-                {
-                  "title": "multer",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/multer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"multer\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
-                {
-                  "title": "node file handling and uploading",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/node file handling and uploading.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"node file handling and uploading\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":16},\"to\":{\"line\":9,\"ch\":16}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Express-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Express-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":15},\"to\":{\"line\":23,\"ch\":15}},\"scroll\":9.850000540415445}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/multer.md",
+                "file": "0 - inbox/express routes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -118,11 +100,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "multer"
+              "title": "express routes"
             }
           },
           {
-            "id": "1db5be2f8dd7328b",
+            "id": "3ea3908765d721f5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -136,7 +118,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/multer code.md",
+                "file": "0 - inbox/router.post() vs router.route().post().md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -151,77 +133,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "multer code"
-            }
-          },
-          {
-            "id": "b5ed5800a3465f69",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/multer qna of concepts.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "multer qna of concepts"
-            }
-          },
-          {
-            "id": "2e5cb8c1a0ae5285",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/cloudinary.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cloudinary"
+              "title": "router.post() vs router.route().post()"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -324,7 +240,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/multer.md",
+                "file": "0 - inbox/router.post() vs router.route().post().md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -352,7 +268,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of multer"
+              "title": "Graph of router.post() vs router.route().post()"
             }
           }
         ]
@@ -385,13 +301,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/multer.md",
+                "file": "0 - inbox/router.post() vs router.route().post().md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of multer"
+              "title": "Outline of router.post() vs router.route().post()"
             }
           },
           {
@@ -579,7 +495,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -598,34 +514,37 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "21cf8d1ab9ab940a",
+  "active": "3ea3908765d721f5",
   "lastOpenFiles": [
+    "0 - inbox/router.post() vs router.route().post().md",
+    "0 - inbox/express routes.md",
+    "3 - moc/sub-mocs/Express-MOC.md",
+    "1 - notes/h. library/cookie-parser.md",
+    "1 - notes/i. frameworks/express/express.json() method.md",
+    "1 - notes/h. library/cors/cors origin.md",
+    "1 - notes/h. library/cors/cors solutions.md",
+    "1 - notes/i. frameworks/express/proxy and cors.md",
+    "1 - notes/h. library/cors/cors.md",
+    "1 - notes/h. library/cors/cors brief intro.md",
+    "1 - notes/i. frameworks/express/asyncHandler syntax and explaination.md",
+    "1 - notes/a. concepts/http status codes.md",
+    "98 - attachments/Pasted image 20250602152500.png",
+    "0 - inbox/http.md",
+    "1 - notes/a. concepts/http methods.md",
+    "0 - inbox/http headers.md",
+    "1 - notes/a. concepts/get vs post method.md",
+    "98 - attachments/Pasted image 20250602152025.png",
+    "98 - attachments/Pasted image 20250602151157.png",
+    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
+    "3 - moc/sub-mocs/Core-Concepts-MOC.md",
+    "1 - notes/h. library/react/react - to create react app.md",
+    "0 - inbox/cloudinary.md",
+    "0 - inbox/multer qna of concepts.md",
     "0 - inbox/multer code.md",
     "0 - inbox/multer.md",
-    "0 - inbox/multer qna of concepts.md",
-    "1 - notes/i. frameworks/express/express.static() method.md",
-    "0 - inbox/cloudinary.md",
-    "0 - inbox/fs.md",
-    "0 - inbox/file unlinking in OS.md",
-    "1 - notes/c. tools/node js/npm packages for web dev.md",
-    "3 - moc/sub-mocs/Operating-System-MOC.md",
-    "3 - moc/Concepts-MOC.md",
-    "0 - inbox/node file handling and uploading.md",
     "3 - moc/sub-mocs/Node-JS-MOC.md",
-    "0 - inbox/jwt - refresh token.md",
-    "1 - notes/i. frameworks/express/utility function ApiError.md",
-    "1 - notes/b. languages/javascript/cjs vs esm.md",
-    "0 - inbox/generates a JWT tokens.md",
-    "0 - inbox/jwt verifying.md",
-    "0 - inbox/entire authentical logic in simple words.md",
-    "0 - inbox/jwt secret keys.md",
-    "0 - inbox/authentication sign in or login.md",
-    "0 - inbox/authentication - entire stateless process.md",
-    "0 - inbox/authentication - after login.md",
-    "0 - inbox/authentication.md",
-    "1 - notes/h. library/bcrypt.md",
-    "0 - inbox/jwt signature.md",
-    "0 - inbox/authentication signup or register.md",
+    "1 - notes/i. frameworks/express/express.static() method.md",
+    "1 - notes/c. tools/node js/npm packages for web dev.md",
     "98 - attachments/Pasted image 20250601140028.png",
     "98 - attachments/Pasted image 20250531103955.png",
     "98 - attachments/Pasted image 20250531103809.png",
@@ -643,9 +562,6 @@
     "98 - attachments/Pasted image 20250523175902.png",
     "98 - attachments/notes.pdf",
     "98 - attachments/Recording 20250521185414.m4a",
-    "98 - attachments/Pasted image 20250521080702.png",
-    "98 - attachments/Pasted image 20250520180332.png",
-    "98 - attachments/Pasted image 20250516195519.png",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

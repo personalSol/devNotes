@@ -1,9 +1,9 @@
 ---
 status: newBorn
 related-links:
-  - "[[Core-Concepts-MOC]]"
+  - "[[Basic-Concepts-MOC]]"
 created: 2025-05-28T09:05
-updated: 2025-05-30T10:02
+updated: 2025-06-02T15:23
 ---
 ---
 
@@ -11,7 +11,7 @@ there are several **HTTP methods**, each designed for a specific purpose in clie
 
 - **HTTP methods define the _intent_ of a request**, not just how data is sent.
 
-Here are the most common ones:
+![[Pasted image 20250602152025.png||500]]
 
 ---
 
@@ -22,75 +22,55 @@ Here are the most common ones:
 ### ✅ **1. GET**
 
 - **Purpose:** Retrieve data from the server.
-    
 - **Safe:** ✅ (Doesn’t change anything)
-    
 - **Data in URL:** ✅ (Visible)
-    
 - **Example:** Viewing a blog post
-    
 
 ---
 
 ### ✅ **2. POST**
 
 - **Purpose:** Send data to the server (e.g., to create something).
-    
 - **Safe:** ❌ (Can change server state)
-    
 - **Data in Body:** ✅ (Hidden from URL)
-    
 - **Example:** Submitting a form, creating a new user
-    
 
 ---
 
 ### 🔄 **3. PUT**
 
 - **Purpose:** Replace/update an existing resource completely.
-    
 - **Idempotent:** ✅ (Sending it multiple times has the same effect)
-    
 - **Example:** Updating a profile with new data
-    
 
 ---
 
 ### 🔄 **4. PATCH**
 
 - **Purpose:** Partially update a resource.
-    
 - **Idempotent:** ✅ (Like PUT, but only changes part of the data)
-    
 - **Example:** Updating just the user’s email
-    
 
 ---
 
 ### ❌ **5. DELETE**
 
 - **Purpose:** Remove a resource.
-    
 - **Idempotent:** ✅ (Deleting something twice has the same outcome — it's gone)
-    
 - **Example:** Deleting a post or comment
-    
 
 ---
 
 ### ❓ **6. HEAD**
 
 - **Purpose:** Like GET, but returns only headers (no body).
-    
 - **Use case:** Check if a resource exists or test speed
-    
 
 ---
 
 ### 🔎 **7. OPTIONS**
 
 - **Purpose:** Ask the server what methods are allowed for a URL.
-    
 - **Use case:** Preflight checks in CORS (Cross-Origin Resource Sharing)
 
 

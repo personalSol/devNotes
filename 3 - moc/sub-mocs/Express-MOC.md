@@ -21,6 +21,7 @@ here will be all the notes around Express - MOC
 - [[methods in express]]
 - [[middlewares]]
 - [[express utility function]]
+- [[express routes]]
 - 
 
 

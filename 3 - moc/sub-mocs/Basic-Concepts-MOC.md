@@ -18,7 +18,7 @@ here will be all the notes around Basic-Concepts-MOC which is a part of [[Concep
 - [[flowchart]]
 - [[library vs framework]]
 - [[number system]]
-- 
+- [[http]]
 ## advance
 
 - [[memory management in programming (stack and heap )]]

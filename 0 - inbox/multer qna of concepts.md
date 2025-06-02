@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-02T11:08
-updated: 2025-06-02T11:08
+updated: 2025-06-02T14:36
 ---
 ---
 
@@ -57,6 +57,26 @@ updated: 2025-06-02T11:08
   - `memoryStorage`
 
 ---
+
+### 🔍 Here's why we don't export `storage` directly:
+
+The `storage` object is just a **configuration** — it's **not usable on its own**.
+
+The real thing you need is the `upload` middleware:
+
+```js
+const upload = multer({ storage });
+```
+
+This `upload` object is the **Multer middleware function** you can use in your routes like:
+
+```js
+app.post('/upload', upload.single('file'), (req, res) => {
+  res.send('File uploaded!');
+});
+```
+
+If you export just the `storage`, you'd still need to wrap it with `multer({ storage })` **again** in every file where you want to use it — which defeats the purpose of centralizing the config.
 
 ### ✅ Summary Table
 
