@@ -205,7 +205,7 @@
     "0 - inbox/jwt - refresh token.md": "70f69bb981af3efba8fe3aae9309b87888bda9c76ebe52f535545b4e8fceb929",
     "0 - inbox/access vs refresh token.md": "b0bc42b58896ce916b6244e188c3b9323899614a028dbc40a7f2930163a80dd5",
     "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md": "0d2d7cfbe09acf3b2746f0306f40d98ad0c3e1c8ec8e933c7efff2a06c7aaeb9",
-    "1 - notes/c. tools/node js/npm packages for web dev.md": "b64ae50fb32c65db60be54a0f60ae380a60c668f5e62d3bedaba1b59ef3d2605",
+    "1 - notes/c. tools/node js/npm packages for web dev.md": "0576d2975c4ce8313feeb7c1d32efe116e446a25bf9d4388af10e94e54a45c7f",
     "0 - inbox/ai - using llm in node.md": "d932306907e1b6e5a6601590824ccf08e1a3ba40bcab42ded4c6aa43a0ef13e8",
     "0 - inbox/authentication - entire stateless process.md": "29d75234d21b19f654de5c6bf96370ab39c244f7fb4c07a2bd85b166dbbfd40b",
     "0 - inbox/stateful authentication basic.md": "132c3b106aba39ef145fdf26b4700c52957831df9ac2e2aabd146a8db044ff7f",
@@ -213,6 +213,8 @@
     "0 - inbox/stateful auth - how to transfer session id.md": "e2280729863f4334f731b30de1fff44ade7fbb91d0466a66727295fb691545ea",
     "0 - inbox/mongoose schema methods.md": "538adcbd5906e89f0609ab51da96bed831f95741190afc45d6fedc4461cf67bd",
     "0 - inbox/generates a JWT tokens.md": "50d1690ba2c68db1c1c41466d7bc34f23ba40cb7732084175028ac7bf0becabf",
-    "0 - inbox/jwt secret keys.md": "18b1f6e463dcf800a494b862fed55fd104e41b588bb26e4fb49d94ae14ce711d"
+    "0 - inbox/jwt secret keys.md": "18b1f6e463dcf800a494b862fed55fd104e41b588bb26e4fb49d94ae14ce711d",
+    "0 - inbox/node file handling and uploading.md": "25252ac1c2612afc1689f3be9b5db9e72cf34b2f7d3a43d9b76496dc0f4c9ba1",
+    "0 - inbox/multer.md": "24ab4387977253c6aeb7da63130210106ac16d9968c67b3994b95600775005a9"
   }
 }

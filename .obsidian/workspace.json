@@ -20,13 +20,67 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "3 - moc/sub-mocs/Node-JS-MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Node-JS-MOC"
+            }
+          },
+          {
+            "id": "21cf8d1ab9ab940a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "node file handling and uploading",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/node file handling and uploading.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"node file handling and uploading\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":16},\"to\":{\"line\":9,\"ch\":16}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/multer.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "multer"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -129,6 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "0 - inbox/multer.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +211,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of multer"
             }
           }
         ]
@@ -189,12 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "0 - inbox/multer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of multer"
             }
           },
           {
@@ -401,8 +457,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "2506bcdf5e6936b2",
+  "active": "21cf8d1ab9ab940a",
   "lastOpenFiles": [
+    "0 - inbox/node file handling and uploading.md",
+    "0 - inbox/multer.md",
+    "1 - notes/c. tools/node js/npm packages for web dev.md",
+    "3 - moc/sub-mocs/Node-JS-MOC.md",
+    "1 - notes/i. frameworks/express/utility function ApiError.md",
+    "1 - notes/b. languages/javascript/cjs vs esm.md",
     "0 - inbox/generates a JWT tokens.md",
     "0 - inbox/jwt verifying.md",
     "0 - inbox/entire authentical logic in simple words.md",
@@ -423,12 +485,6 @@
     "0 - inbox/stateful auth.md",
     "0 - inbox/stateful authentication basic.md",
     "0 - inbox/stateless authentication.md",
-    "1 - notes/z. others/Websites and Resources.md",
-    "0 - inbox/ai - using llm in node.md",
-    "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md",
-    "3 - moc/AI-ML-MOC.md",
-    "1 - notes/c. tools/node js/npm packages for web dev.md",
-    "1 - notes/e. ai/ai models basics.md",
     "98 - attachments/Pasted image 20250601140028.png",
     "98 - attachments/Pasted image 20250531103955.png",
     "98 - attachments/Pasted image 20250531103809.png",

@@ -16,8 +16,6 @@ here will be all the notes around Node-JS-MOC
 
 - [[about node-js]]
 - [[cjs vs esm]]
-- 
-- 
 - [[node commands]]
 - 
 - [[npm packages for web dev]]
@@ -28,6 +26,7 @@ here will be all the notes around Node-JS-MOC
 ## advance
 
 - [[node global object]]
+- [[node file handling and uploading]]
 - 
 
 
