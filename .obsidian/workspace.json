@@ -51,6 +51,48 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "express.static() method",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/i. frameworks/express/express.static() method.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"express.static() method\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "multer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/multer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"multer\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":54},\"to\":{\"line\":19,\"ch\":54}},\"scroll\":0}"
+                },
+                {
+                  "title": "fs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/fs.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"fs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":128,\"ch\":0},\"to\":{\"line\":128,\"ch\":0}},\"scroll\":106.7093726793925}"
+                },
+                {
+                  "title": "npm packages for web dev",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/node js/npm packages for web dev.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"npm packages for web dev\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":5},\"to\":{\"line\":16,\"ch\":5}},\"scroll\":3.1792207197709517}"
+                },
+                {
+                  "title": "fs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/fs.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"fs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":3.5220779815277496}"
+                },
+                {
+                  "title": "npm packages for web dev",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/node js/npm packages for web dev.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"npm packages for web dev\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":2},\"to\":{\"line\":16,\"ch\":2}},\"scroll\":4.098701179801644}"
+                },
+                {
+                  "title": "multer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/multer.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"multer\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
                   "title": "node file handling and uploading",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/node file handling and uploading.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"node file handling and uploading\"}",
@@ -77,6 +119,105 @@
               },
               "icon": "lucide-file",
               "title": "multer"
+            }
+          },
+          {
+            "id": "1db5be2f8dd7328b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/multer code.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "multer code"
+            }
+          },
+          {
+            "id": "b5ed5800a3465f69",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/multer qna of concepts.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "multer qna of concepts"
+            }
+          },
+          {
+            "id": "2e5cb8c1a0ae5285",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/cloudinary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cloudinary"
             }
           }
         ],
@@ -131,7 +272,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "learn in public",
+                "query": "cloudinary",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -459,10 +600,19 @@
   },
   "active": "21cf8d1ab9ab940a",
   "lastOpenFiles": [
-    "0 - inbox/node file handling and uploading.md",
+    "0 - inbox/multer code.md",
     "0 - inbox/multer.md",
+    "0 - inbox/multer qna of concepts.md",
+    "1 - notes/i. frameworks/express/express.static() method.md",
+    "0 - inbox/cloudinary.md",
+    "0 - inbox/fs.md",
+    "0 - inbox/file unlinking in OS.md",
     "1 - notes/c. tools/node js/npm packages for web dev.md",
+    "3 - moc/sub-mocs/Operating-System-MOC.md",
+    "3 - moc/Concepts-MOC.md",
+    "0 - inbox/node file handling and uploading.md",
     "3 - moc/sub-mocs/Node-JS-MOC.md",
+    "0 - inbox/jwt - refresh token.md",
     "1 - notes/i. frameworks/express/utility function ApiError.md",
     "1 - notes/b. languages/javascript/cjs vs esm.md",
     "0 - inbox/generates a JWT tokens.md",
@@ -476,15 +626,6 @@
     "1 - notes/h. library/bcrypt.md",
     "0 - inbox/jwt signature.md",
     "0 - inbox/authentication signup or register.md",
-    "0 - inbox/mongoose schema methods.md",
-    "1 - notes/h. library/mongoose/mongoose middlewares.md",
-    "3 - moc/sub-mocs/Mongoose-MOC.md",
-    "1 - notes/h. library/mongoose/mongoose schema and model.md",
-    "1 - notes/h. library/mongoose/model, schema and document concept.md",
-    "0 - inbox/stateful auth - how to transfer session id.md",
-    "0 - inbox/stateful auth.md",
-    "0 - inbox/stateful authentication basic.md",
-    "0 - inbox/stateless authentication.md",
     "98 - attachments/Pasted image 20250601140028.png",
     "98 - attachments/Pasted image 20250531103955.png",
     "98 - attachments/Pasted image 20250531103809.png",

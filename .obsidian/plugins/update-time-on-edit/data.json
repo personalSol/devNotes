@@ -117,7 +117,7 @@
     "1 - notes/h. library/cors/cors brief intro.md": "f9769088be8d3040ec0f4ed5b3c14d4bcb133a696fb38a522aeba4415933bf03",
     "1 - notes/h. library/cors/cors origin.md": "068c4dec9be98a07c7bae058411e69e85a262715e868718a7ad66d7c5579e18c",
     "1 - notes/i. frameworks/express/express basics.md": "72ad5f6d2a94fa132413745ae79425f0d8205022fead445a75b811e323dc9767",
-    "1 - notes/i. frameworks/express/express.static() method.md": "4fd32233a366491a8a0771442dce7a6692b71871b50e7fa3560a2d197f754975",
+    "1 - notes/i. frameworks/express/express.static() method.md": "15f91e68d8b48fea994ee00d23566c6476649f50607861d777ca7c3e4c62892b",
     "1 - notes/i. frameworks/express/methods in express.md": "950d3464efb3a85934d87497825bf46d08349bea70f85cffd3bee51ad0779ba5",
     "1 - notes/i. frameworks/express/express.urlencoded().md": "27c2b1b323ed005fa1238a56a510ab1d3297ef23f859ec39ae3834af2998cd2e",
     "1 - notes/i. frameworks/express/express app methods.md": "21193e04051346e193b68c3b8e037f7ff8d110424442a136ed84f07822d56914",
@@ -205,7 +205,7 @@
     "0 - inbox/jwt - refresh token.md": "70f69bb981af3efba8fe3aae9309b87888bda9c76ebe52f535545b4e8fceb929",
     "0 - inbox/access vs refresh token.md": "b0bc42b58896ce916b6244e188c3b9323899614a028dbc40a7f2930163a80dd5",
     "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md": "0d2d7cfbe09acf3b2746f0306f40d98ad0c3e1c8ec8e933c7efff2a06c7aaeb9",
-    "1 - notes/c. tools/node js/npm packages for web dev.md": "0576d2975c4ce8313feeb7c1d32efe116e446a25bf9d4388af10e94e54a45c7f",
+    "1 - notes/c. tools/node js/npm packages for web dev.md": "f439da7cdd2dda6d106f0f02f6124c559afbf43922233b30d54dc41c98068398",
     "0 - inbox/ai - using llm in node.md": "d932306907e1b6e5a6601590824ccf08e1a3ba40bcab42ded4c6aa43a0ef13e8",
     "0 - inbox/authentication - entire stateless process.md": "29d75234d21b19f654de5c6bf96370ab39c244f7fb4c07a2bd85b166dbbfd40b",
     "0 - inbox/stateful authentication basic.md": "132c3b106aba39ef145fdf26b4700c52957831df9ac2e2aabd146a8db044ff7f",
@@ -214,7 +214,12 @@
     "0 - inbox/mongoose schema methods.md": "538adcbd5906e89f0609ab51da96bed831f95741190afc45d6fedc4461cf67bd",
     "0 - inbox/generates a JWT tokens.md": "50d1690ba2c68db1c1c41466d7bc34f23ba40cb7732084175028ac7bf0becabf",
     "0 - inbox/jwt secret keys.md": "18b1f6e463dcf800a494b862fed55fd104e41b588bb26e4fb49d94ae14ce711d",
-    "0 - inbox/node file handling and uploading.md": "25252ac1c2612afc1689f3be9b5db9e72cf34b2f7d3a43d9b76496dc0f4c9ba1",
-    "0 - inbox/multer.md": "24ab4387977253c6aeb7da63130210106ac16d9968c67b3994b95600775005a9"
+    "0 - inbox/node file handling and uploading.md": "d3ccbf222fcc7c6eeb305531b158bdaad09623ccc307c613ce17995cb1549433",
+    "0 - inbox/multer.md": "a4deb4dd81fd8063ef4621789e20bc3fd13fe0f13d204784f6013b40a696a611",
+    "0 - inbox/fs.md": "21558e5ddf997aaf77e98352a813d9a24f81788f389c9a9f7d784891c9166db7",
+    "0 - inbox/cloudinary.md": "82f0114d7782eb9f7f3c999b6a80d0bb8924dd37612bb4b6706d91949da8af73",
+    "0 - inbox/file unlinking in OS.md": "6d6da03ac6d7e7ac759a3af405b1079fceb98c4f153b8493272df94ad7d84cd4",
+    "0 - inbox/multer qna of concepts.md": "9fcaccb10ef5923de2f84dfaf4ebb5798e137a858901de126841b264b82ed52b",
+    "0 - inbox/multer code.md": "8ae831518a29dfa14d09494dfb3c8b49f511c3eb6c47c72c1b3f2262978ebcce"
   }
 }

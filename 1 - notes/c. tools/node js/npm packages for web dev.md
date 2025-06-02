@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-05-17T10:09
-updated: 2025-06-01T23:11
+updated: 2025-06-02T08:51
 ---
 ---
 
@@ -14,6 +14,7 @@ here are all the npm packages
 
 ####  internal packages
 - [[path]]
+- [[fs]]
 - 
 
 ####  external packages
@@ -28,6 +29,7 @@ here are all the npm packages
 	- [[bcrypt]]
 	- [[jwt]]
 	- [[multer]]
+	- [[cloudinary]]
 	- 
 - **dev dependencies**
 	- [[nodemon]]

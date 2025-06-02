@@ -4,9 +4,14 @@ related-links:
   - "[[Express-MOC]]"
   - "[[methods in express]]"
 created: 2025-05-17T12:26
-updated: 2025-05-29T11:29
+updated: 2025-06-02T10:40
 ---
 ---
+
+
+> [!summary] in short
+> dekhh aisa hota hai ye static files kisi or file see attach hoti hai and inkoo browsserr requesst krtaa hai taki woh better perform kr paye. like hum koi ejs page bhej rahe hai and uske saath css file attach kri hai, then browser css file ke liye request fire krega. abb humne usko provide krne ke liye koi middlware toh set kra hai nhi. PR PR PR, humne bol rakha hai express.static('public') jiska matlab hai akar koi bhi request ati hai asking for this file. then we tell express ki dedo isko and ye dena bilkul safe hai and we give you permission aise krke. 
+
 
 #### basic
 - The `static` method in Express is used to serve static files, like images, CSS files, JavaScript, and HTML files, directly from a specified folder

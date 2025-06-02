@@ -14,9 +14,8 @@ here will be all the notes around Operating-System-MOC
 
 ### basic
 
-
 - [[OS basics]]
-- 
+- [[file unlinking in OS]]
 
 ### advance
 
