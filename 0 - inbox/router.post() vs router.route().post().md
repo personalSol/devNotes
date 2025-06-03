@@ -2,11 +2,11 @@
 status: newBorn
 related-links: 
 created: 2025-06-02T19:13
-updated: 2025-06-02T19:13
+updated: 2025-06-03T01:05
 ---
----
+ ---
 
-### **Q: What is the difference between `router.post()` and `router.route().post()`?**  
+### **Q: What is the difference between `router.post()` and `router.route().post()`?**   
 **A:**  
 - `router.post(path, handler)` is a direct way to handle a `POST` request to a specific path.  
 - `router.route(path).post(handler)` is part of a **chained method** for handling multiple HTTP verbs on the same route (`GET`, `POST`, `PUT`, `DELETE`, etc.).
