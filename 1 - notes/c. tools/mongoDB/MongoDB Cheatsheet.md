@@ -3,14 +3,8 @@ status: newBorn
 related-links:
   - "[[Cheatsheets-MOC]]"
 created: 2025-04-05T12:07
-updated: 2025-04-11T10:40
+updated: 2025-06-03T16:14
 ---
----
-
-# 🗒️ MongoDB Notes Cheatsheet (With Simple Explanations)
-
-A beginner-friendly guide for common MongoDB commands, queries, and concepts.
-
 ---
 
 ## 🧱 Basics

@@ -2,12 +2,13 @@
 status: newBorn
 related-links: []
 created: 2025-04-25T16:00
-updated: 2025-04-25T16:03
+updated: 2025-06-03T12:32
 ---
 ---
-
+	
 
 #### array methods
+---
 - `<array>.map` : used to iterate arrays 
 **Syntax:**
 ```js
@@ -28,6 +29,9 @@ const newNums = myNumers
 
 console.log(newNums);
 ```
+
+- [[js array .some()]]
+- 
 
 
 # Reference

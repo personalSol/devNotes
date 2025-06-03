@@ -10,9 +10,11 @@ it will have all the notes around JS connected to it.
 - [[code copy block note]]
 - 
 
-## got to know
+### extras ( not that imp but still here )
 
 - [[JS runtime environment]]
+- [[js - optional chaining]]
+- 
 ## Basic
 
 
@@ -25,6 +27,7 @@ it will have all the notes around JS connected to it.
 - [[js - objects]]
 - [[js higher order function]]
 - [[js - functions]]
+- 
 
 
 ### mid

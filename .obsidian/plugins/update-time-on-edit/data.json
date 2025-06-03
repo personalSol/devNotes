@@ -49,7 +49,7 @@
     "1 - notes/b. languages/cpp/cpp enum.md": "032688f6b365d8312997486807f91764307500ce4781c309f94b43b0ed6fc737",
     "1 - notes/b. languages/cpp/cpp enum class.md": "9075bfac070670776df2c3694af4c63caffc377dfc47cdf91866a9a8b55dc70d",
     "1 - notes/b. languages/cpp/cpp objects.md": "225c8fa48be7991ba72ef3842c66d03e91b976bc946ddbc154b8f9e5d04a3843",
-    "1 - notes/b. languages/javascript/js throw error.md": "7733c152c251aae53b96c7e4eb374013ddc755a8b83ea21feb2d7135ce2de0ab",
+    "1 - notes/b. languages/javascript/js throw error.md": "22096927892745fb80e0bb8966f946b8ce50e0fb134d80ea80d8c7a85a56fce5",
     "1 - notes/b. languages/javascript/js execution context.md": "8224d63820fee2e180b41ea4b022c6d2deb5e873ddb2e9ee0391e4b1fcb2aabc",
     "1 - notes/b. languages/javascript/js loops.md": "b4484e5540215801fb6d56c86c4c7e61173f344e96605ffc946deaddfdb621b4",
     "1 - notes/b. languages/javascript/js map loop.md": "d6c2f6dcf2358ae95ca87764b7c443ab84e7c71784289168f69abbe6fb0b7761",
@@ -225,6 +225,14 @@
     "0 - inbox/http.md": "8ab2f0259456d35dab7a382145ff1ba6cc899bc46a174de1ff01e271af1ac9fa",
     "0 - inbox/http headers.md": "b936b611ccebb9881114256af88503a08a0e4b9ae3536ff8e576bb22f705df57",
     "0 - inbox/express routes.md": "b5c101af6c704c29a451629bc59611d8a6291ae8e014b7b6aee382867274538d",
-    "0 - inbox/router.post() vs router.route().post().md": "f286e029da40287df1006619a91047b1f753833d0110703804aa962eed8682c0"
+    "0 - inbox/router.post() vs router.route().post().md": "f286e029da40287df1006619a91047b1f753833d0110703804aa962eed8682c0",
+    "1 - notes/b. languages/javascript/js - array.md": "f6bb11a395c7ab9b257677aa46c97fbc2d625ced868058fb86eaf800f4ef688f",
+    "0 - inbox/js array .some().md": "f5c36696456f1c70dfdc4ad10fa31f7ef1228ca2553ffbed611b556342a6fc65",
+    "1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md": "dd449f8ae146fb97af995ed4a237ab767d130332679ea072d873ca1e45717f3a",
+    "1 - notes/b. languages/javascript/JS runtime environment.md": "3dec74e697809710bdd2058cafc0094b23a5fdc822f020e6f83bcb04d8163624",
+    "0 - inbox/js - optional chaining.md": "1edab2a07e3b1117ef8bb93a873c378b21d9e5e9302eec179d6115e772238f82",
+    "0 - inbox/mongoose save data on database.md": "6dc52b56a3d723465190e1e00e46d198431f85e60bb9d4c69f659a4011acd21b",
+    "0 - inbox/mongoose different ways.md": "1764508d71d31491d347b9a45995ab90fa55940d0081876e4d52512e8b783e06",
+    "0 - inbox/mongoose to select or deselect fields.md": "8d2eb2f9c8249414a42a2c3ccc9f547aac36320f2883ff45af1e53b898c7a0d3"
   }
 }

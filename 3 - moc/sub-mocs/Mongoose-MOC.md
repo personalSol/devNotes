@@ -6,7 +6,7 @@ here will be all the notes around Mongoose-MOC which is a part of main MOC - [[M
 
 ### extras ( not that imp but still here )
 
-- 
+- [[Mongoose Cheatsheet]]
 
 ### basic
 
@@ -17,6 +17,8 @@ here will be all the notes around Mongoose-MOC which is a part of main MOC - [[M
 - [[mongoose schema methods]]
 - [[mongoose connecting to mongodb]]
 - [[mongoose middlewares]]
+- [[mongoose save data on database]]
+- [[mongoose different ways]]
 - 
 
 
