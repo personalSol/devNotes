@@ -109,7 +109,7 @@
     "1 - notes/h. library/mongoose/mongodb things to remember.md": "97352356584e43ac5435a097c3b8d389eaa154e67eed092f70792a1796d6af32",
     "1 - notes/h. library/mongoose/mongoose middlewares.md": "9cfe4099d257a486e2438236452b116d80869404084bd801e41f7859ff16f68e",
     "1 - notes/h. library/mongoose/mongoose-aggregate-paginate-v2.md": "8e1e5b020288b248abada8951c1abac6563e5e0717b7b78f26eaa407759d3351",
-    "1 - notes/h. library/cookie-parser.md": "f06b615aabcaf39261c03b994a345b68acbbf79686f756219e5b614b389d91e9",
+    "1 - notes/h. library/cookie-parser.md": "eba11c1b38fe019dc0700fbf08dd4c3294c06cccb9f9d419c8d5a344fce57292",
     "1 - notes/h. library/react/hooks - useEffect.md": "d1cff526ea2c89215942c8707fe7c5c2feab89163e55a29d859739a4d230596d",
     "1 - notes/h. library/dotenv.md": "6ad345447ed7c62dec5d52659c34795c0eafba505f3fae27cb03682f2001a8a9",
     "1 - notes/h. library/cors/cors solutions.md": "73d426b28a74e7150130ecb27085680aa5bda300152dcc8afef5a0a871b9ee5a",
@@ -211,7 +211,7 @@
     "0 - inbox/stateful authentication basic.md": "132c3b106aba39ef145fdf26b4700c52957831df9ac2e2aabd146a8db044ff7f",
     "0 - inbox/stateful auth.md": "3a28bf327cfb40e61843d2befe250ecc54ea8aafe00801d9d1f91fd1c349a1bc",
     "0 - inbox/stateful auth - how to transfer session id.md": "e2280729863f4334f731b30de1fff44ade7fbb91d0466a66727295fb691545ea",
-    "0 - inbox/mongoose schema methods.md": "538adcbd5906e89f0609ab51da96bed831f95741190afc45d6fedc4461cf67bd",
+    "0 - inbox/mongoose schema methods.md": "fd63c56ee55b73cc329bc4a5c8522caf4d8ffc39c9004d1250fdd7fbb7924ce2",
     "0 - inbox/generates a JWT tokens.md": "50d1690ba2c68db1c1c41466d7bc34f23ba40cb7732084175028ac7bf0becabf",
     "0 - inbox/jwt secret keys.md": "18b1f6e463dcf800a494b862fed55fd104e41b588bb26e4fb49d94ae14ce711d",
     "0 - inbox/node file handling and uploading.md": "d3ccbf222fcc7c6eeb305531b158bdaad09623ccc307c613ce17995cb1549433",
@@ -233,6 +233,8 @@
     "0 - inbox/js - optional chaining.md": "1edab2a07e3b1117ef8bb93a873c378b21d9e5e9302eec179d6115e772238f82",
     "0 - inbox/mongoose save data on database.md": "6dc52b56a3d723465190e1e00e46d198431f85e60bb9d4c69f659a4011acd21b",
     "0 - inbox/mongoose different ways.md": "1764508d71d31491d347b9a45995ab90fa55940d0081876e4d52512e8b783e06",
-    "0 - inbox/mongoose to select or deselect fields.md": "8d2eb2f9c8249414a42a2c3ccc9f547aac36320f2883ff45af1e53b898c7a0d3"
+    "0 - inbox/mongoose to select or deselect fields.md": "8d2eb2f9c8249414a42a2c3ccc9f547aac36320f2883ff45af1e53b898c7a0d3",
+    "0 - inbox/mongoose update docs.md": "991ff6e3334bb8c860e2128467ae996ce20cec6dd5d1de8202f0dbd48382c501",
+    "0 - inbox/cookies.md": "ea6b0b7172278cad403d74a6b545bb7abfa92dca4342aa513d66eb581a3cdf31"
   }
 }

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8edd0018cc1ac58d",
+        "id": "8c4dd86fc6875530",
         "type": "tabs",
         "children": [
           {
-            "id": "bd564af479a8c8b8",
+            "id": "d98781f4a9fa7edb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,23 +18,23 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Mongoose-MOC",
+                  "title": "Node-JS-MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Mongoose-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mongoose-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":13},\"to\":{\"line\":8,\"ch\":13}},\"scroll\":0.0609523818606422}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Node-JS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Node-JS-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":0},\"to\":{\"line\":23,\"ch\":0}},\"scroll\":15.03333338101705}"
                 },
                 {
-                  "title": "JS-MOC",
+                  "title": "Web-Dev-MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/JS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"JS-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":24},\"to\":{\"line\":15,\"ch\":24}},\"scroll\":1.7836066074058659}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Web-Dev-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Web-Dev-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":15.43333331743876}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
+                "file": "3 - moc/sub-mocs/Express-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,11 +49,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mongoose Cheatsheet"
+              "title": "Express-MOC"
             }
           },
           {
-            "id": "2805ccb7aadf199a",
+            "id": "9fdc93b1e066365f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -67,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "97 - templates/tmp-moc.md",
+                "file": "0 - inbox/cookies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,11 +82,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tmp-moc"
+              "title": "cookies"
             }
           },
           {
-            "id": "d49034ad0438c179",
+            "id": "9faaa1695b215f52",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -100,7 +100,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/MongoDB-MOC.md",
+                "file": "1 - notes/h. library/cookie-parser.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -115,116 +115,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MongoDB-MOC"
-            }
-          },
-          {
-            "id": "3f82d3dac0f4355e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/Mongoose-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mongoose-MOC"
-            }
-          },
-          {
-            "id": "092eeeed06b39322",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "mongoose different ways",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/mongoose different ways.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mongoose different ways\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":39},\"to\":{\"line\":8,\"ch\":39}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/mongoose to select or deselect fields.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "mongoose to select or deselect fields"
-            }
-          },
-          {
-            "id": "3c23c8ce35f98081",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/mongoose save data on database.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "mongoose save data on database"
+              "title": "cookie-parser"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -327,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/mongoose to select or deselect fields.md",
+                "file": "0 - inbox/cookies.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -355,7 +250,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of mongoose to select or deselect fields"
+              "title": "Graph of cookies"
             }
           }
         ]
@@ -388,13 +283,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/mongoose to select or deselect fields.md",
+                "file": "0 - inbox/cookies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of mongoose to select or deselect fields"
+              "title": "Outline of cookies"
             }
           },
           {
@@ -601,17 +496,25 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "092eeeed06b39322",
+  "active": "9fdc93b1e066365f",
   "lastOpenFiles": [
-    "0 - inbox/mongoose different ways.md",
-    "0 - inbox/mongoose to select or deselect fields.md",
-    "3 - moc/sub-mocs/Mongoose-MOC.md",
+    "1 - notes/h. library/cookie-parser.md",
+    "0 - inbox/cookies.md",
+    "3 - moc/sub-mocs/Express-MOC.md",
+    "3 - moc/sub-mocs/Node-JS-MOC.md",
+    "3 - moc/Web-Dev-MOC.md",
+    "0 - inbox/session vs cookies.md",
     "0 - inbox/mongoose save data on database.md",
+    "3 - moc/sub-mocs/Mongoose-MOC.md",
+    "0 - inbox/mongoose update docs.md",
     "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
+    "0 - inbox/mongoose schema methods.md",
+    "97 - templates/tmp-moc.md",
     "3 - moc/sub-mocs/MongoDB-MOC.md",
+    "0 - inbox/mongoose to select or deselect fields.md",
+    "0 - inbox/mongoose different ways.md",
     "3 - moc/sub-mocs/JS-MOC.md",
     "0 - inbox/js - optional chaining.md",
-    "97 - templates/tmp-moc.md",
     "1 - notes/b. languages/javascript/JS runtime environment.md",
     "0 - inbox/js array .some().md",
     "1 - notes/b. languages/javascript/js - array.md",
@@ -619,16 +522,8 @@
     "1 - notes/b. languages/javascript/js throw error.md",
     "4 - sources/yt/MongoDB by Simpli Learn Dev.md",
     "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
-    "1 - notes/h. library/cookie-parser.md",
     "0 - inbox/express routes.md",
     "0 - inbox/router.post() vs router.route().post().md",
-    "3 - moc/sub-mocs/Express-MOC.md",
-    "1 - notes/i. frameworks/express/express.json() method.md",
-    "1 - notes/h. library/cors/cors origin.md",
-    "1 - notes/h. library/cors/cors solutions.md",
-    "1 - notes/i. frameworks/express/proxy and cors.md",
-    "1 - notes/h. library/cors/cors.md",
-    "1 - notes/h. library/cors/cors brief intro.md",
     "98 - attachments/Pasted image 20250602152500.png",
     "98 - attachments/Pasted image 20250602152025.png",
     "98 - attachments/Pasted image 20250602151157.png",

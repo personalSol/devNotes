@@ -22,7 +22,7 @@ here will be all the notes around Express - MOC
 - [[middlewares]]
 - [[express utility function]]
 - [[express routes]]
-- 
+- [[cookies]]
 
 
 ### advance

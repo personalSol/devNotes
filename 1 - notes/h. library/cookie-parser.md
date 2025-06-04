@@ -2,9 +2,11 @@
 status: newBorn
 related-links: 
 created: 2025-05-28T21:03
-updated: 2025-05-28T21:03
+updated: 2025-06-04T10:12
 ---
 ---
+
+> ✅ **To read (parse) cookies sent by the client in the HTTP request header** and make them easily accessible in your Express app via `req.cookies`.
 
 `cookie-parser` is a middleware used to **parse cookies** attached to the client request object. It makes it easy to read cookies sent by the browser.
 

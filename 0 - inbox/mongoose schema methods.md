@@ -2,9 +2,11 @@
 status: newBorn
 related-links: 
 created: 2025-06-01T18:43
-updated: 2025-06-01T18:43
+updated: 2025-06-04T08:26
 ---
 ---
+
+> remember:: mongoose custom schema methods are used on document object and not on schema itself. 
 
 In Mongoose, `schema.methods` lets you define **instance methods**—custom methods that can be called on individual documents created from a model.
 
