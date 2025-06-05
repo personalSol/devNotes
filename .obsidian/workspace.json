@@ -117,9 +117,42 @@
               "icon": "lucide-file",
               "title": "cookie-parser"
             }
+          },
+          {
+            "id": "8e30cd849af4a5da",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/cookie parser - to clear cookie.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cookie parser - to clear cookie"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -222,7 +255,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/cookies.md",
+                "file": "0 - inbox/cookie parser - to clear cookie.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -250,7 +283,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cookies"
+              "title": "Graph of cookie parser - to clear cookie"
             }
           }
         ]
@@ -283,13 +316,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/cookies.md",
+                "file": "0 - inbox/cookie parser - to clear cookie.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cookies"
+              "title": "Outline of cookie parser - to clear cookie"
             }
           },
           {
@@ -496,8 +529,9 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "9fdc93b1e066365f",
+  "active": "8e30cd849af4a5da",
   "lastOpenFiles": [
+    "0 - inbox/cookie parser - to clear cookie.md",
     "1 - notes/h. library/cookie-parser.md",
     "0 - inbox/cookies.md",
     "3 - moc/sub-mocs/Express-MOC.md",
@@ -523,7 +557,6 @@
     "4 - sources/yt/MongoDB by Simpli Learn Dev.md",
     "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
     "0 - inbox/express routes.md",
-    "0 - inbox/router.post() vs router.route().post().md",
     "98 - attachments/Pasted image 20250602152500.png",
     "98 - attachments/Pasted image 20250602152025.png",
     "98 - attachments/Pasted image 20250602151157.png",

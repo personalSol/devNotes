@@ -109,7 +109,7 @@
     "1 - notes/h. library/mongoose/mongodb things to remember.md": "97352356584e43ac5435a097c3b8d389eaa154e67eed092f70792a1796d6af32",
     "1 - notes/h. library/mongoose/mongoose middlewares.md": "9cfe4099d257a486e2438236452b116d80869404084bd801e41f7859ff16f68e",
     "1 - notes/h. library/mongoose/mongoose-aggregate-paginate-v2.md": "8e1e5b020288b248abada8951c1abac6563e5e0717b7b78f26eaa407759d3351",
-    "1 - notes/h. library/cookie-parser.md": "eba11c1b38fe019dc0700fbf08dd4c3294c06cccb9f9d419c8d5a344fce57292",
+    "1 - notes/h. library/cookie-parser.md": "c71851ac6b0838885fca11758b9d75fb2f88d24894ddf1353362d0e688e67e2e",
     "1 - notes/h. library/react/hooks - useEffect.md": "d1cff526ea2c89215942c8707fe7c5c2feab89163e55a29d859739a4d230596d",
     "1 - notes/h. library/dotenv.md": "6ad345447ed7c62dec5d52659c34795c0eafba505f3fae27cb03682f2001a8a9",
     "1 - notes/h. library/cors/cors solutions.md": "73d426b28a74e7150130ecb27085680aa5bda300152dcc8afef5a0a871b9ee5a",
@@ -235,6 +235,7 @@
     "0 - inbox/mongoose different ways.md": "1764508d71d31491d347b9a45995ab90fa55940d0081876e4d52512e8b783e06",
     "0 - inbox/mongoose to select or deselect fields.md": "8d2eb2f9c8249414a42a2c3ccc9f547aac36320f2883ff45af1e53b898c7a0d3",
     "0 - inbox/mongoose update docs.md": "991ff6e3334bb8c860e2128467ae996ce20cec6dd5d1de8202f0dbd48382c501",
-    "0 - inbox/cookies.md": "ea6b0b7172278cad403d74a6b545bb7abfa92dca4342aa513d66eb581a3cdf31"
+    "0 - inbox/cookies.md": "ea6b0b7172278cad403d74a6b545bb7abfa92dca4342aa513d66eb581a3cdf31",
+    "0 - inbox/cookie parser - to clear cookie.md": "839e85f20b6e5b51f94cc849a0bdb3881fda10424ddaabd61eb5dfc76d2455aa"
   }
 }
