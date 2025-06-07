@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Cpp-MOC]]"
 created: 2025-05-12T16:58
-updated: 2025-05-16T00:27
+updated: 2025-06-07T10:02
 ---
 ---
 
@@ -13,6 +13,7 @@ Stl is divided into 4 parts:
 
 - algorithms
 - containers
+	- containers like vectors, set, queue, etc
 - functions
 - iterators
 

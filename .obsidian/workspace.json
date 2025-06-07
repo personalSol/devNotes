@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "54c9e5081ed78fe8",
+        "id": "0d4fa8016e1f5a8f",
         "type": "tabs",
         "children": [
           {
-            "id": "a607326f931f6308",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "multer qna of concepts",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/multer qna of concepts.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"multer qna of concepts\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":19},\"to\":{\"line\":56,\"ch\":19}},\"scroll\":56.949368284329665}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/multer.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "multer"
-            }
-          },
-          {
-            "id": "2a16d9da3a426061",
+            "id": "c1914de84dbd2b8b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -57,56 +18,29 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Express-MOC",
+                  "title": "ai - how LLM works",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Express-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Express-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":15},\"to\":{\"line\":23,\"ch\":15}},\"scroll\":8.983333110809326}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai - how LLM works\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":5.641558560458097}"
                 },
                 {
-                  "title": "multer uploading single vs multiple files",
+                  "title": "MOC-LIST",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/multer uploading single vs multiple files.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"multer uploading single vs multiple files\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":7.266666412353516}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/express routes.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "express routes"
-            }
-          },
-          {
-            "id": "6f92f9d5f8a5874b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/MOC-LIST.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOC-LIST\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":0.5508196471167393}"
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "AI-ML-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI-ML-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI-ML-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":2},\"to\":{\"line\":20,\"ch\":2}},\"scroll\":15.133333921432495}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/express route params.md",
+                "file": "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -121,11 +55,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "express route params"
+              "title": "lect 3 - more about llms"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/express route params.md",
+                "file": "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of express route params"
+              "title": "Graph of lect 3 - more about llms"
             }
           }
         ]
@@ -289,13 +222,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/express route params.md",
+                "file": "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of express route params"
+              "title": "Outline of lect 3 - more about llms"
             }
           },
           {
@@ -502,14 +435,24 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "6f92f9d5f8a5874b",
+  "active": "c1914de84dbd2b8b",
   "lastOpenFiles": [
-    "0 - inbox/express route params.md",
+    "98 - attachments/Pasted image 20250607120329.png",
+    "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md",
+    "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
+    "3 - moc/MOC-LIST.md",
+    "3 - moc/Programming-Language-Concepts-MOC.md",
+    "3 - moc/AI-ML-MOC.md",
+    "1 - notes/b. languages/cpp/cpp - pairs.md",
+    "1 - notes/b. languages/cpp/cpp stl.md",
+    "1 - notes/b. languages/cpp/cpp - things to remember.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
+    "0 - inbox/multer.md",
     "0 - inbox/express routes.md",
+    "0 - inbox/express route params.md",
     "3 - moc/sub-mocs/Express-MOC.md",
     "0 - inbox/multer uploading single vs multiple files.md",
     "0 - inbox/multer code.md",
-    "0 - inbox/multer.md",
     "0 - inbox/multer qna of concepts.md",
     "0 - inbox/mongodb aggregation pipelines intro.md",
     "0 - inbox/mongodb aggregation lookup.md",
@@ -520,21 +463,11 @@
     "0 - inbox/cloudinary.md",
     "1 - notes/h. library/mongoose/mongoose-aggregate-paginate-v2.md",
     "1 - notes/a. concepts/sd - aggregation.md",
-    "3 - moc/sub-mocs/Mongoose-MOC.md",
     "98 - attachments/Recording 20250606181826.m4a",
-    "0 - inbox/mongoose subscription model explaination.md",
     "98 - attachments/Recording 20250606182000.m4a",
     "98 - attachments/Recording 20250606181921.m4a",
     "98 - attachments/Recording 20250606181645.m4a",
     "98 - attachments/Recording 20250606181608.m4a",
-    "1 - notes/h. library/mongoose/mongoose schema and model.md",
-    "0 - inbox/code tasks.md",
-    "0 - inbox/multer req.files vs req.file.md",
-    "1 - notes/h. library/mongoose/mongoose things to remember.md",
-    "0 - inbox/cookies.md",
-    "2 - projects/Password Manager.md",
-    "0 - inbox/mongoose to select or deselect fields.md",
-    "0 - inbox/mongoose different ways.md",
     "98 - attachments/Pasted image 20250602152500.png",
     "98 - attachments/Pasted image 20250602152025.png",
     "98 - attachments/Pasted image 20250602151157.png",
