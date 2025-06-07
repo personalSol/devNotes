@@ -2,9 +2,12 @@
 status: newBorn
 related-links: 
 created: 2025-06-04T10:28
-updated: 2025-06-04T10:50
+updated: 2025-06-06T12:37
 ---
 ---
+
+> my view: cookie is just a box which stores things. we can set cookies by res.cookie("valueName", value, options) and fetch them by req.cookies.valueName. pretty simple aye
+
 
 ### Q: What is a cookie?
 A small piece of data stored on the client's browser, used to maintain sessions, track activity, or store temporary info.

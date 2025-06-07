@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-02T08:51
-updated: 2025-06-02T09:29
+updated: 2025-06-06T15:48
 ---
 ---
 
@@ -12,6 +12,7 @@ updated: 2025-06-02T09:29
 - first we have to config it with credentials which we get from the cloudinary website
 - then we use it using uploader.upload
 - we have also used [[fs#🔹 fs unlinkSync]] to unlink/delete the file after successsful or unsuccessful completion of operation
+- `response.url` is used to get the url to upload on database
 
 ```js
 import { v2 as cloudinary } from "cloudinary";

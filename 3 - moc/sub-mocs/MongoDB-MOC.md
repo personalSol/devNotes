@@ -15,6 +15,7 @@ here will be all the notes around MongoDB-MOC which is a part of main MOC - [[MO
 - [[mongodb atlas basics]]
 - [[mongoose connecting to mongodb]]
 - [[mongosh commands]]
+- [[mongodb aggregation pipelines]]
 - 
 
 

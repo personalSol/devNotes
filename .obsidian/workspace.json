@@ -4,37 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "ca3a4ceb2e6700a6",
+        "id": "54c9e5081ed78fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "180571a41554cffa",
+            "id": "a607326f931f6308",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "multer qna of concepts",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/multer qna of concepts.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"multer qna of concepts\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":56,\"ch\":19},\"to\":{\"line\":56,\"ch\":19}},\"scroll\":56.949368284329665}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "mongoose different ways",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/mongoose different ways.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mongoose different ways\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":29},\"to\":{\"line\":8,\"ch\":29}}}"
-                },
-                {
-                  "title": "Mongoose-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Mongoose-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mongoose-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":19},\"to\":{\"line\":20,\"ch\":19}},\"scroll\":6.458333354405683}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/mongoose to select or deselect fields.md",
+                "file": "0 - inbox/multer.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,10 +43,89 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "mongoose to select or deselect fields"
+              "title": "multer"
+            }
+          },
+          {
+            "id": "2a16d9da3a426061",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Express-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Express-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Express-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":15},\"to\":{\"line\":23,\"ch\":15}},\"scroll\":8.983333110809326}"
+                },
+                {
+                  "title": "multer uploading single vs multiple files",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/multer uploading single vs multiple files.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"multer uploading single vs multiple files\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":7.266666412353516}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/express routes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "express routes"
+            }
+          },
+          {
+            "id": "6f92f9d5f8a5874b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/express route params.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "express route params"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -103,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Project/P",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/mongoose to select or deselect fields.md",
+                "file": "0 - inbox/express route params.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -183,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of mongoose to select or deselect fields"
+              "title": "Graph of express route params"
             }
           }
         ]
@@ -216,13 +289,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/mongoose to select or deselect fields.md",
+                "file": "0 - inbox/express route params.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of mongoose to select or deselect fields"
+              "title": "Outline of express route params"
             }
           },
           {
@@ -429,34 +502,39 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "180571a41554cffa",
+  "active": "6f92f9d5f8a5874b",
   "lastOpenFiles": [
-    "0 - inbox/mongoose different ways.md",
-    "3 - moc/sub-mocs/Mongoose-MOC.md",
-    "0 - inbox/mongoose update docs.md",
-    "0 - inbox/mongoose to select or deselect fields.md",
+    "0 - inbox/express route params.md",
+    "0 - inbox/express routes.md",
     "3 - moc/sub-mocs/Express-MOC.md",
+    "0 - inbox/multer uploading single vs multiple files.md",
+    "0 - inbox/multer code.md",
+    "0 - inbox/multer.md",
+    "0 - inbox/multer qna of concepts.md",
+    "0 - inbox/mongodb aggregation pipelines intro.md",
+    "0 - inbox/mongodb aggregation lookup.md",
+    "0 - inbox/mongodb aggregation pipelines.md",
+    "1 - notes/a. concepts/http methods.md",
+    "0 - inbox/mongodb aggregation pipeline operators.md",
     "3 - moc/sub-mocs/MongoDB-MOC.md",
-    "1 - notes/h. library/mongoose/mongosh commands.md",
-    "0 - inbox/postman.md",
+    "0 - inbox/cloudinary.md",
+    "1 - notes/h. library/mongoose/mongoose-aggregate-paginate-v2.md",
+    "1 - notes/a. concepts/sd - aggregation.md",
+    "3 - moc/sub-mocs/Mongoose-MOC.md",
+    "98 - attachments/Recording 20250606181826.m4a",
+    "0 - inbox/mongoose subscription model explaination.md",
+    "98 - attachments/Recording 20250606182000.m4a",
+    "98 - attachments/Recording 20250606181921.m4a",
+    "98 - attachments/Recording 20250606181645.m4a",
+    "98 - attachments/Recording 20250606181608.m4a",
+    "1 - notes/h. library/mongoose/mongoose schema and model.md",
+    "0 - inbox/code tasks.md",
+    "0 - inbox/multer req.files vs req.file.md",
+    "1 - notes/h. library/mongoose/mongoose things to remember.md",
     "0 - inbox/cookies.md",
-    "0 - inbox/express making new req properties.md",
-    "0 - inbox/cookie parser - to clear cookie.md",
-    "1 - notes/h. library/cookie-parser.md",
-    "3 - moc/sub-mocs/Node-JS-MOC.md",
-    "3 - moc/Web-Dev-MOC.md",
-    "0 - inbox/session vs cookies.md",
-    "0 - inbox/mongoose save data on database.md",
-    "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
-    "0 - inbox/mongoose schema methods.md",
-    "97 - templates/tmp-moc.md",
-    "3 - moc/sub-mocs/JS-MOC.md",
-    "0 - inbox/js - optional chaining.md",
-    "1 - notes/b. languages/javascript/JS runtime environment.md",
-    "0 - inbox/js array .some().md",
-    "1 - notes/b. languages/javascript/js - array.md",
-    "1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md",
-    "1 - notes/b. languages/javascript/js throw error.md",
+    "2 - projects/Password Manager.md",
+    "0 - inbox/mongoose to select or deselect fields.md",
+    "0 - inbox/mongoose different ways.md",
     "98 - attachments/Pasted image 20250602152500.png",
     "98 - attachments/Pasted image 20250602152025.png",
     "98 - attachments/Pasted image 20250602151157.png",
@@ -470,13 +548,8 @@
     "1 - notes/g. dsa",
     "1 - notes/h. library/cors",
     "98 - attachments/Recording 20250529123418.m4a",
-    "98 - attachments/Recording 20250529123501.m4a",
-    "98 - attachments/Recording 20250529123335.m4a",
     "98 - attachments/Pasted image 20250525085114.png",
-    "4 - sources/courses/gen ai course by rohit negi",
     "98 - attachments/Pasted image 20250523175902.png",
-    "98 - attachments/notes.pdf",
-    "98 - attachments/Recording 20250521185414.m4a",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

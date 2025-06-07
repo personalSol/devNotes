@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-01T23:11
-updated: 2025-06-02T14:18
+updated: 2025-06-06T23:07
 ---
 ---
 
@@ -29,6 +29,9 @@ app.post('/stats', upload.single('uploaded_file'), function (req, res) {
 
 - [[multer qna of concepts]]
 - [[multer code]]
+- [[multer req.files vs req.file]]
+- [[multer uploading single vs multiple files]]
+- 
 - to keep the extension with the file name, we have two ways
 	- keep the file name original using `file.originalname` inside cb in diskStorage
 	- extract the file extension using [[path#to get file extension]]

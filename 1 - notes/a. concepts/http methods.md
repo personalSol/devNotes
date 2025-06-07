@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Basic-Concepts-MOC]]"
 created: 2025-05-28T09:05
-updated: 2025-06-02T15:23
+updated: 2025-06-06T23:02
 ---
 ---
 
@@ -39,17 +39,36 @@ there are several **HTTP methods**, each designed for a specific purpose in clie
 
 ### 🔄 **3. PUT**
 
+
 - **Purpose:** Replace/update an existing resource completely.
 - **Idempotent:** ✅ (Sending it multiple times has the same effect)
+- You generally need to **send all fields**, even unchanged ones.
 - **Example:** Updating a profile with new data
+
+```js
+PUT /users/123
+{
+  "name": "Alice",
+  "email": "alice@example.com"
+}
+```
 
 ---
 
 ### 🔄 **4. PATCH**
 
+- **Used to update _part_ of a resource (document)**.
 - **Purpose:** Partially update a resource.
 - **Idempotent:** ✅ (Like PUT, but only changes part of the data)
-- **Example:** Updating just the user’s email
+- Does NOT require sending the full object.
+- **Example:** Updating just the `email` field of a user.
+
+```js
+PATCH /users/123
+{
+  "email": "new@example.com"
+}
+```
 
 ---
 
