@@ -15,7 +15,7 @@
   "fileHashMap": {
     "97 - templates/Templates-MOC.md": "ecb35f7f8108feddd2763fc38a6225de2221eb7217275e343370ccdfd12a70a2",
     "97 - templates/tmp-inbox.md": "c4dff400490113c9d7c395c87cb30ca2d5900f2aa15e75e81747f6a59e3790b7",
-    "1 - notes/b. languages/cpp/cpp - things to remember.md": "c2996c92cdf17a92c513529a0bffa8b6333393d0719732aa09ddf2aedbe46ed3",
+    "1 - notes/b. languages/cpp/cpp - things to remember.md": "2db44c90b55a83ed283816e90019f50b13bc0e5116f766cc0c3f6d1d157c7ed0",
     "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md": "521e1b3d66008254d29adef171e2664988eb39f56e543bfca404f3e8a01d474c",
     "3 - moc/sub-mocs/Mongoose-MOC.md": "bf1a5a3b900faadd37190e55e67b5409537cbc5c14479be0304583c009139e78",
     "1 - notes/b. languages/cpp/Cpp cheatsheet.md": "49f4843fba85c7778b133e081ff3945714c901d0167b5557e25d7e7a2d3c756b",
@@ -26,7 +26,7 @@
     "1 - notes/b. languages/cpp/cpp - polymorphism.md": "74f3cf1217dd8fb19b59820a0293c06d80ee2b4be24500d42672f18728e4c205",
     "1 - notes/b. languages/cpp/cpp classes and objects.md": "c841654bd028ad4f0eb953889174ae28b75f82d15beb4ed81ca0545c22962faa",
     "1 - notes/b. languages/cpp/cpp struct vs class.md": "0da5fa889a042c494466053e466d31b1c141bba572a2e9eb9acef2e3d52ffd77",
-    "1 - notes/b. languages/cpp/cpp - pairs.md": "5794eff5e5641a584f0f2c45290190e49e726183c69a79a8edd8aa5f70f26fa4",
+    "1 - notes/b. languages/cpp/cpp - pairs.md": "362c0f72a5e662b1ffea0c86d26ebe05d15fb335c7a2ce825e731e00380daf13",
     "1 - notes/b. languages/cpp/cpp - stl.md": "e005705544480baee36fa5234fff7bb34958ad67979b3982d0f30af08ca06794",
     "1 - notes/b. languages/javascript/Javascript Cheatsheet.md": "43ede079efff7a0b74801eb586e161ca9569aa16639db85e54fc4838122ed454",
     "1 - notes/b. languages/cpp/cpp arrays.md": "cca4bce90328854dacc4b008eb13e4fb9dc64a8e017f8ae5eb92906359ae57f9",
@@ -249,7 +249,10 @@
     "0 - inbox/mongodb aggregation pipeline operators.md": "7e79b0578848ffc4c7135b44143e68c8876e7eb622b00e3fa4ad72cd752cad69",
     "0 - inbox/multer uploading single vs multiple files.md": "b279f14732619d80c4973606f818894ed1a56de42481f0cc0fd9d4fbd9e997b2",
     "0 - inbox/express route params.md": "1d497c1d6209cf92497fd4a78153e3e416659bc11918528c3979225b0b10749f",
-    "1 - notes/b. languages/cpp/cpp stl.md": "8cb73ceb447acca20bf212ef6e28286e8767761843dd465d4d7027f82e3e8ba0",
-    "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md": "e5e33352c57a90c0a346adca1220e314b28a469d345b8767390cc2cb1eb4e872"
+    "1 - notes/b. languages/cpp/cpp stl.md": "66f34cce39fe303ed544660e75658620fe39f6e69419b0460b09d4cbfe989254",
+    "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md": "e5e33352c57a90c0a346adca1220e314b28a469d345b8767390cc2cb1eb4e872",
+    "0 - inbox/cpp - library.md": "b4b65b528309ed1fcd025619b19875b09e731faaa9e874a2e57a5deec10d6b44",
+    "1 - notes/b. languages/cpp/cpp - vectors.md": "50d3482af1d0c57454dccb804d6b03472516b2a9700603c9fc2183d3ab10d0b3",
+    "0 - inbox/cpp stl brief.md": "c22352b380b668366a283ce35828ea5c574c0f992e4a85d93b2e7754ede3a966"
   }
 }

@@ -2,7 +2,7 @@
 status: newBorn
 related-links: "[[Cpp-MOC]]"
 created: 2025-05-15T07:41
-updated: 2025-06-07T09:52
+updated: 2025-06-08T08:09
 ---
 ---
 
@@ -27,7 +27,7 @@ updated: 2025-06-07T09:52
 	```
 - .size()
 	- to get the length of array & vectors
-- `#include<bits/stdc++.h>` is used for fast import of all libraries
+- `#include<bits/stdc++.h>` is used for fast import of all libraries ^wcfomo
  
 
 ### other things

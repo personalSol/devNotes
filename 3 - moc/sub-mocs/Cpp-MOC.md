@@ -15,6 +15,7 @@ here will be all the notes around Cpp-MOC which is a part of [[Languages-MOC]]
 ### basic
 
 - [[cpp - things to remember]]
+- [[cpp - library]]
 - [[cpp intro]]
 - [[cpp boilerplate]]
 - [[cpp - variables]]

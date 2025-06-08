@@ -4,43 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "0d4fa8016e1f5a8f",
+        "id": "7efdcc17cf48e415",
         "type": "tabs",
         "children": [
           {
-            "id": "c1914de84dbd2b8b",
+            "id": "14206879a3893e2a",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "cpp stl",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp stl.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp stl\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":301},\"to\":{\"line\":9,\"ch\":301}},\"scroll\":5.109090978449041}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "ai - how LLM works",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai - how LLM works\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":0},\"to\":{\"line\":25,\"ch\":0}},\"scroll\":5.641558560458097}"
-                },
-                {
-                  "title": "MOC-LIST",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/MOC-LIST.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOC-LIST\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":0},\"to\":{\"line\":35,\"ch\":0}},\"scroll\":0.5508196471167393}"
-                },
-                {
-                  "title": "AI-ML-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI-ML-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI-ML-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":2},\"to\":{\"line\":20,\"ch\":2}},\"scroll\":15.133333921432495}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
+                "file": "3 - moc/sub-mocs/Cpp-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,10 +43,200 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lect 3 - more about llms"
+              "title": "Cpp-MOC"
+            }
+          },
+          {
+            "id": "0b82cb9d1f771c93",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "cpp stl",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp stl.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp stl\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":11},\"to\":{\"line\":12,\"ch\":11}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp - pairs.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp - pairs"
+            }
+          },
+          {
+            "id": "fc7e52d306637e7a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "cpp stl",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp stl.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp stl\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":10},\"to\":{\"line\":13,\"ch\":10}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp - vectors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp - vectors"
+            }
+          },
+          {
+            "id": "f1580ac575cccfbe",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/cpp stl brief.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp stl brief"
+            }
+          },
+          {
+            "id": "20bbb71fa4edef18",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "cpp - pairs",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp - pairs.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp - pairs\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":83},\"to\":{\"line\":13,\"ch\":83}},\"scroll\":3.0753247149578935}"
+                },
+                {
+                  "title": "cpp - library",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/cpp - library.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp - library\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":33},\"to\":{\"line\":9,\"ch\":33}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp arrays.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp arrays"
+            }
+          },
+          {
+            "id": "4316566981a22535",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp - things to remember"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -161,7 +339,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
+                "file": "1 - notes/b. languages/cpp/cpp - pairs.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -189,7 +367,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of lect 3 - more about llms"
+              "title": "Graph of cpp - pairs"
             }
           }
         ]
@@ -222,13 +400,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
+                "file": "1 - notes/b. languages/cpp/cpp - pairs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of lect 3 - more about llms"
+              "title": "Outline of cpp - pairs"
             }
           },
           {
@@ -435,18 +613,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "c1914de84dbd2b8b",
+  "active": "0b82cb9d1f771c93",
   "lastOpenFiles": [
+    "1 - notes/b. languages/cpp/cpp stl.md",
+    "0 - inbox/cpp stl brief.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
+    "1 - notes/b. languages/cpp/cpp - vectors.md",
+    "1 - notes/b. languages/cpp/cpp datatypes.md",
+    "1 - notes/b. languages/cpp/cpp arrays.md",
+    "1 - notes/b. languages/cpp/cpp - pairs.md",
+    "1 - notes/b. languages/cpp/cpp - things to remember.md",
+    "0 - inbox/cpp - library.md",
+    "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
     "98 - attachments/Pasted image 20250607120329.png",
     "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md",
-    "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
     "3 - moc/MOC-LIST.md",
     "3 - moc/Programming-Language-Concepts-MOC.md",
     "3 - moc/AI-ML-MOC.md",
-    "1 - notes/b. languages/cpp/cpp - pairs.md",
-    "1 - notes/b. languages/cpp/cpp stl.md",
-    "1 - notes/b. languages/cpp/cpp - things to remember.md",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
     "0 - inbox/multer.md",
     "0 - inbox/express routes.md",
     "0 - inbox/express route params.md",
@@ -459,10 +642,6 @@
     "0 - inbox/mongodb aggregation pipelines.md",
     "1 - notes/a. concepts/http methods.md",
     "0 - inbox/mongodb aggregation pipeline operators.md",
-    "3 - moc/sub-mocs/MongoDB-MOC.md",
-    "0 - inbox/cloudinary.md",
-    "1 - notes/h. library/mongoose/mongoose-aggregate-paginate-v2.md",
-    "1 - notes/a. concepts/sd - aggregation.md",
     "98 - attachments/Recording 20250606181826.m4a",
     "98 - attachments/Recording 20250606182000.m4a",
     "98 - attachments/Recording 20250606181921.m4a",
@@ -482,7 +661,6 @@
     "1 - notes/h. library/cors",
     "98 - attachments/Recording 20250529123418.m4a",
     "98 - attachments/Pasted image 20250525085114.png",
-    "98 - attachments/Pasted image 20250523175902.png",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

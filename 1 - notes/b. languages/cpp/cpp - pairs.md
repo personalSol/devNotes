@@ -4,15 +4,18 @@ related-links:
   - "[[Cpp-MOC]]"
   - "[[cpp stl]]"
 created: 2025-05-12T17:03
-updated: 2025-06-07T09:51
+updated: 2025-06-08T10:47
 ---
 ---
-
+![[cpp - library#^7775xh]]
 - stores a pair
+- is an stl container
 - element inside a pair can be a pair itself
-- can we used as a datatype
+- we can also make an array of type paid where each element of array will be a pair
+
 
 ```cpp
+
 // Pairs
 void explainPair() {
     pair<int, int> p = {1, 3};
