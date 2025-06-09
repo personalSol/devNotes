@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Express-MOC]]"
 created: 2025-05-28T10:37
-updated: 2025-05-28T23:52
+updated: 2025-06-09T14:48
 ---
 ---
 
@@ -18,6 +18,7 @@ updated: 2025-05-28T23:52
 	- Or call `next()` to pass control
 		- in Express.js, **if a middleware function does not call `next()` (or end the response with something like `res.send()`, `res.end()`, or `res.redirect()`), the request will hang** and never move forward.
 
+- [[middleware - basic syntax and practical]]
 
 there are mainly three types of middlewares:
 - [[build-in middleware]]

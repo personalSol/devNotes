@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-02T14:45
-updated: 2025-06-02T15:21
+updated: 2025-06-09T13:11
 ---
 ---
 
@@ -17,6 +17,23 @@ Both request and response data we use in express also have header files in it. R
 - authentication ( to hold tokens like session key, refresh token, etc )
 - state of user ( to see if the user is a guest or logged in or if he has something in cart, etc )
 - etc, etc
+
+
+### Why not use body?
+
+Even though you can use body for everything, it is a good idea to use `headers` for sending data that isn’t directly related with the `application logic`.
+
+For example, if you want to create a new TODO, you will send the TODO payload in the body
+
+```json
+{
+   description: "Go to gym"
+}
+```
+But the `Authorization` information in the `headers`
+```json
+Authorization: sanskar
+```
 
 #### unofficial category of headers
 ---

@@ -12,6 +12,7 @@ here will be all the notes around Terms-MOC
 - [[programming paradigm]]
 - [[psuedo code]]
 - [[payload]]
+- [[term - cascading]]
 - 
 
 ## advance

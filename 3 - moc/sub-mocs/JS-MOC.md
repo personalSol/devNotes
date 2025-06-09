@@ -17,13 +17,14 @@ it will have all the notes around JS connected to it.
 - 
 ## Basic
 
-
+- [[js things to remember]]
 - [[js loops]]
 - [[import and export in js]]
 - [[DOM Manipulation]]
 - [[js execution context]]
 - [[JS Events]]
 - [[js - array]]
+- [[js - string]]
 - [[js - objects]]
 - [[js higher order function]]
 - [[js - functions]]
@@ -33,6 +34,7 @@ it will have all the notes around JS connected to it.
 ### mid
 
 - [[ js fetch]]
+- [[js fetch api]]
 - [[js oops]]
 - 
 

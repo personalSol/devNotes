@@ -11,7 +11,6 @@ here will be all the notes around CSS
 
 ## basic
 
-- [[CSS cascading]]
 - [[CSS connecting with HTML]]
 - [[CSS selectors]]
 - [[CSS pseudo selectors]]

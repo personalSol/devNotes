@@ -3,13 +3,15 @@ status: newBorn
 related-links:
   - "[[Basic-Concepts-MOC]]"
 created: 2025-05-28T09:05
-updated: 2025-06-06T23:02
+updated: 2025-06-09T12:56
 ---
 ---
 
 there are several **HTTP methods**, each designed for a specific purpose in client-server communication — especially useful in web development and APIs.
 
 - **HTTP methods define the _intent_ of a request**, not just how data is sent.
+
+![[Screenshot_2024-08-25_at_7.13.12_PM.webp||400]]
 
 ![[Pasted image 20250602152025.png||500]]
 

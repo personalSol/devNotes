@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[JS-MOC]]"
 created: 2025-05-17T14:38
-updated: 2025-05-17T14:47
+updated: 2025-06-09T17:45
 ---
 ---
 
@@ -45,8 +45,3 @@ You're saying:
 - `method: "POST"` = "I'm sending something!"
 
 
-# Reference
-`related tags + notes + source + link(if any)`
- 
-
-- 
