@@ -5,6 +5,8 @@ updated: 2025-05-17T14:37
 # Web Development MOC
 
 
+- [[Web-Dev-Concepts-MOC]]
+
 ## Frontend
 
 - [[html]]

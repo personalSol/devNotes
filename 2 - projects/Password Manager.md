@@ -6,7 +6,7 @@ related tGs:
 tech-stack:
   - mern
 created: 2025-06-06T07:57
-updated: 2025-06-06T08:12
+updated: 2025-06-09T10:26
 ---
 # Password Manager
 *Status: planning /  on_hold / in_progress / complete*
@@ -67,8 +67,7 @@ a password manager with high security that does what it is expected of it perfec
 ### **Reference**
 - **Documents**: 
 - **People**: 
-	- me
-	- billi
+	- me ( solo for sol )
 - Related Projects: 
 	- can use old password generator project for basic pass generator feature
 		- have to move the logic on backend tho maybe 

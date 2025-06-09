@@ -48,6 +48,8 @@ here will be all the notes around Core-Concepts-MOC which is a part of [[Concept
 ### segregation
 
 - [[System-Design-MOC]]
+- [[Web-Dev-Concepts-MOC]]
+- 
 
 ### courses i did around it
 

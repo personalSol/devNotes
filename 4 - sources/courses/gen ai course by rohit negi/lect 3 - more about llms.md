@@ -2,7 +2,7 @@
 created: 2025-06-07T11:56:16
 status: 
 source: 
-updated: 2025-06-07T13:01
+updated: 2025-06-09T09:04
 ---
 ---
 
@@ -27,4 +27,5 @@ in both cases, there is a chance that we miss important information context need
 - like a zomato/swiggy bot is supposed to only work around customer query.
 - there was a risk that if customer prompted that forget all the previous instructions then model use to forget the core instruction and objective it was supposed to answer around and then ended up being misused by users to run and do other things for free
 - to solve this, we don't write the core instruction in `contents` anymore and we write them in `config`.
+
 > link: [Text generation  \|  Gemini API  \|  Google AI for Developers](https://ai.google.dev/gemini-api/docs/text-generation#system-instructions)

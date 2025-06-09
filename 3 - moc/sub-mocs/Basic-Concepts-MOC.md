@@ -19,10 +19,13 @@ here will be all the notes around Basic-Concepts-MOC which is a part of [[Concep
 - [[library vs framework]]
 - [[number system]]
 - [[http]]
+- [[cookies]]
+- [[hashing]]
 ## advance
 
 - [[memory management in programming (stack and heap )]]
 - [[environment variables and path]]
+- 
 
 
 ### segregation

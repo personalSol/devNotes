@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0ef29f8c47212c7a",
+        "id": "c68df4f2d79d2056",
         "type": "tabs",
         "children": [
           {
-            "id": "65351be3c587242b",
+            "id": "1336701d28629b75",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "http",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/http.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"http\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "http headers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/http headers.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"http headers\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":33.66125647003017}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/express route params.md",
+                "file": "1 - notes/a. concepts/hashing.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,10 +49,122 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "express route params"
+              "title": "hashing"
+            }
+          },
+          {
+            "id": "1423b9d5364c04b6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "checkboxes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/checkboxes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"checkboxes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":8.199999491373697}"
+                },
+                {
+                  "title": "code tasks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/code tasks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"code tasks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "checkboxes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/checkboxes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"checkboxes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "code tasks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/code tasks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"code tasks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":6},\"to\":{\"line\":9,\"ch\":6}},\"scroll\":1.449350679075563}"
+                },
+                {
+                  "title": "what actually happens in authentication",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/d. maths/what actually happens in authentication.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"what actually happens in authentication\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":10.039557082266057}"
+                },
+                {
+                  "title": "node file handling and uploading",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/node/node file handling and uploading.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"node file handling and uploading\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "code tasks",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/code tasks.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"code tasks\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "entire authentical logic in simple words",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/entire authentical logic in simple words.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"entire authentical logic in simple words\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "file unlinking in OS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/file unlinking in OS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"file unlinking in OS\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":8.566666920979818}"
+                },
+                {
+                  "title": "data integrity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/data integrity.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"data integrity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":29.783333381017048}"
+                },
+                {
+                  "title": "data confidentiality",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/data confidentiality.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"data confidentiality\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":33.8227855848628}"
+                },
+                {
+                  "title": "http headers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/http headers.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"http headers\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":32.686584273797365}"
+                },
+                {
+                  "title": "Basic-Concepts-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Basic-Concepts-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Basic-Concepts-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2 - projects/Password Manager.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Password Manager"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +215,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Project/P",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -143,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/express route params.md",
+                "file": "2 - projects/Password Manager.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +295,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of express route params"
+              "title": "Graph of Password Manager"
             }
           }
         ]
@@ -204,13 +328,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/express route params.md",
+                "file": "2 - projects/Password Manager.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of express route params"
+              "title": "Outline of Password Manager"
             }
           },
           {
@@ -417,40 +541,45 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "65351be3c587242b",
+  "active": "1423b9d5364c04b6",
   "lastOpenFiles": [
-    "1 - notes/b. languages/cpp/cpp - things to remember.md",
-    "1 - notes/b. languages/cpp/cpp arrays.md",
-    "0 - inbox/cpp stl brief.md",
-    "1 - notes/b. languages/cpp/cpp - vectors.md",
-    "0 - inbox/cpp - library.md",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
-    "1 - notes/b. languages/cpp/cpp - pairs.md",
-    "1 - notes/b. languages/cpp/cpp stl.md",
-    "1 - notes/b. languages/cpp/cpp datatypes.md",
-    "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
+    "1 - notes/z. others/checkboxes.md",
+    "0 - inbox/code tasks.md",
+    "1 - notes/d. maths/what actually happens in authentication.md",
+    "1 - notes/k. web-dev/node/node file handling and uploading.md",
+    "1 - notes/k. web-dev/node",
+    "1 - notes/k. web-dev/auth/entire authentical logic in simple words.md",
+    "1 - notes/a. concepts/file unlinking in OS.md",
+    "1 - notes/a. concepts/data integrity.md",
+    "1 - notes/a. concepts/data confidentiality.md",
+    "1 - notes/a. concepts/http headers.md",
+    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
+    "1 - notes/a. concepts/hashing.md",
+    "1 - notes/a. concepts/http.md",
+    "1 - notes/h. library/cookie-parser/cookie parser - to clear cookie.md",
+    "1 - notes/h. library/cookie-parser",
+    "1 - notes/k. web-dev/auth/access vs refresh token.md",
+    "1 - notes/a. concepts/secure systems.md",
+    "3 - moc/sub-mocs/Web-Dev-Concepts-MOC.md",
+    "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
+    "1 - notes/a. concepts/cookies.md",
+    "1 - notes/a. concepts/encryption.md",
+    "1 - notes/h. library/jwt/generates a JWT tokens.md",
+    "1 - notes/h. library/jwt/generating jwt.md",
+    "1 - notes/h. library/path.md",
+    "1 - notes/b. languages/javascript/js - optional chaining.md",
+    "1 - notes/b. languages/javascript/js array .some().md",
+    "1 - notes/c. tools/postman.md",
+    "3 - moc/Web-Dev-MOC.md",
+    "1 - notes/k. web-dev/auth",
+    "1 - notes/h. library/multer",
+    "1 - notes/h. library/jwt",
+    "1 - notes/k. web-dev",
     "98 - attachments/Pasted image 20250607120329.png",
-    "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md",
-    "3 - moc/MOC-LIST.md",
-    "3 - moc/Programming-Language-Concepts-MOC.md",
-    "3 - moc/AI-ML-MOC.md",
-    "0 - inbox/multer.md",
-    "0 - inbox/express routes.md",
-    "0 - inbox/express route params.md",
-    "3 - moc/sub-mocs/Express-MOC.md",
-    "0 - inbox/multer uploading single vs multiple files.md",
-    "0 - inbox/multer code.md",
-    "0 - inbox/multer qna of concepts.md",
-    "0 - inbox/mongodb aggregation pipelines intro.md",
-    "0 - inbox/mongodb aggregation lookup.md",
-    "0 - inbox/mongodb aggregation pipelines.md",
-    "1 - notes/a. concepts/http methods.md",
-    "0 - inbox/mongodb aggregation pipeline operators.md",
     "98 - attachments/Recording 20250606181826.m4a",
     "98 - attachments/Recording 20250606182000.m4a",
     "98 - attachments/Recording 20250606181921.m4a",
     "98 - attachments/Recording 20250606181645.m4a",
-    "98 - attachments/Recording 20250606181608.m4a",
     "98 - attachments/Pasted image 20250602152500.png",
     "98 - attachments/Pasted image 20250602152025.png",
     "98 - attachments/Pasted image 20250602151157.png",
@@ -459,11 +588,6 @@
     "98 - attachments/Pasted image 20250531103809.png",
     "98 - attachments/Pasted image 20250531103723.png",
     "98 - attachments/image 2.png",
-    "1 - notes/j. devops",
-    "1 - notes/c. tools/node js",
-    "1 - notes/g. dsa",
-    "1 - notes/h. library/cors",
-    "98 - attachments/Recording 20250529123418.m4a",
     "98 - attachments/Pasted image 20250525085114.png",
     "Untitled.canvas",
     "Life Canvas.canvas",
