@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-09T15:40
-updated: 2025-06-09T15:40
+updated: 2025-06-10T05:52
 ---
 ---
 
@@ -40,10 +40,20 @@ console.log(obj.name); // "Alice"
 
   **a. Fetch API (browser):**
 
-  - `response.json()` reads the HTTP response stream and **parses JSON asynchronously**.
+  - `response.json()` reads the HTTP response stream and **parses JSON asynchronously**. So need to use await.
   - Returns a Promise that resolves to a JS object.
-  - Example:
+✅ What `fetch(...).then(res => res.json())` Does:
+- Sends a **network request**.
+- `res.json()`:
+    - Parses the **JSON response body**.
+    - Converts it into a **JavaScript object** or **array**, depending on what the server sends.
 
+|JSON from Server|`res.json()` returns|Can use `.length`?|
+|---|---|---|
+|`[ {...}, {...} ]` (Array)|Array of objects|✅ Yes|
+|`{ key: value }` (Object)|JavaScript object|❌ No (use `Object.keys(obj).length`)|
+
+  - Example:
   ```js
   fetch('https://api.example.com/data')
     .then(response => response.json()) // parses JSON string to JS object

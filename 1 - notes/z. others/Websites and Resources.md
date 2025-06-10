@@ -1,6 +1,6 @@
 ---
 created: 2025-02-14T21:54
-updated: 2025-06-01T17:34
+updated: 2025-06-10T06:23
 related-links: "[[Others-MOC]]"
 ---
 here is a list of websites and apps around engineering and programming.
@@ -26,6 +26,10 @@ FOR API's:
 - gemini free api: [Sign in - Google Accounts](https://aistudio.google.com/apikey)
 - 
 
+
+FOR web dev:
+- to test http requests: [HTTP Dump - Easily inspect incoming HTTP Requests](https://httpdump.app/) ^3v0anb
+- 
 
 
 For authentication learning:

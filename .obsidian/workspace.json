@@ -11,30 +11,66 @@
             "id": "37494e5773aef5a4",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 2,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Terms-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Terms-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Terms-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":14},\"to\":{\"line\":14,\"ch\":14}}}"
-                },
-                {
-                  "title": "CSS cascading",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/css/CSS cascading.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS cascading\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "js - array",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/js - array.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js - array\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":8},\"to\":{\"line\":13,\"ch\":8}}}"
+                },
+                {
+                  "title": "authentication - what if the token is expired",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/authentication - what if the token is expired.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication - what if the token is expired\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "authentication - entire stateless process",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/authentication - entire stateless process.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication - entire stateless process\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":39},\"to\":{\"line\":19,\"ch\":39}},\"scroll\":2.25974025974026}"
+                },
+                {
+                  "title": "authentication",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/authentication.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":22},\"to\":{\"line\":17,\"ch\":22}}}"
+                },
+                {
+                  "title": "fetch vs axios",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/fetch vs axios.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"fetch vs axios\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":53},\"to\":{\"line\":14,\"ch\":53}}}"
+                },
+                {
+                  "title": "js fetch api",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/js fetch api.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js fetch api\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":9},\"to\":{\"line\":11,\"ch\":9}},\"scroll\":0}"
+                },
+                {
+                  "title": "JS-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/JS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"JS-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":12},\"to\":{\"line\":35,\"ch\":12}},\"scroll\":20.34177176147447}"
+                },
+                {
+                  "title": "CSS-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/CSS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/CSS-MOC.md",
+                "file": "0 - inbox/js array .find().md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,7 +85,52 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CSS-MOC"
+              "title": "js array .find()"
+            }
+          },
+          {
+            "id": "3a8f7cde0ae8acfe",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "Websites and Resources",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/Websites and Resources.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Websites and Resources\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":2},\"to\":{\"line\":31,\"ch\":2}},\"scroll\":12.202531812130266}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "fetch vs axios",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/fetch vs axios.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"fetch vs axios\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":3},\"to\":{\"line\":34,\"ch\":3}},\"scroll\":5.361039198838271}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/a. concepts/http.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "http"
             }
           },
           {
@@ -83,6 +164,72 @@
               },
               "icon": "lucide-file",
               "title": "term - cascading"
+            }
+          },
+          {
+            "id": "bbd87c2c72f0fb24",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/z. others/All problems and errors I have faced.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "All problems and errors I have faced"
+            }
+          },
+          {
+            "id": "f169c9ade85b0f8d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/js things to remember.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "js things to remember"
             }
           }
         ]
@@ -165,7 +312,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -195,13 +343,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - moc/sub-mocs/CSS-MOC.md",
+                "file": "0 - inbox/js array .find().md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of CSS-MOC"
+              "title": "Outline of js array .find()"
             }
           },
           {
@@ -410,32 +558,32 @@
   },
   "active": "37494e5773aef5a4",
   "lastOpenFiles": [
-    "1 - notes/b. languages/css/CSS cascading.md",
-    "0 - inbox/term - cascading.md",
-    "3 - moc/sub-mocs/CSS-MOC.md",
-    "3 - moc/Terms-MOC.md",
-    "0 - inbox/js things to remember.md",
-    "3 - moc/sub-mocs/JS-MOC.md",
     "1 - notes/b. languages/javascript/js - array.md",
+    "0 - inbox/js array .find().md",
+    "1 - notes/k. web-dev/auth/authentication - what if the token is expired.md",
+    "1 - notes/k. web-dev/auth/authentication - entire stateless process.md",
+    "1 - notes/h. library/jwt/jwt - Is Signature the Only Thing Verified.md",
+    "1 - notes/h. library/jwt/jwt - token expiry.md",
+    "1 - notes/k. web-dev/auth/authentication.md",
+    "0 - inbox/fetch vs axios.md",
     "0 - inbox/js fetch api.md",
+    "1 - notes/h. library/axios.md",
+    "1 - notes/a. concepts/http.md",
+    "1 - notes/z. others/Websites and Resources.md",
+    "0 - inbox/term - cascading.md",
+    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
+    "3 - moc/sub-mocs/JS-MOC.md",
+    "0 - inbox/json.md",
+    "0 - inbox/json methods brief.md",
+    "0 - inbox/js things to remember.md",
+    "1 - notes/z. others/All problems and errors I have faced.md",
+    "3 - moc/sub-mocs/CSS-MOC.md",
+    "1 - notes/b. languages/css/CSS cascading.md",
+    "3 - moc/Terms-MOC.md",
     "0 - inbox/js - string.md",
     "1 - notes/b. languages/javascript/js fetch.md",
     "1 - notes/b. languages/javascript/js loops.md",
     "0 - inbox/js filter loop.md",
-    "1 - notes/b. languages/javascript/js map loop.md",
-    "1 - notes/b. languages/cpp/Cpp cheatsheet.md",
-    "1 - notes/a. concepts/api.md",
-    "4 - sources/yt/all react hooks explained in 12 mints.md",
-    "3 - moc/AI-ML-MOC.md",
-    "1 - notes/b. languages/cpp/cpp arrays.md",
-    "0 - inbox/json methods brief.md",
-    "1 - notes/a. concepts/hashing.md",
-    "1 - notes/a. concepts/http.md",
-    "0 - inbox/clients to send request.md",
-    "1 - notes/i. frameworks/express/middlewares.md",
-    "1 - notes/h. library/cors/cors.md",
-    "1 - notes/h. library/cors/cors brief intro.md",
-    "0 - inbox/json.md",
     "98 - attachments/Screenshot_2024-08-25_at_7.27.11_PM.webp",
     "98 - attachments/Screenshot_2024-08-25_at_7.26.18_PM.webp",
     "98 - attachments/Screenshot_2024-08-25_at_7.23.43_PM.webp",
