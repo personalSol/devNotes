@@ -2,24 +2,23 @@
 status: newBorn
 related-links: 
 created: 2025-05-29T20:34
-updated: 2025-06-01T19:59
+updated: 2025-06-10T16:38
 ---
 ---
 
 ![[Websites and Resources#^6pk24c]]
 
 
-
+- [[why jwt]]
 - [[jwt structure]]
-
 - [[jwt header]] 
 - [[jwt payload]]
 - [[jwt signature]]
 - [[generating jwt]]
-- [[jwt verifying]]
+- [[verifying jwt with jwt.verify()]]
+- [[jwt methods]]
 
-
-- as we can see signature is not encoded
+- signature is not encoded
 - we don't add [[jwt secret keys]] to the token in any way
 - jwt is json web token which works like a key to verify the user
 - **UseCase of JWT**

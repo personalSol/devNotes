@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-31T22:33
-updated: 2025-06-01T10:52
+updated: 2025-06-10T17:06
 ---
 ---
 
@@ -10,15 +10,15 @@ updated: 2025-06-01T10:52
 ---
 - [[authentication signup or register]]
 - [[authentication sign in or login]] 
-- [[authentication - after login]]
-- [[jwt - Is Signature the Only Thing Verified]]
+- authentication - after login - [[jwt.verify()]]
 	- [[jwt - token expiry]]
 	- [[jwt - refresh token]]
-- [[jwt - is verifying signature memory intensive]]
-- [[authentication why payload can't be tampered with]]
-- [[authentication what is token gets stolen]]
-- [[authentication - what if the token is expired]]
-- [[authentication - why hacker can't generate a valid token]]
+- questions
+	- [[jwt - is verifying signature memory intensive]]
+	- [[authentication why payload can't be tampered with]]
+	- [[authentication what is token gets stolen]]
+	- [[authentication - what if the token is expired]]
+	- [[authentication - why hacker can't generate a valid token]]
 
 **other things**
 - [[bcrypt vs jwt]]

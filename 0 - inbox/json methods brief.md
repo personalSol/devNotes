@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-09T15:40
-updated: 2025-06-10T05:52
+updated: 2025-06-10T17:15
 ---
 ---
 
@@ -75,8 +75,10 @@ console.log(obj.name); // "Alice"
 
 ### 4. express.json()
 
-- Express built-in **middleware** that **parses incoming JSON request bodies** into JS objects.
-- Makes parsed data available on `req.body`.
+- Express built-in **middleware** that 
+	- takes json data
+	- **parses incoming JSON request bodies** into JS objects.
+	- Makes parsed data available on `req.body`.
 - Needed to handle JSON data sent by clients in POST/PUT requests.
 - Example usage:
 

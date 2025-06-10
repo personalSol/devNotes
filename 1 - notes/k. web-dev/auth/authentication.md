@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-31T11:07
-updated: 2025-06-01T18:08
+updated: 2025-06-10T17:23
 ---
 ---
 
@@ -16,6 +16,8 @@ In **authentication**, we primarily use **hashing**, **not encryption**.
 - [[authentication why bcrypt and not crypto]]
 - [[authentication patterns]]
 - [[authentication - entire stateless process]]
+- [[auth levels to improve the system to]]
+- [[auth tokens]]
 - 
 
 

@@ -2,24 +2,11 @@
 status: newBorn
 related-links: 
 created: 2025-06-01T10:03
-updated: 2025-06-01T10:39
+updated: 2025-06-10T17:05
 ---
 ---
 
-When the user sends the token in a request:
-
-1. Server **splits** the JWT into header, payload, and signature.
-2. **Decodes** the header and payload.
-3. **Recomputes** the signature using the same algorithm and the secret key:
-```js
-HMAC-SHA256(secret_key, encodedHeader + "." + encodedPayload)
-```
-4. **Compares** the recomputed signature with the received signature.
-```js
-recalculated_signature === signature_in_token
-```
-If they match, the token is authentic.
-If they **don’t match**: token is tampered or fake → reject the request.
+![[jwt.verify()]]
 
 
 #### example
@@ -39,9 +26,6 @@ Server then:
 3. Compares it with the signature sent by the client.
 If they match → token is valid.  
 If not → token is tampered or fake.
-
-
-![[jwt - Is Signature the Only Thing Verified]]
 
 
 ![[jwt - is verifying signature memory intensive]]
