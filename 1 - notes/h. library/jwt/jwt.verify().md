@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-10T16:50
-updated: 2025-06-10T17:07
+updated: 2025-06-11T07:29
 ---
 ---
 
@@ -10,7 +10,8 @@ updated: 2025-06-10T17:07
 
 `jwt.verify(token, secret)` performs the following operations internally:
 
----
+> jwt.verify() throws a error if the token is not verified unlike jwt.decode() which just returns false
+> 
 
 #### 1. Split the Token
 

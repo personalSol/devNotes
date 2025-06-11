@@ -1,6 +1,6 @@
 ---
 created: 2025-02-14T21:54
-updated: 2025-06-10T06:23
+updated: 2025-06-11T10:02
 related-links: "[[Others-MOC]]"
 ---
 here is a list of websites and apps around engineering and programming.
@@ -24,7 +24,9 @@ For AI:
 
 FOR API's:
 - gemini free api: [Sign in - Google Accounts](https://aistudio.google.com/apikey)
-- 
+
+For landing page design inspiration: [Landing Page Examples](https://landings.dev/)
+
 
 
 FOR web dev:

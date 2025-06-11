@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-28T21:03
-updated: 2025-06-04T20:10
+updated: 2025-06-11T06:13
 ---
 ---
 
@@ -14,8 +14,26 @@ updated: 2025-06-04T20:10
 
 - Parses `Cookie` header in incoming requests.
 - Populates `req.cookies` with an object keyed by the cookie names.
+- Not required for setting cookies.
 - If a **secret** is provided, it can also parse **signed cookies** and populate `req.signedCookies`.
 
+
+```bash
+npm install cookie-parser
+```
+
+```js
+import cookieParser from 'cookie-parser';
+app.use(cookieParser());
+```
+
+Reading cookies:
+
+```js
+const token = req.cookies.token;
+```
+
+---
 
 ```js
 const express = require('express');
@@ -34,6 +52,3 @@ app.get('/', (req, res) => {
   res.send('Check your cookies!');
 });
 ```
-
-- [[cookie parser - to clear cookie]]
-- 

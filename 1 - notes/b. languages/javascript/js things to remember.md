@@ -2,9 +2,9 @@
 status: newBorn
 related-links: 
 created: 2025-06-09T17:16
-updated: 2025-06-10T05:40
+updated: 2025-06-11T09:53
 ---
----
+					---
 
 - in js, we don't need to include `[]` or say that it's an array to declare it as an array
 	- `const arr = [1, 2, 3, 4, 5]`

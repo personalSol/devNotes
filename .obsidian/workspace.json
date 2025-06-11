@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "324c1bb024f307a2",
+        "id": "b34aefdab11eda32",
         "type": "tabs",
         "children": [
           {
-            "id": "f142dc1dc79e090a",
+            "id": "54d9d5d4e3adf16d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,19 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "authentication",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/authentication.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":12},\"to\":{\"line\":19,\"ch\":12}},\"scroll\":4.628571547471084}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/auth tokens.md",
+                "file": "1 - notes/z. others/Websites and Resources.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,85 +37,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "auth tokens"
-            }
-          },
-          {
-            "id": "409234e1ef36a35c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "jwt methods",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/jwt methods.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"jwt methods\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":9},\"to\":{\"line\":10,\"ch\":9}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/jwt.verify().md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "jwt.verify()"
-            }
-          },
-          {
-            "id": "1110da613e391310",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "verifying jwt with jwt.verify()",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/jwt/verifying jwt with jwt.verify().md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"verifying jwt with jwt.verify()\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/js array .find().md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "js array .find()"
+              "title": "Websites and Resources"
             }
           }
         ]
@@ -174,7 +90,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "map",
+                "query": "headers",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -234,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/auth tokens.md",
+                "file": "1 - notes/z. others/Websites and Resources.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of auth tokens"
+              "title": "Outline of Websites and Resources"
             }
           },
           {
@@ -447,34 +363,36 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f142dc1dc79e090a",
+  "active": "54d9d5d4e3adf16d",
   "lastOpenFiles": [
+    "3 - moc/Terms-MOC.md",
+    "3 - moc/MOC-LIST.md",
+    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
+    "1 - notes/a. concepts/term - cascading.md",
+    "0 - inbox/what are databases.md",
+    "1 - notes/a. concepts/web local storage.md",
+    "1 - notes/h. library/json/json.md",
+    "1 - notes/h. library/json/json methods brief.md",
+    "1 - notes/h. library/json",
+    "1 - notes/a. concepts/clients to send request.md",
+    "1 - notes/a. concepts/http routes.md",
+    "1 - notes/a. concepts/http body.md",
+    "1 - notes/a. concepts/fetch vs axios.md",
+    "1 - notes/k. web-dev/auth/auth tokens.md",
+    "1 - notes/k. web-dev/auth/auth levels to improve the system to.md",
+    "1 - notes/a. concepts/browser storage - indexedDB.md",
     "1 - notes/a. concepts/cookies.md",
-    "0 - inbox/auth tokens.md",
-    "1 - notes/k. web-dev/auth/authentication.md",
-    "1 - notes/k. web-dev/auth/authentication patterns.md",
-    "1 - notes/k. web-dev/auth/authentication - entire stateless process.md",
-    "1 - notes/k. web-dev/auth/access vs refresh token.md",
-    "0 - inbox/auth levels to improve the system to.md",
-    "0 - inbox/json methods brief.md",
-    "1 - notes/h. library/jwt/jwt - token expiry.md",
-    "0 - inbox/jwt.verify().md",
-    "1 - notes/k. web-dev/auth/authentication - after login.md",
-    "1 - notes/h. library/jwt/verifying jwt with jwt.verify().md",
-    "1 - notes/h. library/jwt/jwt.md",
-    "0 - inbox/jwt - Is Signature the Only Thing Verified.md",
-    "1 - notes/h. library/jwt/jwt - Is Signature the Only Thing Verified.md",
-    "0 - inbox/js array .find().md",
-    "0 - inbox/jwt methods.md",
-    "0 - inbox/jwt.decode.md",
-    "1 - notes/h. library/jwt/jwt - refresh token.md",
-    "1 - notes/h. library/jwt/jwt - is verifying signature memory intensive.md",
-    "0 - inbox/why jwt.md",
-    "1 - notes/h. library/jwt/jwt structure.md",
-    "0 - inbox/js things to remember.md",
-    "1 - notes/z. others/All problems and errors I have faced.md",
-    "0 - inbox/term - cascading.md",
+    "1 - notes/a. concepts/cookies syntax.md",
+    "1 - notes/a. concepts/cookies concept.md",
+    "1 - notes/c. tools/node js/npm packages for web dev.md",
+    "1 - notes/a. concepts/response.md",
+    "1 - notes/a. concepts/request response model.md",
+    "1 - notes/i. frameworks/express/middleware - basic syntax and practical.md",
+    "3 - moc/sub-mocs/MongoDB-MOC.md",
     "1 - notes/a. concepts/http.md",
+    "1 - notes/a. concepts/port.md",
+    "1 - notes/h. library/jwt/jwt methods.md",
+    "98 - attachments/Screenshot_2024-09-14_at_6.33.19_PM.webp",
     "98 - attachments/Screenshot_2024-08-25_at_7.27.11_PM.webp",
     "98 - attachments/Screenshot_2024-08-25_at_7.26.18_PM.webp",
     "98 - attachments/Screenshot_2024-08-25_at_7.23.43_PM.webp",
@@ -491,10 +409,8 @@
     "98 - attachments/Recording 20250606181826.m4a",
     "98 - attachments/Recording 20250606182000.m4a",
     "98 - attachments/Recording 20250606181921.m4a",
-    "98 - attachments/Recording 20250606181645.m4a",
     "98 - attachments/Pasted image 20250602152500.png",
     "98 - attachments/Pasted image 20250602152025.png",
-    "98 - attachments/Pasted image 20250602151157.png",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",
