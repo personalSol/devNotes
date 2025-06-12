@@ -18,8 +18,8 @@ here will be all the notes around Mongoose-MOC which is a part of main MOC - [[M
 - [[mongoose connecting to mongodb]]
 - [[mongoose middlewares]]
 - [[mongoose save data on database]]
-- [[mongoose different ways]]
-
+- [[mongoose different ways to do things]]
+- [[mongoose methods and properties]]
 - 
 
 

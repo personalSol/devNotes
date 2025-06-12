@@ -2,7 +2,7 @@
 status: newBorn
 related-links: "[[MongoDB-MOC]]"
 created: 2025-05-21T07:47
-updated: 2025-05-28T02:22
+updated: 2025-06-11T15:35
 ---
 ---
 
@@ -17,8 +17,9 @@ updated: 2025-05-28T02:22
 - we need 3 things to connect
 	- user
 	- password
-	- and a uri/url string that contains both id and password and database address
+	- and a uri/url connection string that contains both id and password and database address
 	- ![[Pasted image 20250521080702.png||400]]
+	- ![[Screenshot_2024-09-14_at_6.29.28_PM.webp||450]]
 	- always remember to remove `/` from end of string 
 
 

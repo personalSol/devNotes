@@ -2,60 +2,21 @@
 created: 2025-03-24T13:53:45
 status: 
 source: 
-updated: 2025-05-28T02:24
+updated: 2025-06-11T12:34
 ---
 ---
 
 GitHub Link: https://github.com/utk-281/mongodb_1330
 
 
-**Data**: Raw facts and figures 
-
-**Information**: processed data which is meaningful
-
-**Database**: collection of information in organised manner
-
-**Database Management System**: a system through which we can perform crud operations on Database
 
 
 
 
-Schema is called structure
-
-````tabs
---- SQL
-- structured querry language
-- have defined schema/structure
-- also called relational database
-- stores data in table format ( rows and columns )
-- it supports vertical scaling
-	- in this if the server is down then the whole server will not work
-- writing complex querries is easier
-- ex: mySQL, oracle, postgreSQL
-- in this relation between data is considered
-- here data can be restored ( rolled back ) even after deleted
-
---- NoSQL
-- not only structured querry language
-- no schema by default
-- non relational
-- stores data in non table ( document format, key-value pair, graph, dynamic value )
-- supports horizontal scaling
-	- also called distributed network, means if one server goes down then the server will overall still work
-- writing complex queries is easier
-- ex: mongoDB, cassendra, couch, etc
-- store large amount of data better
-- can't restore or roll back data after deletion so we keep same data in different places sometimes
-
-
-````
 
 
 
-1. document based database
-2. key-value pair based database
-3. graph based database
-4. wide/dynamic column database
+
 
 
 

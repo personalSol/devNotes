@@ -1,17 +1,19 @@
 
-# Database-MOC
+# DBMS-MOC
 
-here will be all the notes around Database-MOC which is a part of main MOC - [[MOC-LIST]]
+here will be all the notes around DBMS-MOC which is a part of main MOC - [[MOC-LIST]]
 
 `Cheatsheet:`  
 
 ### extras ( not that imp but still here )
 
-- 
+- [[dbms cheatsheet]]
 
 ### basic
 
-- [[database basic]]
+- [[basics of data and information]]
+- [[basic of database]]
+- [[noSQL databases]]
 - 
 
 

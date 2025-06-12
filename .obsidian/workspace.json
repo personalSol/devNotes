@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b34aefdab11eda32",
+        "id": "7ad0f009be86a4d5",
         "type": "tabs",
         "children": [
           {
-            "id": "54d9d5d4e3adf16d",
+            "id": "ad40356ef2090a59",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Mongoose-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Mongoose-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mongoose-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":18},\"to\":{\"line\":21,\"ch\":18}},\"scroll\":1.2414965498722692}"
+                },
+                {
+                  "title": "MongoDB class by Utkarsh Sir",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MongoDB class by Utkarsh Sir\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":82,\"ch\":0},\"to\":{\"line\":82,\"ch\":0}},\"scroll\":36.628572554815385}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/z. others/Websites and Resources.md",
+                "file": "3 - moc/DBMS-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,10 +49,323 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Websites and Resources"
+              "title": "DBMS-MOC"
+            }
+          },
+          {
+            "id": "6c5837aa625d9de0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "authentication - entire stateless process",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/authentication - entire stateless process.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication - entire stateless process\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":25},\"to\":{\"line\":8,\"ch\":25}},\"scroll\":0.015584415816641474}"
+                },
+                {
+                  "title": "password hashing and salting",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/password hashing and salting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"password hashing and salting\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":79},\"to\":{\"line\":19,\"ch\":79}},\"scroll\":4.722077803178267}"
+                },
+                {
+                  "title": "auth questions and concept",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/auth questions and concept.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"auth questions and concept\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":28},\"to\":{\"line\":17,\"ch\":28}},\"scroll\":0}"
+                },
+                {
+                  "title": "auth - main",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/auth - main.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"auth - main\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":23},\"to\":{\"line\":14,\"ch\":23}},\"scroll\":0.9506493357868938}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/k. web-dev/auth/authentication signup or register.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "authentication signup or register"
+            }
+          },
+          {
+            "id": "d4052854e27a47e2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "auth questions and concept",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/auth questions and concept.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"auth questions and concept\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":15},\"to\":{\"line\":21,\"ch\":15}},\"scroll\":5.750649588448661}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/auth password hash.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "auth password hash"
+            }
+          },
+          {
+            "id": "1779b7280d871184",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/h. library/bcrypt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bcrypt"
+            }
+          },
+          {
+            "id": "fc76cdecb8d99b31",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "authentication sign in or login",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/authentication sign in or login.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication sign in or login\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":17.194245028561173}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/h. library/bcrypt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bcrypt"
+            }
+          },
+          {
+            "id": "778c59893df1af86",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/bcrypt hash and verification.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bcrypt hash and verification"
+            }
+          },
+          {
+            "id": "2c759723936a5237",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "password hashing and salting",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/password hashing and salting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"password hashing and salting\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":97},\"to\":{\"line\":31,\"ch\":97}},\"scroll\":16.733333349227905}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/k. web-dev/auth/authentication sign in or login.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "authentication sign in or login"
+            }
+          },
+          {
+            "id": "8e7065ff2fe86a55",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "authentication - why not encryption and when",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/authentication - why not encryption and when.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication - why not encryption and when\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/auth questions and concept.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "auth questions and concept"
+            }
+          },
+          {
+            "id": "a48f0d53dcd5ffe0",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/h. library/bcrypt.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "bcrypt"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -90,7 +415,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "headers",
+                "query": "bcrypt.compare",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -120,11 +445,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 367.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -150,13 +476,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/z. others/Websites and Resources.md",
+                "file": "0 - inbox/bcrypt hash and verification.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Websites and Resources"
+              "title": "Outline of bcrypt hash and verification"
             }
           },
           {
@@ -344,7 +670,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -363,35 +690,38 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "54d9d5d4e3adf16d",
+  "active": "778c59893df1af86",
   "lastOpenFiles": [
-    "3 - moc/Terms-MOC.md",
-    "3 - moc/MOC-LIST.md",
-    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
-    "1 - notes/a. concepts/term - cascading.md",
-    "0 - inbox/what are databases.md",
-    "1 - notes/a. concepts/web local storage.md",
-    "1 - notes/h. library/json/json.md",
-    "1 - notes/h. library/json/json methods brief.md",
-    "1 - notes/h. library/json",
-    "1 - notes/a. concepts/clients to send request.md",
-    "1 - notes/a. concepts/http routes.md",
-    "1 - notes/a. concepts/http body.md",
-    "1 - notes/a. concepts/fetch vs axios.md",
-    "1 - notes/k. web-dev/auth/auth tokens.md",
+    "0 - inbox/bcrypt hash and verification.md",
+    "1 - notes/h. library/bcrypt.md",
+    "1 - notes/k. web-dev/auth/authentication sign in or login.md",
+    "0 - inbox/password hashing and salting.md",
+    "0 - inbox/auth password hash.md",
+    "1 - notes/k. web-dev/auth/authentication signup or register.md",
+    "98 - attachments/Screenshot_2024-09-15_at_6.43.20_PM.webp",
+    "0 - inbox/auth questions and concept.md",
+    "1 - notes/k. web-dev/auth/authentication - entire stateless process.md",
+    "1 - notes/k. web-dev/auth/auth - main.md",
     "1 - notes/k. web-dev/auth/auth levels to improve the system to.md",
-    "1 - notes/a. concepts/browser storage - indexedDB.md",
-    "1 - notes/a. concepts/cookies.md",
-    "1 - notes/a. concepts/cookies syntax.md",
-    "1 - notes/a. concepts/cookies concept.md",
-    "1 - notes/c. tools/node js/npm packages for web dev.md",
-    "1 - notes/a. concepts/response.md",
-    "1 - notes/a. concepts/request response model.md",
-    "1 - notes/i. frameworks/express/middleware - basic syntax and practical.md",
+    "1 - notes/h. library/jwt/jwt - token expiry.md",
+    "1 - notes/h. library/jwt/jwt - is verifying signature memory intensive.md",
+    "1 - notes/k. web-dev/auth/entire authentical logic in simple words.md",
+    "1 - notes/k. web-dev/auth/authentication - why not encryption and when.md",
+    "1 - notes/k. web-dev/auth/auth tokens.md",
+    "1 - notes/k. web-dev/auth/authentication patterns.md",
+    "1 - notes/k. web-dev/auth/auth why bcrypt and not crypto.md",
     "3 - moc/sub-mocs/MongoDB-MOC.md",
-    "1 - notes/a. concepts/http.md",
-    "1 - notes/a. concepts/port.md",
-    "1 - notes/h. library/jwt/jwt methods.md",
+    "1 - notes/h. library/jwt/generates a JWT tokens.md",
+    "1 - notes/k. web-dev/auth/authentication - hash vs encrypt.md",
+    "1 - notes/d. maths/what actually happens in authentication.md",
+    "1 - notes/a. concepts/secure systems.md",
+    "0 - inbox/noSQL databases.md",
+    "3 - moc/DBMS-MOC.md",
+    "3 - moc/sub-mocs/Mongoose-MOC.md",
+    "0 - inbox/mongoose methods and properties.md",
+    "98 - attachments/Screenshot_2024-09-14_at_6.29.28_PM.webp",
+    "98 - attachments/Screenshot_2024-09-14_at_6.47.59_PM.webp",
+    "1 - notes/h. library/json",
     "98 - attachments/Screenshot_2024-09-14_at_6.33.19_PM.webp",
     "98 - attachments/Screenshot_2024-08-25_at_7.27.11_PM.webp",
     "98 - attachments/Screenshot_2024-08-25_at_7.26.18_PM.webp",
@@ -405,12 +735,9 @@
     "1 - notes/h. library/multer",
     "1 - notes/h. library/jwt",
     "1 - notes/k. web-dev",
-    "98 - attachments/Pasted image 20250607120329.png",
     "98 - attachments/Recording 20250606181826.m4a",
     "98 - attachments/Recording 20250606182000.m4a",
     "98 - attachments/Recording 20250606181921.m4a",
-    "98 - attachments/Pasted image 20250602152500.png",
-    "98 - attachments/Pasted image 20250602152025.png",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

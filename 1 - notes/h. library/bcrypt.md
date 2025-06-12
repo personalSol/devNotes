@@ -3,9 +3,9 @@ status: newBorn
 related-links:
   - "[[npm packages for web dev]]"
   - "[[Node-JS-MOC]]"
-  - "[[authentication]]"
+  - "[[auth - main]]"
 created: 2025-05-29T20:31
-updated: 2025-06-01T15:15
+updated: 2025-06-11T20:06
 ---
 ---
 
@@ -21,6 +21,11 @@ used for:
 
 methods
 - bcrypt.hash() - hashes your password
-- bcrypt.compare() - compares two things or passwords specifically
+- bcrypt.compare() - compares two passwords
+- [[bcrypt hash and verification]]
 
-![[authentication sign in or login]]
+
+related questions:
+- [[auth why bcrypt and not crypto]]
+
+- [[authentication sign in or login]]
