@@ -40,7 +40,7 @@
     "1 - notes/z. others/Websites and Resources.md": "60767362558bc73ed93a02fd7a0136550c31da64c494c2fb01746474d07e245a",
     "1 - notes/b. languages/java/java datatypes.md": "64621c44a83058a844e8fe50380a3c1cfaf68cb72911c7be36102a1e3186755d",
     "1 - notes/e. ai/ai agents.md": "79142cdffb6108b04b87543e2324a8c2915db316a8088019227b64363f9d8cf3",
-    "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md": "8a1f22f33b8cc63aee40f6aa9067e2effdb61825f1b8af925d76ceaa82e9cb46",
+    "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md": "5f3be92c6c37013203fcc1365f3168713a69009473cb998a476e9dd2bfc1e0e8",
     "1 - notes/b. languages/javascript/about node-js.md": "1456683e10c43082da3d572b81cac614d822fe6937f3a45464dbfeddd4d0271a",
     "1 - notes/b. languages/cpp/cpp pointers.md": "4c2ec123eba8f4d7a9517ac62b7269632a3aabde50e89ce5956f6c48a53e9f6c",
     "1 - notes/b. languages/cpp/cpp - variables.md": "b4347c02c72a2016452435a977366b6c6be5e7d82ef33117cb9d19ee7f5b22ae",
@@ -258,7 +258,7 @@
     "1 - notes/h. library/jwt/jwt.verify().md": "bcf12059b8a1713a28311ed208df472014189ea4a1760f626436b4d9b907d62d",
     "1 - notes/h. library/jwt/jwt methods.md": "c7c1373f09a27d335325498aa649220c9b6aa52dc5cd03c941810d7b4737e4e1",
     "1 - notes/h. library/jwt/jwt.decode.md": "14fb1c9fd3eb3e5855f2112a2f5286fbb37eeaaa0d03088a2096ec1e61f6b385",
-    "1 - notes/h. library/zod.md": "b435969f404e943378ce86cc66c541f33a4e8f0596ebd6216ad2d658b428ace5",
+    "1 - notes/h. library/zod.md": "9cddc7be39bc9ca544c86b34943583b52e63c816b87904c4810d2547870f1edd",
     "1 - notes/h. library/jwt/why jwt.md": "9fe020e0ec78af24a58ba487cfea19b6488548aa04bfa1eb31f730b8d4e25ef1",
     "1 - notes/a. concepts/port.md": "44d228bbfc8f181a9185f95749340e8f93d2a1a129752ac7dd273646e094e529",
     "1 - notes/i. frameworks/express/middleware - basic syntax and practical.md": "ac40d0e65abaaae06fc61589860c8198b4f08743e0f98855f098d8e34c070c83",
@@ -288,12 +288,15 @@
     "0 - inbox/mongodb basics.md": "d99ffd5cbafa3459ffdeeb58bc57974d56ba6e3dce7a363c9a6c78f2b3e17365",
     "0 - inbox/cluster.md": "207e51f17f499acd5daf856e8c67abdd0c5eeb13f5562b76ab6c39a00a21e483",
     "1 - notes/h. library/mongoose/mongoose different ways to do things.md": "886f3ab4030f478f1b2916e4f36224e77869e19dd92d19f70356995c164ca59a",
-    "0 - inbox/mongoose methods and properties.md": "552b261207601681becbf62ef7a3c33d6decbdcc085b2c40e2a4ddad9fcec02a",
+    "0 - inbox/mongoose methods and properties.md": "27b49124397203b99ce79f3f8735273713faaeafbfae588836116c55f797cfeb",
     "1 - notes/k. web-dev/auth/auth - main.md": "34723f264e0d317d04fdf1d1bb33110b5d531285396fcfa38e641804f34f4678",
     "1 - notes/k. web-dev/auth/auth why bcrypt and not crypto.md": "7273642e4a7357a4396b14f3d7bbba6a2580eb180c3d367580662231c1e29eda",
     "0 - inbox/auth questions and concept.md": "03585d9fa9e4a4bb733cd7f845e4136f90da6a1e1199880a5395429821c89cde",
     "0 - inbox/password hashing and salting.md": "04b38fa4facf13ed44cf5fb8f629b647740ef345bb529b7f7c612056f49ca078",
     "0 - inbox/auth password hash.md": "08c69994abcfade8b8e40af9f2968d0b0633f569e79f007fadda1997a6a1ad9e",
-    "0 - inbox/bcrypt hash and verification.md": "8c80eee52b7a94029ff56b86ee07e6b23fd05b3826ba1cd455ffe26d602e6697"
+    "0 - inbox/bcrypt hash and verification.md": "8c80eee52b7a94029ff56b86ee07e6b23fd05b3826ba1cd455ffe26d602e6697",
+    "0 - inbox/regex.md": "98ef126007b98eb6a7338b0ea8ecacffb77875a939d17c93f40ff687a6bc6217",
+    "0 - inbox/mongoose crud + other useful.md": "ce519fe40fc1e0e9246b1ce314d4d19c25b16a7c9c05bdb05b052914a935226e",
+    "0 - inbox/mongoose Schema.Types.ObjectId vs Types.ObjectId.md": "936c84e58848dc53bf8bab2a6b30c492ccf569c3e0b61fbc0b029a34bf62d04a"
   }
 }

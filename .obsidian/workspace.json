@@ -4,11 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "7ad0f009be86a4d5",
+        "id": "9188f9452ad45179",
         "type": "tabs",
         "children": [
           {
-            "id": "ad40356ef2090a59",
+            "id": "b964897230cd36cd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "mongosh commands",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/mongoose/mongosh commands.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mongosh commands\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":28},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - moc/sub-mocs/MongoDB-MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MongoDB-MOC"
+            }
+          },
+          {
+            "id": "3279bd23c67a5eea",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -21,20 +60,14 @@
                   "title": "Mongoose-MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Mongoose-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mongoose-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":18},\"to\":{\"line\":21,\"ch\":18}},\"scroll\":1.2414965498722692}"
-                },
-                {
-                  "title": "MongoDB class by Utkarsh Sir",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MongoDB class by Utkarsh Sir\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":82,\"ch\":0},\"to\":{\"line\":82,\"ch\":0}},\"scroll\":36.628572554815385}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":13},\"to\":{\"line\":22,\"ch\":13}},\"scroll\":8.1075949836973}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/DBMS-MOC.md",
+                "file": "0 - inbox/mongoose methods and properties.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,107 +82,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DBMS-MOC"
+              "title": "mongoose methods and properties"
             }
           },
           {
-            "id": "6c5837aa625d9de0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "authentication - entire stateless process",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/authentication - entire stateless process.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication - entire stateless process\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":25},\"to\":{\"line\":8,\"ch\":25}},\"scroll\":0.015584415816641474}"
-                },
-                {
-                  "title": "password hashing and salting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/password hashing and salting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"password hashing and salting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":79},\"to\":{\"line\":19,\"ch\":79}},\"scroll\":4.722077803178267}"
-                },
-                {
-                  "title": "auth questions and concept",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/auth questions and concept.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"auth questions and concept\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":28},\"to\":{\"line\":17,\"ch\":28}},\"scroll\":0}"
-                },
-                {
-                  "title": "auth - main",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/auth - main.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"auth - main\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":23},\"to\":{\"line\":14,\"ch\":23}},\"scroll\":0.9506493357868938}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/k. web-dev/auth/authentication signup or register.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "authentication signup or register"
-            }
-          },
-          {
-            "id": "d4052854e27a47e2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "auth questions and concept",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/auth questions and concept.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"auth questions and concept\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":15},\"to\":{\"line\":21,\"ch\":15}},\"scroll\":5.750649588448661}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/auth password hash.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "auth password hash"
-            }
-          },
-          {
-            "id": "1779b7280d871184",
+            "id": "8e9ef91ca19efbae",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -163,7 +100,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/h. library/bcrypt.md",
+                "file": "0 - inbox/mongoose Schema.Types.ObjectId vs Types.ObjectId.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -178,50 +115,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bcrypt"
+              "title": "mongoose Schema.Types.ObjectId vs Types.ObjectId"
             }
           },
           {
-            "id": "fc76cdecb8d99b31",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "authentication sign in or login",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/authentication sign in or login.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication sign in or login\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":17.194245028561173}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/h. library/bcrypt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "bcrypt"
-            }
-          },
-          {
-            "id": "778c59893df1af86",
+            "id": "7983cc53e5f52154",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -235,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/bcrypt hash and verification.md",
+                "file": "0 - inbox/mongoose crud + other useful.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -250,122 +148,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "bcrypt hash and verification"
-            }
-          },
-          {
-            "id": "2c759723936a5237",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "password hashing and salting",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/password hashing and salting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"password hashing and salting\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":97},\"to\":{\"line\":31,\"ch\":97}},\"scroll\":16.733333349227905}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/k. web-dev/auth/authentication sign in or login.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "authentication sign in or login"
-            }
-          },
-          {
-            "id": "8e7065ff2fe86a55",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "authentication - why not encryption and when",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/authentication - why not encryption and when.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication - why not encryption and when\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/auth questions and concept.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "auth questions and concept"
-            }
-          },
-          {
-            "id": "a48f0d53dcd5ffe0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/h. library/bcrypt.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "bcrypt"
+              "title": "mongoose crud + other useful"
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -445,12 +232,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 367.5
+    "width": 265.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -690,8 +476,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "778c59893df1af86",
+  "active": "3279bd23c67a5eea",
   "lastOpenFiles": [
+    "0 - inbox/mongoose Schema.Types.ObjectId vs Types.ObjectId.md",
+    "0 - inbox/mongoose methods and properties.md",
+    "3 - moc/sub-mocs/Mongoose-MOC.md",
+    "0 - inbox/mongoose crud + other useful.md",
+    "1 - notes/h. library/mongoose/mongoose save data on database.md",
+    "3 - moc/sub-mocs/MongoDB-MOC.md",
+    "1 - notes/h. library/mongoose/mongosh commands.md",
+    "1 - notes/h. library/mongoose/mongoose schema and model.md",
+    "1 - notes/h. library/mongoose/mongoose different ways to do things.md",
+    "1 - notes/h. library/mongoose/mongoose update docs.md",
+    "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
+    "1 - notes/h. library/mongoose/model, schema and document concept.md",
+    "1 - notes/a. concepts/browser storage - indexedDB.md",
+    "0 - inbox/regex.md",
+    "1 - notes/h. library/zod.md",
     "0 - inbox/bcrypt hash and verification.md",
     "1 - notes/h. library/bcrypt.md",
     "1 - notes/k. web-dev/auth/authentication sign in or login.md",
@@ -704,21 +505,6 @@
     "1 - notes/k. web-dev/auth/auth - main.md",
     "1 - notes/k. web-dev/auth/auth levels to improve the system to.md",
     "1 - notes/h. library/jwt/jwt - token expiry.md",
-    "1 - notes/h. library/jwt/jwt - is verifying signature memory intensive.md",
-    "1 - notes/k. web-dev/auth/entire authentical logic in simple words.md",
-    "1 - notes/k. web-dev/auth/authentication - why not encryption and when.md",
-    "1 - notes/k. web-dev/auth/auth tokens.md",
-    "1 - notes/k. web-dev/auth/authentication patterns.md",
-    "1 - notes/k. web-dev/auth/auth why bcrypt and not crypto.md",
-    "3 - moc/sub-mocs/MongoDB-MOC.md",
-    "1 - notes/h. library/jwt/generates a JWT tokens.md",
-    "1 - notes/k. web-dev/auth/authentication - hash vs encrypt.md",
-    "1 - notes/d. maths/what actually happens in authentication.md",
-    "1 - notes/a. concepts/secure systems.md",
-    "0 - inbox/noSQL databases.md",
-    "3 - moc/DBMS-MOC.md",
-    "3 - moc/sub-mocs/Mongoose-MOC.md",
-    "0 - inbox/mongoose methods and properties.md",
     "98 - attachments/Screenshot_2024-09-14_at_6.29.28_PM.webp",
     "98 - attachments/Screenshot_2024-09-14_at_6.47.59_PM.webp",
     "1 - notes/h. library/json",
