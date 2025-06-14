@@ -4,122 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "9188f9452ad45179",
+        "id": "88af0eb13065a5c2",
         "type": "tabs",
         "children": [
           {
-            "id": "b964897230cd36cd",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "mongosh commands",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/mongoose/mongosh commands.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mongosh commands\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":28},\"to\":{\"line\":8,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/MongoDB-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MongoDB-MOC"
-            }
-          },
-          {
-            "id": "3279bd23c67a5eea",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Mongoose-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Mongoose-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mongoose-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":13},\"to\":{\"line\":22,\"ch\":13}},\"scroll\":8.1075949836973}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/mongoose methods and properties.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "mongoose methods and properties"
-            }
-          },
-          {
-            "id": "8e9ef91ca19efbae",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/mongoose Schema.Types.ObjectId vs Types.ObjectId.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "mongoose Schema.Types.ObjectId vs Types.ObjectId"
-            }
-          },
-          {
-            "id": "7983cc53e5f52154",
+            "id": "1fb0feadb21f4c4a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -151,8 +40,7 @@
               "title": "mongoose crud + other useful"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -476,14 +364,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3279bd23c67a5eea",
+  "active": "1fb0feadb21f4c4a",
   "lastOpenFiles": [
+    "1 - notes/h. library/bcrypt.md",
+    "0 - inbox/bcrypt hash and verification.md",
+    "1 - notes/b. languages/javascript/js constrctor.md",
+    "0 - inbox/mongoose crud + other useful.md",
     "0 - inbox/mongoose Schema.Types.ObjectId vs Types.ObjectId.md",
+    "3 - moc/sub-mocs/MongoDB-MOC.md",
     "0 - inbox/mongoose methods and properties.md",
     "3 - moc/sub-mocs/Mongoose-MOC.md",
-    "0 - inbox/mongoose crud + other useful.md",
     "1 - notes/h. library/mongoose/mongoose save data on database.md",
-    "3 - moc/sub-mocs/MongoDB-MOC.md",
     "1 - notes/h. library/mongoose/mongosh commands.md",
     "1 - notes/h. library/mongoose/mongoose schema and model.md",
     "1 - notes/h. library/mongoose/mongoose different ways to do things.md",
@@ -493,8 +384,6 @@
     "1 - notes/a. concepts/browser storage - indexedDB.md",
     "0 - inbox/regex.md",
     "1 - notes/h. library/zod.md",
-    "0 - inbox/bcrypt hash and verification.md",
-    "1 - notes/h. library/bcrypt.md",
     "1 - notes/k. web-dev/auth/authentication sign in or login.md",
     "0 - inbox/password hashing and salting.md",
     "0 - inbox/auth password hash.md",
@@ -504,7 +393,6 @@
     "1 - notes/k. web-dev/auth/authentication - entire stateless process.md",
     "1 - notes/k. web-dev/auth/auth - main.md",
     "1 - notes/k. web-dev/auth/auth levels to improve the system to.md",
-    "1 - notes/h. library/jwt/jwt - token expiry.md",
     "98 - attachments/Screenshot_2024-09-14_at_6.29.28_PM.webp",
     "98 - attachments/Screenshot_2024-09-14_at_6.47.59_PM.webp",
     "1 - notes/h. library/json",
