@@ -3,10 +3,9 @@ status: newBorn
 related-links:
   - "[[JS-MOC]]"
 created: 2025-05-21T12:41
-updated: 2025-06-03T12:58
+updated: 2025-06-14T16:40
 ---
 ---
-
 
 ## JavaScript `throw` – Q&A Notes with Code
 

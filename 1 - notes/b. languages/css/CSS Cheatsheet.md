@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[CSS-MOC]]"
 created: 2025-02-22T18:45
-updated: 2025-02-24T23:34
+updated: 2025-06-14T19:53
 ---
 ---
 
@@ -14,7 +14,7 @@ updated: 2025-02-24T23:34
 - 
 
 
-### [[CSS flex property]]
+### [[CSS flex property - not flex box]]
 
 - applies on parent node and works on child nodes
 - A flexbox always consists of:

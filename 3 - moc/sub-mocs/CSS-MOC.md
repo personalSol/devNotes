@@ -14,14 +14,17 @@ here will be all the notes around CSS
 - [[CSS connecting with HTML]]
 - [[CSS selectors]]
 - [[CSS pseudo selectors]]
-- [[CSS flex property]]
+- [[CSS flex property - not flex box]]
 - [[CSS Specificity]]
 - [[CSS units]]
+- [[CSS flex box]]
+- 
 
 ## advance
 
 - [[CSS Positioning]]
 - [[CSS functions]]
+- [[CSS inline-block element]]
 - 
 
 

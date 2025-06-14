@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-28T02:24
-updated: 2025-05-28T02:24
+updated: 2025-06-14T15:35
 ---
 ---
 
@@ -12,5 +12,4 @@ updated: 2025-05-28T02:24
 	- `db.createCollection(library)`
 - show collections : to see collections
 - `db` : show current database ( although we can see that in side )
-- 
 
