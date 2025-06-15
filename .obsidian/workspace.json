@@ -98,7 +98,7 @@
             }
           },
           {
-            "id": "f393875fe44f9717",
+            "id": "92aad66dadbceb8d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -112,7 +112,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/CSS flex box.md",
+                "file": "0 - inbox/CSS usecase code sheet.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -127,7 +127,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CSS flex box"
+              "title": "CSS usecase code sheet"
             }
           }
         ],
@@ -455,10 +455,12 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f393875fe44f9717",
+  "active": "92aad66dadbceb8d",
   "lastOpenFiles": [
-    "0 - inbox/CSS flex box.md",
+    "0 - inbox/CSS usecase code sheet.md",
     "3 - moc/sub-mocs/CSS-MOC.md",
+    "0 - inbox/CSS flex box.md",
+    "98 - attachments/Pasted image 20250614223215.png",
     "0 - inbox/CSS inline-block element.md",
     "1 - notes/b. languages/css/CSS flex property - not flex box.md",
     "1 - notes/z. others/All problems and errors I have faced.md",
@@ -482,7 +484,6 @@
     "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
     "1 - notes/h. library/mongoose/model, schema and document concept.md",
     "1 - notes/a. concepts/browser storage - indexedDB.md",
-    "0 - inbox/regex.md",
     "98 - attachments/Screenshot_2024-09-15_at_6.43.20_PM.webp",
     "98 - attachments/Screenshot_2024-09-14_at_6.29.28_PM.webp",
     "98 - attachments/Screenshot_2024-09-14_at_6.47.59_PM.webp",
@@ -493,7 +494,6 @@
     "98 - attachments/Screenshot_2024-08-25_at_7.23.43_PM.webp",
     "98 - attachments/Screenshot_2024-08-25_at_6.35.30_PM.webp",
     "98 - attachments/Screenshot_2024-08-25_at_7.13.12_PM.webp",
-    "98 - attachments/Screenshot_2024-08-25_at_7.08.18_PM.webp",
     "1 - notes/k. web-dev/node",
     "1 - notes/h. library/cookie-parser",
     "1 - notes/k. web-dev/auth",
