@@ -4,68 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "cc058125052d10dd",
+        "id": "4150ce1f902a4b50",
         "type": "tabs",
         "children": [
           {
-            "id": "a2e8699fd7558827",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "CSS-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/CSS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":18},\"to\":{\"line\":24,\"ch\":18}},\"scroll\":7.416666189829509}"
-                },
-                {
-                  "title": "All problems and errors I have faced",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/All problems and errors I have faced.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"All problems and errors I have faced\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":29},\"to\":{\"line\":9,\"ch\":29}}}"
-                },
-                {
-                  "title": "js throw error",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/js throw error.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js throw error\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "MongoDB-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/MongoDB-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MongoDB-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":0},\"to\":{\"line\":20,\"ch\":0}},\"scroll\":3.2208332220713296}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/CSS inline-block element.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CSS inline-block element"
-            }
-          },
-          {
-            "id": "c2fb16e3f1b8a916",
+            "id": "0a94b96e8d81350e",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -77,61 +20,13 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/CSS-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "CSS-MOC"
-            }
-          },
-          {
-            "id": "92aad66dadbceb8d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/CSS usecase code sheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CSS usecase code sheet"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -455,16 +350,25 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "92aad66dadbceb8d",
+  "active": "0a94b96e8d81350e",
   "lastOpenFiles": [
-    "0 - inbox/CSS usecase code sheet.md",
+    "0 - inbox/error stack property in ApiError.md",
+    "1 - notes/i. frameworks/express/utility function ApiError.md",
+    "1 - notes/b. languages/javascript/js throw error.md",
+    "2 - projects/Password Manager.md",
+    "0 - inbox/github things to remember.md",
+    "3 - moc/sub-mocs/git-and-github-MOC.md",
+    "1 - notes/h. library/react/react - conventions to follow.md",
+    "3 - moc/sub-mocs/React-MOC.md",
+    "1 - notes/h. library/react/react - things to remember.md",
+    "0 - inbox/CSS inline-block element.md",
     "3 - moc/sub-mocs/CSS-MOC.md",
+    "0 - inbox/CSS usecase code sheet.md",
+    "1 - notes/h. library/react/react - components.md",
     "0 - inbox/CSS flex box.md",
     "98 - attachments/Pasted image 20250614223215.png",
-    "0 - inbox/CSS inline-block element.md",
     "1 - notes/b. languages/css/CSS flex property - not flex box.md",
     "1 - notes/z. others/All problems and errors I have faced.md",
-    "1 - notes/b. languages/javascript/js throw error.md",
     "3 - moc/sub-mocs/MongoDB-MOC.md",
     "1 - notes/c. tools/mongoDB/mongodb aggregation pipelines.md",
     "1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md",
@@ -475,15 +379,6 @@
     "0 - inbox/bcrypt hash and verification.md",
     "1 - notes/b. languages/javascript/js constrctor.md",
     "0 - inbox/mongoose Schema.Types.ObjectId vs Types.ObjectId.md",
-    "0 - inbox/mongoose methods and properties.md",
-    "3 - moc/sub-mocs/Mongoose-MOC.md",
-    "1 - notes/h. library/mongoose/mongoose save data on database.md",
-    "1 - notes/h. library/mongoose/mongoose schema and model.md",
-    "1 - notes/h. library/mongoose/mongoose different ways to do things.md",
-    "1 - notes/h. library/mongoose/mongoose update docs.md",
-    "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md",
-    "1 - notes/h. library/mongoose/model, schema and document concept.md",
-    "1 - notes/a. concepts/browser storage - indexedDB.md",
     "98 - attachments/Screenshot_2024-09-15_at_6.43.20_PM.webp",
     "98 - attachments/Screenshot_2024-09-14_at_6.29.28_PM.webp",
     "98 - attachments/Screenshot_2024-09-14_at_6.47.59_PM.webp",

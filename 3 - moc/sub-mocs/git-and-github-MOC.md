@@ -12,6 +12,7 @@ here will be all the notes around git-and-github
 ## basic
 
 - [[git standard practices]]
+- [[github things to remember]]
 - 
 - [[about github and github]]
 - [[setting git credentials]]

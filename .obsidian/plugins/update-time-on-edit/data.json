@@ -125,7 +125,7 @@
     "1 - notes/i. frameworks/express/asyncHandler syntax and explaination.md": "5fe4fb0de2970785c6a59cc4f0472784f7cc2a97445d0b69324d3117cfb517a9",
     "1 - notes/i. frameworks/express/utility function asyncHandler.md": "f5ae99cfc089f72baed3b94f1fc19d786bfffe5a40b5933444864bd21e8d7c3b",
     "1 - notes/i. frameworks/express/user defined middleware.md": "fc91d110dc9613b605a729dfdc55b1a86adb53bcfc2c674f344a817856333891",
-    "1 - notes/i. frameworks/express/utility function ApiError.md": "0e0c85ad18a1f161333eaaa1b3ea11c2a23c7e7d82a067c856e7a1bb7d401e90",
+    "1 - notes/i. frameworks/express/utility function ApiError.md": "99450f3890d8e4e84bf854d248658cb6e58924a32c586061289011a450eea046",
     "1 - notes/c. tools/node js/node process.exit().md": "50c4a9738688f1fa5e217bb01dc7e9e1fd38d6c3bc4d69bc180965a36fe21808",
     "1 - notes/c. tools/node js/node - global object - process.md": "9018e460340647cf36b5a24f761b7ddff43370952a4a4370c2001dd24ec365ef",
     "1 - notes/c. tools/node js/node commands.md": "096dbb2ca7ccf9ce4e38152df85833536e0878ae4caa82112fd1f20e155e8585",
@@ -301,6 +301,8 @@
     "0 - inbox/CSS inline-block element.md": "f1e710016c40b9223ce8b182d9398691bdc797935ad4916b0055389814d0f4b6",
     "1 - notes/b. languages/css/CSS Cheatsheet.md": "633d1fa298f7aea821a506bac8649dadf39e8aa1478ed274cf4442dd857d974c",
     "0 - inbox/CSS flex box.md": "ecade7ae2df421468c4c9ee404ddf6086cbf908a26605a3fb41b8b3d6be6b0d2",
-    "0 - inbox/CSS usecase code sheet.md": "e2bf46c67e742254403bec8eba4f2c37ccfa3b05fab4f22d98a7abb6f803fc9d"
+    "0 - inbox/CSS usecase code sheet.md": "e2bf46c67e742254403bec8eba4f2c37ccfa3b05fab4f22d98a7abb6f803fc9d",
+    "0 - inbox/github things to remember.md": "e6609e89d3e6f98796dbf048e9982e43604fe8841224ba37aadf532600153be1",
+    "0 - inbox/error stack property in ApiError.md": "e06920a9f1b8798e815da71964d2f75d52eadb5ccb073f025f90cdbea53150df"
   }
 }
