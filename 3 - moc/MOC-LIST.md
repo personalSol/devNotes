@@ -7,7 +7,7 @@ updated: 2025-05-17T14:37
 - [[Cheatsheets-MOC]]
 - [[Concepts-MOC]]
 - [[DSA-MOC]]
-- [[Languages-MOC]]
+- [[Lang-And-Packages-MOC]]
 - [[Maths-MOC]]
 - [[Others-MOC]]
 - [[Projects-MOC]]

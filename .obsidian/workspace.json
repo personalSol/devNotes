@@ -4,11 +4,50 @@
     "type": "split",
     "children": [
       {
-        "id": "4150ce1f902a4b50",
+        "id": "96f1414a7357b261",
         "type": "tabs",
         "children": [
           {
-            "id": "0a94b96e8d81350e",
+            "id": "42c70a9827e4db41",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "React-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":20},\"to\":{\"line\":31,\"ch\":20}},\"scroll\":14.708860799223734}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react RouterProvider.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react RouterProvider"
+            }
+          },
+          {
+            "id": "37db55444dd9104b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,10 +59,96 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react router dom.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "react router dom"
+            }
+          },
+          {
+            "id": "b93d53f4f7dffdbe",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react router dom - outlier.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react router dom - outlier"
+            }
+          },
+          {
+            "id": "10a79ece5138193b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "react router dom",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react router dom.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react router dom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":54},\"to\":{\"line\":10,\"ch\":54}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/z. others/Questions asked in interview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Questions asked in interview"
             }
           }
         ]
@@ -110,7 +235,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -350,45 +476,45 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0a94b96e8d81350e",
+  "active": "42c70a9827e4db41",
   "lastOpenFiles": [
+    "1 - notes/z. others/Questions asked in interview.md",
+    "0 - inbox/react RouterProvider.md",
+    "0 - inbox/react router dom - outlier.md",
+    "3 - moc/sub-mocs/React-MOC.md",
+    "0 - inbox/react router dom.md",
+    "3 - moc/Web-Dev-MOC.md",
+    "3 - moc/sub-mocs/React-Updated-MOC.md",
+    "1 - notes/h. library/react/react - to create react app.md",
+    "3 - moc/Lang-And-Packages-MOC.md",
+    "1 - notes/h. library/react/react - event handling.md",
+    "1 - notes/h. library/react/react - context.md",
+    "1 - notes/h. library/react/React Cheatsheet.md",
+    "97 - templates/tmp-moc.md",
+    "1 - notes/h. library/react/react events.md",
+    "0 - inbox/CSS grid.md",
+    "3 - moc/sub-mocs/CSS-MOC.md",
+    "0 - inbox/CSS functions.md",
+    "98 - attachments/Pasted image 20250615153340.png",
+    "1 - notes/z. others/code copy block note.md",
+    "0 - inbox/Pasted image 20250615153117.png.md",
+    "98 - attachments/Pasted image 20250615153117.png",
+    "98 - attachments/Pasted image 20250615152351.png",
+    "1 - notes/b. languages/css/CSS flex property - not flex box.md",
+    "98 - attachments/Pasted image 20250615143301.png",
+    "0 - inbox/CSS flex box.md",
+    "3 - moc/Snippets-MOC.md",
+    "98 - attachments/Pasted image 20250615141020.png",
     "0 - inbox/error stack property in ApiError.md",
     "1 - notes/i. frameworks/express/utility function ApiError.md",
     "1 - notes/b. languages/javascript/js throw error.md",
     "2 - projects/Password Manager.md",
-    "0 - inbox/github things to remember.md",
-    "3 - moc/sub-mocs/git-and-github-MOC.md",
-    "1 - notes/h. library/react/react - conventions to follow.md",
-    "3 - moc/sub-mocs/React-MOC.md",
-    "1 - notes/h. library/react/react - things to remember.md",
-    "0 - inbox/CSS inline-block element.md",
-    "3 - moc/sub-mocs/CSS-MOC.md",
-    "0 - inbox/CSS usecase code sheet.md",
-    "1 - notes/h. library/react/react - components.md",
-    "0 - inbox/CSS flex box.md",
     "98 - attachments/Pasted image 20250614223215.png",
-    "1 - notes/b. languages/css/CSS flex property - not flex box.md",
-    "1 - notes/z. others/All problems and errors I have faced.md",
-    "3 - moc/sub-mocs/MongoDB-MOC.md",
-    "1 - notes/c. tools/mongoDB/mongodb aggregation pipelines.md",
-    "1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md",
-    "1 - notes/h. library/mongoose/mongosh commands.md",
-    "0 - inbox/mongoose crud + other useful.md",
-    "1 - notes/a. concepts/cookies.md",
-    "1 - notes/h. library/bcrypt.md",
-    "0 - inbox/bcrypt hash and verification.md",
-    "1 - notes/b. languages/javascript/js constrctor.md",
-    "0 - inbox/mongoose Schema.Types.ObjectId vs Types.ObjectId.md",
     "98 - attachments/Screenshot_2024-09-15_at_6.43.20_PM.webp",
     "98 - attachments/Screenshot_2024-09-14_at_6.29.28_PM.webp",
     "98 - attachments/Screenshot_2024-09-14_at_6.47.59_PM.webp",
     "1 - notes/h. library/json",
     "98 - attachments/Screenshot_2024-09-14_at_6.33.19_PM.webp",
-    "98 - attachments/Screenshot_2024-08-25_at_7.27.11_PM.webp",
-    "98 - attachments/Screenshot_2024-08-25_at_7.26.18_PM.webp",
-    "98 - attachments/Screenshot_2024-08-25_at_7.23.43_PM.webp",
-    "98 - attachments/Screenshot_2024-08-25_at_6.35.30_PM.webp",
-    "98 - attachments/Screenshot_2024-08-25_at_7.13.12_PM.webp",
     "1 - notes/k. web-dev/node",
     "1 - notes/h. library/cookie-parser",
     "1 - notes/k. web-dev/auth",

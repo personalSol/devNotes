@@ -5,20 +5,19 @@ updated: 2025-05-02T17:09
 
 ### react-MOC
 
-here will be all the notes around react-MOC from: [[Languages-MOC]] & [[Web-Dev-MOC]]
+here will be all the notes around React-Updated-MOC which is a part of main MOC - [[MOC-LIST]]  [[Lang-And-Packages-MOC]] & [[Web-Dev-MOC]]
 
-[[react - things to remember]]
+`Cheatsheet:`  [[React Cheatsheet]]
 
-cheatsheet: [[React Cheatsheet]]
 
 ### basic
 
+- [[react - things to remember]]
 - [[react topics to learn]]
 - [[react story + W's]]
 - [[react - about]]
 - [[react - how it works]]
 - [[react - conventions to follow]]
-- [[react - to create react app]]
 - [[react - hooks]]
 - [[react - methods]]
 - [[react - custom hooks]]
@@ -27,9 +26,25 @@ cheatsheet: [[React Cheatsheet]]
 - 
 
 
+### mid
+
+- [[react router dom]]
+- [[ react RouterProvider]]
+- 
+
 ### advance
 
 - 
+
+
+### archive
+
+- [[react - to create react app]]
+
+### Course I did around it:
+
+- [[react course by chai aur code]]
+
 
 
 ### all which are inside other pages
@@ -37,9 +52,6 @@ cheatsheet: [[React Cheatsheet]]
 - [[Hooks - useState]]
 
 
-### Course I did around it:
-
-- [[react course by chai aur code]]
 
 
 

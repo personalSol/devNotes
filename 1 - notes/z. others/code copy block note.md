@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-28T04:05
-updated: 2025-05-28T19:22
+updated: 2025-06-15T15:26
 ---
 ---
 
@@ -65,4 +65,91 @@ exports.someText = "Here is some hard coded text";
         }
     }
 )()
+```
+
+##### grid code
+```html
+<!DOCTYPE html>
+
+<html lang="en">
+
+  
+
+<head>
+
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Document</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <style>
+
+        .parent {
+
+            border: solid black 2px;
+
+            display: grid;
+
+            grid-template-columns: repeat(3, 60px);
+
+            grid-template-rows: repeat(4, 40px);
+
+            gap: 5px
+
+        }
+
+  
+
+        .child {
+
+            border: dotted blue 3px
+
+        }
+
+  
+
+        #Item-7 {
+
+            grid-row-start: 1;
+
+            grid-row-end: 4
+
+        }
+
+    </style>
+
+</head>
+
+  
+
+<body>
+
+    <div class="parent">
+
+        <div class="child">Item 1</div>
+
+        <div class="child" id="Item 2">Item 2</div>
+
+        <div class="child">Item 3</div>
+
+        <div class="child" id="Item 4">Item 4</div>
+
+        <div class="child">Item 5</div>
+
+        <div class="child">Item 6</div>
+
+        <div class="child" id="Item-7">Item 7</div>
+
+    </div>
+
+</body>
+
+<!-- <script src="script.js"></script> -->
+
+  
+
+</html>
 ```

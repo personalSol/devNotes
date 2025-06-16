@@ -5,7 +5,7 @@ updated: 2025-05-15T23:28
 
 # Cpp-MOC
 
-here will be all the notes around Cpp-MOC which is a part of [[Languages-MOC]]
+here will be all the notes around Cpp-MOC which is a part of [[Lang-And-Packages-MOC]]
 
 
 ### extras ( not that imp but still here )
