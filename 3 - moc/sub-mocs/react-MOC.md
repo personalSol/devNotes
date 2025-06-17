@@ -23,14 +23,14 @@ here will be all the notes around React-Updated-MOC which is a part of main MOC 
 - [[react - custom hooks]]
 - [[react - components]]
 - [[react events]]
-- 
 
 
 ### mid
 
-- [[react router dom]]
-- [[ react RouterProvider]]
+- [[react routing]]
+- [[react - context]]
 - 
+
 
 ### advance
 

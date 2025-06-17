@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[React-MOC]]"
 created: 2025-04-22T16:46
-updated: 2025-05-22T18:40
+updated: 2025-06-16T19:47
 ---
 ---
 
@@ -46,6 +46,8 @@ updated: 2025-05-22T18:40
 	- useID
 		- use to generate random id which can be use.
 		- shouldn't be use to generate keys
+	- [[react hook - useNavigate]]
+	- 
 
 
 

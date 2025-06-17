@@ -2,7 +2,7 @@
 created: 2025-02-28T19:25:59
 status: newBorn
 source: youtube video
-updated: 2025-05-17T14:46
+updated: 2025-06-16T11:23
 ---
 ---
 
@@ -150,18 +150,6 @@ console.log(getObject()); // Output: { key: "value" }
 ```js
 
 ```
-
-
-### zustand
-
-- zustand helps us in creating a global state which we can use anywhere
-- it saves us from a big chain of importing that state. 
-![[Pasted image 20250404141621.png]]
-- also only the component that uses it have to re-render and not the parent ones which just bacame a importing medium ( matlab yaar ek se dusri file mai import krenge toh woh saari files jisme yee state thi woh re-render hogi akar state change hui, pr akar apan zustand see ek global state banayenge toh sirf wahi component re-render hoga )
-- humko haar jagha pass nhi krna padega woh state as a parameterr just because child ke child ke child ko woh state use krna hai
-
-
-
 
 ### JSON 
 

@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-05-17T10:09
-updated: 2025-06-11T07:31
+updated: 2025-06-16T11:23
 ---
 ---
 
@@ -31,7 +31,7 @@ here are all the npm packages
 	- [[multer]]
 	- [[cloudinary]]
 	- [[zod]]
-	- 
+	- [[zustand]]
 - **dev dependencies**
 	- [[nodemon]]
 	- [[prettier]]

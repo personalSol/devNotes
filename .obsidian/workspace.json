@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "96f1414a7357b261",
+        "id": "5038ce94f71c0d10",
         "type": "tabs",
         "children": [
           {
-            "id": "42c70a9827e4db41",
+            "id": "b31f503bb2ddac6d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,17 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "React-MOC",
+                  "title": "Hooks - useState",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":31,\"ch\":20},\"to\":{\"line\":31,\"ch\":20}},\"scroll\":14.708860799223734}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/Hooks - useState.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hooks - useState\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":81.11428306216285}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/react RouterProvider.md",
+                "file": "1 - notes/h. library/react/react - hooks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,11 +43,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react RouterProvider"
+              "title": "react - hooks"
             }
           },
           {
-            "id": "37db55444dd9104b",
+            "id": "342a2bd4728a8ed3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/react router dom.md",
+                "file": "0 - inbox/react hook - useNavigate.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,82 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react router dom"
-            }
-          },
-          {
-            "id": "b93d53f4f7dffdbe",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/react router dom - outlier.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react router dom - outlier"
-            }
-          },
-          {
-            "id": "10a79ece5138193b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "react router dom",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react router dom.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react router dom\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":54},\"to\":{\"line\":10,\"ch\":54}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/z. others/Questions asked in interview.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Questions asked in interview"
+              "title": "react hook - useNavigate"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -201,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "bcrypt.compare",
+                "query": "zustand",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -235,8 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -476,54 +404,54 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "42c70a9827e4db41",
+  "active": "342a2bd4728a8ed3",
   "lastOpenFiles": [
-    "1 - notes/z. others/Questions asked in interview.md",
-    "0 - inbox/react RouterProvider.md",
-    "0 - inbox/react router dom - outlier.md",
-    "3 - moc/sub-mocs/React-MOC.md",
+    "0 - inbox/react hook - useNavigate.md",
+    "1 - notes/h. library/react/react - hooks.md",
+    "1 - notes/h. library/react/Hooks - useState.md",
     "0 - inbox/react router dom.md",
+    "0 - inbox/react how to use context.md",
+    "98 - attachments/Recording 20250616183328.m4a",
+    "98 - attachments/Recording 20250616183748.m4a",
+    "98 - attachments/Recording 20250616183216.m4a",
+    "98 - attachments/Recording 20250616182855.m4a",
+    "98 - attachments/Recording 20250616183006.m4a",
+    "1 - notes/h. library/react/react - context.md",
+    "3 - moc/sub-mocs/React-MOC.md",
+    "0 - inbox/zustand.md",
+    "0 - inbox/react routing.md",
+    "0 - inbox/react - whole process of routing in short.md",
+    "0 - inbox/react RouterProvider.md",
+    "98 - attachments/Pasted image 20250426142009.png",
+    "0 - inbox/react how context helps.md",
+    "0 - inbox/react why not plain global file for context.md",
+    "0 - inbox/react router dom - outlier.md",
+    "4 - sources/yt/mern stack crash course by freecodecamp.md",
+    "1 - notes/b. languages/javascript/import and export in es module js.md",
+    "1 - notes/b. languages/javascript/import and export in js.md",
+    "1 - notes/b. languages/javascript/import and export in cjs.md",
+    "1 - notes/c. tools/node js/npm packages for web dev.md",
+    "0 - inbox/react redux.md",
+    "3 - moc/sub-mocs/JS-MOC.md",
+    "1 - notes/z. others/Questions asked in interview.md",
     "3 - moc/Web-Dev-MOC.md",
     "3 - moc/sub-mocs/React-Updated-MOC.md",
     "1 - notes/h. library/react/react - to create react app.md",
     "3 - moc/Lang-And-Packages-MOC.md",
-    "1 - notes/h. library/react/react - event handling.md",
-    "1 - notes/h. library/react/react - context.md",
-    "1 - notes/h. library/react/React Cheatsheet.md",
-    "97 - templates/tmp-moc.md",
-    "1 - notes/h. library/react/react events.md",
-    "0 - inbox/CSS grid.md",
-    "3 - moc/sub-mocs/CSS-MOC.md",
-    "0 - inbox/CSS functions.md",
     "98 - attachments/Pasted image 20250615153340.png",
-    "1 - notes/z. others/code copy block note.md",
-    "0 - inbox/Pasted image 20250615153117.png.md",
     "98 - attachments/Pasted image 20250615153117.png",
     "98 - attachments/Pasted image 20250615152351.png",
-    "1 - notes/b. languages/css/CSS flex property - not flex box.md",
     "98 - attachments/Pasted image 20250615143301.png",
-    "0 - inbox/CSS flex box.md",
-    "3 - moc/Snippets-MOC.md",
     "98 - attachments/Pasted image 20250615141020.png",
-    "0 - inbox/error stack property in ApiError.md",
-    "1 - notes/i. frameworks/express/utility function ApiError.md",
-    "1 - notes/b. languages/javascript/js throw error.md",
-    "2 - projects/Password Manager.md",
     "98 - attachments/Pasted image 20250614223215.png",
     "98 - attachments/Screenshot_2024-09-15_at_6.43.20_PM.webp",
     "98 - attachments/Screenshot_2024-09-14_at_6.29.28_PM.webp",
     "98 - attachments/Screenshot_2024-09-14_at_6.47.59_PM.webp",
     "1 - notes/h. library/json",
-    "98 - attachments/Screenshot_2024-09-14_at_6.33.19_PM.webp",
     "1 - notes/k. web-dev/node",
     "1 - notes/h. library/cookie-parser",
     "1 - notes/k. web-dev/auth",
     "1 - notes/h. library/multer",
-    "1 - notes/h. library/jwt",
-    "1 - notes/k. web-dev",
-    "98 - attachments/Recording 20250606181826.m4a",
-    "98 - attachments/Recording 20250606182000.m4a",
-    "98 - attachments/Recording 20250606181921.m4a",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

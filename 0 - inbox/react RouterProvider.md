@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-15T17:59
-updated: 2025-06-15T21:49
+updated: 2025-06-16T07:53
 ---
 ---
 
@@ -45,6 +45,12 @@ function App() {
 ## 🛠️ Key Features
 
 ### 1. **Loader** (Data Fetching)
+
+- loads the data as soon we hover over the link which loader is attached to
+- also keeps the data that came in cache
+- there are two ways to give function to loader
+	- one is simple give it directly like in example below
+	- second is to write the function somewhere ( mostly in the element itself ) and importing the function then attaching it with `{}` 
 
 ```jsx
 {
