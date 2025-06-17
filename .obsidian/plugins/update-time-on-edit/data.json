@@ -90,7 +90,7 @@
     "1 - notes/h. library/react/react -  key prop.md": "b94c9edfe5660d07bda7846d75dc33973f296e455cfcff1e5be39785ee803752",
     "1 - notes/h. library/react/react - event handling.md": "51568ecee1501ba6909dac9ffbf81e5d9ecf5ab94515eaed102f9240af879d85",
     "1 - notes/h. library/react/react - how it works.md": "1ff4fe09267dd6bdf5c09170871f8ca6d6d461024050badb06e5176ad9f4d79b",
-    "1 - notes/h. library/react/react - context.md": "ac1c7b7ac88ea1ede9f431dd5fd09b8d887258aa7b87b655ca5cf722cce84c0f",
+    "1 - notes/h. library/react/react - context.md": "7b2af486916e7c3fdb27d5f8cc5ec5ba289e82dc3bcd70709a2f03d87cd666f2",
     "1 - notes/h. library/react/react - hooks.md": "f8feca6ecee634b0315f6f2b0ec764bc7e765b498114b57219793a45c6e22bad",
     "1 - notes/h. library/react/react - to create react app.md": "c52ffb9e36f7db14f5a25799bc9504798911e5bd39dce209fac72195077b14a3",
     "1 - notes/h. library/react/react props.md": "8c714c19275926377797bd0fc3f9fe0108d65a670218bbe0125734ff0aaa80e7",
@@ -315,9 +315,11 @@
     "0 - inbox/zustand.md": "ae89c523ae6fe402ded04d222b3235f163da6be9a3e6c5a4b8b4fb26b4ffcd1e",
     "0 - inbox/react why not plain global file for context.md": "ca3a467d0ff46a0876d44e0fbfbb922022bce3cd016bb585e5ada14356c37295",
     "0 - inbox/react how context helps.md": "5c4d2391abedb57eae3bd66d87950245acf14ce4bcae923141febf1a1c8c1086",
-    "0 - inbox/react how to use context.md": "cd0a6ca1207e7a3e24bb63471c459e0e1253ce8dd9d31b002132e5eedba7e4f7",
     "0 - inbox/react routing.md": "836c88a4944b737af95e252444f35bb75bebb328354ddd72548bd687b385d688",
     "0 - inbox/react - whole process of routing in short.md": "caebedaf7ed6a0c377089de112661c3f220bede5a5726601d76583876217b0c5",
-    "0 - inbox/react hook - useNavigate.md": "e9c1aa2923037574e03104035ca899a97e7a64256339c13c1ecb740f22dabf06"
+    "0 - inbox/react hook - useNavigate.md": "e9c1aa2923037574e03104035ca899a97e7a64256339c13c1ecb740f22dabf06",
+    "0 - inbox/react concept - how to use context.md": "54664f7c2883db012016110f2aad4870007c9def61424975d4b94034a6b5d21a",
+    "0 - inbox/react noob way to use context.md": "82ae6e4647961ed55cf0bf36151735f34eb688799b2628febf5792099bdc0781",
+    "0 - inbox/react pro way to use context code.md": "12e8d4dff594cd0fa51f2cd1bd737a1c78c952697d8be343b4f505828d11d965"
   }
 }

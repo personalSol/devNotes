@@ -4,31 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "5038ce94f71c0d10",
+        "id": "4893d7a1209d5ad9",
         "type": "tabs",
         "children": [
           {
-            "id": "b31f503bb2ddac6d",
+            "id": "9bad8e8ce0d778ed",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "react concept - how to use context",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react concept - how to use context.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react concept - how to use context\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":103},\"to\":{\"line\":17,\"ch\":103}},\"scroll\":11.571993446688188}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Hooks - useState",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/Hooks - useState.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Hooks - useState\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":81.11428306216285}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/h. library/react/react - hooks.md",
+                "file": "1 - notes/h. library/react/react - context.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,11 +43,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react - hooks"
+              "title": "react - context"
             }
           },
           {
-            "id": "342a2bd4728a8ed3",
+            "id": "5416252fff9dd860",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/react hook - useNavigate.md",
+                "file": "0 - inbox/react concept - how to use context.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,73 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react hook - useNavigate"
+              "title": "react concept - how to use context"
+            }
+          },
+          {
+            "id": "130ed86736dabcca",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react pro way to use context code.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react pro way to use context code"
+            }
+          },
+          {
+            "id": "4a686371baef36ea",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react noob way to use context.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react noob way to use context"
             }
           }
         ],
@@ -404,19 +470,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "342a2bd4728a8ed3",
+  "active": "5416252fff9dd860",
   "lastOpenFiles": [
-    "0 - inbox/react hook - useNavigate.md",
+    "1 - notes/h. library/react/react - context.md",
+    "0 - inbox/react concept - how to use context.md",
+    "0 - inbox/react noob way to use context.md",
+    "0 - inbox/react pro way to use context code.md",
+    "0 - inbox/react why not plain global file for context.md",
+    "0 - inbox/react context code.md",
     "1 - notes/h. library/react/react - hooks.md",
+    "0 - inbox/react hook - useNavigate.md",
     "1 - notes/h. library/react/Hooks - useState.md",
     "0 - inbox/react router dom.md",
-    "0 - inbox/react how to use context.md",
     "98 - attachments/Recording 20250616183328.m4a",
     "98 - attachments/Recording 20250616183748.m4a",
     "98 - attachments/Recording 20250616183216.m4a",
     "98 - attachments/Recording 20250616182855.m4a",
     "98 - attachments/Recording 20250616183006.m4a",
-    "1 - notes/h. library/react/react - context.md",
     "3 - moc/sub-mocs/React-MOC.md",
     "0 - inbox/zustand.md",
     "0 - inbox/react routing.md",
@@ -424,7 +494,6 @@
     "0 - inbox/react RouterProvider.md",
     "98 - attachments/Pasted image 20250426142009.png",
     "0 - inbox/react how context helps.md",
-    "0 - inbox/react why not plain global file for context.md",
     "0 - inbox/react router dom - outlier.md",
     "4 - sources/yt/mern stack crash course by freecodecamp.md",
     "1 - notes/b. languages/javascript/import and export in es module js.md",
@@ -435,9 +504,6 @@
     "3 - moc/sub-mocs/JS-MOC.md",
     "1 - notes/z. others/Questions asked in interview.md",
     "3 - moc/Web-Dev-MOC.md",
-    "3 - moc/sub-mocs/React-Updated-MOC.md",
-    "1 - notes/h. library/react/react - to create react app.md",
-    "3 - moc/Lang-And-Packages-MOC.md",
     "98 - attachments/Pasted image 20250615153340.png",
     "98 - attachments/Pasted image 20250615153117.png",
     "98 - attachments/Pasted image 20250615152351.png",
