@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-09T15:40
-updated: 2025-06-10T17:15
+updated: 2025-06-18T17:27
 ---
 ---
 
@@ -34,7 +34,7 @@ console.log(obj.name); // "Alice"
 
 ---
 
-### 3. .json() method
+### 3. `.json()` method
 
 - Has two main contexts:
 

@@ -2,11 +2,12 @@
 status: newBorn
 related-links: 
 created: 2025-06-16T15:45
-updated: 2025-06-17T14:49
+updated: 2025-06-18T16:42
 ---
 ---
  
 ![[Pasted image 20250426142009.png||450]]
+	
 - it's written in a js file
 - in 1st part, we have to export the AppContext before we can use it
 	- can really use any name instead of `AppContext`

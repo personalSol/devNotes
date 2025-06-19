@@ -55,13 +55,55 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "js - functions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/js - functions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js - functions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "js - objects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/js - objects.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js - objects\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":24,\"ch\":25},\"to\":{\"line\":24,\"ch\":25}},\"scroll\":8.766666412353516}"
+                },
+                {
+                  "title": "hooks - useEffect",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/hooks - useEffect.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"hooks - useEffect\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":55},\"to\":{\"line\":10,\"ch\":55}},\"scroll\":0}"
+                },
+                {
+                  "title": "json methods brief",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/json/json methods brief.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"json methods brief\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":0},\"to\":{\"line\":39,\"ch\":0}},\"scroll\":18.666665485927037}"
+                },
+                {
+                  "title": "web local storage",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/web local storage.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"web local storage\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":182},\"to\":{\"line\":10,\"ch\":182}},\"scroll\":1.527272756997641}"
+                },
+                {
+                  "title": "js map loop",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/js map loop.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js map loop\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":35},\"to\":{\"line\":10,\"ch\":35}},\"scroll\":4.597402597402597}"
+                },
+                {
+                  "title": "react concept - how to use context",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react concept - how to use context.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react concept - how to use context\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":1},\"to\":{\"line\":9,\"ch\":1}},\"scroll\":8.443887929549401}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/react concept - how to use context.md",
+                "file": "1 - notes/h. library/react/react -  key prop.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +118,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react concept - how to use context"
+              "title": "react -  key prop"
             }
           },
           {
@@ -472,8 +514,15 @@
   },
   "active": "5416252fff9dd860",
   "lastOpenFiles": [
-    "1 - notes/h. library/react/react - context.md",
+    "1 - notes/b. languages/javascript/js - functions.md",
+    "1 - notes/b. languages/javascript/js - objects.md",
+    "1 - notes/h. library/react/hooks - useEffect.md",
+    "1 - notes/h. library/json/json methods brief.md",
+    "1 - notes/a. concepts/web local storage.md",
+    "1 - notes/b. languages/javascript/js map loop.md",
     "0 - inbox/react concept - how to use context.md",
+    "1 - notes/b. languages/javascript/js things to remember.md",
+    "1 - notes/h. library/react/react - context.md",
     "0 - inbox/react noob way to use context.md",
     "0 - inbox/react pro way to use context code.md",
     "0 - inbox/react why not plain global file for context.md",
@@ -497,13 +546,6 @@
     "0 - inbox/react router dom - outlier.md",
     "4 - sources/yt/mern stack crash course by freecodecamp.md",
     "1 - notes/b. languages/javascript/import and export in es module js.md",
-    "1 - notes/b. languages/javascript/import and export in js.md",
-    "1 - notes/b. languages/javascript/import and export in cjs.md",
-    "1 - notes/c. tools/node js/npm packages for web dev.md",
-    "0 - inbox/react redux.md",
-    "3 - moc/sub-mocs/JS-MOC.md",
-    "1 - notes/z. others/Questions asked in interview.md",
-    "3 - moc/Web-Dev-MOC.md",
     "98 - attachments/Pasted image 20250615153340.png",
     "98 - attachments/Pasted image 20250615153117.png",
     "98 - attachments/Pasted image 20250615152351.png",
