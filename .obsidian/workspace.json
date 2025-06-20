@@ -50,57 +50,24 @@
             "id": "7877729f0cad241c",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "redux toolkit",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/redux toolkit.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"redux toolkit\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/redux.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "redux"
-            }
-          },
-          {
-            "id": "e410cd643f42ab7d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "redux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/redux.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"redux\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":27},\"to\":{\"line\":18,\"ch\":27}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/h. library/react/react - context.md",
+                "file": "0 - inbox/redux toolkit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -115,11 +82,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react - context"
+              "title": "redux toolkit"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -443,14 +410,14 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "e410cd643f42ab7d",
+  "active": "7877729f0cad241c",
   "lastOpenFiles": [
     "0 - inbox/redux.md",
+    "1 - notes/h. library/react/react - context.md",
     "0 - inbox/redux toolkit.md",
     "0 - inbox/react redux.md",
     "0 - inbox/react noob way to use context.md",
     "0 - inbox/react pro way to use context code.md",
-    "1 - notes/h. library/react/react - context.md",
     "1 - notes/h. library/react/react -  key prop.md",
     "1 - notes/b. languages/javascript/js - functions.md",
     "1 - notes/b. languages/javascript/js - objects.md",
