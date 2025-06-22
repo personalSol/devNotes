@@ -35,7 +35,7 @@
     "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md": "ed9b84494cbcf655b5fc48c7218592d723c3b03dc8d3d30e1896203ba8622afa",
     "4 - sources/courses/system design by coder army/lect - 5.md": "13edbc5843b5c96e6746dcbbb53f804e31e11a72fbce734514b23d51209d8366",
     "1 - notes/b. languages/css/CSS units.md": "03e3b3c3c7e50f7092a6bc8126962578311b51c991477e4dd2cc851d89945e27",
-    "1 - notes/b. languages/javascript/js - functions.md": "595c577eff7cf7875595a4f7761d666dfcaf60813e9bc69d67901ede07ef20bc",
+    "1 - notes/b. languages/javascript/js - functions.md": "223d043e1fd5fc3e15296a42d53fb9c3bb8b07e7725c40e77bf7dc8ce7af3e43",
     "1 - notes/b. languages/cpp/cpp datatypes.md": "7a7f6f02de50138e0bc330ee418e164b4d88620ec8b97785d60be5db9688bbc3",
     "1 - notes/z. others/Websites and Resources.md": "60767362558bc73ed93a02fd7a0136550c31da64c494c2fb01746474d07e245a",
     "1 - notes/b. languages/java/java datatypes.md": "64621c44a83058a844e8fe50380a3c1cfaf68cb72911c7be36102a1e3186755d",
@@ -321,7 +321,15 @@
     "0 - inbox/react noob way to use context.md": "82ae6e4647961ed55cf0bf36151735f34eb688799b2628febf5792099bdc0781",
     "0 - inbox/react pro way to use context code.md": "12e8d4dff594cd0fa51f2cd1bd737a1c78c952697d8be343b4f505828d11d965",
     "1 - notes/b. languages/javascript/js - objects.md": "52aeedeb6bdd3764444f842054b581d155f74fc52ff8017f3f619834feaf376b",
-    "0 - inbox/redux.md": "fe0a235144760bdefdd6261b48dc24e5737b26df12dbcc37e1471f2a100dff5d",
-    "0 - inbox/redux toolkit.md": "8176c6d54653cd0f0d1cf408dc83ea09220ab94323c3bba223771059f26ce995"
+    "0 - inbox/redux.md": "b86466784ba89f33d908109da6bb1ae41ae92b9b1062d9390527bb01de2e9ab4",
+    "0 - inbox/redux toolkit.md": "fe78c16bf3e7c6a20a95f1587bf18349579631b71ea32b01562878c90d2d64c9",
+    "0 - inbox/redux toolkit store.md": "d7db426b81ccec2b81bb6a6807300bcaea767b3d2c2f5fa64cfebbc0cb5aad39",
+    "0 - inbox/react redux hook useDispatch.md": "201a813049a3d4fb4dc006eea5cad32ea5426a17d917d06bc7b93ab8a9e7ac45",
+    "0 - inbox/react redux hook useSelector.md": "90714f01922af76d88f2b95484948c0956c84d4bfe2e9d7b2c7f46ba69deb316",
+    "0 - inbox/react redux hook useDispatch basics.md": "af419a6ec62d1586d27c2e3ea30028a6903cfe7a88d322716fe6e831e86a006b",
+    "0 - inbox/js arrow function.md": "c34431834c6d6cf5d1fa127e6c2240ac0b2d0e5027b937c241f00a84bb97c73e",
+    "0 - inbox/react redux.md": "612824a7bcb2816a79e3edd20e7a9417899e4d99b682ce9a98eda146ce29f904",
+    "0 - inbox/redux toolkit reducer or slice.md": "233c9bd6f2bf12785aa4446f486592f9c31f5e08a1bcad0e004d2c5d1d394df7",
+    "0 - inbox/react redux provider.md": "7361f8b04120f21039e1099ac78723224bb019f8097d15136f6d6f49ec4e6b62"
   }
 }

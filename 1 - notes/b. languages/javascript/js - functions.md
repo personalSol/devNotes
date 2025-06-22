@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-05-02T16:01
-updated: 2025-06-18T19:03
+updated: 2025-06-21T01:33
 ---
 ---
 
@@ -15,6 +15,9 @@ in Arrow function, if we use
 
 in normal function, we have:
 - we have context of this
+
+- [[js arrow function]]
+- 
 
 
 

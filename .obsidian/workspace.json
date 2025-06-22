@@ -21,14 +21,14 @@
                   "title": "redux",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/redux.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"redux\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":21},\"to\":{\"line\":17,\"ch\":21}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":56},\"to\":{\"line\":18,\"ch\":56}},\"scroll\":6.599999745686849}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/redux toolkit.md",
+                "file": "0 - inbox/react redux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,15 +43,232 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "redux toolkit"
+              "title": "react redux"
             }
           },
           {
-            "id": "7877729f0cad241c",
+            "id": "97dff7ddd2cb7e46",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react redux provider.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react redux provider"
+            }
+          },
+          {
+            "id": "6d3e2b08b8490ae5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react redux hook useSelector.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react redux hook useSelector"
+            }
+          },
+          {
+            "id": "7e840990ff6c9385",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react redux.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react redux"
+            }
+          },
+          {
+            "id": "212b50c77d67979e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "react redux hook useDispatch",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react redux hook useDispatch.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react redux hook useDispatch\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":6},\"to\":{\"line\":12,\"ch\":6}},\"scroll\":2.602597521497058}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/javascript/js - functions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "js - functions"
+            }
+          },
+          {
+            "id": "d5d13c10186b13c8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/js arrow function.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "js arrow function"
+            }
+          },
+          {
+            "id": "b40a55fa22ddfd05",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react redux hook useSelector.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react redux hook useSelector"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "644ec29c5dbcddc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7877729f0cad241c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "redux toolkit reducer",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/redux toolkit reducer or slice.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"redux toolkit reducer\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -83,6 +300,39 @@
               },
               "icon": "lucide-file",
               "title": "redux toolkit"
+            }
+          },
+          {
+            "id": "13a2c26ef78e4906",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/h. library/react/react - hooks.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react - hooks"
             }
           }
         ],
@@ -136,7 +386,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "zustand",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -410,16 +660,24 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "7877729f0cad241c",
+  "active": "97dff7ddd2cb7e46",
   "lastOpenFiles": [
-    "0 - inbox/redux.md",
-    "1 - notes/h. library/react/react - context.md",
-    "0 - inbox/redux toolkit.md",
+    "0 - inbox/react redux provider.md",
     "0 - inbox/react redux.md",
+    "0 - inbox/redux.md",
+    "0 - inbox/redux toolkit.md",
+    "0 - inbox/redux toolkit reducer or slice.md",
+    "0 - inbox/redux toolkit store.md",
+    "0 - inbox/react redux hook useSelector.md",
+    "0 - inbox/js arrow function.md",
+    "1 - notes/b. languages/javascript/js - functions.md",
+    "0 - inbox/react redux hook useDispatch.md",
+    "0 - inbox/react redux hook useDispatch basics.md",
+    "1 - notes/h. library/react/react - hooks.md",
+    "1 - notes/h. library/react/react - context.md",
     "0 - inbox/react noob way to use context.md",
     "0 - inbox/react pro way to use context code.md",
     "1 - notes/h. library/react/react -  key prop.md",
-    "1 - notes/b. languages/javascript/js - functions.md",
     "1 - notes/b. languages/javascript/js - objects.md",
     "1 - notes/h. library/react/hooks - useEffect.md",
     "1 - notes/h. library/json/json methods brief.md",
@@ -429,20 +687,12 @@
     "1 - notes/b. languages/javascript/js things to remember.md",
     "0 - inbox/react why not plain global file for context.md",
     "0 - inbox/react context code.md",
-    "1 - notes/h. library/react/react - hooks.md",
     "0 - inbox/react hook - useNavigate.md",
-    "1 - notes/h. library/react/Hooks - useState.md",
-    "0 - inbox/react router dom.md",
     "98 - attachments/Recording 20250616183328.m4a",
     "98 - attachments/Recording 20250616183748.m4a",
     "98 - attachments/Recording 20250616183216.m4a",
     "98 - attachments/Recording 20250616182855.m4a",
     "98 - attachments/Recording 20250616183006.m4a",
-    "3 - moc/sub-mocs/React-MOC.md",
-    "0 - inbox/zustand.md",
-    "0 - inbox/react routing.md",
-    "0 - inbox/react - whole process of routing in short.md",
-    "0 - inbox/react RouterProvider.md",
     "98 - attachments/Pasted image 20250426142009.png",
     "98 - attachments/Pasted image 20250615153340.png",
     "98 - attachments/Pasted image 20250615153117.png",
