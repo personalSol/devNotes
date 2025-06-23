@@ -69,7 +69,7 @@
     "1 - notes/b. languages/javascript/js constrctor.md": "7d62d88fd852eec0f53540cac2ba4cdedbcf1fef2f48563fcf826ed7496d0373",
     "1 - notes/b. languages/javascript/js higher order function.md": "85369fef2fc882abe5e55f60667087ac21d6212fef2ae974018f475c4ffc9c0b",
     "1 - notes/b. languages/javascript/js inheritance.md": "2d9936b1541dfb21db50e02462fa9cbb2ff31dc2549ce66161dab6cda1f0e934",
-    "1 - notes/b. languages/javascript/js oops.md": "0a3dee805206246490b5f7f221359a3ebbfe38a03d502bc712f54a77da3d1ca3",
+    "1 - notes/b. languages/javascript/js oops.md": "5806483e43900587ea427ca5b154efa7e48b995ad978a1bb09b6c81539afe761",
     "1 - notes/b. languages/javascript/npx.md": "157095d8fe993e9a448cffbef825c23f073c4022a0d051e7d38132a536fdccfe",
     "1 - notes/a. concepts/constructor.md": "4b21c59924a96027bb32c87f0ceff0e54d61befdc2b068fe5d672a0c20845af6",
     "1 - notes/b. languages/javascript/import and export in js.md": "f822d69a35bb6f10858a6139eedb261756597e165a1af8010bddf977be1a4d28",
@@ -108,7 +108,7 @@
     "1 - notes/h. library/mongoose/mongoose middlewares.md": "9cfe4099d257a486e2438236452b116d80869404084bd801e41f7859ff16f68e",
     "1 - notes/h. library/mongoose/mongoose-aggregate-paginate-v2.md": "8e1e5b020288b248abada8951c1abac6563e5e0717b7b78f26eaa407759d3351",
     "1 - notes/h. library/react/hooks - useEffect.md": "876d8acdf01b15167df5ea12985912bb3466fa59c6c27e3308865c85848f9224",
-    "1 - notes/h. library/dotenv.md": "6ad345447ed7c62dec5d52659c34795c0eafba505f3fae27cb03682f2001a8a9",
+    "1 - notes/h. library/dotenv.md": "1ae119bdc6f50792d044941ffbbdcf36f7f944f5abcb2f45e6e3484cc0ed5f06",
     "1 - notes/h. library/cors/cors solutions.md": "73d426b28a74e7150130ecb27085680aa5bda300152dcc8afef5a0a871b9ee5a",
     "1 - notes/h. library/cors/cors.md": "85d2bcb00de58ff470b6239812d3e830bb4d513abe73e15abb0abddec083426f",
     "1 - notes/h. library/cors/cors brief intro.md": "f9769088be8d3040ec0f4ed5b3c14d4bcb133a696fb38a522aeba4415933bf03",
@@ -330,6 +330,8 @@
     "0 - inbox/js arrow function.md": "c34431834c6d6cf5d1fa127e6c2240ac0b2d0e5027b937c241f00a84bb97c73e",
     "0 - inbox/react redux.md": "612824a7bcb2816a79e3edd20e7a9417899e4d99b682ce9a98eda146ce29f904",
     "0 - inbox/redux toolkit reducer or slice.md": "233c9bd6f2bf12785aa4446f486592f9c31f5e08a1bcad0e004d2c5d1d394df7",
-    "0 - inbox/react redux provider.md": "7361f8b04120f21039e1099ac78723224bb019f8097d15136f6d6f49ec4e6b62"
+    "0 - inbox/react redux provider.md": "7361f8b04120f21039e1099ac78723224bb019f8097d15136f6d6f49ec4e6b62",
+    "0 - inbox/react - env.md": "5912a4d630e8a1fb05931c4650eee30f22a9216963b43a0aea118873f2297fc4",
+    "0 - inbox/js class methods.md": "ddfa137869bf6037ac2431a1a1e6b6d068c1b7c6d89ecaae887d1bb8fee4f80c"
   }
 }
