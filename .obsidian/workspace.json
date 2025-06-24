@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c0cd4989ec67435d",
+        "id": "0df868f9c9d5a575",
         "type": "tabs",
         "children": [
           {
-            "id": "04341426dcad1465",
+            "id": "ee5ed0fc24a862bf",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,19 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "JS-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/JS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"JS-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":10},\"to\":{\"line\":36,\"ch\":10}},\"scroll\":21.126581492284203}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/javascript/js oops.md",
+                "file": "0 - inbox/react redux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,44 +37,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "js oops"
-            }
-          },
-          {
-            "id": "52bd0426e9ec7ef8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/js class methods.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "js class methods"
+              "title": "react redux"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -404,34 +364,34 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "52bd0426e9ec7ef8",
+  "active": "ee5ed0fc24a862bf",
   "lastOpenFiles": [
-    "0 - inbox/js class methods.md",
-    "1 - notes/b. languages/javascript/js oops.md",
+    "1 - notes/b. languages/javascript/import and export in js.md",
+    "1 - notes/b. languages/javascript/import and export in es module js.md",
+    "1 - notes/b. languages/javascript/import and export in cjs.md",
     "3 - moc/sub-mocs/JS-MOC.md",
+    "1 - notes/b. languages/javascript/js oops.md",
+    "0 - inbox/redux toolkit reducer or slice.md",
+    "0 - inbox/redux toolkit.md",
+    "0 - inbox/redux toolkit store.md",
+    "0 - inbox/redux.md",
+    "0 - inbox/js class methods.md",
     "1 - notes/b. languages/javascript/js - objects.md",
     "1 - notes/h. library/dotenv.md",
     "3 - moc/sub-mocs/Node-JS-MOC.md",
     "3 - moc/sub-mocs/React-MOC.md",
     "0 - inbox/react - env.md",
     "1 - notes/h. library/react/react - hooks.md",
-    "0 - inbox/redux toolkit.md",
     "0 - inbox/react redux hook useSelector.md",
     "0 - inbox/js arrow function.md",
     "1 - notes/b. languages/javascript/js - functions.md",
     "0 - inbox/react redux.md",
     "0 - inbox/react redux provider.md",
-    "0 - inbox/redux.md",
-    "0 - inbox/redux toolkit reducer or slice.md",
-    "0 - inbox/redux toolkit store.md",
     "0 - inbox/react redux hook useDispatch.md",
     "0 - inbox/react redux hook useDispatch basics.md",
     "1 - notes/h. library/react/react - context.md",
     "0 - inbox/react noob way to use context.md",
     "0 - inbox/react pro way to use context code.md",
-    "1 - notes/h. library/react/react -  key prop.md",
-    "1 - notes/h. library/react/hooks - useEffect.md",
-    "1 - notes/h. library/json/json methods brief.md",
     "98 - attachments/Recording 20250616183328.m4a",
     "98 - attachments/Recording 20250616183748.m4a",
     "98 - attachments/Recording 20250616183216.m4a",

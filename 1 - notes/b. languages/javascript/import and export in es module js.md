@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-28T03:59
-updated: 2025-06-16T15:25
+updated: 2025-06-23T23:39
 ---
 ---
 
@@ -28,9 +28,7 @@ import db from './db/db.js' // writing db instead of connectDB
 There are **two ways to export:**
 
 - **Named Export**
-    
 - **Default Export**
-    
 
 ---
 

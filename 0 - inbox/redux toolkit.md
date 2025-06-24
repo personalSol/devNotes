@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-19T19:41
-updated: 2025-06-21T02:18
+updated: 2025-06-23T21:55
 ---
 ---
 
@@ -15,7 +15,6 @@ redux toolkit was better than any other previous libraries as it had:
 #### naming convention
 - reducers are called slices here
 - we add `Slice` at the end of name for any slice we create like `todoSlice.js`
-
 
 #### syntax
 - [[redux toolkit store]]
