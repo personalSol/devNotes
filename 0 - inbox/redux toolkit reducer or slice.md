@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-21T00:22
-updated: 2025-06-21T02:19
+updated: 2025-06-24T10:54
 ---
 ---
 
@@ -53,7 +53,8 @@ export default todoSlice.reducer;
 
 ```
 
-
+- reducer: (from what i understood) it is the medium through which we modify state in store
+	- basically we have multiple mini stores so what will update and how functionality is inside reducer
 - slice contains: 
 	- name, initialState, reducers :{key: property, key: function}
 - the name we give while creating slice is the name which will be shown in tools like redux dev extension

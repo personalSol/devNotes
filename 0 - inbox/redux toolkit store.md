@@ -2,10 +2,11 @@
 status: newBorn
 related-links: 
 created: 2025-06-21T00:19
-updated: 2025-06-21T02:17
+updated: 2025-06-24T10:53
 ---
 ---
 
+- store: which basically stores all contexts/state ( there can be multiple context ) 
 - used to store all the reducers in one place so that store have all the reducers react to be accessed
 - single source of truth
 - it has configureStore

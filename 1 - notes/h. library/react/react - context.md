@@ -2,7 +2,7 @@
 status: newBorn
 related-links: "[[React-MOC]]"
 created: 2025-04-26T11:36
-updated: 2025-06-17T14:40
+updated: 2025-06-24T10:50
 ---
 ---
 
@@ -14,9 +14,8 @@ updated: 2025-06-17T14:40
 	- [[react pro way to use context code]]
 	- 
 - Context
-	- [[react redux]]
+	- [[redux]]
 	- [[zustand]]
-	- redux toolkit ( RTK)
 
 
 # Reference

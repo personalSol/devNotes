@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-19T19:41
-updated: 2025-06-23T21:55
+updated: 2025-06-24T10:55
 ---
 ---
 
@@ -19,6 +19,6 @@ redux toolkit was better than any other previous libraries as it had:
 #### syntax
 - [[redux toolkit store]]
 - [[redux toolkit reducer or slice]]
-- [[react redux hook useSelector]]
-- [[react redux hook useDispatch]]
-- 
+- two hooks:
+	- useSelector - [[react redux hook useSelector]]
+	- useDispatch - [[react redux hook useSelector]]
