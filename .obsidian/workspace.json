@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8b1925a53994faa8",
+        "id": "5eac6051542caa4d",
         "type": "tabs",
         "children": [
           {
-            "id": "1a3277257fd95a57",
+            "id": "975b1ffd660a3d05",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,14 +16,40 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Tasks for coding",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/Tasks for coding.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Tasks for coding\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":2.272727272727273}"
+                },
+                {
+                  "title": "regex",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/regex.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"regex\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":180},\"to\":{\"line\":8,\"ch\":180}},\"scroll\":2.4155844155844157}"
                 }
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/z. others/Youtubers for programming.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Youtubers for programming"
             }
           }
         ]
@@ -107,7 +133,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "b383a8782596b7d0",
@@ -129,6 +156,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "1 - notes/z. others/Youtubers for programming.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -156,7 +184,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Youtubers for programming"
             }
           }
         ]
@@ -403,8 +431,16 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "1a3277257fd95a57",
+  "active": "975b1ffd660a3d05",
   "lastOpenFiles": [
+    "1 - notes/z. others/Tasks for coding.md",
+    "0 - inbox/regex.md",
+    "0 - inbox/hooks- useRef.md",
+    "0 - inbox/react forwardRef with useRef.md",
+    "0 - inbox/react forwardRef explaination.md",
+    "1 - notes/h. library/react/react - hooks.md",
+    "0 - inbox/hooks - useId.md",
+    "1 - notes/h. library/react/Hooks - useState.md",
     "0 - inbox/redux.md",
     "0 - inbox/full code example of redux.md",
     "0 - inbox/redux toolkit.md",
@@ -423,14 +459,6 @@
     "3 - moc/sub-mocs/JS-MOC.md",
     "1 - notes/b. languages/javascript/js oops.md",
     "0 - inbox/js class methods.md",
-    "1 - notes/b. languages/javascript/js - objects.md",
-    "1 - notes/h. library/dotenv.md",
-    "3 - moc/sub-mocs/Node-JS-MOC.md",
-    "3 - moc/sub-mocs/React-MOC.md",
-    "0 - inbox/react - env.md",
-    "1 - notes/h. library/react/react - hooks.md",
-    "0 - inbox/js arrow function.md",
-    "1 - notes/b. languages/javascript/js - functions.md",
     "98 - attachments/Recording 20250616183328.m4a",
     "98 - attachments/Recording 20250616183748.m4a",
     "98 - attachments/Recording 20250616183216.m4a",

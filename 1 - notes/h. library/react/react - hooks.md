@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[React-MOC]]"
 created: 2025-04-22T16:46
-updated: 2025-06-16T19:47
+updated: 2025-06-24T16:08
 ---
 ---
 
@@ -35,18 +35,10 @@ updated: 2025-06-16T19:47
 		- **memoizes** the function, meaning it creates a new version of the function only when its dependencies change.
 		- it only stores the values in cache and not run them
 		- it is used for function and prevents it from being recreated and only recreates when one of the dependencies of useCallBack changes
-- ref hooks
-	- use it when we want to work directly with DOM
-	- ![[Pasted image 20250426203121.png]]
-	- in this we first import it
-	- create a variable and assisiate it to `useRef(<initial_value`) 
-	- then we use `ref={variable}` to associate that variable with the element that we write it inside
-	- after that we can perform any actions on that element using that variable
+- ref hooks - [[hooks- useRef]]
 - Random hooks
-	- useID
-		- use to generate random id which can be use.
-		- shouldn't be use to generate keys
-	- [[react hook - useNavigate]]
+	- useID - [[hooks - useId]]
+	- useNavigate - [[react hook - useNavigate]]
 	- 
 
 

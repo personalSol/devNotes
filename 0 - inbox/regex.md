@@ -2,9 +2,11 @@
 status: newBorn
 related-links: 
 created: 2025-06-12T10:42
-updated: 2025-06-12T10:42
+updated: 2025-06-24T21:16
 ---
 ---
+
+> actually we just need to know regex like things exist and we know it's concept. now so we can get a regex generated from gpt or take already generated regex from other users from : [RegExr: Learn, Build, & Test RegEx](https://regexr.com/)
 
 ## ✅ What is Regex?
 
