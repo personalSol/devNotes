@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "MOC-LIST",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/MOC-LIST.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"MOC-LIST\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":10.544304116836933}"
+                },
+                {
+                  "title": "Youtubers for programming",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/Youtubers for programming.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Youtubers for programming\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
                   "title": "Tasks for coding",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/Tasks for coding.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Tasks for coding\"}",
@@ -34,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/z. others/Youtubers for programming.md",
+                "file": "3 - moc/Snippets-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,7 +61,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Youtubers for programming"
+              "title": "Snippets-MOC"
             }
           }
         ]
@@ -156,7 +168,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/z. others/Youtubers for programming.md",
+                "file": "3 - moc/Snippets-MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -179,12 +191,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3628873693012117,
+                  "scale": 0.4038622992957587,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Youtubers for programming"
+              "title": "Graph of Snippets-MOC"
             }
           }
         ]
@@ -433,6 +445,8 @@
   },
   "active": "975b1ffd660a3d05",
   "lastOpenFiles": [
+    "3 - moc/MOC-LIST.md",
+    "1 - notes/z. others/Youtubers for programming.md",
     "1 - notes/z. others/Tasks for coding.md",
     "0 - inbox/regex.md",
     "0 - inbox/hooks- useRef.md",
@@ -457,8 +471,6 @@
     "1 - notes/b. languages/javascript/import and export in es module js.md",
     "1 - notes/b. languages/javascript/import and export in cjs.md",
     "3 - moc/sub-mocs/JS-MOC.md",
-    "1 - notes/b. languages/javascript/js oops.md",
-    "0 - inbox/js class methods.md",
     "98 - attachments/Recording 20250616183328.m4a",
     "98 - attachments/Recording 20250616183748.m4a",
     "98 - attachments/Recording 20250616183216.m4a",
