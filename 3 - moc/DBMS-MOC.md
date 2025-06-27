@@ -14,6 +14,7 @@ here will be all the notes around DBMS-MOC which is a part of main MOC - [[MOC-L
 - [[basics of data and information]]
 - [[basic of database]]
 - [[noSQL databases]]
+- [[sql databases]]
 - 
 
 
