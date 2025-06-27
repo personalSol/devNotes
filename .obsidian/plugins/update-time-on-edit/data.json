@@ -284,7 +284,7 @@
     "0 - inbox/basics of data and information.md": "7c92ae8a0a9879dbb181787fa263d8633f4638c4b36d44bf7147517547f92d8c",
     "0 - inbox/basic of database.md": "7b613fab003a2f7a78031152237f2d0836b789b99934601ef2c820b0f5a1a116",
     "0 - inbox/dbms cheatsheet.md": "c3f975ee45a163a10b4a3d47c1cad556bb07077d19389e783fc115c5c6e1c79b",
-    "0 - inbox/noSQL databases.md": "6b6fceeb6c818e7e14975e5fdd6a5e3b1b24643d6c851ac4e809b05aa1ed573e",
+    "0 - inbox/noSQL databases.md": "54df9a824d9802b53fb02cd773260693b8e72c8e9f120eedee0912fe23559c9b",
     "0 - inbox/mongodb basics.md": "d99ffd5cbafa3459ffdeeb58bc57974d56ba6e3dce7a363c9a6c78f2b3e17365",
     "0 - inbox/cluster.md": "207e51f17f499acd5daf856e8c67abdd0c5eeb13f5562b76ab6c39a00a21e483",
     "1 - notes/h. library/mongoose/mongoose different ways to do things.md": "886f3ab4030f478f1b2916e4f36224e77869e19dd92d19f70356995c164ca59a",
@@ -351,6 +351,20 @@
     "0 - inbox/notes from notion v2.md": "b2db78ff6134a9cbb7f5112871de01dcca192b9b7966daa28201f4c6a2edaf25",
     "0 - inbox/postgreSQL cheatsheet.md": "9855e7dadc976e75be7090ba309ea152f4ecdc84cc2c2b24e9fb28e58d6a383b",
     "0 - inbox/postgreSQL data types.md": "13ca6e7b6edf5cd7b7396d17c73ee41fd8bff53ea6dc56a3f3d73f32486c1f7c",
-    "0 - inbox/postgres quotes error theory.md": "be7e536c3ed78651cc070d3d2ea0658d5969d2a6f864bb60b060a8f3ade62bd9"
+    "0 - inbox/postgres quotes error theory.md": "be7e536c3ed78651cc070d3d2ea0658d5969d2a6f864bb60b060a8f3ade62bd9",
+    "0 - inbox/snp api response.md": "b07b580786febe8c56b6008c0e0d9c354cca95eb21b48a3b7eb962e8f9d06ac8",
+    "0 - inbox/snp api error.md": "22997ddabd7a3616ee5558f0e88dd03fe1d7548b54904e4a1d416600d5d1cb84",
+    "0 - inbox/snp async handler.md": "0ae8956122485b8ee644c4f4ad288ab39045fd3a946c7d26dacae8bc02ead0f0",
+    "0 - inbox/snp prettier ignore.md": "4ac3980cbaca3c3e39624b787f8d151b12d4648977a7a9fc6abc374c84bae4f1",
+    "0 - inbox/snp prettierrc.md": "85f586f51d3cecf50e80ff2633a5cc3f8d7fc9b5c7c0e3e7d4b81301480d9dc8",
+    "0 - inbox/snp db connection file.md": "914781936137ae9ee09aece79f37133ba0ca159fa5eacbf3fb9367fa55507c0e",
+    "0 - inbox/snp express index.md": "e4b81e0e0fc16b3b6995353201af72d9e130070938b8c98546a45ef086706fed",
+    "0 - inbox/snp express app file.md": "a78bef257920d849f6d300cc0363d4601efc4541ba6d4c31eea9e536e62dce8c",
+    "4 - sources/courses/dbms by code help/Lecture 1 Introduction to DBMS.md": "23c756505bf38f54ae64a4f2e9fce8938fb7ce30daf59b20661c66cdd16675e3",
+    "4 - sources/courses/dbms by code help/Lecture 2 DBMS Architecture.md": "342c15d8f0920b6eac9915127c85c04dd35d0d90ba8e17bba8db0a23806128bd",
+    "4 - sources/courses/dbms by code help/Lecture 3.md": "df3c24aa42f3ef91fd779b9f60784ae978ef1e12545d66ae1f32a7172fca5728",
+    "4 - sources/courses/dbms by code help/Lecture 4.md": "49b1fc357f7a72c0d729fb93bf177d0beea64fba7469c4fb6fd6180975bd66dd",
+    "4 - sources/courses/dbms by code help/lect 7.md": "febb1c701046de614bfa5840c5ba71739a78c3d642448f5a8a1d8bb63eb4db12",
+    "4 - sources/courses/dbms by code help/lect 8.md": "97dbb24e66ea1f9a72cbe506a00bab4330d461ce913dd9a9ba2cef4b085feea2"
   }
 }

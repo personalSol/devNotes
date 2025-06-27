@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1109af2db827ef2d",
+        "id": "faccb3a3074d9419",
         "type": "tabs",
         "children": [
           {
-            "id": "977e8f75d9c37879",
+            "id": "f8c8f30af23ad2a3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,188 +18,53 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "basic of database",
+                  "title": "lect 7",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/basic of database.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"basic of database\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":14},\"to\":{\"line\":20,\"ch\":14}},\"scroll\":12.303030090664807}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/noSQL databases.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "noSQL databases"
-            }
-          },
-          {
-            "id": "b84677017232d5e8",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/dbms by code help/lect 7.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"lect 7\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":99,\"ch\":0},\"to\":{\"line\":99,\"ch\":0}},\"scroll\":75.90191652617084}"
                 },
                 {
-                  "title": "sql databases",
+                  "title": "Lecture 4",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/sql databases.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"sql databases\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":17},\"to\":{\"line\":11,\"ch\":17}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/postgreSQL cheatsheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "postgreSQL cheatsheet"
-            }
-          },
-          {
-            "id": "eb99ef864d975c77",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/dbms by code help/Lecture 4.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lecture 4\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":7},\"to\":{\"line\":8,\"ch\":16}},\"scroll\":0}"
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/postgreSQL data types.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "postgreSQL data types"
-            }
-          },
-          {
-            "id": "194d9b6454cc84ae",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                  "title": "Lecture 2 DBMS Architecture",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/dbms by code help/Lecture 2 DBMS Architecture.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lecture 2 DBMS Architecture\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":24.118749141693115}"
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/notes from notion v2.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "notes from notion v2"
-            }
-          },
-          {
-            "id": "cf297dcd4fd3989d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                  "title": "Lecture 3",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/dbms by code help/Lecture 3.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lecture 3\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":70,\"ch\":20},\"to\":{\"line\":70,\"ch\":20}},\"scroll\":38.016187351575866}"
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/notes from notion v1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "notes from notion v1"
-            }
-          },
-          {
-            "id": "906350edcacee423",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                  "title": "Lecture 2 DBMS Architecture",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/dbms by code help/Lecture 2 DBMS Architecture.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lecture 2 DBMS Architecture\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "Lecture 1 Introduction to DBMS",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/dbms by code help/Lecture 1 Introduction to DBMS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lecture 1 Introduction to DBMS\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "DBMS-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/DBMS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"DBMS-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":9.8670886454149}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/sql case sensitivity.md",
+                "file": "4 - sources/courses/dbms by code help/lect 8.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -214,11 +79,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "sql case sensitivity"
+              "title": "lect 8"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -321,7 +185,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/postgreSQL cheatsheet.md",
+                "file": "4 - sources/courses/dbms by code help/lect 8.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -349,7 +213,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of postgreSQL cheatsheet"
+              "title": "Graph of lect 8"
             }
           }
         ]
@@ -382,13 +246,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/postgreSQL cheatsheet.md",
+                "file": "4 - sources/courses/dbms by code help/lect 8.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of postgreSQL cheatsheet"
+              "title": "Outline of lect 8"
             }
           },
           {
@@ -595,35 +459,38 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b84677017232d5e8",
+  "active": "f8c8f30af23ad2a3",
   "lastOpenFiles": [
+    "4 - sources/courses/dbms by code help/lect 7.md",
+    "4 - sources/courses/dbms by code help/lect 8.md",
+    "4 - sources/courses/dbms by code help/Lecture 4.md",
+    "4 - sources/courses/dbms by code help/Lecture 2 DBMS Architecture.md",
+    "4 - sources/courses/dbms by code help/Lecture 3.md",
+    "4 - sources/courses/dbms by code help/Lecture 1 Introduction to DBMS.md",
+    "98 - attachments/Pasted image 20250627115455.png",
+    "3 - moc/DBMS-MOC.md",
+    "4 - sources/courses/dbms by code help",
+    "0 - inbox/snp api response.md",
+    "0 - inbox/snp api error.md",
+    "0 - inbox/snp async handler.md",
+    "0 - inbox/snp prettier ignore.md",
+    "3 - moc/Snippets-MOC.md",
+    "0 - inbox/snp express app file.md",
+    "0 - inbox/snp express index.md",
+    "0 - inbox/snp db connection file.md",
+    "0 - inbox/snp prettierrc.md",
+    "1 - notes/y. snippets",
+    "0 - inbox/sql case sensitivity.md",
+    "0 - inbox/notes from notion v1.md",
+    "0 - inbox/notes from notion v2.md",
+    "0 - inbox/postgreSQL data types.md",
     "0 - inbox/noSQL databases.md",
+    "0 - inbox/postgreSQL cheatsheet.md",
     "4 - sources/courses/ChaiAurCode SQL course.md",
     "0 - inbox/sql databases.md",
     "0 - inbox/postgres quotes error theory.md",
-    "3 - moc/DBMS-MOC.md",
-    "0 - inbox/postgreSQL cheatsheet.md",
-    "0 - inbox/postgreSQL data types.md",
-    "0 - inbox/notes from notion v2.md",
-    "0 - inbox/notes from notion v1.md",
-    "0 - inbox/sql case sensitivity.md",
     "0 - inbox/sql databases basics.md",
     "98 - attachments/Recording 20250626175237.m4a",
-    "0 - inbox/basic of database.md",
-    "0 - inbox/kafka.md",
-    "0 - inbox/react why not plain global file for context.md",
-    "1 - notes/b. languages/css/CSS usecase code sheet.md",
-    "3 - moc/Snippets-MOC.md",
-    "3 - moc/MOC-LIST.md",
-    "1 - notes/z. others/Youtubers for programming.md",
-    "1 - notes/z. others/Tasks for coding.md",
-    "0 - inbox/regex.md",
-    "0 - inbox/hooks- useRef.md",
-    "0 - inbox/react forwardRef with useRef.md",
-    "0 - inbox/react forwardRef explaination.md",
-    "1 - notes/h. library/react/react - hooks.md",
-    "0 - inbox/hooks - useId.md",
-    "1 - notes/h. library/react/Hooks - useState.md",
     "98 - attachments/Recording 20250616183328.m4a",
     "98 - attachments/Recording 20250616183748.m4a",
     "98 - attachments/Recording 20250616183216.m4a",
@@ -638,11 +505,8 @@
     "98 - attachments/Pasted image 20250614223215.png",
     "98 - attachments/Screenshot_2024-09-15_at_6.43.20_PM.webp",
     "98 - attachments/Screenshot_2024-09-14_at_6.29.28_PM.webp",
-    "98 - attachments/Screenshot_2024-09-14_at_6.47.59_PM.webp",
     "1 - notes/h. library/json",
     "1 - notes/k. web-dev/node",
-    "1 - notes/h. library/cookie-parser",
-    "1 - notes/k. web-dev/auth",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",
