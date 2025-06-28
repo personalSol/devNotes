@@ -281,8 +281,7 @@
     "1 - notes/a. concepts/term - cascading.md": "b9f97adb9e5f8afe2cda62fa587d5f6ff72f65ea110d0fd1c84cb9296791fdfd",
     "1 - notes/c. tools/mongoDB/mongodb atlas basics.md": "4dc4940c6fe41a3dba4f51dcd95338d9056ed1352654e3e4003c4fa654c3ef4c",
     "1 - notes/c. tools/mongoDB/mongodb things to remember.md": "97352356584e43ac5435a097c3b8d389eaa154e67eed092f70792a1796d6af32",
-    "0 - inbox/basics of data and information.md": "7c92ae8a0a9879dbb181787fa263d8633f4638c4b36d44bf7147517547f92d8c",
-    "0 - inbox/basic of database.md": "7b613fab003a2f7a78031152237f2d0836b789b99934601ef2c820b0f5a1a116",
+    "0 - inbox/basic of database.md": "51a2ac22a24f3c6ed6cc0bf510d5634ebdc7ba72eb692848fcda52f4da28f379",
     "0 - inbox/dbms cheatsheet.md": "c3f975ee45a163a10b4a3d47c1cad556bb07077d19389e783fc115c5c6e1c79b",
     "0 - inbox/noSQL databases.md": "54df9a824d9802b53fb02cd773260693b8e72c8e9f120eedee0912fe23559c9b",
     "0 - inbox/mongodb basics.md": "d99ffd5cbafa3459ffdeeb58bc57974d56ba6e3dce7a363c9a6c78f2b3e17365",
@@ -360,11 +359,16 @@
     "0 - inbox/snp db connection file.md": "914781936137ae9ee09aece79f37133ba0ca159fa5eacbf3fb9367fa55507c0e",
     "0 - inbox/snp express index.md": "e4b81e0e0fc16b3b6995353201af72d9e130070938b8c98546a45ef086706fed",
     "0 - inbox/snp express app file.md": "a78bef257920d849f6d300cc0363d4601efc4541ba6d4c31eea9e536e62dce8c",
-    "4 - sources/courses/dbms by code help/Lecture 1 Introduction to DBMS.md": "23c756505bf38f54ae64a4f2e9fce8938fb7ce30daf59b20661c66cdd16675e3",
     "4 - sources/courses/dbms by code help/Lecture 2 DBMS Architecture.md": "342c15d8f0920b6eac9915127c85c04dd35d0d90ba8e17bba8db0a23806128bd",
     "4 - sources/courses/dbms by code help/Lecture 3.md": "df3c24aa42f3ef91fd779b9f60784ae978ef1e12545d66ae1f32a7172fca5728",
     "4 - sources/courses/dbms by code help/Lecture 4.md": "49b1fc357f7a72c0d729fb93bf177d0beea64fba7469c4fb6fd6180975bd66dd",
     "4 - sources/courses/dbms by code help/lect 7.md": "febb1c701046de614bfa5840c5ba71739a78c3d642448f5a8a1d8bb63eb4db12",
-    "4 - sources/courses/dbms by code help/lect 8.md": "97dbb24e66ea1f9a72cbe506a00bab4330d461ce913dd9a9ba2cef4b085feea2"
+    "4 - sources/courses/dbms by code help/lect 8.md": "97dbb24e66ea1f9a72cbe506a00bab4330d461ce913dd9a9ba2cef4b085feea2",
+    "0 - inbox/basics of DBMS.md": "68497db9f032eb22a138e45a53639e948a93760adb1a2884ad0f7ae0c5c742df",
+    "0 - inbox/terms for DBMS.md": "873a932b11bcec76ce59527a71da915d9b346b2193ec4c487f9fa1d687a1f7f0",
+    "0 - inbox/data redundancy.md": "33ba4315ea4f935607dc4b085040bbe4a74a21eb464ba94e05c1dbf2f927930e",
+    "0 - inbox/data inconsistency.md": "4c3c44df93a8a2809b1f3bce3c8366a8caa55fecdcaadc4794322e6250624be1",
+    "0 - inbox/atomicity.md": "64c6b28809c4d5ab8d77001998b82d965889d734a8fd04901de8f702fc691c8a",
+    "4 - sources/courses/dbms by code help/Lecture 1 Introduction to DBMS.md": "ac8013ccb5d4739e41334c95c45f0fc90a7d00b113fea63c4f8292164c5fb4ff"
   }
 }

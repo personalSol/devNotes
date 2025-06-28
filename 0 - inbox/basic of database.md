@@ -2,18 +2,42 @@
 status: newBorn
 related-links: 
 created: 2025-06-11T12:27
-updated: 2025-06-26T17:50
+updated: 2025-06-27T18:16
 ---
 ---
 
-### 5. What is Database?
-a. Electronic place/system where data is stored for easy access, **management**, and **updating**  
-b. Requires **Database Management Systems (DBMS)**
+#### 🟩 What is a Database?
 
-### 6. What is DBMS?
-a. Collection of **interrelated data** + programs to access that data  
-b. Primary goal: Store/retrieve database information conveniently and efficiently  
-c. Performs operations: **addition**, **access**, **updating**, **deletion**
+* Electronic system to store data.
+* Allows easy access, management, and updates.
+* Requires a DBMS to be useful.
+
+#### 🟩 What is DBMS?
+
+* Software + data = DBMS.
+* A system to store and retrieve data efficiently.
+* Supports operations: create, read, update, delete (CRUD).
+
+![[Pasted image 20250627115455.png||400]]
+
+#### 🟩 File System vs DBMS
+
+**Problems with File Systems:**
+
+* [[data redundancy]] 
+* [[data inconsistency]]
+* Difficult data access
+* Data isolation.
+* [[data integrity]]
+* [[atomicity]]
+* Concurrent-access anomalies.
+* Security limitations.
+
+**Advantages of DBMS (i.e., solves all the above):**
+
+* Eliminates redundancy and inconsistency.
+* Easier data access and manipulation.
+* Better integrity, security, and concurrency control.
 
 ### Types of databases
 

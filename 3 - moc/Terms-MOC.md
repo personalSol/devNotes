@@ -23,6 +23,7 @@ here will be all the notes around Terms-MOC
 ## terms related to a specific field
 
 - [[terms for AI]]
+- [[terms for DBMS]]
 - 
 
 
