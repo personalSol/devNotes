@@ -2,12 +2,9 @@
 status: newBorn
 related-links: 
 created: 2025-06-08T10:02
-updated: 2025-06-08T10:02
+updated: 2025-06-28T09:16
 ---
 ---
-
-# C++ STL Notes
-
 ## Containers
 
 - **Vector**: A dynamic array that allows fast random access. Example: `std::vector<int> numbers = {1, 2, 3, 4};`
