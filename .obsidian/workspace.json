@@ -82,13 +82,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "cpp vector functions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/cpp vector functions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp vector functions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/cpp vector functions.md",
+                "file": "3 - moc/MOC-LIST.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -103,7 +109,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cpp vector functions"
+              "title": "MOC-LIST"
             }
           },
           {
@@ -282,7 +288,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/atomicity.md",
+                "file": "3 - moc/MOC-LIST.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -305,20 +311,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.4038622992957587,
+                  "scale": 0.3822680384845022,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of atomicity"
+              "title": "Graph of MOC-LIST"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -560,9 +565,11 @@
   },
   "active": "f490dc88a561627b",
   "lastOpenFiles": [
+    "3 - moc/Programming-Language-Concepts-MOC.md",
+    "3 - moc/MOC-LIST.md",
+    "0 - inbox/cpp vector functions.md",
     "0 - inbox/cpp vectors code.md",
     "1 - notes/b. languages/cpp/cpp datatypes.md",
-    "0 - inbox/cpp vector functions.md",
     "1 - notes/b. languages/cpp/cpp - vectors.md",
     "0 - inbox/cpp vectors basic.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
@@ -584,8 +591,6 @@
     "0 - inbox/atomicity.md",
     "4 - sources/courses/dbms by code help/Lecture 1 Introduction to DBMS.md",
     "0 - inbox/data inconsistency.md",
-    "1 - notes/a. concepts/data integrity.md",
-    "1 - notes/a. concepts/secure systems.md",
     "98 - attachments/Pasted image 20250627115455.png",
     "4 - sources/courses/dbms by code help",
     "1 - notes/y. snippets",
