@@ -28,6 +28,7 @@ here will be all the notes around Cpp-MOC which is a part of [[Lang-And-Packages
 - [[cpp enum]]
 - 
 
+
 ### advance
 
 - [[cpp - access modifiers]]

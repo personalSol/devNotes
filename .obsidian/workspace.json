@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aedba3e53e0e6f89",
+            "id": "0be3857e3bfbfb4d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,19 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Cpp-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":23},\"to\":{\"line\":16,\"ch\":23}},\"scroll\":3.186885145844006}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
+                "file": "1 - notes/a. concepts/classes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +37,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cpp - things to remember"
+              "title": "classes"
+            }
+          },
+          {
+            "id": "24ff772656b463d7",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp classes and objects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp classes and objects"
             }
           }
         ]
@@ -149,7 +176,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
+                "file": "1 - notes/a. concepts/classes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,7 +204,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cpp - things to remember"
+              "title": "Graph of classes"
             }
           }
         ]
@@ -424,11 +451,13 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "aedba3e53e0e6f89",
+  "active": "0be3857e3bfbfb4d",
   "lastOpenFiles": [
-    "3 - moc/sub-mocs/Cpp-MOC.md",
-    "1 - notes/b. languages/cpp/cpp - access modifiers.md",
     "1 - notes/b. languages/cpp/cpp classes and objects.md",
+    "1 - notes/a. concepts/classes.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
+    "1 - notes/b. languages/cpp/cpp - things to remember.md",
+    "1 - notes/b. languages/cpp/cpp - access modifiers.md",
     "1 - notes/b. languages/cpp/cpp constructor.md",
     "1 - notes/b. languages/cpp/cpp datatypes.md",
     "1 - notes/b. languages/cpp/cpp stl.md",
@@ -450,8 +479,6 @@
     "0 - inbox/basic of database.md",
     "4 - sources/courses/dbms by code help/lect 8.md",
     "0 - inbox/terms for DBMS.md",
-    "3 - moc/Terms-MOC.md",
-    "0 - inbox/data redundancy.md",
     "98 - attachments/Pasted image 20250627115455.png",
     "4 - sources/courses/dbms by code help",
     "1 - notes/y. snippets",
