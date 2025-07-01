@@ -4,149 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ed2f170f4aea6bc3",
+        "id": "6f24eadbe142884a",
         "type": "tabs",
         "children": [
           {
-            "id": "d3b963d72253e63f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/cpp/cpp stl.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp stl"
-            }
-          },
-          {
-            "id": "9b9575a512b4f188",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/cpp/cpp - vectors.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp - vectors"
-            }
-          },
-          {
-            "id": "f490dc88a561627b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "cpp vector functions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/cpp vector functions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp vector functions\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/MOC-LIST.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MOC-LIST"
-            }
-          },
-          {
-            "id": "4e6c48c48f1fa2fc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/cpp vectors code.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp vectors code"
-            }
-          },
-          {
-            "id": "f0e194b89e46a0ad",
+            "id": "aedba3e53e0e6f89",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -159,14 +21,14 @@
                   "title": "Cpp-MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":14},\"to\":{\"line\":21,\"ch\":14}},\"scroll\":2.8983607057665215}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":23},\"to\":{\"line\":16,\"ch\":23}},\"scroll\":3.186885145844006}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp datatypes.md",
+                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -181,11 +43,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cpp datatypes"
+              "title": "cpp - things to remember"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 - moc/MOC-LIST.md",
+                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -311,12 +172,12 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.3822680384845022,
+                  "scale": 0.27382025064601695,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of MOC-LIST"
+              "title": "Graph of cpp - things to remember"
             }
           }
         ]
@@ -563,17 +424,20 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f490dc88a561627b",
+  "active": "aedba3e53e0e6f89",
   "lastOpenFiles": [
-    "3 - moc/Programming-Language-Concepts-MOC.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
+    "1 - notes/b. languages/cpp/cpp - access modifiers.md",
+    "1 - notes/b. languages/cpp/cpp classes and objects.md",
+    "1 - notes/b. languages/cpp/cpp constructor.md",
+    "1 - notes/b. languages/cpp/cpp datatypes.md",
+    "1 - notes/b. languages/cpp/cpp stl.md",
+    "1 - notes/b. languages/cpp/cpp - vectors.md",
     "3 - moc/MOC-LIST.md",
+    "3 - moc/Programming-Language-Concepts-MOC.md",
     "0 - inbox/cpp vector functions.md",
     "0 - inbox/cpp vectors code.md",
-    "1 - notes/b. languages/cpp/cpp datatypes.md",
-    "1 - notes/b. languages/cpp/cpp - vectors.md",
     "0 - inbox/cpp vectors basic.md",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
-    "1 - notes/b. languages/cpp/cpp stl.md",
     "1 - notes/b. languages/cpp/cpp stl brief.md",
     "1 - notes/b. languages/cpp/cpp - library.md",
     "0 - inbox/cpp - iterators.md",
@@ -588,9 +452,6 @@
     "0 - inbox/terms for DBMS.md",
     "3 - moc/Terms-MOC.md",
     "0 - inbox/data redundancy.md",
-    "0 - inbox/atomicity.md",
-    "4 - sources/courses/dbms by code help/Lecture 1 Introduction to DBMS.md",
-    "0 - inbox/data inconsistency.md",
     "98 - attachments/Pasted image 20250627115455.png",
     "4 - sources/courses/dbms by code help",
     "1 - notes/y. snippets",

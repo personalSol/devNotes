@@ -15,7 +15,7 @@
   "fileHashMap": {
     "97 - templates/Templates-MOC.md": "ecb35f7f8108feddd2763fc38a6225de2221eb7217275e343370ccdfd12a70a2",
     "97 - templates/tmp-inbox.md": "c4dff400490113c9d7c395c87cb30ca2d5900f2aa15e75e81747f6a59e3790b7",
-    "1 - notes/b. languages/cpp/cpp - things to remember.md": "2db44c90b55a83ed283816e90019f50b13bc0e5116f766cc0c3f6d1d157c7ed0",
+    "1 - notes/b. languages/cpp/cpp - things to remember.md": "b762392ea09aff95b69855401f4dce80af9b9a779e7c0e73ada72a34c38bac8d",
     "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md": "521e1b3d66008254d29adef171e2664988eb39f56e543bfca404f3e8a01d474c",
     "3 - moc/sub-mocs/Mongoose-MOC.md": "bf1a5a3b900faadd37190e55e67b5409537cbc5c14479be0304583c009139e78",
     "1 - notes/b. languages/cpp/Cpp cheatsheet.md": "17075c00ed9fe59fe95eb8d1f8fe81eeacf72038aae9e47754a9b333735b7999",
@@ -24,7 +24,7 @@
     "1 - notes/b. languages/cpp/cpp - encapsulation.md": "91ec78a003c66e54a8fbeba9842e5d6de9c04ddec8ec94df9da7aaf420ad9a71",
     "1 - notes/b. languages/cpp/cpp - inheritance.md": "1258b4962c9a7903a88e170d01db26d61ca1f30593c3360855b29f143c929858",
     "1 - notes/b. languages/cpp/cpp - polymorphism.md": "74f3cf1217dd8fb19b59820a0293c06d80ee2b4be24500d42672f18728e4c205",
-    "1 - notes/b. languages/cpp/cpp classes and objects.md": "c841654bd028ad4f0eb953889174ae28b75f82d15beb4ed81ca0545c22962faa",
+    "1 - notes/b. languages/cpp/cpp classes and objects.md": "9797d0a155b91426603431f30c0f1bfef4ca5079baa96cb714a49a136209517c",
     "1 - notes/b. languages/cpp/cpp struct vs class.md": "0da5fa889a042c494466053e466d31b1c141bba572a2e9eb9acef2e3d52ffd77",
     "1 - notes/b. languages/cpp/cpp - pairs.md": "1408f71a4306ff98c45e1e1a8b02ed55c9cc644ab1026bb0bb52a32b70cf0893",
     "1 - notes/b. languages/cpp/cpp - stl.md": "e005705544480baee36fa5234fff7bb34958ad67979b3982d0f30af08ca06794",
@@ -44,7 +44,7 @@
     "1 - notes/b. languages/javascript/about node-js.md": "1456683e10c43082da3d572b81cac614d822fe6937f3a45464dbfeddd4d0271a",
     "1 - notes/b. languages/cpp/cpp pointers.md": "4c2ec123eba8f4d7a9517ac62b7269632a3aabde50e89ce5956f6c48a53e9f6c",
     "1 - notes/b. languages/cpp/cpp - variables.md": "b4347c02c72a2016452435a977366b6c6be5e7d82ef33117cb9d19ee7f5b22ae",
-    "1 - notes/b. languages/cpp/cpp constructor.md": "2464d847da4a4cdb21dde766cf89462101c7ca8effcf92db7486a1cf3757b7d8",
+    "1 - notes/b. languages/cpp/cpp constructor.md": "89946812d43e5e181505e5f7f15732d1343a7b4f0c3de52e596a5ed25e2f2340",
     "1 - notes/b. languages/cpp/cpp destructure.md": "963afce7e2d40398ca038885dc8c6fd773e57ce6ba362e23fcccaa9dee5f3458",
     "1 - notes/b. languages/cpp/cpp enum.md": "032688f6b365d8312997486807f91764307500ce4781c309f94b43b0ed6fc737",
     "1 - notes/b. languages/cpp/cpp enum class.md": "9075bfac070670776df2c3694af4c63caffc377dfc47cdf91866a9a8b55dc70d",
@@ -375,6 +375,7 @@
     "0 - inbox/cpp types of iterators.md": "ff65ba048f928406f62f34c67bf360444df76b4a6d951a939cfb3aebd1da9ae2",
     "0 - inbox/cpp iterators basic.md": "d5361079ebc5ac63bd8560da017137bfd3185d4a35366e80afcd0a489872d2f8",
     "0 - inbox/cpp vectors code.md": "27facf154b2764ebab16c8d854b7271428c6a13486e47b416b90e22e8cf75f51",
-    "0 - inbox/cpp vector functions.md": "c63d797a91aa921127fe4efe1c3180fa788965df86998ca50854a2e2ffe0713f"
+    "0 - inbox/cpp vector functions.md": "c63d797a91aa921127fe4efe1c3180fa788965df86998ca50854a2e2ffe0713f",
+    "1 - notes/b. languages/cpp/cpp - access modifiers.md": "607632f6a33ed79b9660f67b5d68bd38dbcca63854a9b54b51abb8eab213147e"
   }
 }
