@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f24eadbe142884a",
+        "id": "b54f392de16e9ab6",
         "type": "tabs",
         "children": [
           {
-            "id": "0be3857e3bfbfb4d",
+            "id": "17ccd670f9ee60d3",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/a. concepts/classes.md",
+                "file": "1 - notes/z. others/Questions asked in interview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,40 +37,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "classes"
-            }
-          },
-          {
-            "id": "24ff772656b463d7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/cpp/cpp classes and objects.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp classes and objects"
+              "title": "Questions asked in interview"
             }
           }
         ]
@@ -176,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/a. concepts/classes.md",
+                "file": "1 - notes/z. others/Questions asked in interview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -204,7 +171,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of classes"
+              "title": "Graph of Questions asked in interview"
             }
           }
         ]
@@ -451,7 +418,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0be3857e3bfbfb4d",
+  "active": "17ccd670f9ee60d3",
   "lastOpenFiles": [
     "1 - notes/b. languages/cpp/cpp classes and objects.md",
     "1 - notes/a. concepts/classes.md",
