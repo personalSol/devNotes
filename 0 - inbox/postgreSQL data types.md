@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-26T20:44
-updated: 2025-06-26T20:44
+updated: 2025-07-04T16:05
 ---
 ---
 
@@ -175,11 +175,6 @@ updated: 2025-06-26T20:44
 In PostgreSQL, `DECIMAL(5,2)` (also written as `NUMERIC(5,2)`) means:
 
 
-
-#### ❌ Examples of invalid values:
-
-
-    
 
 #### ⚠️ Round-off:
 

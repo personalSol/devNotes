@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "059b62ca8e2dc169",
+        "id": "a27ab80915119007",
         "type": "tabs",
         "children": [
           {
-            "id": "01778267eea4db4b",
+            "id": "3467642395576a9c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,56 +18,29 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "cpp classes and objects",
+                  "title": "sql databases",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp classes and objects.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp classes and objects\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":11},\"to\":{\"line\":9,\"ch\":11}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/sql databases.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"sql databases\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":18},\"to\":{\"line\":12,\"ch\":18}},\"scroll\":0.5610389461765042}"
                 },
                 {
-                  "title": "Cpp-MOC",
+                  "title": "basic of database",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":22},\"to\":{\"line\":25,\"ch\":22}},\"scroll\":17.316454968072733}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/cpp/cpp constructor.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp constructor"
-            }
-          },
-          {
-            "id": "e0f42570642c3b13",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/basic of database.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"basic of database\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":13},\"to\":{\"line\":43,\"ch\":13}},\"scroll\":35.224998474121094}"
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "DBMS-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/DBMS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"DBMS-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":13},\"to\":{\"line\":14,\"ch\":13}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp objects.md",
+                "file": "0 - inbox/postgreSQL data types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -82,73 +55,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cpp objects"
-            }
-          },
-          {
-            "id": "ad5be2a81d58e36d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/cpp/cpp pointers.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp pointers"
-            }
-          },
-          {
-            "id": "caf35ab38e649036",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp - things to remember"
+              "title": "postgreSQL data types"
             }
           }
         ]
@@ -202,7 +109,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "redux",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -232,7 +139,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b383a8782596b7d0",
@@ -254,7 +162,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp constructor.md",
+                "file": "0 - inbox/postgreSQL data types.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -282,7 +190,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cpp constructor"
+              "title": "Graph of postgreSQL data types"
             }
           }
         ]
@@ -529,16 +437,22 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "01778267eea4db4b",
+  "active": "3467642395576a9c",
   "lastOpenFiles": [
+    "0 - inbox/sql databases.md",
+    "0 - inbox/postgreSQL cheatsheet.md",
+    "0 - inbox/notes from notion v1.md",
+    "0 - inbox/sql databases basics.md",
+    "0 - inbox/basic of database.md",
+    "3 - moc/DBMS-MOC.md",
+    "1 - notes/b. languages/cpp/cpp - things to remember.md",
+    "1 - notes/b. languages/cpp/cpp pointers.md",
+    "1 - notes/b. languages/cpp/cpp objects.md",
+    "1 - notes/b. languages/cpp/cpp constructor.md",
     "1 - notes/b. languages/cpp/cpp classes and objects.md",
     "1 - notes/b. languages/cpp/cpp destructure.md",
-    "1 - notes/b. languages/cpp/cpp constructor.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
     "0 - inbox/cpp dynamic memory allocation.md",
-    "1 - notes/b. languages/cpp/cpp objects.md",
-    "1 - notes/b. languages/cpp/cpp pointers.md",
-    "1 - notes/b. languages/cpp/cpp - things to remember.md",
     "0 - inbox/cpp sizeof objects.md",
     "1 - notes/a. concepts/objects.md",
     "1 - notes/z. others/Questions asked in interview.md",
@@ -551,12 +465,6 @@
     "3 - moc/Programming-Language-Concepts-MOC.md",
     "0 - inbox/cpp vector functions.md",
     "0 - inbox/cpp vectors code.md",
-    "0 - inbox/cpp vectors basic.md",
-    "1 - notes/b. languages/cpp/cpp stl brief.md",
-    "1 - notes/b. languages/cpp/cpp - library.md",
-    "0 - inbox/cpp - iterators.md",
-    "0 - inbox/cpp iterators basic.md",
-    "0 - inbox/cpp types of iterators.md",
     "98 - attachments/Pasted image 20250627115455.png",
     "4 - sources/courses/dbms by code help",
     "1 - notes/y. snippets",
