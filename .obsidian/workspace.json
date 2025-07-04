@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b54f392de16e9ab6",
+        "id": "059b62ca8e2dc169",
         "type": "tabs",
         "children": [
           {
-            "id": "17ccd670f9ee60d3",
+            "id": "01778267eea4db4b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,25 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "cpp classes and objects",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp classes and objects.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp classes and objects\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":14},\"to\":{\"line\":9,\"ch\":14}},\"scroll\":0}"
+                },
+                {
+                  "title": "Cpp-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":25,\"ch\":22},\"to\":{\"line\":25,\"ch\":22}},\"scroll\":17.316454968072733}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/z. others/Questions asked in interview.md",
+                "file": "1 - notes/b. languages/cpp/cpp constructor.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +49,106 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Questions asked in interview"
+              "title": "cpp constructor"
+            }
+          },
+          {
+            "id": "e0f42570642c3b13",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp objects.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp objects"
+            }
+          },
+          {
+            "id": "ad5be2a81d58e36d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp pointers.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp pointers"
+            }
+          },
+          {
+            "id": "caf35ab38e649036",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp - things to remember"
             }
           }
         ]
@@ -143,7 +254,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/z. others/Questions asked in interview.md",
+                "file": "1 - notes/b. languages/cpp/cpp constructor.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +282,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Questions asked in interview"
+              "title": "Graph of cpp constructor"
             }
           }
         ]
@@ -418,12 +529,18 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "17ccd670f9ee60d3",
+  "active": "01778267eea4db4b",
   "lastOpenFiles": [
     "1 - notes/b. languages/cpp/cpp classes and objects.md",
-    "1 - notes/a. concepts/classes.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
+    "0 - inbox/cpp dynamic memory allocation.md",
+    "1 - notes/b. languages/cpp/cpp objects.md",
+    "1 - notes/b. languages/cpp/cpp pointers.md",
     "1 - notes/b. languages/cpp/cpp - things to remember.md",
+    "0 - inbox/cpp sizeof objects.md",
+    "1 - notes/a. concepts/objects.md",
+    "1 - notes/z. others/Questions asked in interview.md",
+    "1 - notes/a. concepts/classes.md",
     "1 - notes/b. languages/cpp/cpp - access modifiers.md",
     "1 - notes/b. languages/cpp/cpp constructor.md",
     "1 - notes/b. languages/cpp/cpp datatypes.md",
@@ -440,12 +557,6 @@
     "0 - inbox/cpp iterators basic.md",
     "0 - inbox/cpp types of iterators.md",
     "1 - notes/b. languages/cpp/cpp - pairs.md",
-    "3 - moc/DSA-MOC.md",
-    "1 - notes/a. concepts/DSA Approaches.md",
-    "1 - notes/g. dsa/dsa  - resources.md",
-    "0 - inbox/basic of database.md",
-    "4 - sources/courses/dbms by code help/lect 8.md",
-    "0 - inbox/terms for DBMS.md",
     "98 - attachments/Pasted image 20250627115455.png",
     "4 - sources/courses/dbms by code help",
     "1 - notes/y. snippets",

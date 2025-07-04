@@ -29,12 +29,17 @@ here will be all the notes around Cpp-MOC which is a part of [[Lang-And-Packages
 - 
 
 
-### advance
+### mid
 
 - [[cpp - access modifiers]]
 - [[cpp pointers]]
-- [[cpp objects]]
 - [[cpp enum class]]
+- [[cpp dynamic memory allocation]]
+- 
+
+### advance
+
+
 
 
 ### courses i did around it

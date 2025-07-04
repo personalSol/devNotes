@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-18T17:40
-updated: 2025-05-27T17:11
+updated: 2025-07-03T10:16
 ---
 ---
 
@@ -24,9 +24,10 @@ updated: 2025-05-27T17:11
 - uses `*` to declare a pointer variable
 	- because `int ptr` is a normal int variable not meant to store address
 - pointer variable only holds the address of variable and not the variable valaue itself
-- `*` dereferences the variable and gives us the value
-	- `ptr` → gives the address.
+- `*` dereferences the variable and gives us the value ^945d8d
 	- `*ptr` → gives the **value at that address** (called **dereferencing**).
+	- `&variable` → gives us address
+	- `ptr` → stores the address.
 - `int *ptr = a`  reads as ptr is a pointer which is pointing to integer type value
 - datatype of`pointer` and `variable` it's storing address of should be of same type
 	- so that pointer knows what type it's pointing to
