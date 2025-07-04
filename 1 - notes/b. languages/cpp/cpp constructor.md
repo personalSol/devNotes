@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-22T15:00
-updated: 2025-06-30T13:31
+updated: 2025-07-04T07:41
 ---
 ---
 
@@ -12,6 +12,8 @@ updated: 2025-06-30T13:31
 > a constructor's job is to **take values given when creating an object** and **connect them to the internal variables** of the class.
 
 - A **special function** that runs automatically when an object is created.
+- we can have more than one constructor in a class
+- constructor overloading is having different constructor in same class with different number of parameters. 
 - Used to **initialize** class members.
 - **Types**: Default, Parameterized, Copy, Move.
 -  If **no constructor is defined**, C++ provides a **default constructor** automactically
@@ -70,6 +72,9 @@ public:
 **Syntax**
 
 ```cpp
+dataType member1;
+dataType member2;
+
 ClassName(type1 var1, type2 var2, ...)
 : member1(var1), member2(var2), ...
 {

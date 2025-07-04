@@ -21,7 +21,7 @@
                   "title": "cpp classes and objects",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp classes and objects.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp classes and objects\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":14},\"to\":{\"line\":9,\"ch\":14}},\"scroll\":0}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":11},\"to\":{\"line\":9,\"ch\":11}},\"scroll\":0}"
                 },
                 {
                   "title": "Cpp-MOC",
@@ -532,6 +532,8 @@
   "active": "01778267eea4db4b",
   "lastOpenFiles": [
     "1 - notes/b. languages/cpp/cpp classes and objects.md",
+    "1 - notes/b. languages/cpp/cpp destructure.md",
+    "1 - notes/b. languages/cpp/cpp constructor.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
     "0 - inbox/cpp dynamic memory allocation.md",
     "1 - notes/b. languages/cpp/cpp objects.md",
@@ -542,7 +544,6 @@
     "1 - notes/z. others/Questions asked in interview.md",
     "1 - notes/a. concepts/classes.md",
     "1 - notes/b. languages/cpp/cpp - access modifiers.md",
-    "1 - notes/b. languages/cpp/cpp constructor.md",
     "1 - notes/b. languages/cpp/cpp datatypes.md",
     "1 - notes/b. languages/cpp/cpp stl.md",
     "1 - notes/b. languages/cpp/cpp - vectors.md",
@@ -556,7 +557,6 @@
     "0 - inbox/cpp - iterators.md",
     "0 - inbox/cpp iterators basic.md",
     "0 - inbox/cpp types of iterators.md",
-    "1 - notes/b. languages/cpp/cpp - pairs.md",
     "98 - attachments/Pasted image 20250627115455.png",
     "4 - sources/courses/dbms by code help",
     "1 - notes/y. snippets",
