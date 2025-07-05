@@ -4,43 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "a27ab80915119007",
+        "id": "983e5d3c2fd53f4e",
         "type": "tabs",
         "children": [
           {
-            "id": "3467642395576a9c",
+            "id": "b8220acfbadaa412",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "sql databases",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/sql databases.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"sql databases\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":18},\"to\":{\"line\":12,\"ch\":18}},\"scroll\":0.5610389461765042}"
-                },
                 {
                   "title": "basic of database",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/basic of database.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"basic of database\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":43,\"ch\":13},\"to\":{\"line\":43,\"ch\":13}},\"scroll\":35.224998474121094}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":38.5126578232891}"
                 },
                 {
-                  "title": "DBMS-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/DBMS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"DBMS-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":13},\"to\":{\"line\":14,\"ch\":13}}}"
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/postgreSQL data types.md",
+                "file": "3 - moc/DBMS-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "postgreSQL data types"
+              "title": "DBMS-MOC"
             }
           }
         ]
@@ -139,8 +127,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b383a8782596b7d0",
@@ -162,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/postgreSQL data types.md",
+                "file": "3 - moc/DBMS-MOC.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of postgreSQL data types"
+              "title": "Graph of DBMS-MOC"
             }
           }
         ]
@@ -437,14 +424,26 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "3467642395576a9c",
+  "active": "b8220acfbadaa412",
   "lastOpenFiles": [
-    "0 - inbox/sql databases.md",
-    "0 - inbox/postgreSQL cheatsheet.md",
-    "0 - inbox/notes from notion v1.md",
-    "0 - inbox/sql databases basics.md",
     "0 - inbox/basic of database.md",
     "3 - moc/DBMS-MOC.md",
+    "0 - inbox/basics of DBMS.md",
+    "0 - inbox/sql databases.md",
+    "0 - inbox/sql databases basics.md",
+    "0 - inbox/postgres quotes error theory.md",
+    "1 - notes/a. concepts/DSA questions.md",
+    "0 - inbox/Question approaches.md",
+    "0 - inbox/question approaches for sql.md",
+    "0 - inbox/postgreSQL cheatsheet.md",
+    "0 - inbox/ddl.md",
+    "1 - notes/z. others/Questions asked in interview.md",
+    "0 - inbox/sql database langages.md",
+    "4 - sources/courses/dbms by code help/Lecture 2 DBMS Architecture.md",
+    "0 - inbox/sql case sensitivity.md",
+    "1 - notes/i. frameworks/express/middlewares.md",
+    "0 - inbox/postgreSQL data types.md",
+    "0 - inbox/notes from notion v1.md",
     "1 - notes/b. languages/cpp/cpp - things to remember.md",
     "1 - notes/b. languages/cpp/cpp pointers.md",
     "1 - notes/b. languages/cpp/cpp objects.md",
@@ -453,18 +452,6 @@
     "1 - notes/b. languages/cpp/cpp destructure.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
     "0 - inbox/cpp dynamic memory allocation.md",
-    "0 - inbox/cpp sizeof objects.md",
-    "1 - notes/a. concepts/objects.md",
-    "1 - notes/z. others/Questions asked in interview.md",
-    "1 - notes/a. concepts/classes.md",
-    "1 - notes/b. languages/cpp/cpp - access modifiers.md",
-    "1 - notes/b. languages/cpp/cpp datatypes.md",
-    "1 - notes/b. languages/cpp/cpp stl.md",
-    "1 - notes/b. languages/cpp/cpp - vectors.md",
-    "3 - moc/MOC-LIST.md",
-    "3 - moc/Programming-Language-Concepts-MOC.md",
-    "0 - inbox/cpp vector functions.md",
-    "0 - inbox/cpp vectors code.md",
     "98 - attachments/Pasted image 20250627115455.png",
     "4 - sources/courses/dbms by code help",
     "1 - notes/y. snippets",

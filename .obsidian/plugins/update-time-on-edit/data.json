@@ -77,7 +77,6 @@
     "1 - notes/b. languages/javascript/import and export in es module js.md": "045d602f1d6c469278fa1b0ef5abedbeaf56cbdc5701c0ef78ae36342cae8b4c",
     "1 - notes/a. concepts/datatype.md": "cf57568e672aefb6191a0c2538edaa61e953513cf444923dca765a63394d863d",
     "1 - notes/e. ai/ai models basics.md": "6d69e9c4d4985e3335958ee85f9f0a528621fb6e85b4fb3ebcb68c3844d80d95",
-    "1 - notes/a. concepts/DSA Approaches.md": "e339032b40ae06691c22d1f5e60dc61d4c91519c14e52aae1ce64c330d8161a8",
     "1 - notes/h. library/mongoose/mongoose flow.md": "0cd05de3dd0fb64df724cf9c6751035e0ca17aa4968e67bbf80f0dc358666ae6",
     "1 - notes/h. library/mongoose/mongoose schema and model.md": "453c031c961d83a0fa88507f8c72d357b9b40be7f5592c04075ec7d7e9e1f795",
     "1 - notes/h. library/mongoose/mongoose connecting to mongodb.md": "1fbb2f79e46bda343c26627f5bdd6a4797c7c376ba8faa45929bb5ae9b78046d",
@@ -301,7 +300,7 @@
     "0 - inbox/github things to remember.md": "e6609e89d3e6f98796dbf048e9982e43604fe8841224ba37aadf532600153be1",
     "0 - inbox/error stack property in ApiError.md": "e06920a9f1b8798e815da71964d2f75d52eadb5ccb073f025f90cdbea53150df",
     "0 - inbox/react router dom.md": "2e63cb96d9f3979b64e206e99a2866608dc96a3c957c1bf9a218dcb14cf4304e",
-    "1 - notes/z. others/Questions asked in interview.md": "a2794cdaf1b62fd467bbe37cbe52e10064ede4ba0754e8b62ef45cb49fa4b23e",
+    "1 - notes/z. others/Questions asked in interview.md": "597e587c5aba5f730b8e906f231c759cdb4eb87202d8a2bf685ab305874da090",
     "0 - inbox/react router dom - outlier.md": "9d37d91fe4372d55db0c6566b4e16c60f14b2e2c5e7cadd58b58d9eded7670fa",
     "0 - inbox/react RouterProvider.md": "7ed3a5d86cb9c5863e5f3818ce058489654b5e2d85421bed2838ac850ee26077",
     "4 - sources/yt/mern stack crash course by freecodecamp.md": "ec2e47d870979a5c55e5a8960978c766bfa03f11da4c25a7044ba9f7651e09c6",
@@ -344,7 +343,7 @@
     "4 - sources/courses/ChaiAurCode SQL course.md": "a14842282393da1e7fec939e7b0937d85e3d8274ecce40833e884ab28fa710fa",
     "0 - inbox/kafka.md": "4ea3672d2cfe5439e08cc3b896dd559ca1508c491d4f3070341da3f7e3549525",
     "0 - inbox/sql databases.md": "871e93adc3cba0a790b8aad17dbb6c2fe153b5832de567bd28ab7d84b050a76d",
-    "0 - inbox/sql databases basics.md": "529991724ed01aa07a6e1ffd3b9496240b24f78a1a853633f59b65495d9dd307",
+    "0 - inbox/sql databases basics.md": "04e2cd7d671579f568547b65c3fdf4dd0e483a93c4e377e6fc5f06d38b80c55a",
     "0 - inbox/sql case sensitivity.md": "8196f7c23435fe1861cecb51706e076344407000adcc613cec003c0dd8ca76f8",
     "0 - inbox/notes from notion v1.md": "d5b123648047f2b25fa0d5c4278b468108fb6dd2402701ec94bae6ee8c01af47",
     "0 - inbox/notes from notion v2.md": "b2db78ff6134a9cbb7f5112871de01dcca192b9b7966daa28201f4c6a2edaf25",
@@ -378,6 +377,10 @@
     "0 - inbox/cpp vector functions.md": "c63d797a91aa921127fe4efe1c3180fa788965df86998ca50854a2e2ffe0713f",
     "1 - notes/b. languages/cpp/cpp - access modifiers.md": "607632f6a33ed79b9660f67b5d68bd38dbcca63854a9b54b51abb8eab213147e",
     "0 - inbox/cpp sizeof objects.md": "057aa7ddfba818494a602a4ca265e53a1d7b20d05fb17252f9f1a26d0005c529",
-    "0 - inbox/cpp dynamic memory allocation.md": "988d260d0a2e5931edd82b9781803f5eb764db33d022edfe58c474acb2e9fb92"
+    "0 - inbox/cpp dynamic memory allocation.md": "988d260d0a2e5931edd82b9781803f5eb764db33d022edfe58c474acb2e9fb92",
+    "0 - inbox/sql database langages.md": "06e60bc3ac8ae3532c5d9779cda0a94a46de36b72d3db234dac7c7b79868d369",
+    "1 - notes/a. concepts/DSA questions.md": "e339032b40ae06691c22d1f5e60dc61d4c91519c14e52aae1ce64c330d8161a8",
+    "0 - inbox/Question approaches.md": "e88cb8fc572b368f7a186da3417806e668c06902ec04e8b67003c3ee8d209408",
+    "0 - inbox/question approaches for sql.md": "7ebf3101c2048ea0a22d344b98601c7cd58463883c21caf465d1729a8b76d1de"
   }
 }
