@@ -2,14 +2,14 @@
 status: newBorn
 related-links: 
 created: 2025-06-26T17:50
-updated: 2025-06-26T21:26
+updated: 2025-07-05T12:16
 ---
 ---
 
 - [[sql databases basics]]
-- [[notes from notion v1]]
-- [[notes from notion v2]]
 - [[postgreSQL cheatsheet]]
 - [[postgreSQL data types]]
+- [[PostgreSQL joins]]
+- [[sql aggregation]]
 - [[postgres quotes error theory]]
 - 

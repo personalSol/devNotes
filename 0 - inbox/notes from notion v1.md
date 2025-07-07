@@ -2,11 +2,9 @@
 status: newBorn
 related-links: 
 created: 2025-06-26T18:05
-updated: 2025-06-26T18:05
+updated: 2025-07-05T11:27
 ---
 ---
-
-## PostgreSQL SQL Notes (Long-Term Memory)
 
 ### 1. Case Sensitivity
 
@@ -31,13 +29,6 @@ updated: 2025-06-26T18:05
     ```sql
     SELECT "Fathers name" FROM people;
     ```
-    
-
-### 3. Semicolon Usage
-
-- `;` ends SQL statements.
-    
-- Optional in some tools (e.g., pgAdmin) but recommended for consistency.
     
 
 ### 4. Column Order in Joins

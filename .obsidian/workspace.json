@@ -4,20 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "983e5d3c2fd53f4e",
+        "id": "2eab83aba7a95380",
         "type": "tabs",
         "children": [
           {
-            "id": "b8220acfbadaa412",
+            "id": "5d6644d2042ee714",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 1,
               "stack": [
                 {
-                  "title": "basic of database",
+                  "title": "postgres quotes error theory",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/basic of database.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"basic of database\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":38.5126578232891}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/postgres quotes error theory.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"postgres quotes error theory\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
@@ -28,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/DBMS-MOC.md",
+                "file": "4 - sources/courses/dbms by code help/lect 7.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,10 +43,215 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "DBMS-MOC"
+              "title": "lect 7"
+            }
+          },
+          {
+            "id": "61d0196d0142803e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "PostgreSQL joins",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/PostgreSQL joins.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"PostgreSQL joins\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":25},\"to\":{\"line\":9,\"ch\":25}}}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/sql databases.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "sql databases"
+            }
+          },
+          {
+            "id": "7145c63d3581e586",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/PostgreSQL joins.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "PostgreSQL joins"
+            }
+          },
+          {
+            "id": "d9e80cbb1432f496",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/sql aggregation.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "sql aggregation"
+            }
+          },
+          {
+            "id": "aafe3c0b6d42bbbc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/sql joins in detail.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "sql joins in detail"
+            }
+          },
+          {
+            "id": "182c91e535f109da",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/sql joins in detail.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "sql joins in detail"
+            }
+          },
+          {
+            "id": "49a6e7fc43525649",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/sql things to remember.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "sql things to remember"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +354,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 - moc/DBMS-MOC.md",
+                "file": "0 - inbox/sql databases.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -177,14 +382,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of DBMS-MOC"
+              "title": "Graph of sql databases"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -210,13 +416,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/cpp vector functions.md",
+                "file": "0 - inbox/sql databases.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cpp vector functions"
+              "title": "Outline of sql databases"
             }
           },
           {
@@ -404,8 +610,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -424,34 +629,36 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "b8220acfbadaa412",
+  "active": "61d0196d0142803e",
   "lastOpenFiles": [
+    "0 - inbox/PostgreSQL joins.md",
+    "0 - inbox/sql databases.md",
+    "0 - inbox/postgreSQL cheatsheet.md",
+    "0 - inbox/sql aggregation.md",
+    "0 - inbox/sql joins in detail.md",
+    "0 - inbox/sql databases basics.md",
+    "0 - inbox/sql join commands.md",
+    "0 - inbox/postgres quotes error theory.md",
+    "0 - inbox/notes from notion v1.md",
+    "98 - attachments/Pasted image 20250705120119.png",
+    "98 - attachments/Pasted image 20250705120059.png",
+    "0 - inbox/sql case sensitivity.md",
+    "0 - inbox/sql things to remember.md",
+    "0 - inbox/notes from notion v2.md",
+    "4 - sources/courses/dbms by code help/lect 7.md",
+    "0 - inbox/kafka.md",
+    "1 - notes/b. languages/cpp/cpp - iterators.md",
+    "1 - notes/b. languages/cpp/cpp types of iterators.md",
+    "1 - notes/h. library/zustand.md",
+    "1 - notes/h. library/react/react - env.md",
+    "1 - notes/h. library/react/react redux hook useSelector.md",
+    "0 - inbox/redux toolkit reducer or slice.md",
+    "1 - notes/c. tools/node js/npm packages for web dev.md",
+    "0 - inbox/sql database langages.md",
     "0 - inbox/basic of database.md",
     "3 - moc/DBMS-MOC.md",
     "0 - inbox/basics of DBMS.md",
-    "0 - inbox/sql databases.md",
-    "0 - inbox/sql databases basics.md",
-    "0 - inbox/postgres quotes error theory.md",
     "1 - notes/a. concepts/DSA questions.md",
-    "0 - inbox/Question approaches.md",
-    "0 - inbox/question approaches for sql.md",
-    "0 - inbox/postgreSQL cheatsheet.md",
-    "0 - inbox/ddl.md",
-    "1 - notes/z. others/Questions asked in interview.md",
-    "0 - inbox/sql database langages.md",
-    "4 - sources/courses/dbms by code help/Lecture 2 DBMS Architecture.md",
-    "0 - inbox/sql case sensitivity.md",
-    "1 - notes/i. frameworks/express/middlewares.md",
-    "0 - inbox/postgreSQL data types.md",
-    "0 - inbox/notes from notion v1.md",
-    "1 - notes/b. languages/cpp/cpp - things to remember.md",
-    "1 - notes/b. languages/cpp/cpp pointers.md",
-    "1 - notes/b. languages/cpp/cpp objects.md",
-    "1 - notes/b. languages/cpp/cpp constructor.md",
-    "1 - notes/b. languages/cpp/cpp classes and objects.md",
-    "1 - notes/b. languages/cpp/cpp destructure.md",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
-    "0 - inbox/cpp dynamic memory allocation.md",
     "98 - attachments/Pasted image 20250627115455.png",
     "4 - sources/courses/dbms by code help",
     "1 - notes/y. snippets",
@@ -468,8 +675,6 @@
     "98 - attachments/Pasted image 20250615143301.png",
     "98 - attachments/Pasted image 20250615141020.png",
     "98 - attachments/Pasted image 20250614223215.png",
-    "98 - attachments/Screenshot_2024-09-15_at_6.43.20_PM.webp",
-    "98 - attachments/Screenshot_2024-09-14_at_6.29.28_PM.webp",
     "1 - notes/h. library/json",
     "1 - notes/k. web-dev/node",
     "Untitled.canvas",

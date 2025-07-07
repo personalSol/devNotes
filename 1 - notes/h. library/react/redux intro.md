@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-24T10:39
-updated: 2025-06-24T10:49
+updated: 2025-07-05T10:05
 ---
 ---
 
@@ -25,7 +25,7 @@ updated: 2025-06-24T10:49
 ### Modern Update
 
 - [[Redux Toolkit]] was introduced as the official, recommended way to write Redux logic, reducing boilerplate and simplifying setup.
-- [[React Redux]] is still used today—it’s the bridge between Redux and React.
+- [[react redux]] is still used today—it’s the bridge between Redux and React.
 - Redux Toolkit works _with_ React Redux—it doesn’t replace it but improves how Redux is written and used in React apps.
 - **Redux Toolkit didn’t replace React Redux.**  
 	- It replaced the _old manual Redux patterns_ (like creating separate action files, types, and reducers from scratch).  
