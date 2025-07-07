@@ -4,20 +4,65 @@
     "type": "split",
     "children": [
       {
-        "id": "2eab83aba7a95380",
+        "id": "bcc96f6c90c82961",
         "type": "tabs",
         "children": [
           {
-            "id": "5d6644d2042ee714",
+            "id": "d8c1f80f5a21fe5e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "react - things to remember",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react - things to remember.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - things to remember\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":102},\"to\":{\"line\":14,\"ch\":102}}}"
+                },
+                {
+                  "title": "React-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":25},\"to\":{\"line\":14,\"ch\":25}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/z. others/Questions asked in interview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Questions asked in interview"
+            }
+          },
+          {
+            "id": "abc06f243450c12d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 1,
               "stack": [
                 {
-                  "title": "postgres quotes error theory",
+                  "title": "react - how it works",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/postgres quotes error theory.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"postgres quotes error theory\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react - how it works.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - how it works\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
                 },
                 {
                   "state": "{}",
@@ -28,7 +73,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - sources/courses/dbms by code help/lect 7.md",
+                "file": "3 - moc/sub-mocs/React-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,211 +88,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "lect 7"
-            }
-          },
-          {
-            "id": "61d0196d0142803e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "PostgreSQL joins",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/PostgreSQL joins.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"PostgreSQL joins\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":25},\"to\":{\"line\":9,\"ch\":25}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/sql databases.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "sql databases"
-            }
-          },
-          {
-            "id": "7145c63d3581e586",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/PostgreSQL joins.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "PostgreSQL joins"
-            }
-          },
-          {
-            "id": "d9e80cbb1432f496",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/sql aggregation.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "sql aggregation"
-            }
-          },
-          {
-            "id": "aafe3c0b6d42bbbc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/sql joins in detail.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "sql joins in detail"
-            }
-          },
-          {
-            "id": "182c91e535f109da",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/sql joins in detail.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "sql joins in detail"
-            }
-          },
-          {
-            "id": "49a6e7fc43525649",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/sql things to remember.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "sql things to remember"
+              "title": "React-MOC"
             }
           }
         ],
@@ -416,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/sql databases.md",
+                "file": "3 - moc/sub-mocs/React-MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of sql databases"
+              "title": "Outline of React-MOC"
             }
           },
           {
@@ -629,13 +470,28 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "61d0196d0142803e",
+  "active": "abc06f243450c12d",
   "lastOpenFiles": [
+    "1 - notes/h. library/react/react - how it works.md",
+    "3 - moc/sub-mocs/React-MOC.md",
+    "1 - notes/z. others/Questions asked in interview.md",
+    "1 - notes/h. library/react/react - things to remember.md",
+    "1 - notes/b. languages/cpp/cpp destructor.md",
+    "1 - notes/b. languages/cpp/cpp classes and objects.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
+    "0 - inbox/cpp static variable.md",
+    "1 - notes/b. languages/cpp/cpp - access modifiers.md",
+    "1 - notes/b. languages/cpp/cpp constructor.md",
+    "1 - notes/b. languages/cpp/cpp oops.md",
+    "1 - notes/b. languages/cpp/cpp enum.md",
+    "1 - notes/b. languages/cpp/cpp pointers.md",
+    "0 - inbox/sql things to remember.md",
+    "0 - inbox/sql joins in detail.md",
+    "0 - inbox/sql aggregation.md",
     "0 - inbox/PostgreSQL joins.md",
+    "4 - sources/courses/dbms by code help/lect 7.md",
     "0 - inbox/sql databases.md",
     "0 - inbox/postgreSQL cheatsheet.md",
-    "0 - inbox/sql aggregation.md",
-    "0 - inbox/sql joins in detail.md",
     "0 - inbox/sql databases basics.md",
     "0 - inbox/sql join commands.md",
     "0 - inbox/postgres quotes error theory.md",
@@ -643,22 +499,7 @@
     "98 - attachments/Pasted image 20250705120119.png",
     "98 - attachments/Pasted image 20250705120059.png",
     "0 - inbox/sql case sensitivity.md",
-    "0 - inbox/sql things to remember.md",
     "0 - inbox/notes from notion v2.md",
-    "4 - sources/courses/dbms by code help/lect 7.md",
-    "0 - inbox/kafka.md",
-    "1 - notes/b. languages/cpp/cpp - iterators.md",
-    "1 - notes/b. languages/cpp/cpp types of iterators.md",
-    "1 - notes/h. library/zustand.md",
-    "1 - notes/h. library/react/react - env.md",
-    "1 - notes/h. library/react/react redux hook useSelector.md",
-    "0 - inbox/redux toolkit reducer or slice.md",
-    "1 - notes/c. tools/node js/npm packages for web dev.md",
-    "0 - inbox/sql database langages.md",
-    "0 - inbox/basic of database.md",
-    "3 - moc/DBMS-MOC.md",
-    "0 - inbox/basics of DBMS.md",
-    "1 - notes/a. concepts/DSA questions.md",
     "98 - attachments/Pasted image 20250627115455.png",
     "4 - sources/courses/dbms by code help",
     "1 - notes/y. snippets",

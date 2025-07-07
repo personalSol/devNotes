@@ -2,12 +2,17 @@
 status: newBorn
 related-links: 
 created: 2025-05-18T17:40
-updated: 2025-07-03T10:16
+updated: 2025-07-07T17:13
 ---
 ---
 
 
+```cpp
 
+int *balance; // created a pointer but it's not pointing to anything rn
+balance = new int; // this will create a storage and store its adrres in balance
+*balance = 10 // assigned a value to store in that variable
+```
 
 ### whole concept 
 
