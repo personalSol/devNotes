@@ -31,7 +31,7 @@ here will be all the notes around Cpp-MOC which is a part of [[Lang-And-Packages
 
 ### mid
 
-- [[cpp static variable]]
+- [[cpp static variable & functions]]
 - 
 - [[cpp - access modifiers]]
 - [[cpp pointers]]

@@ -56,24 +56,42 @@
             "id": "abc06f243450c12d",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "react - how it works",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react - how it works.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - how it works\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Cpp-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":20},\"to\":{\"line\":33,\"ch\":20}},\"scroll\":21.316455692382334}"
+                },
+                {
+                  "title": "dsa roadmap checklist",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/g. dsa/dsa roadmap checklist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"dsa roadmap checklist\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":57.341771580397065}"
+                },
+                {
+                  "title": "roadmap",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/roadmap.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"roadmap\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":18},\"to\":{\"line\":34,\"ch\":18}},\"scroll\":17.443037184666533}"
+                },
+                {
+                  "title": "React-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/React-MOC.md",
+                "file": "0 - inbox/cpp static variable & functions.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,7 +106,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "React-MOC"
+              "title": "cpp static variable & functions"
+            }
+          },
+          {
+            "id": "7c101ad5ff39079e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/z. others/checkboxes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "checkboxes"
             }
           }
         ],
@@ -143,7 +194,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "line:(learn in public)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +224,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b383a8782596b7d0",
@@ -195,7 +247,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/sql databases.md",
+                "file": "0 - inbox/cpp static variable & functions.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -223,15 +275,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of sql databases"
+              "title": "Graph of cpp static variable & functions"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 265.5,
-    "collapsed": true
+    "width": 265.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -257,13 +308,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - moc/sub-mocs/React-MOC.md",
+                "file": "0 - inbox/cpp static variable & functions.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of React-MOC"
+              "title": "Outline of cpp static variable & functions"
             }
           },
           {
@@ -472,14 +523,21 @@
   },
   "active": "abc06f243450c12d",
   "lastOpenFiles": [
-    "1 - notes/h. library/react/react - how it works.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
+    "1 - notes/b. languages/cpp/cpp classes and objects.md",
+    "1 - notes/b. languages/cpp/cpp objects.md",
+    "1 - notes/b. languages/cpp/cpp struct vs class.md",
+    "1 - notes/g. dsa/dsa roadmap checklist.md",
+    "1 - notes/z. others/roadmap.md",
+    "1 - notes/z. others/checkboxes.md",
+    "98 - attachments/Pasted image 20250601140028.png",
+    "1 - notes/z. others/Tasks for coding.md",
     "3 - moc/sub-mocs/React-MOC.md",
+    "1 - notes/h. library/react/react - how it works.md",
     "1 - notes/z. others/Questions asked in interview.md",
     "1 - notes/h. library/react/react - things to remember.md",
     "1 - notes/b. languages/cpp/cpp destructor.md",
-    "1 - notes/b. languages/cpp/cpp classes and objects.md",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
-    "0 - inbox/cpp static variable.md",
+    "0 - inbox/cpp static variable & functions.md",
     "1 - notes/b. languages/cpp/cpp - access modifiers.md",
     "1 - notes/b. languages/cpp/cpp constructor.md",
     "1 - notes/b. languages/cpp/cpp oops.md",
@@ -492,14 +550,8 @@
     "4 - sources/courses/dbms by code help/lect 7.md",
     "0 - inbox/sql databases.md",
     "0 - inbox/postgreSQL cheatsheet.md",
-    "0 - inbox/sql databases basics.md",
-    "0 - inbox/sql join commands.md",
-    "0 - inbox/postgres quotes error theory.md",
-    "0 - inbox/notes from notion v1.md",
     "98 - attachments/Pasted image 20250705120119.png",
     "98 - attachments/Pasted image 20250705120059.png",
-    "0 - inbox/sql case sensitivity.md",
-    "0 - inbox/notes from notion v2.md",
     "98 - attachments/Pasted image 20250627115455.png",
     "4 - sources/courses/dbms by code help",
     "1 - notes/y. snippets",
@@ -515,7 +567,6 @@
     "98 - attachments/Pasted image 20250615152351.png",
     "98 - attachments/Pasted image 20250615143301.png",
     "98 - attachments/Pasted image 20250615141020.png",
-    "98 - attachments/Pasted image 20250614223215.png",
     "1 - notes/h. library/json",
     "1 - notes/k. web-dev/node",
     "Untitled.canvas",

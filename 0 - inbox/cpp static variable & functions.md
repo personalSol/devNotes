@@ -2,13 +2,11 @@
 status: newBorn
 related-links: 
 created: 2025-07-07T18:27
-updated: 2025-07-07T18:39
+updated: 2025-07-12T14:16
 ---
 ---
 
 ### Static Variable in C++
-
-- **Definition**: A `static` variable inside a function retains its value between multiple function calls.
 
 ```cpp
 #include <iostream>
@@ -45,7 +43,7 @@ int main() {
 
 #### 1. **Static Member Functions**
 - Belong to the class, not to an object.
-- Cannot access non-static members directly.
+- Cannot access non-static members/variables directly.
 - Useful for utility-style functions or shared counters.
 
 ```cpp
@@ -80,7 +78,7 @@ int main() {
 [Log 3]: Error: File not found
 ```
 
-#### 2. **Static Functions at File Scope**
+	#### 2. **Static Functions at File Scope** - not imp
 - Declared with `static` outside of any class or function.
 - Visible only within the file they are defined in.
 - Often used in multi-file programs to limit scope.

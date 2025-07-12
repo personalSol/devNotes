@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-30T22:41
-updated: 2025-05-30T22:41
+updated: 2025-07-12T11:30
 ---
 ---
 
@@ -77,8 +77,8 @@ Rohit negi bhayia's video **checklist**
 - [ ] Video 67  
 - [ ] Video 68  
 - [ ] Video 69  
-- [ ] Video 70  
-- [ ] Video 71  
+- [x] Video 70  
+- [x] Video 71  
 - [ ] Video 72  
 - [ ] Video 73  
 - [ ] Video 74  

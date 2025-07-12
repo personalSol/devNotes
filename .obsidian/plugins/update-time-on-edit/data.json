@@ -31,7 +31,7 @@
     "1 - notes/b. languages/javascript/Javascript Cheatsheet.md": "43ede079efff7a0b74801eb586e161ca9569aa16639db85e54fc4838122ed454",
     "1 - notes/b. languages/cpp/cpp arrays.md": "06fdfa80399516cc4013c441d5203b306eaa59a6c8d2f761b74700a8af26b557",
     "1 - notes/b. languages/cpp/cpp call by reference and call by value.md": "09cb91369660f15af9c560010d78768d5a696efd1ef359fd0a204d3a12ecc2cc",
-    "1 - notes/z. others/roadmap.md": "c34c6f6ad3e5a2777535bc25a718b93cd8485808bd3323da32816c4223e8745b",
+    "1 - notes/z. others/roadmap.md": "e3a5216ed0a39b6a92cbc6e8d0b31e4be9a951f83ce2b02f311388896c05a7c5",
     "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md": "ed9b84494cbcf655b5fc48c7218592d723c3b03dc8d3d30e1896203ba8622afa",
     "4 - sources/courses/system design by coder army/lect - 5.md": "13edbc5843b5c96e6746dcbbb53f804e31e11a72fbce734514b23d51209d8366",
     "1 - notes/b. languages/css/CSS units.md": "03e3b3c3c7e50f7092a6bc8126962578311b51c991477e4dd2cc851d89945e27",
@@ -205,7 +205,7 @@
     "1 - notes/k. web-dev/auth/authentication vs authorization.md": "dd351cb73df20b399a6bff18e88dcdf269f2a60bf0b2961787c56199b5a05dff",
     "1 - notes/k. web-dev/auth/authentication what is token gets stolen.md": "00a6be8c6a0bd126769a841b962c8b3b95799eb9308281391046f5790ca8f11b",
     "1 - notes/k. web-dev/auth/authentication why payload can't be tampered with.md": "4c2a91e52b308a2f8471b9d00dba05996d1ef49702f37a0bde639347473c9a15",
-    "1 - notes/g. dsa/dsa roadmap checklist.md": "e2f4bf5c00ce0c753a1d9bfea943b87b8cb34450a7c1dd8913460a77ed111b7a",
+    "1 - notes/g. dsa/dsa roadmap checklist.md": "798bdd2615565b88a5ff6dc7996ffebbab0c769dabbda8f7d0d4c1b4d60a2286",
     "1 - notes/g. dsa/dsa - question approaches which I was not able to solve.md": "9092937f42a915054dea791ad8d0b4b6b2b157bd9d31c29d306d122fc6839dfc",
     "1 - notes/g. dsa/dsa - question approahes which I was able to solve.md": "9092937f42a915054dea791ad8d0b4b6b2b157bd9d31c29d306d122fc6839dfc",
     "1 - notes/b. languages/cpp/cpp stl brief.md": "8204fbca47fa7e069d1d7f5f975b193f2e5651115c5ab22790f94626e6ba6f3c",
@@ -311,7 +311,7 @@
     "0 - inbox/full code example of redux.md": "fcf6455d473eb0cc4f56ba2dfa6310c2e00de0bcb9f4b8a143fe9750a74b34bc",
     "0 - inbox/hooks- useRef.md": "6e5ba1568b2f63c956a529190bdf6a8d77f26ec734ef97d2693c46ebd00bc81d",
     "0 - inbox/hooks - useId.md": "0058343f3919b7d70d6eb7b525a91621220a4e636253a1fc7a158a9bddea15e1",
-    "1 - notes/z. others/Tasks for coding.md": "30257cb5f2ab2e468f351c2cf65b4b8ff4f9c07db4a2fc077a6b585a3a0346d3",
+    "1 - notes/z. others/Tasks for coding.md": "b2b0f886cfbc3d4903822dba5a6cb604eca95bc0471b83c6f9d161baa48d8b64",
     "1 - notes/z. others/Youtubers for programming.md": "39042c40f936c4ebab4a91c155988229299c761d1a09a8b6a161b2c771307a36",
     "1 - notes/b. languages/css/CSS usecase code sheet.md": "e2bf46c67e742254403bec8eba4f2c37ccfa3b05fab4f22d98a7abb6f803fc9d",
     "1 - notes/b. languages/css/CSS flex box.md": "4e7a440f56f12e418d3dd7690d151c3ef87e9855e80b65fa822d079f8769591e",
@@ -386,6 +386,6 @@
     "0 - inbox/PostgreSQL joins.md": "0a3ef4decc547e7709284891985a9ae9281a0d889d9696bdb2e51726764b0e45",
     "0 - inbox/sql aggregation.md": "de914565b7ccc0e013b662a70603d7e601106502baa4da11178752dce83b76e0",
     "1 - notes/b. languages/cpp/cpp destructor.md": "6e9e5111fcdc5afd0562cd2be8aa72c61ed059ac13caad28bb0006b90e36d405",
-    "0 - inbox/cpp static variable.md": "c4d5136bfa58d64ed3397791665c6703fef435e6df12e28e8234505113d2b162"
+    "0 - inbox/cpp static variable & functions.md": "6fb22f2b32cd9ca46ed03a45581a384dd1cf2e4f7e6ee99ecc535deed8e71f86"
   }
 }
