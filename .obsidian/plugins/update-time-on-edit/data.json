@@ -15,7 +15,7 @@
   "fileHashMap": {
     "97 - templates/Templates-MOC.md": "ecb35f7f8108feddd2763fc38a6225de2221eb7217275e343370ccdfd12a70a2",
     "97 - templates/tmp-inbox.md": "c4dff400490113c9d7c395c87cb30ca2d5900f2aa15e75e81747f6a59e3790b7",
-    "1 - notes/b. languages/cpp/cpp - things to remember.md": "b762392ea09aff95b69855401f4dce80af9b9a779e7c0e73ada72a34c38bac8d",
+    "1 - notes/b. languages/cpp/cpp - things to remember.md": "3a0e3bfd2dded4b13d68e64995c1c9226302ab20ed749f4dc596fa887bd65003",
     "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md": "521e1b3d66008254d29adef171e2664988eb39f56e543bfca404f3e8a01d474c",
     "3 - moc/sub-mocs/Mongoose-MOC.md": "bf1a5a3b900faadd37190e55e67b5409537cbc5c14479be0304583c009139e78",
     "1 - notes/b. languages/cpp/Cpp cheatsheet.md": "17075c00ed9fe59fe95eb8d1f8fe81eeacf72038aae9e47754a9b333735b7999",
@@ -29,7 +29,7 @@
     "1 - notes/b. languages/cpp/cpp - pairs.md": "1408f71a4306ff98c45e1e1a8b02ed55c9cc644ab1026bb0bb52a32b70cf0893",
     "1 - notes/b. languages/cpp/cpp - stl.md": "e005705544480baee36fa5234fff7bb34958ad67979b3982d0f30af08ca06794",
     "1 - notes/b. languages/javascript/Javascript Cheatsheet.md": "43ede079efff7a0b74801eb586e161ca9569aa16639db85e54fc4838122ed454",
-    "1 - notes/b. languages/cpp/cpp arrays.md": "06fdfa80399516cc4013c441d5203b306eaa59a6c8d2f761b74700a8af26b557",
+    "1 - notes/b. languages/cpp/cpp arrays.md": "573bcf2051815083ce43688048a4b4a76da82d3dcbf77219423a0abac783d7ff",
     "1 - notes/b. languages/cpp/cpp call by reference and call by value.md": "09cb91369660f15af9c560010d78768d5a696efd1ef359fd0a204d3a12ecc2cc",
     "1 - notes/z. others/roadmap.md": "e3a5216ed0a39b6a92cbc6e8d0b31e4be9a951f83ce2b02f311388896c05a7c5",
     "4 - sources/courses/system design by coder army/lect - 4 UML diagrams.md": "ed9b84494cbcf655b5fc48c7218592d723c3b03dc8d3d30e1896203ba8622afa",
@@ -162,7 +162,7 @@
     "1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md": "dd449f8ae146fb97af995ed4a237ab767d130332679ea072d873ca1e45717f3a",
     "1 - notes/b. languages/javascript/JS runtime environment.md": "3dec74e697809710bdd2058cafc0094b23a5fdc822f020e6f83bcb04d8163624",
     "2 - projects/Password Manager.md": "566a24cbe47ec2c0d1caf197d7068b4f8fdbd3fbed7bcbfed338b9fa51f5fda6",
-    "1 - notes/b. languages/cpp/cpp stl.md": "cbb0db6bbe91f519a73770669caa64eca00a94714d5d80564dab385bc193895f",
+    "1 - notes/b. languages/cpp/cpp stl.md": "c4f65d5442fe836dfbc052e19d1c1d5d821ca31959f04227503185cd7100897f",
     "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md": "b63a0c70fb753f1045e5638daf12fb89503a93ad0b6283c9f54056080211f160",
     "1 - notes/b. languages/cpp/cpp - vectors.md": "9aba60dd716a9aa489a1b78606bd5d04a2c097bfafb5667c28c8a4108022fa83",
     "1 - notes/h. library/jwt/jwt.md": "6d49f237a8c37409329b1cd4edc91cec0a36761bb4adba02a5cbee3ffee1e53e",
@@ -391,6 +391,8 @@
     "0 - inbox/cpp - deque.md": "f6fe8d85647801ea349102319a67a44c8f26e9d39c1fbc26ced9acebe9ed7ac4",
     "0 - inbox/cpp - stack.md": "92117beae062a00d4acb169d08ef7a24c7130925fa9729e9fed4244cff9798b2",
     "0 - inbox/cpp - queue.md": "005987c76681df10cfa88187286cf41fa6345560b2223533c49b366dc2a6242c",
-    "0 - inbox/cpp - priority_queue.md": "f09d753885d72d2ac43a979e79044f2458b3d53b33f90c6eb19daf6a150131db"
+    "0 - inbox/cpp - priority_queue.md": "369a6c855f05456ffee85469e5a238cd4c5e92e501dd65f315628e9bb6e3b097",
+    "0 - inbox/cpp - set.md": "f894d50ea9bd97a8d38cec40c967ae8f840fba8c28eaafd4ab2efc5833880001",
+    "0 - inbox/cpp binary search.md": "5905299b888a634dc20dce2ff2fc9b90758c9e71eba244165ff760d358a91a31"
   }
 }

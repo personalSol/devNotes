@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-07-13T11:06
-updated: 2025-07-13T11:06
+updated: 2025-07-14T12:02
 ---
 ---
 
@@ -10,6 +10,10 @@ updated: 2025-07-13T11:06
 
 - A **priority queue** is a container adaptor that provides constant time lookup of the largest (or smallest) element.
 - It can be used as a **max-heap** (default, for the largest) or a **min-heap**.( for the smallest)
+- time complexity
+	- push -> log(n)
+	- pop -> log(n)
+	- top -> O(1)
 
 ---
 

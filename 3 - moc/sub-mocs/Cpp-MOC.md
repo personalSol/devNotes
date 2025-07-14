@@ -41,7 +41,8 @@ here will be all the notes around Cpp-MOC which is a part of [[Lang-And-Packages
 
 ### advance
 
-
+- [[cpp binary search]]
+- 
 
 
 ### courses i did around it
