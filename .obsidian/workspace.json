@@ -4,56 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "bcc96f6c90c82961",
+        "id": "2166ea8d5ee7f70d",
         "type": "tabs",
         "children": [
           {
-            "id": "d8c1f80f5a21fe5e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "react - things to remember",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react - things to remember.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - things to remember\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":102},\"to\":{\"line\":14,\"ch\":102}}}"
-                },
-                {
-                  "title": "React-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":25},\"to\":{\"line\":14,\"ch\":25}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/z. others/Questions asked in interview.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Questions asked in interview"
-            }
-          },
-          {
-            "id": "abc06f243450c12d",
+            "id": "02fef905116825d6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -66,32 +21,14 @@
                   "title": "Cpp-MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":20},\"to\":{\"line\":33,\"ch\":20}},\"scroll\":21.316455692382334}"
-                },
-                {
-                  "title": "dsa roadmap checklist",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/g. dsa/dsa roadmap checklist.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"dsa roadmap checklist\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":57.341771580397065}"
-                },
-                {
-                  "title": "roadmap",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/roadmap.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"roadmap\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":18},\"to\":{\"line\":34,\"ch\":18}},\"scroll\":17.443037184666533}"
-                },
-                {
-                  "title": "React-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":24},\"to\":{\"line\":35,\"ch\":24}},\"scroll\":22.075949354099933}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/cpp static variable & functions.md",
+                "file": "1 - notes/b. languages/cpp/cpp - access modifiers.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -106,11 +43,89 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cpp static variable & functions"
+              "title": "cpp - access modifiers"
             }
           },
           {
-            "id": "7c101ad5ff39079e",
+            "id": "9c63f59091da0abd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "cpp oops",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp oops.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp oops\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":18},\"to\":{\"line\":10,\"ch\":18}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp - inheritance.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp - inheritance"
+            }
+          },
+          {
+            "id": "1fc5b229ec1c37cf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "cpp - vectors",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp - vectors.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp - vectors\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp stl.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp stl"
+            }
+          },
+          {
+            "id": "fec592ae8b2766fe",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -124,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/z. others/checkboxes.md",
+                "file": "0 - inbox/cpp - priority_queue.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -139,11 +154,116 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "checkboxes"
+              "title": "cpp - priority_queue"
+            }
+          },
+          {
+            "id": "6b35451f88c94789",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/cpp - queue.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp - queue"
+            }
+          },
+          {
+            "id": "1e143f7a3fe92827",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp vector functions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp vector functions"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
+      },
+      {
+        "id": "f63feaab4e37a683",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a898cab3ddfd0c5e",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp vectors code.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp vectors code"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,7 +367,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/cpp static variable & functions.md",
+                "file": "0 - inbox/cpp - priority_queue.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -275,14 +395,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cpp static variable & functions"
+              "title": "Graph of cpp - priority_queue"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 265.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -308,13 +429,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/cpp static variable & functions.md",
+                "file": "0 - inbox/cpp - priority_queue.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cpp static variable & functions"
+              "title": "Outline of cpp - priority_queue"
             }
           },
           {
@@ -502,7 +623,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5
+    "width": 297.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -521,35 +643,35 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "abc06f243450c12d",
+  "active": "fec592ae8b2766fe",
   "lastOpenFiles": [
+    "0 - inbox/cpp - priority_queue.md",
+    "1 - notes/b. languages/cpp/cpp stl.md",
+    "0 - inbox/cpp - stack.md",
+    "0 - inbox/cpp - queue.md",
+    "0 - inbox/cpp - deque.md",
+    "0 - inbox/cpp - list.md",
+    "1 - notes/b. languages/cpp/cpp - vectors.md",
+    "1 - notes/b. languages/cpp/cpp vector functions.md",
+    "1 - notes/b. languages/cpp/cpp vectors code.md",
+    "1 - notes/b. languages/cpp/cpp vectors basic.md",
+    "1 - notes/b. languages/cpp/cpp - inheritance.md",
+    "1 - notes/b. languages/cpp/cpp oops.md",
+    "1 - notes/b. languages/cpp/cpp - access modifiers.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
+    "1 - notes/z. others/checkboxes.md",
+    "1 - notes/z. others/Questions asked in interview.md",
+    "0 - inbox/cpp static variable & functions.md",
     "1 - notes/b. languages/cpp/cpp classes and objects.md",
     "1 - notes/b. languages/cpp/cpp objects.md",
     "1 - notes/b. languages/cpp/cpp struct vs class.md",
     "1 - notes/g. dsa/dsa roadmap checklist.md",
     "1 - notes/z. others/roadmap.md",
-    "1 - notes/z. others/checkboxes.md",
     "98 - attachments/Pasted image 20250601140028.png",
     "1 - notes/z. others/Tasks for coding.md",
     "3 - moc/sub-mocs/React-MOC.md",
     "1 - notes/h. library/react/react - how it works.md",
-    "1 - notes/z. others/Questions asked in interview.md",
     "1 - notes/h. library/react/react - things to remember.md",
-    "1 - notes/b. languages/cpp/cpp destructor.md",
-    "0 - inbox/cpp static variable & functions.md",
-    "1 - notes/b. languages/cpp/cpp - access modifiers.md",
-    "1 - notes/b. languages/cpp/cpp constructor.md",
-    "1 - notes/b. languages/cpp/cpp oops.md",
-    "1 - notes/b. languages/cpp/cpp enum.md",
-    "1 - notes/b. languages/cpp/cpp pointers.md",
-    "0 - inbox/sql things to remember.md",
-    "0 - inbox/sql joins in detail.md",
-    "0 - inbox/sql aggregation.md",
-    "0 - inbox/PostgreSQL joins.md",
-    "4 - sources/courses/dbms by code help/lect 7.md",
-    "0 - inbox/sql databases.md",
-    "0 - inbox/postgreSQL cheatsheet.md",
     "98 - attachments/Pasted image 20250705120119.png",
     "98 - attachments/Pasted image 20250705120059.png",
     "98 - attachments/Pasted image 20250627115455.png",

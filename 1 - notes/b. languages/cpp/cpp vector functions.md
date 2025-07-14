@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-28T10:51
-updated: 2025-06-28T10:51
+updated: 2025-07-13T10:19
 ---
 ---
 
@@ -30,7 +30,8 @@ v1.push_back(1);
 ```
 
 * **insert()** – Inserts an element at a specified position.
-	* (position, number of times ( optional ), number)
+	* very constly - takes a lot of time
+	* (position (optional), number of times ( optional ), number)
 
 ```cpp
 auto it = v1.begin();
@@ -39,11 +40,13 @@ v1.insert(it+1, 3, 10) // inserting 10, 10, 10 from 2nd position
 ```
 
 * **erase()** – Removes an element from a specific position.
-
 ```cpp
 vector<int> v1;
 auto it = v1.begin();
 v1.erase(it); // erasing the first element
+v.erase(v.begin()+1);  // Removes the second element
+// v.erase[start address, end address) end is exlusive
+v.erase(v.begin(), v.begin() + 3) // removes from first till 3rd index
 ```
 
 * **pop\_back()** – Deletes the last element.
@@ -82,4 +85,12 @@ v1.empty();
 v1.size();
 ```
 
+- swap() - swaps the values 
+
+```cpp
+vector<int> v1 = {10, 20};
+vector<int> v2 = {30, 40};
+
+v1.swap(v2);
+```
 

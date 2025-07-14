@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Cpp-MOC]]"
 created: 2025-05-12T16:58
-updated: 2025-06-28T09:58
+updated: 2025-07-13T11:06
 ---
 ---
 
@@ -16,6 +16,12 @@ STL stands for standard template library which contains a lot of pre-defined tem
 	- [[cpp - pairs]]
 - Containers
 	- [[cpp - vectors]]
+	- [[cpp - list]]
+	- [[cpp - deque]]
+	- [[cpp - stack]]
+	- [[cpp - queue]]
+	- [[cpp - priority_queue]]
+	- 
 
 # Reference
 `related tags + notes + source + link(if any)`

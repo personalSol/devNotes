@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-28T10:31
-updated: 2025-06-28T10:55
+updated: 2025-07-13T05:46
 ---
 ---
 
@@ -47,6 +47,11 @@ void explainVector() {
         cout << *it << " ";
     }
     cout << endl;
+
+	for(auto it : v){ // here auto will automatically become of type int
+		cout<< it << " ";
+	}
+	cout<<endl;
 
     // Update
     v[2] = 99;  // Change third element to 99
