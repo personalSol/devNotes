@@ -11,6 +11,7 @@ here will be all the notes around Cpp-MOC which is a part of [[Lang-And-Packages
 ### extras ( not that imp but still here )
 
 - [[Cpp cheatsheet]]
+- [[cpp - code block]]
 
 ### basic
 
@@ -32,7 +33,6 @@ here will be all the notes around Cpp-MOC which is a part of [[Lang-And-Packages
 ### mid
 
 - [[cpp static variable & functions]]
-- 
 - [[cpp - access modifiers]]
 - [[cpp pointers]]
 - [[cpp enum class]]
@@ -41,7 +41,7 @@ here will be all the notes around Cpp-MOC which is a part of [[Lang-And-Packages
 
 ### advance
 
-- [[cpp binary search]]
+- [[cpp binary search, upper bound and lower bound]]
 - 
 
 

@@ -2,9 +2,15 @@
 status: newBorn
 related-links: 
 created: 2025-07-14T12:06
-updated: 2025-07-14T12:06
+updated: 2025-07-14T20:03
 ---
 ---
+
+### types
+
+- only different is it allows multiple occurence - [[cpp - multiset]]
+- difference is that it isn't sorted - [[cpp - uset]]
+
 
 ### STL `set` in C++
 
