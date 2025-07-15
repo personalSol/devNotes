@@ -162,7 +162,7 @@
     "1 - notes/c. tools/mongoDB/MongoDB Cheatsheet.md": "dd449f8ae146fb97af995ed4a237ab767d130332679ea072d873ca1e45717f3a",
     "1 - notes/b. languages/javascript/JS runtime environment.md": "3dec74e697809710bdd2058cafc0094b23a5fdc822f020e6f83bcb04d8163624",
     "2 - projects/Password Manager.md": "566a24cbe47ec2c0d1caf197d7068b4f8fdbd3fbed7bcbfed338b9fa51f5fda6",
-    "1 - notes/b. languages/cpp/cpp stl.md": "d3ef5a55b1aac91e64557ffedd70dd78a489ee9036d29871b979b53c1075eb90",
+    "1 - notes/b. languages/cpp/cpp stl.md": "0a8de4156fac0ca437d86e6e62471000e759cb3d335a2d6563f94b03ac1d5c0a",
     "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md": "b63a0c70fb753f1045e5638daf12fb89503a93ad0b6283c9f54056080211f160",
     "1 - notes/b. languages/cpp/cpp - vectors.md": "9aba60dd716a9aa489a1b78606bd5d04a2c097bfafb5667c28c8a4108022fa83",
     "1 - notes/h. library/jwt/jwt.md": "6d49f237a8c37409329b1cd4edc91cec0a36761bb4adba02a5cbee3ffee1e53e",
@@ -397,6 +397,10 @@
     "0 - inbox/cpp binary search, upper bound and lower bound.md": "74508311c28b41ea0884f586915f8966cd819afb72a3684a0153e354bcaa98d0",
     "0 - inbox/VS code shortcuts.md": "c8159c57da46a80e2dbcd973202fa5ba06139c017c767b1560cfd4b4af1f8904",
     "0 - inbox/cpp - multiset.md": "5ad9b6125c47cbef097bddb6306b0ddfc2693fdf9801a0453a5c0d3a02b543ab",
-    "0 - inbox/cpp - uset.md": "eea6bb44f9f5f8ffd06e5e3212a316e8b99842e4545e79ed5b9170a95c473cf8"
+    "0 - inbox/cpp - uset.md": "eea6bb44f9f5f8ffd06e5e3212a316e8b99842e4545e79ed5b9170a95c473cf8",
+    "0 - inbox/cpp - map.md": "f42b447cf1c91fc433a5c245ede0105a064caebf25c849fd48a08fccb17a4a06",
+    "0 - inbox/cpp - multimap.md": "0fd72c48645a2cc4aa15267a1807ff7dc30ad187456d77bce5256abf16472764",
+    "0 - inbox/cpp - umap.md": "fc4d2c8e8062f366ec580c72661a38560a12b436f9ccd9dd72fe3f53e6b71032",
+    "0 - inbox/cpp - algorithms.md": "6264dc4638b2af80439e8212e28b2e9962623281471c2abc4069b41cc7a39d56"
   }
 }

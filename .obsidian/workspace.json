@@ -4,44 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0e287a1a838993cf",
+        "id": "98961faa62d9fe4b",
         "type": "tabs",
         "children": [
           {
-            "id": "a8aee6076b8e76f0",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/cpp - set.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp - set"
-            }
-          },
-          {
-            "id": "df12417ad9da3433",
+            "id": "d2a6865c1c642370",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -74,7 +41,7 @@
             }
           },
           {
-            "id": "093fb71eb8a7967f",
+            "id": "1fe2194faf595f0a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -88,7 +55,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/cpp - multiset.md",
+                "file": "0 - inbox/cpp - algorithms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -103,10 +70,77 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cpp - multiset"
+              "title": "cpp - algorithms"
+            }
+          },
+          {
+            "id": "46f3035f18425f83",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp stl brief.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp stl brief"
+            }
+          },
+          {
+            "id": "85d364256b8be00f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp arrays.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp arrays"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -209,7 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/cpp - set.md",
+                "file": "1 - notes/b. languages/cpp/cpp arrays.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -237,7 +271,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cpp - set"
+              "title": "Graph of cpp arrays"
             }
           }
         ]
@@ -484,12 +518,17 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "a8aee6076b8e76f0",
+  "active": "85d364256b8be00f",
   "lastOpenFiles": [
-    "0 - inbox/cpp - uset.md",
-    "0 - inbox/cpp - set.md",
-    "0 - inbox/cpp - multiset.md",
+    "0 - inbox/cpp - algorithms.md",
+    "1 - notes/b. languages/cpp/cpp stl brief.md",
     "1 - notes/b. languages/cpp/cpp stl.md",
+    "0 - inbox/cpp - multiset.md",
+    "0 - inbox/cpp - multimap.md",
+    "0 - inbox/cpp - umap.md",
+    "0 - inbox/cpp - map.md",
+    "0 - inbox/cpp - set.md",
+    "0 - inbox/cpp - uset.md",
     "0 - inbox/cpp - code block.md",
     "0 - inbox/cpp binary search, upper bound and lower bound.md",
     "0 - inbox/VS code shortcuts.md",
@@ -507,11 +546,6 @@
     "1 - notes/b. languages/cpp/cpp datatypes.md",
     "0 - inbox/cpp - priority_queue.md",
     "0 - inbox/cpp - stack.md",
-    "0 - inbox/cpp - deque.md",
-    "0 - inbox/cpp - list.md",
-    "1 - notes/b. languages/cpp/cpp vectors basic.md",
-    "1 - notes/b. languages/cpp/cpp - inheritance.md",
-    "1 - notes/z. others/checkboxes.md",
     "98 - attachments/Pasted image 20250601140028.png",
     "98 - attachments/Pasted image 20250705120119.png",
     "98 - attachments/Pasted image 20250705120059.png",

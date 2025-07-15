@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Cpp-MOC]]"
 created: 2025-05-12T16:58
-updated: 2025-07-14T20:02
+updated: 2025-07-15T10:32
 ---
 ---
 
@@ -24,7 +24,11 @@ STL stands for standard template library which contains a lot of pre-defined tem
 	- [[cpp - set]]
 		- [[cpp - multiset]]
 		- [[cpp - uset]]
-	- 
+	- [[cpp - map]]
+		- [[cpp - multimap]]
+		- [[cpp - umap]]
+- [[cpp - algorithms]]
+- 
 
 # Reference
 `related tags + notes + source + link(if any)`
