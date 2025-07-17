@@ -25,7 +25,8 @@ here will be all the notes around Snippets-MOC which is a part of main MOC - [[M
 - [[snp db connection file]]
 - [[snp express index]]
 - [[snp express app file]]
-- 
+- react
+	- [[react error boundary]] 
 
 ### rarely used
 

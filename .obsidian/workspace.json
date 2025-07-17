@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2912b4569910dc68",
+        "id": "e54613b01cd86759",
         "type": "tabs",
         "children": [
           {
-            "id": "24014619be05fd4b",
+            "id": "6627e5577109ab46",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "React-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":21},\"to\":{\"line\":27,\"ch\":21}},\"scroll\":12.386363417977469}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
+                "file": "0 - inbox/react - error boundary.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,7 +43,179 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cpp - things to remember"
+              "title": "react - error boundary"
+            }
+          },
+          {
+            "id": "5186edeb214b9123",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react - component life cycle.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react - component life cycle"
+            }
+          },
+          {
+            "id": "1876c1738a96acde",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - moc/Snippets-MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Snippets-MOC"
+            }
+          },
+          {
+            "id": "3fff1265918fdc5a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/react error boundary.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react error boundary"
+            }
+          },
+          {
+            "id": "0ada4fab378cc704",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/z. others/Websites and Resources.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Websites and Resources"
+            }
+          }
+        ],
+        "currentTab": 4
+      },
+      {
+        "id": "b8b3eb29a81dfb79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "889c1324effe5a0d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/h. library/react/hooks - useEffect.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "hooks - useEffect"
             }
           }
         ]
@@ -121,7 +299,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "b383a8782596b7d0",
@@ -143,7 +322,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp - things to remember.md",
+                "file": "1 - notes/z. others/Websites and Resources.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -171,7 +350,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cpp - things to remember"
+              "title": "Graph of Websites and Resources"
             }
           }
         ]
@@ -418,8 +597,24 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "24014619be05fd4b",
+  "active": "0ada4fab378cc704",
   "lastOpenFiles": [
+    "0 - inbox/react - error boundary.md",
+    "3 - moc/Snippets-MOC.md",
+    "0 - inbox/react - component life cycle.md",
+    "0 - inbox/react error boundary.md",
+    "3 - moc/sub-mocs/React-MOC.md",
+    "1 - notes/h. library/react/react - components.md",
+    "1 - notes/h. library/react/react - custom hooks.md",
+    "1 - notes/h. library/react/react - methods.md",
+    "1 - notes/h. library/react/react - hooks.md",
+    "1 - notes/h. library/react/react - conventions to follow.md",
+    "1 - notes/h. library/react/react - how it works.md",
+    "1 - notes/h. library/react/hooks - useEffect.md",
+    "0 - inbox/react code block.md",
+    "1 - notes/a. concepts/browser storage - indexedDB.md",
+    "1 - notes/b. languages/cpp/cpp - things to remember.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
     "1 - notes/b. languages/cpp/cpp stl.md",
     "0 - inbox/cpp - algorithms.md",
     "1 - notes/b. languages/cpp/cpp stl brief.md",
@@ -430,22 +625,6 @@
     "0 - inbox/cpp - map.md",
     "0 - inbox/cpp - set.md",
     "0 - inbox/cpp - uset.md",
-    "0 - inbox/cpp - code block.md",
-    "0 - inbox/cpp binary search, upper bound and lower bound.md",
-    "0 - inbox/VS code shortcuts.md",
-    "1 - notes/b. languages/cpp/cpp - things to remember.md",
-    "1 - notes/b. languages/cpp/cpp vector functions.md",
-    "0 - inbox/cpp - queue.md",
-    "1 - notes/b. languages/cpp/cpp - access modifiers.md",
-    "1 - notes/b. languages/cpp/cpp oops.md",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
-    "1 - notes/z. others/code copy block note.md",
-    "1 - notes/z. others/Tasks for coding.md",
-    "1 - notes/b. languages/cpp/cpp - vectors.md",
-    "1 - notes/b. languages/cpp/cpp vectors code.md",
-    "1 - notes/b. languages/cpp/cpp datatypes.md",
-    "0 - inbox/cpp - priority_queue.md",
-    "0 - inbox/cpp - stack.md",
     "98 - attachments/Pasted image 20250601140028.png",
     "98 - attachments/Pasted image 20250705120119.png",
     "98 - attachments/Pasted image 20250705120059.png",

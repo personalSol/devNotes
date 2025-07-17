@@ -37,7 +37,7 @@
     "1 - notes/b. languages/css/CSS units.md": "03e3b3c3c7e50f7092a6bc8126962578311b51c991477e4dd2cc851d89945e27",
     "1 - notes/b. languages/javascript/js - functions.md": "223d043e1fd5fc3e15296a42d53fb9c3bb8b07e7725c40e77bf7dc8ce7af3e43",
     "1 - notes/b. languages/cpp/cpp datatypes.md": "7a7f6f02de50138e0bc330ee418e164b4d88620ec8b97785d60be5db9688bbc3",
-    "1 - notes/z. others/Websites and Resources.md": "60767362558bc73ed93a02fd7a0136550c31da64c494c2fb01746474d07e245a",
+    "1 - notes/z. others/Websites and Resources.md": "95c40af53c13589e4e667787e3d47b95aa9ef87a3e596846992f73b6c2bdec7b",
     "1 - notes/b. languages/java/java datatypes.md": "64621c44a83058a844e8fe50380a3c1cfaf68cb72911c7be36102a1e3186755d",
     "1 - notes/e. ai/ai agents.md": "79142cdffb6108b04b87543e2324a8c2915db316a8088019227b64363f9d8cf3",
     "4 - sources/Qspiders/MongoDB class by Utkarsh Sir.md": "5f3be92c6c37013203fcc1365f3168713a69009473cb998a476e9dd2bfc1e0e8",
@@ -105,7 +105,7 @@
     "1 - notes/h. library/mongoose/model, schema and document concept.md": "ddca668dcb4b33fd1a7b51811c8a1ff2096d1047eba2b25821f85fbec6791190",
     "1 - notes/h. library/mongoose/mongoose middlewares.md": "9cfe4099d257a486e2438236452b116d80869404084bd801e41f7859ff16f68e",
     "1 - notes/h. library/mongoose/mongoose-aggregate-paginate-v2.md": "8e1e5b020288b248abada8951c1abac6563e5e0717b7b78f26eaa407759d3351",
-    "1 - notes/h. library/react/hooks - useEffect.md": "876d8acdf01b15167df5ea12985912bb3466fa59c6c27e3308865c85848f9224",
+    "1 - notes/h. library/react/hooks - useEffect.md": "3945b2e1292dc1c14f3f8ca4f6794010805b1a5974cb0092e0a2acfaa17dbb79",
     "1 - notes/h. library/dotenv.md": "1ae119bdc6f50792d044941ffbbdcf36f7f944f5abcb2f45e6e3484cc0ed5f06",
     "1 - notes/h. library/cors/cors solutions.md": "73d426b28a74e7150130ecb27085680aa5bda300152dcc8afef5a0a871b9ee5a",
     "1 - notes/h. library/cors/cors.md": "85d2bcb00de58ff470b6239812d3e830bb4d513abe73e15abb0abddec083426f",
@@ -401,6 +401,12 @@
     "0 - inbox/cpp - map.md": "f42b447cf1c91fc433a5c245ede0105a064caebf25c849fd48a08fccb17a4a06",
     "0 - inbox/cpp - multimap.md": "0fd72c48645a2cc4aa15267a1807ff7dc30ad187456d77bce5256abf16472764",
     "0 - inbox/cpp - umap.md": "fc4d2c8e8062f366ec580c72661a38560a12b436f9ccd9dd72fe3f53e6b71032",
-    "0 - inbox/cpp - algorithms.md": "1a4fd0887d4492d3b0aa059789f7d6facb7a77654c586212bbdd9843a2bc1049"
+    "0 - inbox/cpp - algorithms.md": "1a4fd0887d4492d3b0aa059789f7d6facb7a77654c586212bbdd9843a2bc1049",
+    "0 - inbox/react - component life cycle.md": "f76b83b941932143b04c9bc0ec445b97b37345c32fcd34ee0a756517132c60ab",
+    "0 - inbox/react code block.md": "00441d65833a5ea0f6d65875443625f78f1dbdea0a544411de1e6cc7ec735246",
+    "1 - notes/h. library/react/react - methods.md": "0719c154c2e1ba05246c9c36291c11ebd304817ef76e305fc393676cef4da097",
+    "1 - notes/h. library/react/react - custom hooks.md": "638ec584f3bb78a71510080cc595679679d7ec60b9f944da5fc44e9d216cf532",
+    "0 - inbox/react - error boundary.md": "61ad4a0b91ef1d6d15796c90722c48c4678a1f4bc2f608c58cbad2471f19911f",
+    "0 - inbox/react error boundary.md": "be9261a9ba3029eb11ad4b3df08738ae7af6eeb280a89e18a119927ec2bcebdf"
   }
 }

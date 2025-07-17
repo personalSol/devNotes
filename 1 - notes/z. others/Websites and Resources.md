@@ -1,6 +1,6 @@
 ---
 created: 2025-02-14T21:54
-updated: 2025-06-11T10:02
+updated: 2025-07-16T15:44
 related-links: "[[Others-MOC]]"
 ---
 here is a list of websites and apps around engineering and programming.
@@ -33,6 +33,10 @@ FOR web dev:
 - to test http requests: [HTTP Dump - Easily inspect incoming HTTP Requests](https://httpdump.app/) ^3v0anb
 - 
 
+
+For interview praparation:
+- interviewbit
+- finalroundai
 
 For authentication learning:
 - [JSON Web Tokens - jwt.io](https://jwt.io/) ^6pk24c
