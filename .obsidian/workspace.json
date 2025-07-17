@@ -4,11 +4,83 @@
     "type": "split",
     "children": [
       {
-        "id": "e54613b01cd86759",
+        "id": "70db8820721be421",
         "type": "tabs",
         "children": [
           {
-            "id": "6627e5577109ab46",
+            "id": "884961b03f4bb5d4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "time complexity - basic",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/time complexity - basic.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"time complexity - basic\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":22.303797416399732}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/a. concepts/time complexity.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "time complexity"
+            }
+          },
+          {
+            "id": "b943257c1a40d8d4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/time complexity - guide to calculate.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "time complexity - guide to calculate"
+            }
+          },
+          {
+            "id": "994fe89682819fe1",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,17 +90,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "React-MOC",
+                  "title": "DSA-MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":21},\"to\":{\"line\":27,\"ch\":21}},\"scroll\":12.386363417977469}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/DSA-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"DSA-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":23},\"to\":{\"line\":18,\"ch\":23}},\"scroll\":3.6721311475409837}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/react - error boundary.md",
+                "file": "0 - inbox/Question approaches.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,11 +115,113 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react - error boundary"
+              "title": "Question approaches"
             }
           },
           {
-            "id": "5186edeb214b9123",
+            "id": "465976a4120a816a",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "sql aggregation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/sql/sql aggregation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"sql aggregation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "sql things to remember",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/sql/sql things to remember.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"sql things to remember\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "sql aggregation",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/sql/sql aggregation.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"sql aggregation\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "cpp - algorithms",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/cpp/cpp - algorithms.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cpp - algorithms\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "dsa code block",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/x. code block/dsa code block.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"dsa code block\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/y. snippets/snp api error.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "snp api error"
+            }
+          },
+          {
+            "id": "6403a794dd7d6646",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "time complexity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/time complexity.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"time complexity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":23},\"to\":{\"line\":9,\"ch\":23}},\"scroll\":1.6727272380482068}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/time complexity - basic.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "time complexity - basic"
+            }
+          },
+          {
+            "id": "7ff5bd77b913cf73",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -61,7 +235,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/react - component life cycle.md",
+                "file": "3 - moc/sub-mocs/Core-Concepts-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,25 +250,85 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react - component life cycle"
+              "title": "Core-Concepts-MOC"
             }
           },
           {
-            "id": "1876c1738a96acde",
+            "id": "bed548e21b21775f",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "notes from notion v2",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/notes from notion v2.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"notes from notion v2\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "notes from notion v1",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/notes from notion v1.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"notes from notion v1\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":105.7234827420709}"
+                },
+                {
+                  "title": "postgres quotes error theory",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/sql/postgres quotes error theory.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"postgres quotes error theory\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "postgreSQL cheatsheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/sql/postgreSQL cheatsheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"postgreSQL cheatsheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":13.20000003633045}"
+                },
+                {
+                  "title": "react - component life cycle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react - component life cycle.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - component life cycle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "react - error boundary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react - error boundary.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - error boundary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "regex",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/regex.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"regex\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":11.666666189829508}"
+                },
+                {
+                  "title": "react - component life cycle",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react - component life cycle.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - component life cycle\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "snp api error",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/y. snippets/snp api error.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"snp api error\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Snippets-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Snippets-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Snippets-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":10.4873418145561}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/Snippets-MOC.md",
+                "file": "1 - notes/b. languages/sql/sql databases basics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -109,116 +343,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Snippets-MOC"
-            }
-          },
-          {
-            "id": "3fff1265918fdc5a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/react error boundary.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react error boundary"
-            }
-          },
-          {
-            "id": "0ada4fab378cc704",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/z. others/Websites and Resources.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Websites and Resources"
+              "title": "sql databases basics"
             }
           }
         ],
-        "currentTab": 4
-      },
-      {
-        "id": "b8b3eb29a81dfb79",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "889c1324effe5a0d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/h. library/react/hooks - useEffect.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "hooks - useEffect"
-            }
-          }
-        ]
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -269,7 +398,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "what is artificial intelligence",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -299,8 +428,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "b383a8782596b7d0",
@@ -322,7 +450,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/z. others/Websites and Resources.md",
+                "file": "1 - notes/b. languages/sql/sql databases basics.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -350,7 +478,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Websites and Resources"
+              "title": "Graph of sql databases basics"
             }
           }
         ]
@@ -383,13 +511,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/cpp - priority_queue.md",
+                "file": "1 - notes/b. languages/sql/sql databases basics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cpp - priority_queue"
+              "title": "Outline of sql databases basics"
             }
           },
           {
@@ -577,8 +705,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 297.5,
-    "collapsed": true
+    "width": 297.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -597,34 +724,40 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0ada4fab378cc704",
+  "active": "bed548e21b21775f",
   "lastOpenFiles": [
-    "0 - inbox/react - error boundary.md",
+    "0 - inbox/notes from notion v2.md",
+    "1 - notes/b. languages/sql/sql databases basics.md",
+    "0 - inbox/notes from notion v1.md",
+    "1 - notes/b. languages/sql/postgres quotes error theory.md",
+    "1 - notes/b. languages/sql/postgreSQL cheatsheet.md",
+    "1 - notes/h. library/react/react - component life cycle.md",
+    "1 - notes/h. library/react/react - error boundary.md",
+    "0 - inbox/regex.md",
+    "1 - notes/y. snippets/snp api error.md",
     "3 - moc/Snippets-MOC.md",
-    "0 - inbox/react - component life cycle.md",
-    "0 - inbox/react error boundary.md",
-    "3 - moc/sub-mocs/React-MOC.md",
-    "1 - notes/h. library/react/react - components.md",
-    "1 - notes/h. library/react/react - custom hooks.md",
-    "1 - notes/h. library/react/react - methods.md",
-    "1 - notes/h. library/react/react - hooks.md",
-    "1 - notes/h. library/react/react - conventions to follow.md",
-    "1 - notes/h. library/react/react - how it works.md",
-    "1 - notes/h. library/react/hooks - useEffect.md",
-    "0 - inbox/react code block.md",
-    "1 - notes/a. concepts/browser storage - indexedDB.md",
-    "1 - notes/b. languages/cpp/cpp - things to remember.md",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
-    "1 - notes/b. languages/cpp/cpp stl.md",
-    "0 - inbox/cpp - algorithms.md",
-    "1 - notes/b. languages/cpp/cpp stl brief.md",
-    "1 - notes/b. languages/cpp/cpp arrays.md",
-    "0 - inbox/cpp - multiset.md",
-    "0 - inbox/cpp - multimap.md",
-    "0 - inbox/cpp - umap.md",
-    "0 - inbox/cpp - map.md",
-    "0 - inbox/cpp - set.md",
-    "0 - inbox/cpp - uset.md",
+    "1 - notes/b. languages/sql/sql aggregation.md",
+    "1 - notes/b. languages/sql",
+    "1 - notes/b. languages/sql/sql things to remember.md",
+    "1 - notes/b. languages/cpp/cpp - algorithms.md",
+    "1 - notes/x. code block/dsa code block.md",
+    "0 - inbox/Question approaches.md",
+    "3 - moc/DSA-MOC.md",
+    "1 - notes/a. concepts/DSA questions.md",
+    "0 - inbox/time complexity - basic.md",
+    "1 - notes/x. code block",
+    "1 - notes/a. concepts/time complexity.md",
+    "0 - inbox/time complexity - guide to calculate.md",
+    "1 - notes/a. concepts/tc - code example.md",
+    "1 - notes/a. concepts/data structure and algorithms.md",
+    "3 - moc/sub-mocs/Core-Concepts-MOC.md",
+    "1 - notes/g. dsa/dsa - tips.md",
+    "0 - inbox/time complexity - types.md",
+    "0 - inbox/ai basics.md",
+    "98 - attachments/screen-shot-2023-10-27-at-5.57.55-pm.jpeg",
+    "98 - attachments/screen-shot-2024-01-18-at-3.58.27-pm.jpeg",
+    "98 - attachments/screen-shot-2023-10-27-at-5.55.07-pm.jpeg",
+    "98 - attachments/screenshot-2025-02-21-at-3.48.23pm.jpeg",
     "98 - attachments/Pasted image 20250601140028.png",
     "98 - attachments/Pasted image 20250705120119.png",
     "98 - attachments/Pasted image 20250705120059.png",
@@ -639,12 +772,6 @@
     "98 - attachments/Recording 20250616183006.m4a",
     "98 - attachments/Pasted image 20250426142009.png",
     "98 - attachments/Pasted image 20250615153340.png",
-    "98 - attachments/Pasted image 20250615153117.png",
-    "98 - attachments/Pasted image 20250615152351.png",
-    "98 - attachments/Pasted image 20250615143301.png",
-    "98 - attachments/Pasted image 20250615141020.png",
-    "1 - notes/h. library/json",
-    "1 - notes/k. web-dev/node",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

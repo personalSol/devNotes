@@ -24,7 +24,6 @@ here will be all the notes around Core-Concepts-MOC which is a part of [[Concept
 ### basic
 
 - to understand how browser stores data: [[browser storage]]
-- [[data structure and algorithms]]
 - [[time complexity]]
 - [[space complexity]]
 - [[asymptotic notation]]

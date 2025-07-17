@@ -2,11 +2,17 @@
 status: newBorn
 related-links: 
 created: 2025-05-14T07:35
-updated: 2025-06-01T02:50
+updated: 2025-07-17T15:21
 ---
 ---
 
+**contest/coding tips**
+- in most coding platforms for CP, 1 sec is equal to 10^8 operations 
+- 2 sec = 2 x 10^8 operations
 
+in some rounds they might say that you have 1 sec time limit so that means you can do a maximum of 10^8 operations only
+
+**how to learn**
 - whenever starting any new topic, ask these three question. Ex:
 	- why did I start array
 	- what problem did it solved

@@ -7,15 +7,20 @@ updated: 2025-05-14T07:47
 
 here will be all the notes around DSA-MOC
 
+- [[dsa code block]]
 
 ### extras ( not that imp but still here )
 
 - [[dsa  - resources]]
 ---
 - [[dsa - tips]]
-- [[DSA questions]]
-- [[dsa - question approahes which I was able to solve]]
-- [[dsa - question approaches which I was not able to solve]]
+- time and space complexity
+	- [[time complexity]]
+	- [[space complexity]]
+- questions
+	- [[DSA questions]]
+	- [[dsa - question approahes which I was able to solve]]
+	- [[dsa - question approaches which I was not able to solve]]
 
 
 
