@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "70db8820721be421",
+        "id": "2562c70ea264dd74",
         "type": "tabs",
         "children": [
           {
-            "id": "884961b03f4bb5d4",
+            "id": "eab73b3fd28e096d",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,238 +20,13 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/a. concepts/time complexity.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "time complexity"
-            }
-          },
-          {
-            "id": "b943257c1a40d8d4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/time complexity - guide to calculate.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "time complexity - guide to calculate"
-            }
-          },
-          {
-            "id": "994fe89682819fe1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/Question approaches.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Question approaches"
-            }
-          },
-          {
-            "id": "465976a4120a816a",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/y. snippets/snp api error.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "snp api error"
-            }
-          },
-          {
-            "id": "6403a794dd7d6646",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/time complexity - basic.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "time complexity - basic"
-            }
-          },
-          {
-            "id": "7ff5bd77b913cf73",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/Core-Concepts-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Core-Concepts-MOC"
-            }
-          },
-          {
-            "id": "bed548e21b21775f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Password Manager",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2 - projects/Password Manager.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Password Manager\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":36,\"ch\":42},\"to\":{\"line\":36,\"ch\":42}},\"scroll\":0}"
-                },
-                {
-                  "title": "sql databases basics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/sql/sql databases basics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"sql databases basics\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":0},\"to\":{\"line\":12,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - projects/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "vertical"
@@ -263,7 +38,7 @@
       {
         "id": "b208c03cadd231ee",
         "type": "tabs",
-        "dimension": 68.90243902439025,
+        "dimension": 60.12195121951219,
         "children": [
           {
             "id": "dddbab8b18fd423a",
@@ -302,7 +77,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "what is artificial intelligence",
+                "query": "line:()",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -332,15 +107,16 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
-        "id": "b383a8782596b7d0",
+        "id": "3888432cac3b4f06",
         "type": "tabs",
-        "dimension": 31.09756097560976,
+        "dimension": 39.87804878048781,
         "children": [
           {
-            "id": "2f3b712f0174c74d",
+            "id": "727ed8f5dbac01b5",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -354,21 +130,20 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 - projects/Untitled.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 1,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": false,
+                  "localInterlinks": true,
                   "showTags": false,
                   "showAttachments": false,
                   "hideUnresolved": false,
                   "collapse-color-groups": true,
                   "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
+                  "collapse-display": false,
+                  "showArrow": true,
                   "textFadeMultiplier": 0,
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
@@ -377,19 +152,19 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 250,
-                  "scale": 0.27382025064601695,
+                  "scale": 0.36288736930121174,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 274.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -398,7 +173,7 @@
       {
         "id": "ea89fdbc5439f479",
         "type": "tabs",
-        "dimension": 65.39351851851852,
+        "dimension": 61.165048543689316,
         "children": [
           {
             "id": "90d026528dc7103b",
@@ -415,17 +190,14 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - projects/Untitled.md",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
+                "file": "3 - Tags/tG benefits of high energy.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of tG benefits of high energy"
             }
           },
           {
-            "id": "8cef3d5624c0100b",
+            "id": "4f6e4ddebde66a86",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -437,10 +209,13 @@
               ]
             },
             "state": {
-              "type": "todo",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -481,12 +256,12 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           },
           {
-            "id": "b1765a8f09cb9bf0",
+            "id": "8972c7b786ae0918",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -497,16 +272,6 @@
                 }
               ]
             },
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
-          },
-          {
-            "id": "9b737c03293dfed4",
-            "type": "leaf",
             "state": {
               "type": "Strange New Worlds",
               "state": {},
@@ -515,17 +280,8 @@
             }
           },
           {
-            "id": "5f6decea3ba60d51",
+            "id": "bac75d968ea47341",
             "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
             "state": {
               "type": "todo",
               "state": {},
@@ -534,12 +290,12 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
-        "id": "289ab9f3e538cb86",
+        "id": "8e15cd93a6a4be64",
         "type": "tabs",
-        "dimension": 34.60648148148148,
+        "dimension": 38.834951456310684,
         "children": [
           {
             "id": "d535bd36dbc98e0b",
@@ -556,7 +312,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/Tasks for coding.md",
+                "file": "6 - Atomic Notes/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -566,7 +322,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tasks for coding"
+              "title": "Backlinks for Obsidian Guide"
             }
           },
           {
@@ -584,110 +340,69 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Calendar/2024/Week 43/2024-10-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "11cafd609fc7620e",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "tag",
-              "state": {
-                "sortOrder": "frequency",
-                "useHierarchy": true,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-tags",
-              "title": "Tags"
-            }
-          },
-          {
-            "id": "c2fed10558bedaf1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "Strange New Worlds",
-              "state": {},
-              "icon": "file-digit",
-              "title": "Strange New Worlds"
+              "title": "Outgoing links from 2024-10-21"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
       "graph:Open graph view": false,
-      "templates:Insert template": false,
       "publish:Publish changes...": false,
       "switcher:Open quick switcher": false,
       "command-palette:Open command palette": false,
+      "templates:Insert template": false,
       "canvas:Create new canvas": false,
       "workspaces:Manage workspace layouts": false,
-      "audio-recorder:Start/stop recording": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "callout-manager:Insert Callout": false,
-      "templater-obsidian:Templater": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "bed548e21b21775f",
+  "active": "bac75d968ea47341",
   "lastOpenFiles": [
-    "2 - projects/Password Manager.md",
-    "2 - projects/Untitled.md",
-    "1 - notes/b. languages/sql/sql databases basics.md",
-    "0 - inbox/notes from notion v2.md",
-    "0 - inbox/notes from notion v1.md",
-    "1 - notes/b. languages/sql/postgres quotes error theory.md",
-    "1 - notes/b. languages/sql/postgreSQL cheatsheet.md",
-    "1 - notes/h. library/react/react - component life cycle.md",
-    "1 - notes/h. library/react/react - error boundary.md",
-    "0 - inbox/regex.md",
-    "1 - notes/y. snippets/snp api error.md",
-    "3 - moc/Snippets-MOC.md",
-    "1 - notes/b. languages/sql/sql aggregation.md",
-    "1 - notes/b. languages/sql",
-    "1 - notes/b. languages/sql/sql things to remember.md",
-    "1 - notes/b. languages/cpp/cpp - algorithms.md",
-    "1 - notes/x. code block/dsa code block.md",
-    "0 - inbox/Question approaches.md",
+    "3 - moc/Others-MOC.md",
     "3 - moc/DSA-MOC.md",
+    "3 - moc/Projects-MOC.md",
+    "3 - moc/MOC-LIST.md",
+    "1 - notes/z. others/All problems and errors I have faced.md",
+    "1 - notes/z. others/Questions asked in interview.md",
+    "0 - inbox/dsa path.md",
+    "1 - notes/z. others/videos to watch eventually.md",
+    "0 - inbox/computer fundamentals path.md",
+    "0 - inbox/dev path.md",
+    "1 - notes/z. others/Project Ideas.md",
+    "2 - projects/prj Google Drive.md",
+    "0 - inbox/Path.md",
+    "0 - inbox/other things path.md",
+    "1 - notes/z. others/roadmap.md",
+    "1 - notes/g. dsa/dsa roadmap checklist.md",
+    "1 - notes/g. dsa/dsa  - resources.md",
+    "2 - projects/prj Portfolio Project.md",
+    "1 - notes/z. others/checkboxes.md",
+    "97 - templates/tmp-project.md",
+    "2 - projects/prj Password Manager.md",
+    "2 - projects/prj Task Manager.md",
+    "2 - projects/Application Job Portal.md",
+    "1 - notes/z. others/Youtubers for programming.md",
+    "1 - notes/x. code block/general code copy block note.md",
     "1 - notes/a. concepts/DSA questions.md",
-    "0 - inbox/time complexity - basic.md",
+    "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
+    "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
-    "1 - notes/a. concepts/time complexity.md",
-    "0 - inbox/time complexity - guide to calculate.md",
-    "1 - notes/a. concepts/tc - code example.md",
-    "1 - notes/a. concepts/data structure and algorithms.md",
-    "3 - moc/sub-mocs/Core-Concepts-MOC.md",
-    "1 - notes/g. dsa/dsa - tips.md",
     "98 - attachments/screen-shot-2023-10-27-at-5.57.55-pm.jpeg",
     "98 - attachments/screen-shot-2024-01-18-at-3.58.27-pm.jpeg",
     "98 - attachments/screen-shot-2023-10-27-at-5.55.07-pm.jpeg",
@@ -705,7 +420,6 @@
     "98 - attachments/Recording 20250616182855.m4a",
     "98 - attachments/Recording 20250616183006.m4a",
     "98 - attachments/Pasted image 20250426142009.png",
-    "98 - attachments/Pasted image 20250615153340.png",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

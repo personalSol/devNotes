@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-11T20:06
-updated: 2025-06-11T20:06
+updated: 2025-07-18T20:49
 ---
 ---
 ## 📦 Bcrypt Hash Example
@@ -78,7 +78,7 @@ bcrypt.compare(userInput, storedHash)
 User Input: "mySecretPassword" 
       ↓
 bcrypt.compare("mySecretPassword", storedHash)
-      ↓
+	      ↓
 Extract salt & cost from storedHash
       ↓
 Re-hash input password with extracted salt

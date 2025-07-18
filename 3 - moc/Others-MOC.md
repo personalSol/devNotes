@@ -7,10 +7,7 @@ updated: 2025-05-14T07:35
 
 here will be all the notes around Others-MOC
 
-
 - [[purpose of notes]]
-- [[Project Ideas]]
-- [[Tasks for coding]]
 - [[vault-status]]
 - [[videos to watch eventually]]
 - [[Websites and Resources]]

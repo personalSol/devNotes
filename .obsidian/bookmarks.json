@@ -2,6 +2,12 @@
   "items": [
     {
       "type": "file",
+      "ctime": 1752858922251,
+      "path": "0 - inbox/Path.md",
+      "title": "Path"
+    },
+    {
+      "type": "file",
       "ctime": 1681343611460,
       "path": "Atlas/Shares/Videos/Obsidian Bookmarks (video).md"
     },
@@ -10,12 +16,6 @@
       "ctime": 1737472416480,
       "path": "1 - Rough Notes/Sleep time notes.md",
       "title": "Sleep Time Notes"
-    },
-    {
-      "type": "file",
-      "ctime": 1739253001170,
-      "path": "1 - notes/z. others/vault-status.md",
-      "title": "Vault Status"
     },
     {
       "type": "file",
@@ -50,12 +50,6 @@
           "ctime": 1743964805472,
           "path": "1 - notes/z. others/Questions asked in interview.md",
           "title": "Interview Questions"
-        },
-        {
-          "type": "file",
-          "ctime": 1740576809756,
-          "path": "1 - notes/a. concepts/DSA questions.md",
-          "title": "DSA"
         }
       ],
       "title": "Most IMP"
@@ -68,20 +62,8 @@
     },
     {
       "type": "file",
-      "ctime": 1747335103002,
-      "path": "3 - moc/MOC-LIST.md",
-      "title": "moc's list"
-    },
-    {
-      "type": "file",
       "ctime": 1748440152061,
       "path": "0 - inbox/code for js moc.md",
-      "title": "code block"
-    },
-    {
-      "type": "file",
-      "ctime": 1748440169880,
-      "path": "1 - notes/z. others/code copy block note.md",
       "title": "code block"
     },
     {
@@ -89,6 +71,44 @@
       "ctime": 1749459326027,
       "path": "1 - notes/z. others/All problems and errors I have faced.md",
       "title": "mistakes"
+    },
+    {
+      "type": "group",
+      "ctime": 1752857390750,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1739253001170,
+          "path": "1 - notes/z. others/vault-status.md",
+          "title": "Vault Status"
+        }
+      ],
+      "title": "Obsidian"
+    },
+    {
+      "type": "file",
+      "ctime": 1747335103002,
+      "path": "3 - moc/MOC-LIST.md",
+      "title": "moc's list"
+    },
+    {
+      "type": "group",
+      "ctime": 1752858066520,
+      "items": [
+        {
+          "type": "file",
+          "ctime": 1752859272698,
+          "path": "1 - notes/g. dsa/dsa roadmap checklist.md",
+          "title": "DSA checklist"
+        },
+        {
+          "type": "file",
+          "ctime": 1740576809756,
+          "path": "1 - notes/a. concepts/DSA questions.md",
+          "title": "DSA"
+        }
+      ],
+      "title": "DSA"
     }
   ]
 }

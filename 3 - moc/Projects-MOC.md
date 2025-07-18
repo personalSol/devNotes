@@ -7,7 +7,8 @@ updated: 2025-04-25T07:13
 
 here will be all the notes around Projects-MOC
 
-[[Project Ideas]]
+- [[dev path]]
+
 ### extras ( not that imp but still here )
 
 - 
@@ -34,6 +35,6 @@ here will be all the notes around Projects-MOC
 ### **Links not included yet list:**
 ```dataview
 list
-from "" and [[]] and !outgoing([[]])
+from "2 - projects" and [[]] and !outgoing([[]])
 sort created desc
 ```

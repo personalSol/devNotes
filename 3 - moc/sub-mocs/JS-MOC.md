@@ -7,7 +7,7 @@ updated: 2025-05-17T14:53
 it will have all the notes around JS connected to it.
 
 [[Javascript Cheatsheet]]
-- [[code copy block note]]
+- [[general code copy block note]]
 - 
 
 ### extras ( not that imp but still here )

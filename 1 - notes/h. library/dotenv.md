@@ -3,11 +3,12 @@ status: newBorn
 related-links:
   - "[[Node-JS-MOC]]"
 created: 2025-05-28T02:57
-updated: 2025-06-22T09:59
+updated: 2025-07-18T16:06
 ---
 ---
 
 > this is all for nodeJS applications. React and next and other applications have their own way to handle .env
+> - .env file ⭐⭐ must always be on root folder
 - From what I understood, we use dotenv so that we can hide data/variables from showing up when we deploy this code.
 - helps us lode environment variables
 - should be loaded asap in program

@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-15T14:29
-updated: 2025-06-15T15:58
+updated: 2025-07-18T22:32
 ---
 ---
 > use to control two axis at the same time
@@ -44,7 +44,7 @@ body{
 	- also take negative column
 ![[Pasted image 20250615152351.png||500]]
 ![[Pasted image 20250615153340.png||500]]
-- [[code copy block note#grid code]]
+- [[general code copy block note#grid code]]
 - [CSS Grid Layout](https://www.w3schools.com/css/css_grid.asp)
 	- in this method, we first set `grid-template-areas` to set a template
 	- then we use `grid-area: <areaname>` on element classes or id to tell which element is associated to which area

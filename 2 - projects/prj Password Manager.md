@@ -2,11 +2,11 @@
 start date: 2025-06-06
 deadline: 2025-06-14
 status: planning
-related tGs: 
-tech-stack:
-  - mern
+related tGs:
+  - "[[Projects-MOC]]"
+tech-stack: []
 created: 2025-06-06T07:57
-updated: 2025-06-09T10:26
+updated: 2025-07-18T22:47
 ---
 # Password Manager
 *Status: planning /  on_hold / in_progress / complete*

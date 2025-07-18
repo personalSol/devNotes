@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-29T12:32
-updated: 2025-06-15T11:19
+updated: 2025-07-18T15:32
 ---
 ---
 
@@ -12,12 +12,7 @@ updated: 2025-06-15T11:19
 - hitesh sir said it's used to standardize API error and response
 - we don't have to remember ki kya format tha error bhejne ka
 
-code:
-```js
-
-```
-
-
+code: ![[snp api error]]
 
 - [[error stack property in ApiError]]
 - 

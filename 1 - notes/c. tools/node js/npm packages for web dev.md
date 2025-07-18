@@ -2,7 +2,7 @@
 status: newBorn
 related-links: []
 created: 2025-05-17T10:09
-updated: 2025-06-16T11:23
+updated: 2025-07-18T22:45
 ---
 ---
 
@@ -13,7 +13,7 @@ here are all the npm packages
 - [[json]]
 
 ####  internal packages
-- [[path]]
+- [[1 - notes/h. library/path]]
 - [[fs]]
 - 
 

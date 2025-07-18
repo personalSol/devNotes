@@ -8,11 +8,10 @@ updated: 2025-05-14T07:47
 here will be all the notes around DSA-MOC
 
 - [[dsa code block]]
+- [[dsa path]]
 
 ### extras ( not that imp but still here )
 
-- [[dsa  - resources]]
----
 - [[dsa - tips]]
 - time and space complexity
 	- [[time complexity]]

@@ -1,14 +1,15 @@
 ---
 start date: 
 deadline: 
-status: 
-related tGs: 
-tech-stack: []
-created: 2025-07-18T14:02
-updated: 2025-07-18T14:02
+status: not_started
+related tGs:
+  - "[[Projects-MOC]]"
+tech-stack: 
+created: 2025-07-18T22:46
+updated: 2025-07-18T22:46
 ---
-# {{title}}
-*Status: planning /  on_hold / in_progress / complete*
+# Google Drive
+*Status: not_started/ planning /  on_hold / in_progress / complete*
 ### Short brief
 
 
@@ -50,7 +51,7 @@ updated: 2025-07-18T14:02
 ### **Reference**
 - **Documents**: 
 - **People**: 
-- Related Projects: 
+- Related Projects: [🔴 Building Google Drive with ReactJS & Firebase (For Beginners) - YouTube](https://www.youtube.com/live/ljuCH6_jrYE?feature=shared)
 
 
 

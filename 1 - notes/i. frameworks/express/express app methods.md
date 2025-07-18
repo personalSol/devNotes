@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-29T11:29
-updated: 2025-05-29T11:29
+updated: 2025-07-18T22:32
 ---
 ---
 
@@ -12,7 +12,7 @@ updated: 2025-05-29T11:29
 	- Syntax: `app.on('eventName', callback)`
 	- the below one catches error and return them
 	- the below one is an error event to catch if database is connected but for some reason the server can't work with database
-	![[code copy block note#app on method]]
+	![[general code copy block note#app on method]]
 - 
 
 |Method|Category|Description|

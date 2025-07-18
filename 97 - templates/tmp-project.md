@@ -1,12 +1,12 @@
 ---
 start date: 
 deadline: 
-status: 
+status: not_started
 related tGs: 
-tech-stack: []
+tech-stack:
 ---
 # {{title}}
-*Status: planning /  on_hold / in_progress / complete*
+*Status: not_started/ planning /  on_hold / in_progress / complete*
 ### Short brief
 
 

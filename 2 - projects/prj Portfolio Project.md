@@ -4,7 +4,9 @@ deadline:
 status: 
 related tGs:
   - "[[Projects-MOC]]"
-tech-stack:
+tech-stack: 
+created: 2025-04-28T07:06
+updated: 2025-07-18T22:41
 ---
 # Untitled
 *Status: planning /  on_hold / in_progress / complete*
@@ -63,6 +65,7 @@ things to keep in mind:
 - **People**: 
 - Related Projects: 
 	- [Bits Of Mandal](https://about.bitsofmandal.com/)
+	- [Manish Kumar From India](https://manish-kumar-portfolio-website.netlify.app/)
 - **Video:** 
 	- [CREATE a Stunning REACT JS Portfolio Website in 3 Hours - YouTube](https://youtu.be/k3JMkRwd_Nw?si=god3oKrxzL_ocKvr)
 	- [Build a Stunning Portfolio Website with React, Tailwind CSS & Framer Motion! - YouTube](https://youtu.be/hw4bzV9Uu7A?si=p9TFYr2aikZo6Td7)

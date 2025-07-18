@@ -11,6 +11,8 @@
   "sortDirectionSubGroups": "new->old",
   "includeFiles": "",
   "lookAndFeel": "classic",
-  "_collapsedSections": [],
+  "_collapsedSections": [
+    "2 - projects/Password Manager.md"
+  ],
   "_hiddenTags": []
 }
