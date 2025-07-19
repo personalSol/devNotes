@@ -367,9 +367,9 @@
     "0 - inbox/time complexity - types.md": "903d3d4a345755b1e94abe91b60a133adb593b82a603bd7d2adbbae1be6545c9",
     "1 - notes/a. concepts/tc - code example.md": "fe79b59f55295c69e75196b84a406ae450e7bb5857b546c6f4955f5c4e933563",
     "0 - inbox/time complexity - guide to calculate.md": "1b83fa408b4f7661b6b41470e76d9cb654e160bdee382938f8f5685cc6ce6877",
-    "1 - notes/x. code block/dsa code block.md": "69addc89968d9ec6bdefde22e031f738989ee3db4650c06fe975c0f3c5456bc8",
+    "1 - notes/x. code block/dsa code block.md": "3cdb08ca7be6e71ee1525eaeff0b5f18012428e98f272a41d5203f6e40bbfd6d",
     "1 - notes/b. languages/cpp/cpp static variable & functions.md": "6fb22f2b32cd9ca46ed03a45581a384dd1cf2e4f7e6ee99ecc535deed8e71f86",
-    "1 - notes/b. languages/cpp/cpp - algorithms.md": "1a4fd0887d4492d3b0aa059789f7d6facb7a77654c586212bbdd9843a2bc1049",
+    "1 - notes/b. languages/cpp/cpp - algorithms.md": "7a9824004e2fbc1de5a3929d2bd455330df1ff538759ce8fc71a19eb137a4f9b",
     "1 - notes/b. languages/cpp/cpp - code block.md": "08205547b0a78ef40888762f5d6bd90be57b6f8e41d85009dfedcef841c8159a",
     "1 - notes/b. languages/cpp/cpp - deque.md": "f6fe8d85647801ea349102319a67a44c8f26e9d39c1fbc26ced9acebe9ed7ac4",
     "1 - notes/b. languages/cpp/cpp - list.md": "417a197143bac0fd809ee7645f7c7f1e9e163acff757671a34010f30e8ac42f6",
@@ -421,6 +421,7 @@
     "0 - inbox/dev path.md": "95418004db8359d500da6d2f1d9684dc02d7c361af273a6dca630a89f24174f5",
     "0 - inbox/computer fundamentals path.md": "3636b5285831cdb80221149c2695d13c97f181c8b7f77be0aeaba530d46ed70b",
     "0 - inbox/other things path.md": "fc70c6ff7a6bfeea7d68d87cee1a0bdc06c5e27e67ba008e34b0f05aabbdc3d0",
-    "0 - inbox/logrithms.md": "f168216980694aa0cfd97dbe0151b237e3fc3abb6e03f19c4abeaa985a0b884e"
+    "0 - inbox/logrithms.md": "f168216980694aa0cfd97dbe0151b237e3fc3abb6e03f19c4abeaa985a0b884e",
+    "0 - inbox/dsa - algorithms.md": "f373f76c64981ac7e54be645d51abde18d80a03ec36aabed90a1aaadded58bcd"
   }
 }

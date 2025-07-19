@@ -13,6 +13,7 @@ here will be all the notes around DSA-MOC
 ### extras ( not that imp but still here )
 
 - [[dsa - tips]]
+- [[dsa - algorithms]]
 - time and space complexity
 	- [[time complexity]]
 	- [[space complexity]]

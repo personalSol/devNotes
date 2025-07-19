@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-07-15T10:32
-updated: 2025-07-15T20:30
+updated: 2025-07-19T11:00
 ---
 ---
 
@@ -16,7 +16,7 @@ updated: 2025-07-15T20:30
 	- must be sorted in ascending to get all results
 	- not sure why it follows a pattern to give permutations
 - `max_element()`: give address of max element
-- `min_element()`: ''
+- `min_element()`: '' of min element
 ```cpp
 #include<bits/stdc++.h>
 using namespace std;
