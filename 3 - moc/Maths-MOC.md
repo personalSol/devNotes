@@ -20,6 +20,7 @@ here will be all the notes around Maths
 
 ## advance
 
+- [[logrithms]]
 - 
 
 
