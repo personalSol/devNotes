@@ -318,9 +318,42 @@
               "icon": "lucide-file",
               "title": "dsa - algorithms"
             }
+          },
+          {
+            "id": "9fef6f8cf9d9b2b5",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -423,7 +456,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/dsa - algorithms.md",
+                "file": "0 - inbox/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -451,7 +484,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of dsa - algorithms"
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -675,10 +708,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c69a76972946b8e5",
+  "active": "9fef6f8cf9d9b2b5",
   "lastOpenFiles": [
-    "1 - notes/x. code block/dsa code block.md",
     "0 - inbox/dsa - algorithms.md",
+    "0 - inbox/Untitled.md",
+    "1 - notes/x. code block/dsa code block.md",
     "3 - moc/DSA-MOC.md",
     "1 - notes/b. languages/cpp/cpp - algorithms.md",
     "1 - notes/b. languages/cpp/cpp stl.md",
@@ -702,7 +736,6 @@
     "1 - notes/z. others/Questions asked in interview.md",
     "0 - inbox/dsa path.md",
     "1 - notes/z. others/videos to watch eventually.md",
-    "0 - inbox/computer fundamentals path.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
