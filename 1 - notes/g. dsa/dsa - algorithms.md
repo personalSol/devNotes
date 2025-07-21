@@ -2,12 +2,13 @@
 status: newBorn
 related-links: 
 created: 2025-07-19T11:00
-updated: 2025-07-19T18:23
+updated: 2025-07-21T06:47
 ---
 ---
 
 - to find length of a number
 - to find divisors of a number
+- [[Euclidean Algorithm]]
 
 ```cpp
 // ----------- length of numbers --------------

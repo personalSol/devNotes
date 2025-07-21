@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-07-19T19:55
-updated: 2025-07-19T19:55
+updated: 2025-07-21T06:48
 ---
 ---
 
@@ -46,14 +46,26 @@ GCD(48, 18)
 #### Iterative Code in C++
 
 ```cpp
-int gcd(int a, int b) {
-    while(b != 0) {
-        int temp = b;
-        b = a % b;
-        a = temp;
+#include<bits/stdc++.h>
+class Solution {
+public:
+    int GCD(int n1,int n2) {
+        while(n1 != 0 && n2 != 0){
+            if(n1>n2){
+                n1 = n1 % n2;
+                continue;
+            } else{
+                n2 = n2 % n1;
+                continue;
+            }
+        }
+
+        if(n1==0){
+            return n2;
+        }
+        return n1;
     }
-    return a;
-}
+};
 ```
 
 ---

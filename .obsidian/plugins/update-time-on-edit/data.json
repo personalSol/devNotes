@@ -280,7 +280,6 @@
     "0 - inbox/mongodb basics.md": "d99ffd5cbafa3459ffdeeb58bc57974d56ba6e3dce7a363c9a6c78f2b3e17365",
     "0 - inbox/cluster.md": "207e51f17f499acd5daf856e8c67abdd0c5eeb13f5562b76ab6c39a00a21e483",
     "1 - notes/h. library/mongoose/mongoose different ways to do things.md": "886f3ab4030f478f1b2916e4f36224e77869e19dd92d19f70356995c164ca59a",
-    "0 - inbox/mongoose methods and properties.md": "27b49124397203b99ce79f3f8735273713faaeafbfae588836116c55f797cfeb",
     "1 - notes/k. web-dev/auth/auth - main.md": "34723f264e0d317d04fdf1d1bb33110b5d531285396fcfa38e641804f34f4678",
     "1 - notes/k. web-dev/auth/auth why bcrypt and not crypto.md": "7273642e4a7357a4396b14f3d7bbba6a2580eb180c3d367580662231c1e29eda",
     "0 - inbox/auth questions and concept.md": "03585d9fa9e4a4bb733cd7f845e4136f90da6a1e1199880a5395429821c89cde",
@@ -288,8 +287,6 @@
     "0 - inbox/auth password hash.md": "08c69994abcfade8b8e40af9f2968d0b0633f569e79f007fadda1997a6a1ad9e",
     "0 - inbox/bcrypt hash and verification.md": "00d92db61b0f9cc5d2cb149cfe6e6de4be5d8c1f18cd175c2a557010f511a1a0",
     "0 - inbox/regex.md": "d75b6960b961d2f44ff53f014af14c05cfff7fbffd888a2fa07e03269bb7d9c5",
-    "0 - inbox/mongoose crud + other useful.md": "ce519fe40fc1e0e9246b1ce314d4d19c25b16a7c9c05bdb05b052914a935226e",
-    "0 - inbox/mongoose Schema.Types.ObjectId vs Types.ObjectId.md": "936c84e58848dc53bf8bab2a6b30c492ccf569c3e0b61fbc0b029a34bf62d04a",
     "1 - notes/b. languages/css/CSS Cheatsheet.md": "633d1fa298f7aea821a506bac8649dadf39e8aa1478ed274cf4442dd857d974c",
     "0 - inbox/github things to remember.md": "e6609e89d3e6f98796dbf048e9982e43604fe8841224ba37aadf532600153be1",
     "0 - inbox/error stack property in ApiError.md": "e06920a9f1b8798e815da71964d2f75d52eadb5ccb073f025f90cdbea53150df",
@@ -417,12 +414,17 @@
     "2 - projects/prj Password Manager.md": "1383248d188f61dbbf995471efe226d8f67fe9fd24c1f0a31c60c2e373f2ce04",
     "2 - projects/prj Portfolio Project.md": "eda17cf685ffac6d773943cf613590a602ec1cf1b8afdb4fa382ce527e561c01",
     "2 - projects/prj Task Manager.md": "92b45b858552b9801ce68f652651e6d4ccbe39d6c001c2ac0294cac1b8e2fc34",
-    "0 - inbox/dsa path.md": "9cb39896a62eb796b359cff9ebc01bb0a5aea45c85b666a79218252ab984fdb0",
     "0 - inbox/dev path.md": "95418004db8359d500da6d2f1d9684dc02d7c361af273a6dca630a89f24174f5",
     "0 - inbox/computer fundamentals path.md": "3636b5285831cdb80221149c2695d13c97f181c8b7f77be0aeaba530d46ed70b",
     "0 - inbox/other things path.md": "fc70c6ff7a6bfeea7d68d87cee1a0bdc06c5e27e67ba008e34b0f05aabbdc3d0",
     "0 - inbox/logrithms.md": "f168216980694aa0cfd97dbe0151b237e3fc3abb6e03f19c4abeaa985a0b884e",
-    "0 - inbox/dsa - algorithms.md": "1bf212dd918cc5621b62411d4aae6a879bad5315bcf19be2bc39724463008e8f",
-    "0 - inbox/Untitled.md": "9f389a9540d589ecacc117809f4d053fe0ad6d8c165d3cfbc960b649e6c8a975"
+    "1 - notes/g. dsa/Euclidean Algorithm.md": "9d88317013255003145754ab44ccd8c87acaedf6bf8cadf580660a0306833871",
+    "1 - notes/g. dsa/dsa path.md": "9cb39896a62eb796b359cff9ebc01bb0a5aea45c85b666a79218252ab984fdb0",
+    "1 - notes/g. dsa/dsa - algorithms.md": "18f9ed8418397a4017b3351997b0778536a1278376b96473b91faadf8b150465",
+    "1 - notes/h. library/mongoose/mongoose Schema.Types.ObjectId vs Types.ObjectId.md": "936c84e58848dc53bf8bab2a6b30c492ccf569c3e0b61fbc0b029a34bf62d04a",
+    "1 - notes/h. library/mongoose/mongoose crud + other useful.md": "ce519fe40fc1e0e9246b1ce314d4d19c25b16a7c9c05bdb05b052914a935226e",
+    "1 - notes/h. library/mongoose/mongoose methods and properties.md": "27b49124397203b99ce79f3f8735273713faaeafbfae588836116c55f797cfeb",
+    "0 - inbox/recursion.md": "5cf01dd993fc2607d79f9aaf1410a8b618c0d57a1e8042b934fe78baf19028c8",
+    "0 - inbox/js Hoisting.md": "749fe8ce50457afcbf5a5db2b45a5c33290d7bb21b1c95210fca64ecce89ef08"
   }
 }
