@@ -17,16 +17,22 @@ here will be all the notes around Snippets-MOC which is a part of main MOC - [[M
 
 ### non frequently used
 
-- [[snp api response]]
-- [[snp api error]]
-- [[snp async handler]]
-- [[snp prettier ignore]]
-- [[snp prettierrc]]
-- [[snp db connection file]]
-- [[snp express index]]
-- [[snp express app file]]
+- production level codes
+	- [[snp api response]]
+	- [[snp api error]]
+	- [[snp async handler]]
+- prettier
+	- [[snp prettier ignore]]
+	- [[snp prettierrc]]
+- express
+	- [[snp db connection file]]
+	- [[snp express index]]
+	- [[snp express app file]]
 - react
 	- [[snp react error boundary]] 
+- mongoose
+	- [[snp mongoose auth functions]]
+	- 
 
 ### rarely used
 

@@ -2,7 +2,7 @@
 created: 2025-02-24T23:18
 updated: 2025-05-17T14:53
 ---
-# JavaScript MOC
+	# JavaScript MOC
 
 it will have all the notes around JS connected to it.
 

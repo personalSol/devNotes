@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-05-29T20:42
-updated: 2025-06-01T19:10
+updated: 2025-07-21T22:36
 ---
 ---
 
@@ -10,6 +10,8 @@ mongoose hooks or middlewares ( can change interchangably )
 
 types: [Mongoose v8.15.1: Middleware](https://mongoosejs.com/docs/middleware.html#types-of-middleware)
 
+> literally just basically middlewares that allows us to do things before a certain thing happens.
+> we can even use next in this. though it does not have req, res
 
 
 - plugin

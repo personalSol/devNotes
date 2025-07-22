@@ -101,7 +101,7 @@
     "1 - notes/h. library/prettier.md": "43b2634acd3ee1194e8a081bc51571bc510093925a79c09a7969d0cf378fdc2b",
     "1 - notes/h. library/mongoose/mongosh commands.md": "58ea677838f2264ee1fc94ee14f2707556fb368ef7bf3d8d462d9f097eea53e6",
     "1 - notes/h. library/mongoose/model, schema and document concept.md": "ddca668dcb4b33fd1a7b51811c8a1ff2096d1047eba2b25821f85fbec6791190",
-    "1 - notes/h. library/mongoose/mongoose middlewares.md": "9cfe4099d257a486e2438236452b116d80869404084bd801e41f7859ff16f68e",
+    "1 - notes/h. library/mongoose/mongoose middlewares.md": "e4e87a8dd26ec83893c8c5b8063be4c2afeae0c015b8c865c062593e7c82d973",
     "1 - notes/h. library/mongoose/mongoose-aggregate-paginate-v2.md": "8e1e5b020288b248abada8951c1abac6563e5e0717b7b78f26eaa407759d3351",
     "1 - notes/h. library/react/hooks - useEffect.md": "3945b2e1292dc1c14f3f8ca4f6794010805b1a5974cb0092e0a2acfaa17dbb79",
     "1 - notes/h. library/dotenv.md": "32fab6f78b74cc0423846d1e02bf793ea47c3bda6eed6447887b649e07861188",
@@ -425,6 +425,7 @@
     "1 - notes/h. library/mongoose/mongoose crud + other useful.md": "ce519fe40fc1e0e9246b1ce314d4d19c25b16a7c9c05bdb05b052914a935226e",
     "1 - notes/h. library/mongoose/mongoose methods and properties.md": "27b49124397203b99ce79f3f8735273713faaeafbfae588836116c55f797cfeb",
     "0 - inbox/recursion.md": "5cf01dd993fc2607d79f9aaf1410a8b618c0d57a1e8042b934fe78baf19028c8",
-    "0 - inbox/js Hoisting.md": "749fe8ce50457afcbf5a5db2b45a5c33290d7bb21b1c95210fca64ecce89ef08"
+    "0 - inbox/js Hoisting.md": "749fe8ce50457afcbf5a5db2b45a5c33290d7bb21b1c95210fca64ecce89ef08",
+    "0 - inbox/snp mongoose auth functions.md": "ef0f9c678068f49c11adf188a23d21d24cc58e84e1b020048ac8669370e36455"
   }
 }

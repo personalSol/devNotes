@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "75cce86062e441ad",
+        "id": "61a090bac1fa392d",
         "type": "tabs",
         "children": [
           {
-            "id": "7af95c4e3e927aa2",
+            "id": "1f2ea5c4be0e9aae",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Projects-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Projects-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Projects-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}},\"scroll\":21.0759501991278}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/recursion.md",
+                "file": "2 - projects/prj Task Manager.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,77 +43,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "recursion"
-            }
-          },
-          {
-            "id": "d6ea8f42286b1f99",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/js Hoisting.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "js Hoisting"
-            }
-          },
-          {
-            "id": "3bfad0d7da80e684",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/javascript/js execution context.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "js execution context"
+              "title": "prj Task Manager"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,8 +127,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -211,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/js Hoisting.md",
+                "file": "2 - projects/prj Task Manager.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -239,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of js Hoisting"
+              "title": "Graph of prj Task Manager"
             }
           }
         ]
@@ -463,11 +401,22 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d6ea8f42286b1f99",
+  "active": "1f2ea5c4be0e9aae",
   "lastOpenFiles": [
-    "1 - notes/b. languages/javascript/js execution context.md",
-    "0 - inbox/js Hoisting.md",
+    "3 - moc/Projects-MOC.md",
+    "2 - projects/prj Task Manager.md",
+    "2 - projects/prj Google Drive.md",
+    "3 - moc/sub-mocs/JS-MOC.md",
+    "1 - notes/h. library/mongoose/mongoose middlewares.md",
     "0 - inbox/recursion.md",
+    "1 - notes/h. library/bcrypt.md",
+    "1 - notes/b. languages/javascript/js execution context.md",
+    "3 - moc/Snippets-MOC.md",
+    "0 - inbox/snp mongoose auth functions.md",
+    "1 - notes/k. web-dev/auth/authentication signup or register.md",
+    "0 - inbox/auth password hash.md",
+    "3 - moc/sub-mocs/Mongoose-MOC.md",
+    "0 - inbox/js Hoisting.md",
     "0 - inbox/logrithms.md",
     "0 - inbox/Question approaches.md",
     "1 - notes/b. languages/cpp/cpp - algorithms.md",
@@ -480,17 +429,6 @@
     "1 - notes/h. library/mongoose/mongoose crud + other useful.md",
     "1 - notes/g. dsa/Euclidean Algorithm.md",
     "1 - notes/b. languages/cpp/cpp stl.md",
-    "0 - inbox/auth password hash.md",
-    "0 - inbox/atomicity.md",
-    "0 - inbox/ai basics.md",
-    "1 - notes/g. dsa/dsa - tips.md",
-    "3 - moc/Maths-MOC.md",
-    "1 - notes/d. maths/algebra.md",
-    "0 - inbox/dev path.md",
-    "1 - notes/b. languages/java/java instance variable, this and constructor.md",
-    "96 - tags/tG this keyword.md",
-    "1 - notes/b. languages/java/java static vs non static.md",
-    "3 - moc/Others-MOC.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
