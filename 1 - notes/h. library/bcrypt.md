@@ -5,7 +5,7 @@ related-links:
   - "[[Node-JS-MOC]]"
   - "[[auth - main]]"
 created: 2025-05-29T20:31
-updated: 2025-06-11T20:06
+updated: 2025-07-22T17:10
 ---
 ---
 
@@ -23,6 +23,8 @@ methods
 - bcrypt.hash() - hashes your password
 - bcrypt.compare() - compares two passwords
 - [[bcrypt hash and verification]]
+- [[bcrypt salt]]
+- 
 
 
 related questions:

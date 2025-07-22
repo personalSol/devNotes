@@ -21,13 +21,13 @@ here will be all the notes around Mongoose-MOC which is a part of main MOC - [[M
 - [[mongoose crud + other useful]]
 - [[mongoose different ways to do things]]
 - [[mongoose methods and properties]]
-- 
+
 
 
 ### mid
 
 - [[mongoose subscription model explaination]]
-- 
+- [[mongoose giving id of one to another]]
 
 ### advance
 

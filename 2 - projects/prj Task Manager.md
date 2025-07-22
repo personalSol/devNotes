@@ -11,7 +11,7 @@ tech-stack:
   - NodeJS
   - JWT
 created: 2025-07-18T14:02
-updated: 2025-07-18T22:47
+updated: 2025-07-22T18:36
 ---
 # Task Manager
 *Status: planning /  on_hold / in_progress / complete*
@@ -31,8 +31,10 @@ this is a task manager that I am creating where it will do the basic crud operat
 		- adding checks
 		- hash password
 - **Secondary Goals**: *extra targets/features*
+	- auth
+		- logout
+		- google auth
 	- subtasks
-	- google auth
 	- better ui
 	- creating admin panel which users user stats
 	- privacy implementation
@@ -43,11 +45,13 @@ this is a task manager that I am creating where it will do the basic crud operat
    - Tasks: #Project/P -M1
       - [x] deciding on schema
       - [x] creating the schema models
-      - [ ] create a git repo of it
-      - [ ] creating base files
-      - [ ] implementing the schema
+      - [x] create a git repo of it
+      - [x] creating base files
+      - [x] implementing the schema
       - [x] creating cluster on mongodb atlas
-      - [ ] 
+	 - [ ] user profile detail route
+      - [ ] add logout
+      - [ ] add refresh token 
 
 2. Milestone:**M2** (Due Date: )
    - Tasks: #Project/P -M2
