@@ -11,7 +11,7 @@ tech-stack:
   - NodeJS
   - JWT
 created: 2025-07-18T14:02
-updated: 2025-07-23T00:23
+updated: 2025-07-23T08:25
 ---
 # Task Manager
 *Status: planning /  on_hold / in_progress / complete*
@@ -50,8 +50,8 @@ this is a task manager that I am creating where it will do the basic crud operat
       - [x] creating base files
       - [x] implementing the schema
       - [x] creating cluster on mongodb atlas
-	 - [ ] user profile detail route
-      - [ ] add logout
+	 - [x] user profile detail route
+      - [x] add logout
       - [ ] add refresh token 
 
 2. Milestone:**M2** (Due Date: )

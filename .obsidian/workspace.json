@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "831e1b51fba5b37a",
+        "id": "45cfb987efcc17a3",
         "type": "tabs",
         "children": [
           {
-            "id": "2ca59ca2af2e476f",
+            "id": "8b792315698e4e0b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,25 +16,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "mongoose giving id of one to another",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/mongoose giving id of one to another.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mongoose giving id of one to another\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "Mongoose-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Mongoose-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Mongoose-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":4},\"to\":{\"line\":23,\"ch\":12}},\"scroll\":6.306818200701196}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/Mongoose-MOC.md",
+                "file": "2 - projects/prj Task Manager.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,134 +37,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Mongoose-MOC"
-            }
-          },
-          {
-            "id": "63a9abd3721b0676",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "mongoose giving id of one to another",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/mongoose giving id of one to another.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"mongoose giving id of one to another\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/a. concepts/http methods.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "http methods"
-            }
-          },
-          {
-            "id": "783063a25aba4270",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "cookies syntax",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/cookies syntax.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cookies syntax\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":1.8077922672420352}"
-                },
-                {
-                  "title": "cookies",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/cookies.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cookies\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":15},\"to\":{\"line\":12,\"ch\":15}},\"scroll\":2.7584416773412133}"
-                },
-                {
-                  "title": "prj Task Manager",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2 - projects/prj Task Manager.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"prj Task Manager\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":32,\"ch\":52},\"to\":{\"line\":32,\"ch\":52}},\"scroll\":18.749999523162842}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/h. library/jwt/jwt.verify().md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "jwt.verify()"
-            }
-          },
-          {
-            "id": "a9d28a9ca7fad175",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mongoose Cheatsheet"
+              "title": "prj Task Manager"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -279,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/h. library/jwt/jwt.verify().md",
+                "file": "2 - projects/prj Task Manager.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -307,7 +171,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of jwt.verify()"
+              "title": "Graph of prj Task Manager"
             }
           }
         ]
@@ -340,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/h. library/jwt/jwt.verify().md",
+                "file": "2 - projects/prj Task Manager.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of jwt.verify()"
+              "title": "Outline of prj Task Manager"
             }
           },
           {
@@ -473,7 +337,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - notes/h. library/jwt/jwt.verify().md",
+                "file": "2 - projects/prj Task Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -483,7 +347,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for jwt.verify()"
+              "title": "Backlinks for prj Task Manager"
             }
           },
           {
@@ -532,16 +396,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "783063a25aba4270",
+  "active": "8b792315698e4e0b",
   "lastOpenFiles": [
+    "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
+    "1 - notes/h. library/jwt/jwt.verify().md",
+    "3 - moc/sub-mocs/Mongoose-MOC.md",
+    "0 - inbox/mongoose giving id of one to another.md",
+    "1 - notes/a. concepts/http methods.md",
     "1 - notes/a. concepts/cookies syntax.md",
     "1 - notes/a. concepts/cookies.md",
     "2 - projects/prj Task Manager.md",
     "1 - notes/h. library/mongoose/mongoose things to remember.md",
-    "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
-    "3 - moc/sub-mocs/Mongoose-MOC.md",
-    "1 - notes/a. concepts/http methods.md",
-    "0 - inbox/mongoose giving id of one to another.md",
     "0 - inbox/Untitled.md",
     "1 - notes/h. library/mongoose/mongoose crud + other useful.md",
     "1 - notes/h. library/mongoose/mongoose different ways to do things.md",
@@ -559,7 +424,6 @@
     "1 - notes/h. library/jwt/generating jwt.md",
     "1 - notes/h. library/bcrypt.md",
     "0 - inbox/bcrypt hash and verification.md",
-    "1 - notes/k. web-dev/auth/auth why bcrypt and not crypto.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
