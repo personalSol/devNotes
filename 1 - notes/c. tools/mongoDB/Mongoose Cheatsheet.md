@@ -3,7 +3,7 @@ status: adult
 related-links:
   - "[[Cheatsheets-MOC]]"
 created: 2025-04-05T12:11
-updated: 2025-05-18T10:07
+updated: 2025-07-23T00:05
 ---
 ---
 
@@ -79,7 +79,13 @@ User.find().sort({ age: -1 }).limit(10)
 ## ✏️ Update
 
 ```js
-await User.updateOne({ name: "Alice" }, { age: 26 })
+await User.updateOne({ name: "Alice" }, { age: 26 }) // returns metadata
+
+const updatedUser = await User.findOneAndUpdate(
+  { _id: userId }, // finding condition
+  { $set: { name: "New Name" } }, // new data
+  { new: true } // returns the updated document
+);
 
 await User.findByIdAndUpdate("id_here", { name: "Updated" }, { new: true })
 ```

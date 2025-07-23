@@ -11,7 +11,7 @@ tech-stack:
   - NodeJS
   - JWT
 created: 2025-07-18T14:02
-updated: 2025-07-22T18:36
+updated: 2025-07-23T00:23
 ---
 # Task Manager
 *Status: planning /  on_hold / in_progress / complete*
@@ -20,16 +20,17 @@ this is a task manager that I am creating where it will do the basic crud operat
 
 ### **Objectives**
 - **Primary Goal**: *main outcome/feature*
-	- CRUD operations
-	- mongodb as database
-	- multiple users
-	- authentication
-	- login page
+	- CRUD operations ✅
+	- mongodb as database ✅
+	- multiple users ✅
+	- authentication ✅
+	- login page 
 	- signup page
 	- verifying user
 	- upgrades:
 		- adding checks
 		- hash password
+	- user details page will have reset password option
 - **Secondary Goals**: *extra targets/features*
 	- auth
 		- logout
