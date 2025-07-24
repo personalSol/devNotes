@@ -106,7 +106,8 @@
               "title": "jwt.verify()"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 - projects/prj Task Manager.md",
+                "file": "1 - notes/h. library/jwt/jwt.verify().md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -237,14 +238,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of prj Task Manager"
+              "title": "Graph of jwt.verify()"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 459.5
+    "width": 226.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -270,13 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - projects/prj Task Manager.md",
+                "file": "1 - notes/h. library/jwt/jwt.verify().md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of prj Task Manager"
+              "title": "Outline of jwt.verify()"
             }
           },
           {
@@ -403,7 +404,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - projects/prj Task Manager.md",
+                "file": "1 - notes/h. library/jwt/jwt.verify().md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -413,7 +414,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for prj Task Manager"
+              "title": "Backlinks for jwt.verify()"
             }
           },
           {
@@ -462,8 +463,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b792315698e4e0b",
+  "active": "b80d6b22173e60bf",
   "lastOpenFiles": [
+    "1 - notes/z. others/Websites and Resources.md",
+    "3 - moc/sub-mocs/git-and-github-MOC.md",
+    "2 - projects/prj Task Manager.md",
     "1 - notes/k. web-dev/auth/authentication patterns.md",
     "1 - notes/k. web-dev/auth/access vs refresh token.md",
     "0 - inbox/auth refresh token mechanism.md",
@@ -477,7 +481,6 @@
     "1 - notes/k. web-dev/auth/authentication - what if the token is expired.md",
     "1 - notes/k. web-dev/auth/authentication - entire stateless process.md",
     "1 - notes/h. library/jwt/jwt.verify().md",
-    "2 - projects/prj Task Manager.md",
     "1 - notes/k. web-dev/auth/authentication signup or register.md",
     "1 - notes/k. web-dev/auth/auth why bcrypt and not crypto.md",
     "1 - notes/k. web-dev/auth/auth tokens.md",
@@ -488,8 +491,6 @@
     "3 - moc/sub-mocs/Mongoose-MOC.md",
     "0 - inbox/mongoose giving id of one to another.md",
     "1 - notes/a. concepts/http methods.md",
-    "1 - notes/a. concepts/cookies syntax.md",
-    "1 - notes/a. concepts/cookies.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",

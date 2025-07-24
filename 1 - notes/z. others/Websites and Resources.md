@@ -1,6 +1,6 @@
 ---
 created: 2025-02-14T21:54
-updated: 2025-07-16T15:44
+updated: 2025-07-24T18:09
 related-links: "[[Others-MOC]]"
 ---
 here is a list of websites and apps around engineering and programming.
@@ -40,4 +40,7 @@ For interview praparation:
 
 For authentication learning:
 - [JSON Web Tokens - jwt.io](https://jwt.io/) ^6pk24c
-- 
+
+
+Others:
+- to help choose github liscense : [Choose an open source license \| Choose a License](https://choosealicense.com/) ^k8jibj

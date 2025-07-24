@@ -8,12 +8,11 @@ updated: 2025-04-10T15:21
 here will be all the notes around git-and-github
 
 `cheatsheet:` 
-
+![[Websites and Resources#^k8jibj]]
 ## basic
 
 - [[git standard practices]]
 - [[github things to remember]]
-- 
 - [[about github and github]]
 - [[setting git credentials]]
 - [[basic git commands]]
