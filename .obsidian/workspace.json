@@ -41,7 +41,7 @@
             }
           },
           {
-            "id": "6f74ff3f1d22c686",
+            "id": "8b7acd72377d6fab",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -49,24 +49,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "authentication - entire stateless process",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/authentication - entire stateless process.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication - entire stateless process\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":19},\"to\":{\"line\":11,\"ch\":19}},\"scroll\":0}"
-                },
-                {
-                  "title": "auth - main",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/auth - main.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"auth - main\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":12},\"to\":{\"line\":12,\"ch\":12}}}"
-                },
-                {
-                  "title": "jwt - refresh token",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/jwt/jwt - refresh token.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"jwt - refresh token\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":24},\"to\":{\"line\":15,\"ch\":24}},\"scroll\":0}"
                 }
               ]
             },
@@ -90,9 +72,41 @@
               "icon": "lucide-file",
               "title": "jwt - token expiry"
             }
+          },
+          {
+            "id": "b80d6b22173e60bf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/h. library/jwt/jwt.verify().md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "jwt.verify()"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -143,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "react hook form",
+                "query": "hard expi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,8 +187,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -196,7 +209,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/h. library/jwt/jwt - token expiry.md",
+                "file": "2 - projects/prj Task Manager.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -224,14 +237,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of jwt - token expiry"
+              "title": "Graph of prj Task Manager"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 274.5
+    "width": 459.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -257,13 +270,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/h. library/jwt/jwt - token expiry.md",
+                "file": "2 - projects/prj Task Manager.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of jwt - token expiry"
+              "title": "Outline of prj Task Manager"
             }
           },
           {
@@ -390,7 +403,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - notes/h. library/jwt/jwt - token expiry.md",
+                "file": "2 - projects/prj Task Manager.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -400,7 +413,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for jwt - token expiry"
+              "title": "Backlinks for prj Task Manager"
             }
           },
           {
@@ -449,34 +462,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f74ff3f1d22c686",
+  "active": "8b792315698e4e0b",
   "lastOpenFiles": [
-    "1 - notes/k. web-dev/auth/authentication - entire stateless process.md",
+    "1 - notes/k. web-dev/auth/authentication patterns.md",
+    "1 - notes/k. web-dev/auth/access vs refresh token.md",
+    "0 - inbox/auth refresh token mechanism.md",
     "1 - notes/h. library/jwt/jwt - refresh token.md",
+    "1 - notes/h. library/jwt/jwt - token expiry.md",
+    "1 - notes/k. web-dev/auth/authentication sign in or login.md",
+    "1 - notes/k. web-dev/auth/stateless authentication.md",
+    "1 - notes/k. web-dev/auth/stateful auth.md",
+    "1 - notes/k. web-dev/auth/authentication - why not encryption and when.md",
+    "1 - notes/k. web-dev/auth/authentication - why hacker can't generate a valid token.md",
+    "1 - notes/k. web-dev/auth/authentication - what if the token is expired.md",
+    "1 - notes/k. web-dev/auth/authentication - entire stateless process.md",
+    "1 - notes/h. library/jwt/jwt.verify().md",
+    "2 - projects/prj Task Manager.md",
     "1 - notes/k. web-dev/auth/authentication signup or register.md",
+    "1 - notes/k. web-dev/auth/auth why bcrypt and not crypto.md",
+    "1 - notes/k. web-dev/auth/auth tokens.md",
+    "1 - notes/k. web-dev/auth/auth levels to improve the system to.md",
     "1 - notes/k. web-dev/auth/auth - main.md",
     "0 - inbox/auth questions and concept.md",
-    "1 - notes/k. web-dev/auth/access vs refresh token.md",
-    "2 - projects/prj Task Manager.md",
     "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
-    "1 - notes/h. library/jwt/jwt.verify().md",
     "3 - moc/sub-mocs/Mongoose-MOC.md",
     "0 - inbox/mongoose giving id of one to another.md",
     "1 - notes/a. concepts/http methods.md",
     "1 - notes/a. concepts/cookies syntax.md",
     "1 - notes/a. concepts/cookies.md",
-    "1 - notes/h. library/mongoose/mongoose things to remember.md",
-    "0 - inbox/Untitled.md",
-    "1 - notes/h. library/mongoose/mongoose crud + other useful.md",
-    "1 - notes/h. library/mongoose/mongoose different ways to do things.md",
-    "1 - notes/h. library/mongoose/mongoose methods and properties.md",
-    "1 - notes/h. library/mongoose/mongoose Schema.Types.ObjectId vs Types.ObjectId.md",
-    "1 - notes/i. frameworks/express/express.urlencoded().md",
-    "1 - notes/c. tools/mongoDB/mongodb things to remember.md",
-    "0 - inbox/bcrypt salt.md",
-    "1 - notes/h. library/jwt/jwt.md",
-    "1 - notes/h. library/cookie-parser/cookie-parser.md",
-    "3 - moc/sub-mocs/MongoDB-MOC.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",

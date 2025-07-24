@@ -164,7 +164,7 @@
     "1 - notes/b. languages/cpp/cpp - vectors.md": "9aba60dd716a9aa489a1b78606bd5d04a2c097bfafb5667c28c8a4108022fa83",
     "1 - notes/h. library/jwt/jwt.md": "6d49f237a8c37409329b1cd4edc91cec0a36761bb4adba02a5cbee3ffee1e53e",
     "1 - notes/h. library/jwt/jwt - is verifying signature memory intensive.md": "330d791a49e147a6a951746973fcfe29613ae41ebeb7c9ebe5a894d473c3cf2f",
-    "1 - notes/h. library/jwt/jwt - refresh token.md": "70f69bb981af3efba8fe3aae9309b87888bda9c76ebe52f535545b4e8fceb929",
+    "1 - notes/h. library/jwt/jwt - refresh token.md": "7976ad79d1e2f2be7a192b419c9211cf0aa62173e932aac2a32f5fff0252636f",
     "1 - notes/h. library/jwt/jwt - token expiry.md": "b1f63711bdb5e9e405faa7eb34cb448b95d8c2a2b07678bc48e330e8dfec5a76",
     "1 - notes/h. library/jwt/jwt header.md": "ffebc82a40e6f6c9abd614d510eb3c93ca871393290d2378961297fa92c8a322",
     "1 - notes/h. library/jwt/jwt payload.md": "6bb44c148af7b0022f6b270942c2f323187a6f5730ba36d1bd364d81578fc95c",
@@ -224,7 +224,7 @@
     "1 - notes/a. concepts/encryption.md": "bc6de64c49154f6e55bb661541b29e518b4ae1cf0c23cfad761d298066bbfa0e",
     "1 - notes/a. concepts/Symmetric encryption.md": "51017e5bc987b00672095ef3bec2e78222df1ecc3abe8654f8d23a1c5a07a7cb",
     "1 - notes/a. concepts/secure systems.md": "6b6753ef9c185c84daf0e34533f288b67ae4f98cbc7b62cc89ec1fa400d8bb98",
-    "1 - notes/k. web-dev/auth/access vs refresh token.md": "b0bc42b58896ce916b6244e188c3b9323899614a028dbc40a7f2930163a80dd5",
+    "1 - notes/k. web-dev/auth/access vs refresh token.md": "c38f8c07d25f64e2edee166a67ff777d5cc4c6fd94c69ab2158fdab3323b2081",
     "1 - notes/h. library/cookie-parser/cookie-parser.md": "e3c8e1d06cb1c224971e65628e89f38e7a46c352c48ecbd7d2197e00eec96dc2",
     "1 - notes/a. concepts/http.md": "978764c9058121f6224f94790d062407b0af527e90ab661e3e2fbcf6741baa3d",
     "1 - notes/a. concepts/hashing.md": "e4c60a95715d36d37e7b0ac983f40030b3ad7d129b90600be17b271b48cc5899",
@@ -413,7 +413,7 @@
     "2 - projects/prj Google Drive.md": "d35fc9fdb87e7a6da644c7512d81921e67de09499767978a8a54f5f5e591b913",
     "2 - projects/prj Password Manager.md": "1383248d188f61dbbf995471efe226d8f67fe9fd24c1f0a31c60c2e373f2ce04",
     "2 - projects/prj Portfolio Project.md": "eda17cf685ffac6d773943cf613590a602ec1cf1b8afdb4fa382ce527e561c01",
-    "2 - projects/prj Task Manager.md": "55a37645bc5b4431ea9359d5c6d1c8225c5de5ca45cdbe06ca3415e00f1bdd44",
+    "2 - projects/prj Task Manager.md": "e7212be3f8d96abf2ba486342dd6cbb297c1bafd036e92b8eba63c0aececaf59",
     "0 - inbox/dev path.md": "95418004db8359d500da6d2f1d9684dc02d7c361af273a6dca630a89f24174f5",
     "0 - inbox/computer fundamentals path.md": "3636b5285831cdb80221149c2695d13c97f181c8b7f77be0aeaba530d46ed70b",
     "0 - inbox/other things path.md": "fc70c6ff7a6bfeea7d68d87cee1a0bdc06c5e27e67ba008e34b0f05aabbdc3d0",
@@ -428,6 +428,7 @@
     "0 - inbox/js Hoisting.md": "749fe8ce50457afcbf5a5db2b45a5c33290d7bb21b1c95210fca64ecce89ef08",
     "0 - inbox/snp mongoose auth functions.md": "ef0f9c678068f49c11adf188a23d21d24cc58e84e1b020048ac8669370e36455",
     "0 - inbox/bcrypt salt.md": "d69211ec22e8ffe1e16b9794f69a8475807ff0e430ac11d80b5e0c9515ac4fef",
-    "0 - inbox/mongoose giving id of one to another.md": "fe15ff50649f8104e3eb5fd9a7a9c6bf6f4c94928029c70e99b57dd5d688ecf7"
+    "0 - inbox/mongoose giving id of one to another.md": "fe15ff50649f8104e3eb5fd9a7a9c6bf6f4c94928029c70e99b57dd5d688ecf7",
+    "0 - inbox/auth refresh token mechanism.md": "740a46917b423b961ff39811ed7ee3fc62a555b58b67ff221e119b5dc8d72800"
   }
 }
