@@ -11,7 +11,7 @@ tech-stack:
   - NodeJS
   - JWT
 created: 2025-07-18T14:02
-updated: 2025-07-23T08:25
+updated: 2025-07-23T23:06
 ---
 # Task Manager
 *Status: planning /  on_hold / in_progress / complete*
@@ -53,6 +53,25 @@ this is a task manager that I am creating where it will do the basic crud operat
 	 - [x] user profile detail route
       - [x] add logout
       - [ ] add refresh token 
+      - [ ] frontend
+	      - [ ] login page
+	      - [ ] signup page
+	      - [ ] redirecting main route to signup
+	      - [ ] redirecting user to dashboard after login
+	      - [ ] dashboard 
+		      - [ ] which will show all tasks of user
+			      - [ ] it will be using task component
+			      - [ ] task component will have
+				      - [ ] title
+				      - [ ] description till component ....
+				      - [ ] edit button
+					      - [ ] edit button will give a popup form
+						      - [ ] it will be same form as add task component form except here details will be loaded
+				      - [ ] delete button
+		      - [ ] header with user icon which will have 
+			      - [ ] account
+			      - [ ] logout
+			  - [ ] 
 
 2. Milestone:**M2** (Due Date: )
    - Tasks: #Project/P -M2

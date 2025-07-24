@@ -39,8 +39,60 @@
               "icon": "lucide-file",
               "title": "prj Task Manager"
             }
+          },
+          {
+            "id": "6f74ff3f1d22c686",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "authentication - entire stateless process",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/authentication - entire stateless process.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"authentication - entire stateless process\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":19},\"to\":{\"line\":11,\"ch\":19}},\"scroll\":0}"
+                },
+                {
+                  "title": "auth - main",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/k. web-dev/auth/auth - main.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"auth - main\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":12},\"to\":{\"line\":12,\"ch\":12}}}"
+                },
+                {
+                  "title": "jwt - refresh token",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/jwt/jwt - refresh token.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"jwt - refresh token\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":24},\"to\":{\"line\":15,\"ch\":24}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/h. library/jwt/jwt - token expiry.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "jwt - token expiry"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -91,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "react hook form",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +173,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3888432cac3b4f06",
@@ -143,7 +196,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 - projects/prj Task Manager.md",
+                "file": "1 - notes/h. library/jwt/jwt - token expiry.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +224,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of prj Task Manager"
+              "title": "Graph of jwt - token expiry"
             }
           }
         ]
@@ -204,13 +257,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - projects/prj Task Manager.md",
+                "file": "1 - notes/h. library/jwt/jwt - token expiry.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of prj Task Manager"
+              "title": "Outline of jwt - token expiry"
             }
           },
           {
@@ -337,7 +390,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - projects/prj Task Manager.md",
+                "file": "1 - notes/h. library/jwt/jwt - token expiry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -347,7 +400,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for prj Task Manager"
+              "title": "Backlinks for jwt - token expiry"
             }
           },
           {
@@ -396,8 +449,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8b792315698e4e0b",
+  "active": "6f74ff3f1d22c686",
   "lastOpenFiles": [
+    "1 - notes/k. web-dev/auth/authentication - entire stateless process.md",
+    "1 - notes/h. library/jwt/jwt - refresh token.md",
+    "1 - notes/k. web-dev/auth/authentication signup or register.md",
+    "1 - notes/k. web-dev/auth/auth - main.md",
+    "0 - inbox/auth questions and concept.md",
+    "1 - notes/k. web-dev/auth/access vs refresh token.md",
+    "2 - projects/prj Task Manager.md",
     "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
     "1 - notes/h. library/jwt/jwt.verify().md",
     "3 - moc/sub-mocs/Mongoose-MOC.md",
@@ -405,7 +465,6 @@
     "1 - notes/a. concepts/http methods.md",
     "1 - notes/a. concepts/cookies syntax.md",
     "1 - notes/a. concepts/cookies.md",
-    "2 - projects/prj Task Manager.md",
     "1 - notes/h. library/mongoose/mongoose things to remember.md",
     "0 - inbox/Untitled.md",
     "1 - notes/h. library/mongoose/mongoose crud + other useful.md",
@@ -418,12 +477,6 @@
     "1 - notes/h. library/jwt/jwt.md",
     "1 - notes/h. library/cookie-parser/cookie-parser.md",
     "3 - moc/sub-mocs/MongoDB-MOC.md",
-    "1 - notes/h. library/mongoose/mongoose connecting to mongodb.md",
-    "1 - notes/h. library/jwt/jwt secret keys.md",
-    "1 - notes/h. library/jwt/jwt methods.md",
-    "1 - notes/h. library/jwt/generating jwt.md",
-    "1 - notes/h. library/bcrypt.md",
-    "0 - inbox/bcrypt hash and verification.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
