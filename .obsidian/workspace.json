@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "45cfb987efcc17a3",
+        "id": "5bcea5a7020cd2f3",
         "type": "tabs",
         "children": [
           {
-            "id": "8b792315698e4e0b",
+            "id": "e6d0fde4c44c46e0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,28 +20,14 @@
               ]
             },
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2 - projects/prj Task Manager.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "prj Task Manager"
+              "title": "New tab"
             }
           },
           {
-            "id": "8b7acd72377d6fab",
+            "id": "51930e8bd1b5ac6b",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -49,13 +35,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "React-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":18},\"to\":{\"line\":35,\"ch\":18}},\"scroll\":17.253164553905865}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/h. library/jwt/jwt - token expiry.md",
+                "file": "0 - inbox/react hook form.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -70,11 +62,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "jwt - token expiry"
+              "title": "react hook form"
             }
           },
           {
-            "id": "b80d6b22173e60bf",
+            "id": "9058b758189f24ef",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -88,7 +80,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/h. library/jwt/jwt.verify().md",
+                "file": "0 - inbox/gpt react hook form explanation.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -103,7 +95,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "jwt.verify()"
+              "title": "gpt react hook form explanation"
             }
           }
         ],
@@ -158,7 +150,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "hard expi",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -210,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/h. library/jwt/jwt.verify().md",
+                "file": "0 - inbox/gpt react hook form explanation.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -238,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of jwt.verify()"
+              "title": "Graph of gpt react hook form explanation"
             }
           }
         ]
@@ -271,13 +263,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/h. library/jwt/jwt.verify().md",
+                "file": "0 - inbox/gpt react hook form explanation.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of jwt.verify()"
+              "title": "Outline of gpt react hook form explanation"
             }
           },
           {
@@ -404,7 +396,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - notes/h. library/jwt/jwt.verify().md",
+                "file": "0 - inbox/gpt react hook form explanation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -414,7 +406,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for jwt.verify()"
+              "title": "Backlinks for gpt react hook form explanation"
             }
           },
           {
@@ -463,16 +455,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b80d6b22173e60bf",
+  "active": "9058b758189f24ef",
   "lastOpenFiles": [
+    "0 - inbox/react hook form.md",
+    "0 - inbox/gpt react hook form explanation.md",
+    "3 - moc/sub-mocs/React-MOC.md",
+    "2 - projects/prj Task Manager.md",
+    "1 - notes/h. library/jwt/jwt - token expiry.md",
+    "1 - notes/b. languages/javascript/import and export in js.md",
+    "4 - sources/yt/every react concept in 12 mints.md",
+    "1 - notes/h. library/react/react forwardRef with useRef.md",
+    "0 - inbox/import and export in mjs summary.md",
+    "1 - notes/b. languages/javascript/import and export in es module js.md",
+    "1 - notes/h. library/jwt/jwt.verify().md",
     "1 - notes/z. others/Websites and Resources.md",
     "3 - moc/sub-mocs/git-and-github-MOC.md",
-    "2 - projects/prj Task Manager.md",
     "1 - notes/k. web-dev/auth/authentication patterns.md",
     "1 - notes/k. web-dev/auth/access vs refresh token.md",
     "0 - inbox/auth refresh token mechanism.md",
     "1 - notes/h. library/jwt/jwt - refresh token.md",
-    "1 - notes/h. library/jwt/jwt - token expiry.md",
     "1 - notes/k. web-dev/auth/authentication sign in or login.md",
     "1 - notes/k. web-dev/auth/stateless authentication.md",
     "1 - notes/k. web-dev/auth/stateful auth.md",
@@ -480,17 +481,8 @@
     "1 - notes/k. web-dev/auth/authentication - why hacker can't generate a valid token.md",
     "1 - notes/k. web-dev/auth/authentication - what if the token is expired.md",
     "1 - notes/k. web-dev/auth/authentication - entire stateless process.md",
-    "1 - notes/h. library/jwt/jwt.verify().md",
     "1 - notes/k. web-dev/auth/authentication signup or register.md",
     "1 - notes/k. web-dev/auth/auth why bcrypt and not crypto.md",
-    "1 - notes/k. web-dev/auth/auth tokens.md",
-    "1 - notes/k. web-dev/auth/auth levels to improve the system to.md",
-    "1 - notes/k. web-dev/auth/auth - main.md",
-    "0 - inbox/auth questions and concept.md",
-    "1 - notes/c. tools/mongoDB/Mongoose Cheatsheet.md",
-    "3 - moc/sub-mocs/Mongoose-MOC.md",
-    "0 - inbox/mongoose giving id of one to another.md",
-    "1 - notes/a. concepts/http methods.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
