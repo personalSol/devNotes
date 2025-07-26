@@ -109,6 +109,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "every react concept in 12 mints",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/every react concept in 12 mints.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"every react concept in 12 mints\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":68,\"ch\":9},\"to\":{\"line\":68,\"ch\":9}},\"scroll\":56.6835452733638}"
+                },
+                {
+                  "title": "react concept - how to use context",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react concept - how to use context.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react concept - how to use context\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
                   "title": "react - context",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react - context.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - context\"}",
@@ -119,7 +131,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/h. library/react/react concept - how to use context.md",
+                "file": "1 - notes/h. library/react/react - hooks.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -134,7 +146,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react concept - how to use context"
+              "title": "react - hooks"
+            }
+          },
+          {
+            "id": "c4219d09046eec68",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/hooks - useCallback.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "hooks - useCallback"
             }
           }
         ],
@@ -189,7 +234,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "usecal",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -241,7 +286,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/h. library/react/react concept - how to use context.md",
+                "file": "1 - notes/h. library/react/react - hooks.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -269,7 +314,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of react concept - how to use context"
+              "title": "Graph of react - hooks"
             }
           }
         ]
@@ -302,13 +347,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/h. library/react/react concept - how to use context.md",
+                "file": "1 - notes/h. library/react/react - hooks.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of react concept - how to use context"
+              "title": "Outline of react - hooks"
             }
           },
           {
@@ -435,7 +480,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - notes/h. library/react/react concept - how to use context.md",
+                "file": "1 - notes/h. library/react/react - hooks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -445,7 +490,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for react concept - how to use context"
+              "title": "Backlinks for react - hooks"
             }
           },
           {
@@ -494,8 +539,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "56f453c77eb7aa96",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "0 - inbox/hooks - useCallback.md",
+    "1 - notes/h. library/react/react - hooks.md",
+    "4 - sources/yt/every react concept in 12 mints.md",
+    "1 - notes/h. library/react/react concept - how to use context.md",
     "1 - notes/h. library/react/react - context.md",
     "1 - notes/h. library/react/react how context helps.md",
     "1 - notes/h. library/react/react why not plain global file for context.md",
@@ -506,7 +555,6 @@
     "2 - projects/prj Task Manager.md",
     "1 - notes/h. library/jwt/jwt - token expiry.md",
     "1 - notes/b. languages/javascript/import and export in js.md",
-    "4 - sources/yt/every react concept in 12 mints.md",
     "1 - notes/h. library/react/react forwardRef with useRef.md",
     "0 - inbox/import and export in mjs summary.md",
     "1 - notes/b. languages/javascript/import and export in es module js.md",
@@ -519,9 +567,6 @@
     "1 - notes/h. library/jwt/jwt - refresh token.md",
     "1 - notes/k. web-dev/auth/authentication sign in or login.md",
     "1 - notes/k. web-dev/auth/stateless authentication.md",
-    "1 - notes/k. web-dev/auth/stateful auth.md",
-    "1 - notes/k. web-dev/auth/authentication - why not encryption and when.md",
-    "1 - notes/k. web-dev/auth/authentication - why hacker can't generate a valid token.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
