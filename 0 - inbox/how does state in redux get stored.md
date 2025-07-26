@@ -2,10 +2,11 @@
 status: newBorn
 related-links: 
 created: 2025-06-24T10:56
-updated: 2025-06-24T10:56
+updated: 2025-07-26T22:21
 ---
 ---
 
+- [[react how react stores context state]]
 ### Redux State Per User: Key Points
 
 - In a React app, **every user runs a separate instance of the app in their own browser.**

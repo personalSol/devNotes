@@ -2,32 +2,26 @@
 status: newBorn
 related-links: 
 created: 2025-06-21T00:24
-updated: 2025-06-24T11:37
+updated: 2025-07-26T22:47
 ---
 ---
 
-- to select a value from store
+- to select/read a value from store
 	- we just use the value from 
+- here store is the name of store and todos is the name of slice. 
+- doing this gives us the value of initial state
+- if we are storing the reducer directly like firsst example below then we directly use it
+	- but if we have multiple reducers then we create an object and then we have to include the reducer key accordingly like in 2nd example
+- for better understanding check: [[full code example of redux]]
 
 ```js
 const todos = useSelector((store) => store.todos);
 ```
 
-### right way to use `useSelector` properly
-
-# Redux useSelector Notes for Todos.jsx
-
-## Selector Line in Todos.jsx
-
-```js
-const todos = useSelector((store) => store.todos);
-```
-
-- This selector is **correct** for your current Redux store setup.
 
 ---
 
-## Store Configuration
+#### Store Configuration
 
 Your store is configured like this:
 
@@ -47,7 +41,7 @@ This means your Redux state shape is:
 
 ---
 
-## Alternative Store Configuration
+#### Alternative Store Configuration
 
 If you configure your store like this:
 
@@ -75,7 +69,7 @@ const todos = useSelector((store) => store.todo.todos);
 
 ---
 
-## Summary
+#### Summary
 
 - Use `store.todos` for your current setup.
 - Use `store.todo.todos` only if you change your store reducer to `{ todo: todoReducer }`.

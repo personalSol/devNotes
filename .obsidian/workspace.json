@@ -8,46 +8,27 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e6d0fde4c44c46e0",
+            "id": "48f026aac23cdc74",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "51930e8bd1b5ac6b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "redux intro",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/redux intro.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"redux intro\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":5.8441558441558445}"
                 },
                 {
-                  "title": "React-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":35,\"ch\":18},\"to\":{\"line\":35,\"ch\":18}},\"scroll\":17.253164553905865}"
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/react hook form.md",
+                "file": "1 - notes/h. library/react/redux.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,11 +43,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react hook form"
+              "title": "redux"
             }
           },
           {
-            "id": "9058b758189f24ef",
+            "id": "9b91bd7dbfc80b7c",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -74,13 +55,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "react redux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react redux.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react redux\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":65},\"to\":{\"line\":17,\"ch\":65}},\"scroll\":1.948051948051948}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/gpt react hook form explanation.md",
+                "file": "0 - inbox/hooks- useRef.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -95,11 +82,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "gpt react hook form explanation"
+              "title": "hooks- useRef"
             }
           },
           {
-            "id": "56f453c77eb7aa96",
+            "id": "53e671c0269deaab",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -107,31 +94,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "every react concept in 12 mints",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/every react concept in 12 mints.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"every react concept in 12 mints\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":68,\"ch\":9},\"to\":{\"line\":68,\"ch\":9}},\"scroll\":56.6835452733638}"
-                },
-                {
-                  "title": "react concept - how to use context",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react concept - how to use context.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react concept - how to use context\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "react - context",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react - context.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - context\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":24},\"to\":{\"line\":10,\"ch\":24}},\"scroll\":0.015584415816641474}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/h. library/react/react - hooks.md",
+                "file": "0 - inbox/react redux payload.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -146,11 +115,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react - hooks"
+              "title": "react redux payload"
             }
           },
           {
-            "id": "c4219d09046eec68",
+            "id": "f60aa62ef340c368",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -164,7 +133,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/hooks - useCallback.md",
+                "file": "1 - notes/h. library/react/react redux hook useDispatch.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -179,11 +148,44 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "hooks - useCallback"
+              "title": "react redux hook useDispatch"
+            }
+          },
+          {
+            "id": "a2ec8f03e2407d58",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/h. library/react/react redux hook useSelector.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react redux hook useSelector"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -286,7 +288,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/h. library/react/react - hooks.md",
+                "file": "0 - inbox/hooks- useRef.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -314,7 +316,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of react - hooks"
+              "title": "Graph of hooks- useRef"
             }
           }
         ]
@@ -347,13 +349,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/h. library/react/react - hooks.md",
+                "file": "0 - inbox/hooks- useRef.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of react - hooks"
+              "title": "Outline of hooks- useRef"
             }
           },
           {
@@ -372,7 +374,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "alphabetical",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -458,7 +462,8 @@
               "title": "Todo List"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "8e15cd93a6a4be64",
@@ -480,7 +485,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - notes/h. library/react/react - hooks.md",
+                "file": "0 - inbox/hooks- useRef.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -490,7 +495,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for react - hooks"
+              "title": "Backlinks for hooks- useRef"
             }
           },
           {
@@ -520,7 +525,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -539,34 +545,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "9b91bd7dbfc80b7c",
   "lastOpenFiles": [
-    "0 - inbox/hooks - useCallback.md",
-    "1 - notes/h. library/react/react - hooks.md",
-    "4 - sources/yt/every react concept in 12 mints.md",
-    "1 - notes/h. library/react/react concept - how to use context.md",
+    "1 - notes/h. library/react/react redux.md",
+    "1 - notes/h. library/react/react redux provider.md",
+    "1 - notes/h. library/react/redux.md",
+    "0 - inbox/redux naming convention.md",
+    "1 - notes/h. library/react/redux intro.md",
+    "1 - notes/h. library/react/redux toolkit.md",
+    "0 - inbox/how does state in redux get stored.md",
+    "1 - notes/h. library/react/react redux hook useDispatch.md",
+    "0 - inbox/react redux payload.md",
+    "1 - notes/h. library/react/redux toolkit reducer or slice.md",
+    "0 - inbox/full code example of redux.md",
+    "1 - notes/h. library/react/react redux hook useSelector.md",
+    "0 - inbox/react how react stores context state.md",
     "1 - notes/h. library/react/react - context.md",
-    "1 - notes/h. library/react/react how context helps.md",
-    "1 - notes/h. library/react/react why not plain global file for context.md",
-    "1 - notes/h. library/react/react noob way to use context.md",
+    "1 - notes/h. library/react/react noob way to use useContext.md",
+    "1 - notes/h. library/react/redux toolkit store.md",
+    "1 - notes/h. library/react/react - hooks.md",
     "0 - inbox/gpt react hook form explanation.md",
     "0 - inbox/react hook form.md",
+    "4 - sources/yt/every react concept in 12 mints.md",
+    "0 - inbox/hooks - useCallback.md",
+    "1 - notes/h. library/react/react concept - how to use context.md",
+    "1 - notes/h. library/react/react how context helps.md",
+    "1 - notes/h. library/react/react why not plain global file for context.md",
     "3 - moc/sub-mocs/React-MOC.md",
     "2 - projects/prj Task Manager.md",
-    "1 - notes/h. library/jwt/jwt - token expiry.md",
-    "1 - notes/b. languages/javascript/import and export in js.md",
-    "1 - notes/h. library/react/react forwardRef with useRef.md",
-    "0 - inbox/import and export in mjs summary.md",
-    "1 - notes/b. languages/javascript/import and export in es module js.md",
-    "1 - notes/h. library/jwt/jwt.verify().md",
-    "1 - notes/z. others/Websites and Resources.md",
-    "3 - moc/sub-mocs/git-and-github-MOC.md",
-    "1 - notes/k. web-dev/auth/authentication patterns.md",
-    "1 - notes/k. web-dev/auth/access vs refresh token.md",
-    "0 - inbox/auth refresh token mechanism.md",
-    "1 - notes/h. library/jwt/jwt - refresh token.md",
-    "1 - notes/k. web-dev/auth/authentication sign in or login.md",
-    "1 - notes/k. web-dev/auth/stateless authentication.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
