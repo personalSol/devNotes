@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-16T15:36
-updated: 2025-06-16T15:36
+updated: 2025-07-25T18:18
 ---
 ---
 
@@ -68,18 +68,13 @@ user = 'newUser';
 When you use `createContext` + `useContext` + `Provider`:
 
 - React tracks that value.
-    
 - When the context value changes, **all components consuming it will automatically re-render.**
-    
 
 This makes it:
 
 - Reactive
-    
 - Reliable
-    
 - Scoped properly inside React’s system
-    
 
 ---
 

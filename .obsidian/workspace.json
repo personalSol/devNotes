@@ -97,9 +97,48 @@
               "icon": "lucide-file",
               "title": "gpt react hook form explanation"
             }
+          },
+          {
+            "id": "56f453c77eb7aa96",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "react - context",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react - context.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react - context\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":24},\"to\":{\"line\":10,\"ch\":24}},\"scroll\":0.015584415816641474}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/h. library/react/react concept - how to use context.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react concept - how to use context"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -202,7 +241,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/gpt react hook form explanation.md",
+                "file": "1 - notes/h. library/react/react concept - how to use context.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -230,7 +269,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of gpt react hook form explanation"
+              "title": "Graph of react concept - how to use context"
             }
           }
         ]
@@ -263,13 +302,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/gpt react hook form explanation.md",
+                "file": "1 - notes/h. library/react/react concept - how to use context.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of gpt react hook form explanation"
+              "title": "Outline of react concept - how to use context"
             }
           },
           {
@@ -396,7 +435,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/gpt react hook form explanation.md",
+                "file": "1 - notes/h. library/react/react concept - how to use context.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -406,7 +445,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for gpt react hook form explanation"
+              "title": "Backlinks for react concept - how to use context"
             }
           },
           {
@@ -455,10 +494,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9058b758189f24ef",
+  "active": "56f453c77eb7aa96",
   "lastOpenFiles": [
-    "0 - inbox/react hook form.md",
+    "1 - notes/h. library/react/react - context.md",
+    "1 - notes/h. library/react/react how context helps.md",
+    "1 - notes/h. library/react/react why not plain global file for context.md",
+    "1 - notes/h. library/react/react noob way to use context.md",
     "0 - inbox/gpt react hook form explanation.md",
+    "0 - inbox/react hook form.md",
     "3 - moc/sub-mocs/React-MOC.md",
     "2 - projects/prj Task Manager.md",
     "1 - notes/h. library/jwt/jwt - token expiry.md",
@@ -479,10 +522,6 @@
     "1 - notes/k. web-dev/auth/stateful auth.md",
     "1 - notes/k. web-dev/auth/authentication - why not encryption and when.md",
     "1 - notes/k. web-dev/auth/authentication - why hacker can't generate a valid token.md",
-    "1 - notes/k. web-dev/auth/authentication - what if the token is expired.md",
-    "1 - notes/k. web-dev/auth/authentication - entire stateless process.md",
-    "1 - notes/k. web-dev/auth/authentication signup or register.md",
-    "1 - notes/k. web-dev/auth/auth why bcrypt and not crypto.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
