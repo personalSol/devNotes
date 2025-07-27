@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5bcea5a7020cd2f3",
+        "id": "78a947122aca6b34",
         "type": "tabs",
         "children": [
           {
-            "id": "48f026aac23cdc74",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "redux intro",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/redux intro.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"redux intro\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":5.8441558441558445}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/h. library/react/redux.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "redux"
-            }
-          },
-          {
-            "id": "9b91bd7dbfc80b7c",
+            "id": "fe398380a5529396",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -57,109 +18,10 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "react redux",
+                  "title": "react hook form",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react redux.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react redux\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":65},\"to\":{\"line\":17,\"ch\":65}},\"scroll\":1.948051948051948}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/hooks- useRef.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "hooks- useRef"
-            }
-          },
-          {
-            "id": "53e671c0269deaab",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/react redux payload.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react redux payload"
-            }
-          },
-          {
-            "id": "f60aa62ef340c368",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/h. library/react/react redux hook useDispatch.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react redux hook useDispatch"
-            }
-          },
-          {
-            "id": "a2ec8f03e2407d58",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react hook form.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react hook form\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":53},\"to\":{\"line\":18,\"ch\":53}},\"scroll\":5.049350887149959}"
                 }
               ]
             },
@@ -184,8 +46,7 @@
               "title": "react redux hook useSelector"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -288,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/hooks- useRef.md",
+                "file": "1 - notes/h. library/react/react redux hook useSelector.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -316,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hooks- useRef"
+              "title": "Graph of react redux hook useSelector"
             }
           }
         ]
@@ -545,34 +406,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "9b91bd7dbfc80b7c",
+  "active": "fe398380a5529396",
   "lastOpenFiles": [
+    "0 - inbox/react hook form.md",
+    "0 - inbox/gpt react hook form explanation.md",
+    "1 - notes/h. library/react/react redux hook useSelector.md",
+    "1 - notes/h. library/react/react redux hook useDispatch.md",
+    "0 - inbox/react redux payload.md",
+    "1 - notes/h. library/react/redux.md",
+    "0 - inbox/hooks- useRef.md",
     "1 - notes/h. library/react/react redux.md",
     "1 - notes/h. library/react/react redux provider.md",
-    "1 - notes/h. library/react/redux.md",
     "0 - inbox/redux naming convention.md",
     "1 - notes/h. library/react/redux intro.md",
     "1 - notes/h. library/react/redux toolkit.md",
     "0 - inbox/how does state in redux get stored.md",
-    "1 - notes/h. library/react/react redux hook useDispatch.md",
-    "0 - inbox/react redux payload.md",
     "1 - notes/h. library/react/redux toolkit reducer or slice.md",
     "0 - inbox/full code example of redux.md",
-    "1 - notes/h. library/react/react redux hook useSelector.md",
     "0 - inbox/react how react stores context state.md",
     "1 - notes/h. library/react/react - context.md",
     "1 - notes/h. library/react/react noob way to use useContext.md",
     "1 - notes/h. library/react/redux toolkit store.md",
     "1 - notes/h. library/react/react - hooks.md",
-    "0 - inbox/gpt react hook form explanation.md",
-    "0 - inbox/react hook form.md",
     "4 - sources/yt/every react concept in 12 mints.md",
     "0 - inbox/hooks - useCallback.md",
     "1 - notes/h. library/react/react concept - how to use context.md",
     "1 - notes/h. library/react/react how context helps.md",
     "1 - notes/h. library/react/react why not plain global file for context.md",
     "3 - moc/sub-mocs/React-MOC.md",
-    "2 - projects/prj Task Manager.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",

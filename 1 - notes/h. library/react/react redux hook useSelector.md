@@ -2,11 +2,11 @@
 status: newBorn
 related-links: 
 created: 2025-06-21T00:24
-updated: 2025-07-26T22:47
+updated: 2025-07-27T02:53
 ---
 ---
 
-- to select/read a value from store
+- to select/read/get a value from store
 	- we just use the value from 
 - here store is the name of store and todos is the name of slice. 
 - doing this gives us the value of initial state
