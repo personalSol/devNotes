@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-09T15:40
-updated: 2025-06-18T17:27
+updated: 2025-07-27T09:42
 ---
 ---
 
@@ -10,11 +10,17 @@ updated: 2025-06-18T17:27
 
 - Converts a JavaScript object/value into a JSON-formatted string.
 - Used to prepare JS objects for sending over networks or saving as text.
+	- useful when we want to print a string with json object. ^yxkf2l
+		- if we do it without converting and directly then it will just give `object [object]`
 - Example:
 
 ```js
 const obj = { name: "Alice", age: 25 };
 const jsonString = JSON.stringify(obj); 
+
+console.log("user: " + obj) // will return object [Object]
+console.log("user: " + jsonString) // will give user with json in string format
+
 // jsonString: '{"name":"Alice","age":25}'
 ```
 

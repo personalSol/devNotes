@@ -4,9 +4,11 @@ related-links:
   - "[[npm packages for web dev]]"
   - "[[Node-JS-MOC]]"
 created: 2025-05-17T14:47
-updated: 2025-06-01T15:15
+updated: 2025-07-27T09:36
 ---
 ---
+
+- for syntax: read: [[fetch vs axios]]
 
 ## What is Axios?
 

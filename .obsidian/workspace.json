@@ -18,6 +18,18 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "axios",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/axios.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"axios\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":31.030303001841673}"
+                },
+                {
+                  "title": "react redux hook useSelector",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react redux hook useSelector.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react redux hook useSelector\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":66},\"to\":{\"line\":10,\"ch\":66}}}"
+                },
+                {
                   "title": "react hook form",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react hook form.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react hook form\"}",
@@ -28,7 +40,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/h. library/react/react redux hook useSelector.md",
+                "file": "1 - notes/h. library/cors/cors.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,10 +55,224 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "react redux hook useSelector"
+              "title": "cors"
+            }
+          },
+          {
+            "id": "1fd1cb08cffd1b1d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "json",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/json/json.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"json\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":22},\"to\":{\"line\":34,\"ch\":22}},\"scroll\":18.323809396652948}"
+                },
+                {
+                  "title": "verifying jwt with jwt.verify()",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/jwt/verifying jwt with jwt.verify().md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"verifying jwt with jwt.verify()\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":8.200913770395035}"
+                },
+                {
+                  "title": "axios",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/axios.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"axios\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "redux",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/redux.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"redux\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":8},\"to\":{\"line\":13,\"ch\":8}},\"scroll\":1.948051948051948}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/h. library/json/json methods brief.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "json methods brief"
+            }
+          },
+          {
+            "id": "84dccd6486aa33c4",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/a. concepts/fetch vs axios.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "fetch vs axios"
+            }
+          },
+          {
+            "id": "f7e11373d91a3be2",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "All problems and errors I have faced",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/All problems and errors I have faced.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"All problems and errors I have faced\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":32},\"to\":{\"line\":20,\"ch\":32}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/h. library/cors/cors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cors"
+            }
+          },
+          {
+            "id": "6a17e2e93b3cf0ba",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "all react hooks explained in 12 mints",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/all react hooks explained in 12 mints.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"all react hooks explained in 12 mints\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "cors origin",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/cors/cors origin.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cors origin\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":48},\"to\":{\"line\":22,\"ch\":48}},\"scroll\":9.465116279069768}"
+                },
+                {
+                  "title": "cors solutions",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/cors/cors solutions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cors solutions\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":12},\"to\":{\"line\":10,\"ch\":12}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/a. concepts/cookies.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cookies"
+            }
+          },
+          {
+            "id": "394e7980de572932",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/i. frameworks/express/proxy and cors.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "proxy and cors"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -97,7 +323,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "usecal",
+                "query": "json.stri",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -127,7 +353,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3888432cac3b4f06",
@@ -149,7 +376,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/h. library/react/react redux hook useSelector.md",
+                "file": "1 - notes/a. concepts/cookies.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +404,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of react redux hook useSelector"
+              "title": "Graph of cookies"
             }
           }
         ]
@@ -406,14 +633,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "fe398380a5529396",
+  "active": "6a17e2e93b3cf0ba",
   "lastOpenFiles": [
+    "4 - sources/yt/all react hooks explained in 12 mints.md",
+    "1 - notes/h. library/cors/cors origin.md",
+    "1 - notes/h. library/cors/cors solutions.md",
+    "1 - notes/i. frameworks/express/proxy and cors.md",
+    "1 - notes/h. library/cors/cors.md",
+    "1 - notes/h. library/cors/cors brief intro.md",
+    "1 - notes/z. others/All problems and errors I have faced.md",
+    "1 - notes/h. library/json/json methods brief.md",
+    "1 - notes/h. library/json/json.md",
+    "1 - notes/h. library/jwt/verifying jwt with jwt.verify().md",
+    "1 - notes/h. library/axios.md",
+    "1 - notes/a. concepts/fetch vs axios.md",
+    "1 - notes/h. library/react/redux.md",
+    "0 - inbox/full code example of redux.md",
+    "1 - notes/h. library/react/react redux hook useSelector.md",
     "0 - inbox/react hook form.md",
     "0 - inbox/gpt react hook form explanation.md",
-    "1 - notes/h. library/react/react redux hook useSelector.md",
     "1 - notes/h. library/react/react redux hook useDispatch.md",
     "0 - inbox/react redux payload.md",
-    "1 - notes/h. library/react/redux.md",
     "0 - inbox/hooks- useRef.md",
     "1 - notes/h. library/react/react redux.md",
     "1 - notes/h. library/react/react redux provider.md",
@@ -421,19 +661,6 @@
     "1 - notes/h. library/react/redux intro.md",
     "1 - notes/h. library/react/redux toolkit.md",
     "0 - inbox/how does state in redux get stored.md",
-    "1 - notes/h. library/react/redux toolkit reducer or slice.md",
-    "0 - inbox/full code example of redux.md",
-    "0 - inbox/react how react stores context state.md",
-    "1 - notes/h. library/react/react - context.md",
-    "1 - notes/h. library/react/react noob way to use useContext.md",
-    "1 - notes/h. library/react/redux toolkit store.md",
-    "1 - notes/h. library/react/react - hooks.md",
-    "4 - sources/yt/every react concept in 12 mints.md",
-    "0 - inbox/hooks - useCallback.md",
-    "1 - notes/h. library/react/react concept - how to use context.md",
-    "1 - notes/h. library/react/react how context helps.md",
-    "1 - notes/h. library/react/react why not plain global file for context.md",
-    "3 - moc/sub-mocs/React-MOC.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",

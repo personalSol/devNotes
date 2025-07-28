@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-09T14:25
-updated: 2025-06-14T16:55
+updated: 2025-07-27T09:42
 ---
 ---
 
@@ -18,3 +18,4 @@ return {variable2};
 const {variable2} = abc;
 ```
 
+- [[json methods brief#^yxkf2l]]
