@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-15T16:31
-updated: 2025-06-15T17:58
+updated: 2025-07-29T19:20
 ---
 ---
 ## ✅ What is React Router DOM?
@@ -25,9 +25,10 @@ npm install react-router-dom
 
 ### 1. **BrowserRouter**
 
-- Wraps the entire app to enable routing.
+- Wraps the entire app to enable routing in app.js
 
 ```jsx
+// main.js
 import { BrowserRouter } from 'react-router-dom';
 
 <BrowserRouter>
@@ -40,6 +41,7 @@ import { BrowserRouter } from 'react-router-dom';
 - Container for all the routes.
 
 ```jsx
+// main.js
 import { Routes, Route } from 'react-router-dom';
 
 <Routes>

@@ -4,11 +4,12 @@ related-links:
   - "[[npm packages for web dev]]"
   - "[[Node-JS-MOC]]"
 created: 2025-05-17T14:47
-updated: 2025-07-27T09:36
+updated: 2025-07-29T17:21
 ---
 ---
 
 - for syntax: read: [[fetch vs axios]]
+- axios, `withCredentials: true`, allows backend send cookies to be set in frontend site
 
 ## What is Axios?
 

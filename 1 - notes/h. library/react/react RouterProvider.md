@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-15T17:59
-updated: 2025-06-16T07:53
+updated: 2025-07-29T19:53
 ---
 ---
 
@@ -109,7 +109,7 @@ const Home = () => {
 ### 5. **Outlets (Nested Routes)** - Children
 
 - Allows nested routing structure.
-    
+- when we enclose a child element with parent route then in that parent route component we can define outlet which means for this main route if it goes to this subroute then render this element and if it goes to that subroute then render that element
 
 ```jsx
 import { Outlet } from 'react-router-dom';

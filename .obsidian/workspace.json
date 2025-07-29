@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "78a947122aca6b34",
+        "id": "1b779e4fb7e35a52",
         "type": "tabs",
         "children": [
           {
-            "id": "fe398380a5529396",
+            "id": "5adc603e92a16c13",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,29 +18,29 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "axios",
+                  "title": "react RouterProvider",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/axios.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"axios\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":31.030303001841673}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react RouterProvider.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react RouterProvider\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":111,\"ch\":250},\"to\":{\"line\":111,\"ch\":250}},\"scroll\":106.1809476216634}"
                 },
                 {
-                  "title": "react redux hook useSelector",
+                  "title": "react routing",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react redux hook useSelector.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react redux hook useSelector\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":66},\"to\":{\"line\":10,\"ch\":66}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react routing.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react routing\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":18},\"to\":{\"line\":9,\"ch\":18}},\"scroll\":0}"
                 },
                 {
-                  "title": "react hook form",
+                  "title": "react router dom",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/react hook form.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react hook form\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":53},\"to\":{\"line\":18,\"ch\":53}},\"scroll\":5.049350887149959}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react router dom.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react router dom\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":9},\"to\":{\"line\":49,\"ch\":9}},\"scroll\":127.76667094230652}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/h. library/cors/cors.md",
+                "file": "1 - notes/b. languages/javascript/js map loop.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,11 +55,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cors"
+              "title": "js map loop"
             }
           },
           {
-            "id": "1fd1cb08cffd1b1d",
+            "id": "b3480616640cef32",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -67,37 +67,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "json",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/json/json.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"json\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":34,\"ch\":22},\"to\":{\"line\":34,\"ch\":22}},\"scroll\":18.323809396652948}"
-                },
-                {
-                  "title": "verifying jwt with jwt.verify()",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/jwt/verifying jwt with jwt.verify().md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"verifying jwt with jwt.verify()\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":8.200913770395035}"
-                },
-                {
-                  "title": "axios",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/axios.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"axios\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "redux",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/redux.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"redux\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":8},\"to\":{\"line\":13,\"ch\":8}},\"scroll\":1.948051948051948}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/h. library/json/json methods brief.md",
+                "file": "1 - notes/h. library/react/react - whole process of routing in short.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -112,173 +88,49 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "json methods brief"
-            }
-          },
-          {
-            "id": "84dccd6486aa33c4",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/a. concepts/fetch vs axios.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "fetch vs axios"
-            }
-          },
-          {
-            "id": "f7e11373d91a3be2",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "All problems and errors I have faced",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/All problems and errors I have faced.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"All problems and errors I have faced\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":20,\"ch\":32},\"to\":{\"line\":20,\"ch\":32}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/h. library/cors/cors.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cors"
-            }
-          },
-          {
-            "id": "6a17e2e93b3cf0ba",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "cookies",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/cookies.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cookies\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":20},\"to\":{\"line\":12,\"ch\":20}},\"scroll\":1.948051948051948}"
-                },
-                {
-                  "title": "all react hooks explained in 12 mints",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/all react hooks explained in 12 mints.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"all react hooks explained in 12 mints\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
-                },
-                {
-                  "title": "cors origin",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/cors/cors origin.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cors origin\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":22,\"ch\":48},\"to\":{\"line\":22,\"ch\":48}},\"scroll\":9.465116279069768}"
-                },
-                {
-                  "title": "cors solutions",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/cors/cors solutions.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cors solutions\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":12},\"to\":{\"line\":10,\"ch\":12}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/h. library/react/react noob way to use useContext.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react noob way to use useContext"
-            }
-          },
-          {
-            "id": "394e7980de572932",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/i. frameworks/express/proxy and cors.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "proxy and cors"
+              "title": "react - whole process of routing in short"
             }
           }
-        ],
-        "currentTab": 4
+        ]
+      },
+      {
+        "id": "653e99a87f36e89a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db7235ddd74876aa",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/h. library/react/react router dom.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "react router dom"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -382,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/h. library/react/react noob way to use useContext.md",
+                "file": "1 - notes/b. languages/javascript/js map loop.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -410,14 +262,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of react noob way to use useContext"
+              "title": "Graph of js map loop"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 226.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -579,7 +432,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - notes/h. library/react/react noob way to use useContext.md",
+                "file": "1 - notes/b. languages/javascript/js map loop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -589,7 +442,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for react noob way to use useContext"
+              "title": "Backlinks for js map loop"
             }
           },
           {
@@ -619,7 +472,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -638,21 +492,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6a17e2e93b3cf0ba",
+  "active": "5adc603e92a16c13",
   "lastOpenFiles": [
+    "1 - notes/h. library/react/react RouterProvider.md",
+    "1 - notes/h. library/react/react routing.md",
+    "1 - notes/h. library/react/react - whole process of routing in short.md",
+    "1 - notes/h. library/react/react router dom.md",
+    "1 - notes/a. concepts/fetch vs axios.md",
+    "1 - notes/h. library/cors/cors.md",
+    "1 - notes/h. library/json/json methods brief.md",
+    "1 - notes/h. library/cors/cors origin.md",
+    "1 - notes/i. frameworks/express/proxy and cors.md",
+    "1 - notes/h. library/axios.md",
+    "1 - notes/h. library/cors/cors solutions.md",
+    "1 - notes/h. library/cors/cors brief intro.md",
+    "1 - notes/h. library/react/react noob way to use useContext.md",
     "1 - notes/a. concepts/cookies.md",
     "4 - sources/yt/all react hooks explained in 12 mints.md",
-    "1 - notes/h. library/cors/cors origin.md",
-    "1 - notes/h. library/cors/cors solutions.md",
-    "1 - notes/i. frameworks/express/proxy and cors.md",
-    "1 - notes/h. library/cors/cors.md",
-    "1 - notes/h. library/cors/cors brief intro.md",
     "1 - notes/z. others/All problems and errors I have faced.md",
-    "1 - notes/h. library/json/json methods brief.md",
     "1 - notes/h. library/json/json.md",
     "1 - notes/h. library/jwt/verifying jwt with jwt.verify().md",
-    "1 - notes/h. library/axios.md",
-    "1 - notes/a. concepts/fetch vs axios.md",
     "1 - notes/h. library/react/redux.md",
     "0 - inbox/full code example of redux.md",
     "1 - notes/h. library/react/react redux hook useSelector.md",
@@ -661,11 +520,6 @@
     "1 - notes/h. library/react/react redux hook useDispatch.md",
     "0 - inbox/react redux payload.md",
     "0 - inbox/hooks- useRef.md",
-    "1 - notes/h. library/react/react redux.md",
-    "1 - notes/h. library/react/react redux provider.md",
-    "0 - inbox/redux naming convention.md",
-    "1 - notes/h. library/react/redux intro.md",
-    "1 - notes/h. library/react/redux toolkit.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
