@@ -198,6 +198,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "cookies",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/cookies.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cookies\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":20},\"to\":{\"line\":12,\"ch\":20}},\"scroll\":1.948051948051948}"
+                },
+                {
                   "title": "all react hooks explained in 12 mints",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/all react hooks explained in 12 mints.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"all react hooks explained in 12 mints\"}",
@@ -220,7 +226,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/a. concepts/cookies.md",
+                "file": "1 - notes/h. library/react/react noob way to use useContext.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -235,7 +241,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "cookies"
+              "title": "react noob way to use useContext"
             }
           },
           {
@@ -323,7 +329,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "json.stri",
+                "query": "tag:#Project/P",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -376,7 +382,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/a. concepts/cookies.md",
+                "file": "1 - notes/h. library/react/react noob way to use useContext.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -404,7 +410,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cookies"
+              "title": "Graph of react noob way to use useContext"
             }
           }
         ]
@@ -437,13 +443,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/hooks- useRef.md",
+                "file": "1 - notes/a. concepts/cookies.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of hooks- useRef"
+              "title": "Outline of cookies"
             }
           },
           {
@@ -573,7 +579,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/hooks- useRef.md",
+                "file": "1 - notes/h. library/react/react noob way to use useContext.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -583,7 +589,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for hooks- useRef"
+              "title": "Backlinks for react noob way to use useContext"
             }
           },
           {
@@ -613,8 +619,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -635,6 +640,7 @@
   },
   "active": "6a17e2e93b3cf0ba",
   "lastOpenFiles": [
+    "1 - notes/a. concepts/cookies.md",
     "4 - sources/yt/all react hooks explained in 12 mints.md",
     "1 - notes/h. library/cors/cors origin.md",
     "1 - notes/h. library/cors/cors solutions.md",
@@ -660,7 +666,6 @@
     "0 - inbox/redux naming convention.md",
     "1 - notes/h. library/react/redux intro.md",
     "1 - notes/h. library/react/redux toolkit.md",
-    "0 - inbox/how does state in redux get stored.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
