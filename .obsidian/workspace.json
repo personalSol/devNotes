@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1b779e4fb7e35a52",
+        "id": "06d512ad4b9df7b9",
         "type": "tabs",
         "children": [
           {
-            "id": "5adc603e92a16c13",
+            "id": "ead6a1fc43316333",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,29 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "react RouterProvider",
+                  "title": "hooks - useEffect",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react RouterProvider.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react RouterProvider\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":111,\"ch\":250},\"to\":{\"line\":111,\"ch\":250}},\"scroll\":106.1809476216634}"
-                },
-                {
-                  "title": "react routing",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react routing.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react routing\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":18},\"to\":{\"line\":9,\"ch\":18}},\"scroll\":0}"
-                },
-                {
-                  "title": "react router dom",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react router dom.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react router dom\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":49,\"ch\":9},\"to\":{\"line\":49,\"ch\":9}},\"scroll\":127.76667094230652}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/hooks - useEffect.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"hooks - useEffect\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":1.854545395095627}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/javascript/js map loop.md",
+                "file": "1 - notes/a. concepts/http status codes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,79 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "js map loop"
-            }
-          },
-          {
-            "id": "b3480616640cef32",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/h. library/react/react - whole process of routing in short.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react - whole process of routing in short"
-            }
-          }
-        ]
-      },
-      {
-        "id": "653e99a87f36e89a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "db7235ddd74876aa",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/h. library/react/react router dom.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "react router dom"
+              "title": "http status codes"
             }
           }
         ]
@@ -492,12 +408,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5adc603e92a16c13",
+  "active": "ead6a1fc43316333",
   "lastOpenFiles": [
-    "1 - notes/h. library/react/react RouterProvider.md",
+    "1 - notes/h. library/react/hooks - useEffect.md",
     "1 - notes/h. library/react/react routing.md",
+    "0 - inbox/react router Link vs Navigate vs useNavigate().md",
     "1 - notes/h. library/react/react - whole process of routing in short.md",
+    "0 - inbox/full code example of redux.md",
     "1 - notes/h. library/react/react router dom.md",
+    "3 - moc/sub-mocs/React-MOC.md",
+    "1 - notes/h. library/react/react - components.md",
+    "1 - notes/h. library/react/react redux hook useSelector.md",
+    "1 - notes/b. languages/javascript/js map loop.md",
+    "1 - notes/h. library/react/react RouterProvider.md",
     "1 - notes/a. concepts/fetch vs axios.md",
     "1 - notes/h. library/cors/cors.md",
     "1 - notes/h. library/json/json methods brief.md",
@@ -513,13 +436,6 @@
     "1 - notes/h. library/json/json.md",
     "1 - notes/h. library/jwt/verifying jwt with jwt.verify().md",
     "1 - notes/h. library/react/redux.md",
-    "0 - inbox/full code example of redux.md",
-    "1 - notes/h. library/react/react redux hook useSelector.md",
-    "0 - inbox/react hook form.md",
-    "0 - inbox/gpt react hook form explanation.md",
-    "1 - notes/h. library/react/react redux hook useDispatch.md",
-    "0 - inbox/react redux payload.md",
-    "0 - inbox/hooks- useRef.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",

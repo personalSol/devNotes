@@ -296,7 +296,7 @@
     "0 - inbox/js arrow function.md": "c34431834c6d6cf5d1fa127e6c2240ac0b2d0e5027b937c241f00a84bb97c73e",
     "0 - inbox/js class methods.md": "ddfa137869bf6037ac2431a1a1e6b6d068c1b7c6d89ecaae887d1bb8fee4f80c",
     "0 - inbox/how does state in redux get stored.md": "68425f3cc6c20910234bf6f75f79a0c22fe0841e24bcd03a6562a092df8a59b3",
-    "0 - inbox/full code example of redux.md": "fcf6455d473eb0cc4f56ba2dfa6310c2e00de0bcb9f4b8a143fe9750a74b34bc",
+    "0 - inbox/full code example of redux.md": "a7dc5a1501e4f65246ee9c1a1eb09a1b30b73e9a1f027166676d5d339b7d6081",
     "0 - inbox/hooks- useRef.md": "6e5ba1568b2f63c956a529190bdf6a8d77f26ec734ef97d2693c46ebd00bc81d",
     "0 - inbox/hooks - useId.md": "0058343f3919b7d70d6eb7b525a91621220a4e636253a1fc7a158a9bddea15e1",
     "1 - notes/z. others/Youtubers for programming.md": "39042c40f936c4ebab4a91c155988229299c761d1a09a8b6a161b2c771307a36",
@@ -341,7 +341,7 @@
     "1 - notes/h. library/react/react router dom.md": "43b877b934097a096991cdc209c16b52180bb2435f45e6513105ed017bcf3808",
     "1 - notes/h. library/react/react router dom - outlier.md": "9d37d91fe4372d55db0c6566b4e16c60f14b2e2c5e7cadd58b58d9eded7670fa",
     "1 - notes/h. library/react/react RouterProvider.md": "166e22715433510e904ebb8143b7289109f8c662154278b8b6ede0f38984d3ed",
-    "1 - notes/h. library/react/react routing.md": "836c88a4944b737af95e252444f35bb75bebb328354ddd72548bd687b385d688",
+    "1 - notes/h. library/react/react routing.md": "8eb13a9b06c3ee62a2e17bc2895538d4763d88fbb227ae62bb27adf00016b380",
     "1 - notes/b. languages/cpp/cpp vectors code.md": "ca3c55cce234f1627cf3a6035db9625cdc3a2ec070095bea0e0828ef24802815",
     "1 - notes/b. languages/cpp/cpp - iterators.md": "a964a5066bb807f1c41cd5ae769d34c7e763c3441d1cd42cc4edd64e14a0574e",
     "1 - notes/b. languages/cpp/cpp dynamic memory allocation.md": "988d260d0a2e5931edd82b9781803f5eb764db33d022edfe58c474acb2e9fb92",
@@ -436,6 +436,7 @@
     "1 - notes/h. library/react/react noob way to use useContext.md": "82ae6e4647961ed55cf0bf36151735f34eb688799b2628febf5792099bdc0781",
     "0 - inbox/redux naming convention.md": "124d0d69ff6bc666409dba8559e0840b5b7a141342f4655ab5b1aaafc29638ce",
     "0 - inbox/react how react stores context state.md": "7a88851e1b8baaaa808953023fff0d67252d3f470a0b34d28796b946a8493df6",
-    "0 - inbox/react redux payload.md": "fc9eae308a628fa7590d0f7844bb85e4de70dc0b993982684117af863594aa7e"
+    "0 - inbox/react redux payload.md": "fc9eae308a628fa7590d0f7844bb85e4de70dc0b993982684117af863594aa7e",
+    "0 - inbox/react router Link vs Navigate vs useNavigate().md": "f0fa5ad7a10aee3d79434e3b27a0533c11abef5ce349d0c69b9aea6fcc8d8e0c"
   }
 }
