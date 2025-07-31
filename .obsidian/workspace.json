@@ -45,8 +45,42 @@
               "icon": "lucide-file",
               "title": "http status codes"
             }
+          },
+          {
+            "id": "b3b64725abcf5a1b",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/z. others/Questions asked in interview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Questions asked in interview"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -150,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/javascript/js map loop.md",
+                "file": "1 - notes/z. others/Questions asked in interview.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -178,15 +212,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of js map loop"
+              "title": "Graph of Questions asked in interview"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 226.5,
-    "collapsed": true
+    "width": 226.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -408,8 +441,9 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ead6a1fc43316333",
+  "active": "b3b64725abcf5a1b",
   "lastOpenFiles": [
+    "1 - notes/a. concepts/http status codes.md",
     "1 - notes/h. library/react/hooks - useEffect.md",
     "1 - notes/h. library/react/react routing.md",
     "0 - inbox/react router Link vs Navigate vs useNavigate().md",
@@ -435,7 +469,6 @@
     "1 - notes/z. others/All problems and errors I have faced.md",
     "1 - notes/h. library/json/json.md",
     "1 - notes/h. library/jwt/verifying jwt with jwt.verify().md",
-    "1 - notes/h. library/react/redux.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",

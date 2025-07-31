@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Others-MOC]]"
 created: 2025-04-03T15:12
-updated: 2025-07-18T23:23
+updated: 2025-07-31T17:05
 ---
 ---
 
@@ -19,6 +19,7 @@ updated: 2025-07-18T23:23
 	- in react, state is used to store values just like variables but the different is that everytime a state changes the component it was created/used in will rerender
 	- also unlike variable which stores the value until program ends, state value resets to initial value when the component re-renders.
 - difference between arrow and normal function
+- check useContext vs redux vs zustand code and concept
 
 # Reference
 `related tags + notes + source + link(if any)`
