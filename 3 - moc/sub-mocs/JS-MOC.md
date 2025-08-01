@@ -28,7 +28,7 @@ it will have all the notes around JS connected to it.
 - [[js - objects]]
 - [[js higher order function]]
 - [[js - functions]]
-- 
+- [[js - rest vs spread operator]]
 
 
 ### mid

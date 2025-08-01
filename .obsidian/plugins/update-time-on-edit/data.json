@@ -437,6 +437,8 @@
     "0 - inbox/redux naming convention.md": "124d0d69ff6bc666409dba8559e0840b5b7a141342f4655ab5b1aaafc29638ce",
     "0 - inbox/react how react stores context state.md": "7a88851e1b8baaaa808953023fff0d67252d3f470a0b34d28796b946a8493df6",
     "0 - inbox/react redux payload.md": "fc9eae308a628fa7590d0f7844bb85e4de70dc0b993982684117af863594aa7e",
-    "0 - inbox/react router Link vs Navigate vs useNavigate().md": "f0fa5ad7a10aee3d79434e3b27a0533c11abef5ce349d0c69b9aea6fcc8d8e0c"
+    "0 - inbox/react router Link vs Navigate vs useNavigate().md": "f0fa5ad7a10aee3d79434e3b27a0533c11abef5ce349d0c69b9aea6fcc8d8e0c",
+    "0 - inbox/js - rest vs spread operator.md": "b1a07a11c06ce9060e6ec7d2943542110ed47f91430f7a5feec6820d1ed22b1a",
+    "0 - inbox/mongoose remove or add in querry.md": "29e448fa4f0693ab80c2d1bf307e884868cad37b72ae3d8c2d7dd9556f4efd1b"
   }
 }

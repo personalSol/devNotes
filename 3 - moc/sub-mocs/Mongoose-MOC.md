@@ -28,6 +28,7 @@ here will be all the notes around Mongoose-MOC which is a part of main MOC - [[M
 
 - [[mongoose subscription model explaination]]
 - [[mongoose giving id of one to another]]
+- [[mongoose remove or add in querry]]
 
 ### advance
 
