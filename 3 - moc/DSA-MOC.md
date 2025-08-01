@@ -19,8 +19,9 @@ here will be all the notes around DSA-MOC
 	- [[space complexity]]
 - questions
 	- [[DSA questions]]
-	- [[dsa - question approahes which I was able to solve]]
-	- [[dsa - question approaches which I was not able to solve]]
+	- [[Question approaches]]
+		- [[dsa - question approahes which I was able to solve]]
+		- [[dsa - question approaches which I was not able to solve]]
 
 
 

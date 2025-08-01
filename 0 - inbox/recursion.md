@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-07-21T10:41
-updated: 2025-07-21T11:15
+updated: 2025-08-01T08:30
 ---
 ---
 
@@ -10,7 +10,6 @@ updated: 2025-07-21T11:15
 - when a function calls itself
 - until a specific condition is met
 - A **recursion tree** is a visual diagram showing how a recursive function branches and when each call stops. It helps analyze the total number of calls and complexity.
-
 
 ### detailed
 

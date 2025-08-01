@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "06d512ad4b9df7b9",
+        "id": "c17826cbb895a554",
         "type": "tabs",
         "children": [
           {
-            "id": "ead6a1fc43316333",
+            "id": "b9acad5234f946d6",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,17 +18,23 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "hooks - useEffect",
+                  "title": "Question approaches",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/hooks - useEffect.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"hooks - useEffect\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}},\"scroll\":1.854545395095627}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/Question approaches.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Question approaches\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":21},\"to\":{\"line\":9,\"ch\":21}},\"scroll\":0}"
+                },
+                {
+                  "title": "DSA-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/DSA-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"DSA-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":23},\"to\":{\"line\":21,\"ch\":23}},\"scroll\":3.842622850762039}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/a. concepts/http status codes.md",
+                "file": "0 - inbox/recursion question approach.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,11 +49,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "http status codes"
+              "title": "recursion question approach"
             }
           },
           {
-            "id": "b3b64725abcf5a1b",
+            "id": "0a67e1f464a08b50",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,31 +61,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "react -  key prop",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. library/react/react -  key prop.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"react -  key prop\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":53},\"to\":{\"line\":11,\"ch\":53}},\"scroll\":19.78095154535203}"
-                },
-                {
-                  "title": "React-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0.01311475429378572}"
-                },
-                {
-                  "title": "Questions asked in interview",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/z. others/Questions asked in interview.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Questions asked in interview\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":55},\"to\":{\"line\":21,\"ch\":55}},\"scroll\":10.1392404925764}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/JS-MOC.md",
+                "file": "0 - inbox/Question approaches.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -94,83 +82,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "JS-MOC"
-            }
-          },
-          {
-            "id": "65008c2e4c8bdbd6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "js - rest vs spread operator",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/js - rest vs spread operator.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js - rest vs spread operator\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":279},\"to\":{\"line\":10,\"ch\":279}},\"scroll\":0}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/Mongoose-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mongoose-MOC"
-            }
-          },
-          {
-            "id": "08944e69aadd4948",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/mongoose remove or add in querry.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "mongoose remove or add in querry"
+              "title": "Question approaches"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -251,8 +166,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -274,7 +188,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/mongoose remove or add in querry.md",
+                "file": "0 - inbox/recursion question approach.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -302,7 +216,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of mongoose remove or add in querry"
+              "title": "Graph of recursion question approach"
             }
           }
         ]
@@ -531,16 +445,24 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "08944e69aadd4948",
+  "active": "b9acad5234f946d6",
   "lastOpenFiles": [
-    "0 - inbox/mongoose remove or add in querry.md",
-    "3 - moc/sub-mocs/Mongoose-MOC.md",
-    "0 - inbox/js - rest vs spread operator.md",
+    "0 - inbox/Question approaches.md",
+    "0 - inbox/recursion question approach.md",
+    "0 - inbox/question approaches for sql.md",
+    "0 - inbox/recursion.md",
+    "1 - notes/h. library/react/hooks - useCallback.md",
+    "0 - inbox/import and export in mjs summary.md",
+    "3 - moc/DSA-MOC.md",
+    "1 - notes/g. dsa/dsa - question approaches which I was not able to solve.md",
+    "1 - notes/a. concepts/http status codes.md",
     "3 - moc/sub-mocs/JS-MOC.md",
+    "3 - moc/sub-mocs/Mongoose-MOC.md",
+    "0 - inbox/mongoose remove or add in querry.md",
+    "0 - inbox/js - rest vs spread operator.md",
     "1 - notes/h. library/react/react -  key prop.md",
     "3 - moc/sub-mocs/React-MOC.md",
     "1 - notes/z. others/Questions asked in interview.md",
-    "1 - notes/a. concepts/http status codes.md",
     "1 - notes/h. library/react/hooks - useEffect.md",
     "1 - notes/h. library/react/react routing.md",
     "0 - inbox/react router Link vs Navigate vs useNavigate().md",
@@ -551,14 +473,6 @@
     "1 - notes/h. library/react/react redux hook useSelector.md",
     "1 - notes/b. languages/javascript/js map loop.md",
     "1 - notes/h. library/react/react RouterProvider.md",
-    "1 - notes/a. concepts/fetch vs axios.md",
-    "1 - notes/h. library/cors/cors.md",
-    "1 - notes/h. library/json/json methods brief.md",
-    "1 - notes/h. library/cors/cors origin.md",
-    "1 - notes/i. frameworks/express/proxy and cors.md",
-    "1 - notes/h. library/axios.md",
-    "1 - notes/h. library/cors/cors solutions.md",
-    "1 - notes/h. library/cors/cors brief intro.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
