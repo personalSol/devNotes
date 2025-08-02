@@ -84,8 +84,48 @@
               "icon": "lucide-file",
               "title": "Question approaches"
             }
+          },
+          {
+            "id": "b94f6e90c2f1a8f1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "Cpp-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":20},\"to\":{\"line\":23,\"ch\":20}},\"scroll\":15.250000018062014}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/cpp/cpp call by reference and call by value.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "cpp call by reference and call by value"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -188,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/recursion question approach.md",
+                "file": "1 - notes/b. languages/cpp/cpp call by reference and call by value.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -216,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of recursion question approach"
+              "title": "Graph of cpp call by reference and call by value"
             }
           }
         ]
@@ -445,10 +485,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b9acad5234f946d6",
+  "active": "b94f6e90c2f1a8f1",
   "lastOpenFiles": [
-    "0 - inbox/Question approaches.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
     "0 - inbox/recursion question approach.md",
+    "0 - inbox/Question approaches.md",
     "0 - inbox/question approaches for sql.md",
     "0 - inbox/recursion.md",
     "1 - notes/h. library/react/hooks - useCallback.md",
@@ -472,7 +513,6 @@
     "1 - notes/h. library/react/react - components.md",
     "1 - notes/h. library/react/react redux hook useSelector.md",
     "1 - notes/b. languages/javascript/js map loop.md",
-    "1 - notes/h. library/react/react RouterProvider.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",

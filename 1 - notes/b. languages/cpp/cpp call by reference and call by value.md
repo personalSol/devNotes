@@ -2,9 +2,11 @@
 status: newBorn
 related-links: []
 created: 2025-05-09T11:27
-updated: 2025-05-19T09:56
+updated: 2025-08-02T08:29
 ---
 ---
+
+> basically in call by value the function have something like `string s`. in such function when we pass the value it takes value and create a copy of it. but in function with `string& s` then it takes address as a refrence here and whatever the function do on string, it does directly on the main string. 
 
 ### call by value
 
@@ -80,9 +82,3 @@ int main(){
 }
 ```
 
-
-# Reference
-`related tags + notes + source + link(if any)`
- 
-
-- 
