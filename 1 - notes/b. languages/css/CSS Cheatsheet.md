@@ -3,11 +3,11 @@ status: newBorn
 related-links:
   - "[[CSS-MOC]]"
 created: 2025-02-22T18:45
-updated: 2025-06-14T19:53
+updated: 2025-08-02T19:35
 ---
 ---
 
-
+- gap property only gives gap to items which are grid and glex items and not give it like margin or padding
 ### CSS selectors
 
 - [[CSS pseudo selectors]]

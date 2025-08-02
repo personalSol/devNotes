@@ -123,9 +123,93 @@
               "icon": "lucide-file",
               "title": "cpp call by reference and call by value"
             }
+          },
+          {
+            "id": "2391a185721b4d5d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "CSS flex box",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/css/CSS flex box.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS flex box\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":42},\"to\":{\"line\":17,\"ch\":42}},\"scroll\":9.632911384764666}"
+                },
+                {
+                  "title": "CSS flex property - not flex box",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/css/CSS flex property - not flex box.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS flex property - not flex box\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/css/CSS usecase code sheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CSS usecase code sheet"
+            }
+          },
+          {
+            "id": "5e7d240fe38c7172",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "CSS-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/CSS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":9},\"to\":{\"line\":9,\"ch\":9}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/b. languages/css/CSS Cheatsheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "CSS Cheatsheet"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -176,7 +260,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path: \"1 - notes/b. languages/css\"  line:(gap)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,7 +290,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3888432cac3b4f06",
@@ -228,7 +313,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/cpp/cpp call by reference and call by value.md",
+                "file": "1 - notes/b. languages/css/CSS Cheatsheet.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,7 +341,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of cpp call by reference and call by value"
+              "title": "Graph of CSS Cheatsheet"
             }
           }
         ]
@@ -485,8 +570,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b94f6e90c2f1a8f1",
+  "active": "5e7d240fe38c7172",
   "lastOpenFiles": [
+    "1 - notes/b. languages/css/CSS flex property - not flex box.md",
+    "1 - notes/b. languages/css/CSS Cheatsheet.md",
+    "3 - moc/sub-mocs/CSS-MOC.md",
+    "1 - notes/b. languages/css/CSS usecase code sheet.md",
+    "1 - notes/b. languages/css/CSS flex box.md",
+    "1 - notes/b. languages/cpp/cpp call by reference and call by value.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
     "0 - inbox/recursion question approach.md",
     "0 - inbox/Question approaches.md",
@@ -507,12 +598,6 @@
     "1 - notes/h. library/react/hooks - useEffect.md",
     "1 - notes/h. library/react/react routing.md",
     "0 - inbox/react router Link vs Navigate vs useNavigate().md",
-    "1 - notes/h. library/react/react - whole process of routing in short.md",
-    "0 - inbox/full code example of redux.md",
-    "1 - notes/h. library/react/react router dom.md",
-    "1 - notes/h. library/react/react - components.md",
-    "1 - notes/h. library/react/react redux hook useSelector.md",
-    "1 - notes/b. languages/javascript/js map loop.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
