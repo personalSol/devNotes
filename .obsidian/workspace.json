@@ -492,9 +492,19 @@
               "icon": "checkmark",
               "title": "Todo List"
             }
+          },
+          {
+            "id": "3fdb618f73840b17",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 6
       },
       {
         "id": "8e15cd93a6a4be64",
@@ -516,7 +526,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - notes/b. languages/javascript/js map loop.md",
+                "file": "1 - notes/b. languages/css/CSS flex box.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -526,7 +536,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for js map loop"
+              "title": "Backlinks for CSS flex box"
             }
           },
           {
@@ -556,8 +566,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 438.5
   },
   "left-ribbon": {
     "hiddenItems": {
