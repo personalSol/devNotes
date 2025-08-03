@@ -135,6 +135,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "CSS usecase code sheet",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/css/CSS usecase code sheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS usecase code sheet\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
                   "title": "CSS flex box",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/css/CSS flex box.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS flex box\"}",
@@ -151,7 +157,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/css/CSS usecase code sheet.md",
+                "file": "1 - notes/b. languages/css/CSS flex box.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -166,7 +172,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CSS usecase code sheet"
+              "title": "CSS flex box"
             }
           },
           {
@@ -209,7 +215,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -313,7 +319,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/css/CSS Cheatsheet.md",
+                "file": "1 - notes/b. languages/css/CSS flex box.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -341,7 +347,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of CSS Cheatsheet"
+              "title": "Graph of CSS flex box"
             }
           }
         ]
@@ -570,12 +576,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "5e7d240fe38c7172",
+  "active": "2391a185721b4d5d",
   "lastOpenFiles": [
-    "1 - notes/b. languages/css/CSS flex property - not flex box.md",
-    "1 - notes/b. languages/css/CSS Cheatsheet.md",
-    "3 - moc/sub-mocs/CSS-MOC.md",
     "1 - notes/b. languages/css/CSS usecase code sheet.md",
+    "1 - notes/b. languages/css/CSS Cheatsheet.md",
+    "1 - notes/b. languages/css/CSS flex property - not flex box.md",
+    "3 - moc/sub-mocs/CSS-MOC.md",
     "1 - notes/b. languages/css/CSS flex box.md",
     "1 - notes/b. languages/cpp/cpp call by reference and call by value.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
