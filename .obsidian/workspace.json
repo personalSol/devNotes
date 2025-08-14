@@ -16,18 +16,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Question approaches",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/Question approaches.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Question approaches\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":21},\"to\":{\"line\":9,\"ch\":21}},\"scroll\":0}"
-                },
-                {
-                  "title": "DSA-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/DSA-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"DSA-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":21,\"ch\":23},\"to\":{\"line\":21,\"ch\":23}},\"scroll\":3.842622850762039}"
                 }
               ]
             },
@@ -94,12 +82,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Cpp-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Cpp-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cpp-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":23,\"ch\":20},\"to\":{\"line\":23,\"ch\":20}},\"scroll\":15.250000018062014}"
                 }
               ]
             },
@@ -133,31 +115,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "CSS usecase code sheet",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/css/CSS usecase code sheet.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS usecase code sheet\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "CSS flex box",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/css/CSS flex box.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS flex box\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":17,\"ch\":42},\"to\":{\"line\":17,\"ch\":42}},\"scroll\":9.632911384764666}"
-                },
-                {
-                  "title": "CSS flex property - not flex box",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/css/CSS flex property - not flex box.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS flex property - not flex box\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/b. languages/css/CSS flex box.md",
+                "file": "3 - moc/Linux-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -172,7 +136,73 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "CSS flex box"
+              "title": "Linux-MOC"
+            }
+          },
+          {
+            "id": "bdc3919f94450d48",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/j. devops/linux commands for devops.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "linux commands for devops"
+            }
+          },
+          {
+            "id": "07e799ee056cd504",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/Mint OS things.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Mint OS things"
             }
           },
           {
@@ -184,12 +214,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "CSS-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/CSS-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"CSS-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":9},\"to\":{\"line\":9,\"ch\":9}}}"
                 }
               ]
             },
@@ -215,7 +239,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -266,7 +290,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "path: \"1 - notes/b. languages/css\"  line:(gap)",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -296,8 +320,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -319,7 +342,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/b. languages/css/CSS flex box.md",
+                "file": "1 - notes/j. devops/linux commands for devops.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -347,7 +370,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of CSS flex box"
+              "title": "Graph of linux commands for devops"
             }
           }
         ]
@@ -380,13 +403,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/a. concepts/cookies.md",
+                "file": "1 - notes/j. devops/linux commands for devops.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of cookies"
+              "title": "Outline of linux commands for devops"
             }
           },
           {
@@ -511,9 +534,27 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "bfc172420fbe95f9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
           }
-        ],
-        "currentTab": 6
+        ]
       },
       {
         "id": "8e15cd93a6a4be64",
@@ -535,7 +576,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - notes/b. languages/css/CSS flex box.md",
+                "file": "1 - notes/j. devops/linux commands for devops.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -545,7 +586,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for CSS flex box"
+              "title": "Backlinks for linux commands for devops"
             }
           },
           {
@@ -590,17 +631,21 @@
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
       "callout-manager:Insert Callout": false,
-      "obsidian-git:Open Git source control": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2391a185721b4d5d",
+  "active": "bdc3919f94450d48",
   "lastOpenFiles": [
+    "3 - moc/Linux-MOC.md",
+    "1 - notes/j. devops/linux commands for devops.md",
+    "0 - inbox/Mint OS things.md",
+    "3 - moc/Devops-MOC.md",
+    "1 - notes/b. languages/css/CSS flex box.md",
     "1 - notes/b. languages/css/CSS usecase code sheet.md",
     "1 - notes/b. languages/css/CSS Cheatsheet.md",
     "1 - notes/b. languages/css/CSS flex property - not flex box.md",
     "3 - moc/sub-mocs/CSS-MOC.md",
-    "1 - notes/b. languages/css/CSS flex box.md",
     "1 - notes/b. languages/cpp/cpp call by reference and call by value.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
     "0 - inbox/recursion question approach.md",
@@ -618,10 +663,6 @@
     "0 - inbox/js - rest vs spread operator.md",
     "1 - notes/h. library/react/react -  key prop.md",
     "3 - moc/sub-mocs/React-MOC.md",
-    "1 - notes/z. others/Questions asked in interview.md",
-    "1 - notes/h. library/react/hooks - useEffect.md",
-    "1 - notes/h. library/react/react routing.md",
-    "0 - inbox/react router Link vs Navigate vs useNavigate().md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
