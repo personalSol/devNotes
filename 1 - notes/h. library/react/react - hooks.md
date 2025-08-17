@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[React-MOC]]"
 created: 2025-04-22T16:46
-updated: 2025-07-26T10:46
+updated: 2025-08-17T19:52
 ---
 ---
 
@@ -35,7 +35,7 @@ updated: 2025-07-26T10:46
 - Random hooks
 	- useID - [[hooks - useId]]
 	- useNavigate - [[react hook - useNavigate]]
-	- 
+	- useLocation - [[react hook - useLocation]]
 
 
 

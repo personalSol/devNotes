@@ -87,7 +87,7 @@
     "1 - notes/h. library/react/react - event handling.md": "51568ecee1501ba6909dac9ffbf81e5d9ecf5ab94515eaed102f9240af879d85",
     "1 - notes/h. library/react/react - how it works.md": "1ff4fe09267dd6bdf5c09170871f8ca6d6d461024050badb06e5176ad9f4d79b",
     "1 - notes/h. library/react/react - context.md": "3c82092e020f6338bc52ad9c5c9bf260bcf1f4ab0b2bcf1850ea6fec8c90c50f",
-    "1 - notes/h. library/react/react - hooks.md": "b8e7b54cd3efeb52f4327215b0533de00e10e74811aa9707e2bc4f7e6ab30661",
+    "1 - notes/h. library/react/react - hooks.md": "a316ce71a85a13c427a54f2e450bb56f261e1a0b884f806b181c9eb954752441",
     "1 - notes/h. library/react/react - to create react app.md": "c52ffb9e36f7db14f5a25799bc9504798911e5bd39dce209fac72195077b14a3",
     "1 - notes/h. library/react/react props.md": "8c714c19275926377797bd0fc3f9fe0108d65a670218bbe0125734ff0aaa80e7",
     "1 - notes/h. library/react/react - UI update process.md": "5edd2a6a8a3e74c712aecda76bcd7c6c55038f57da9f347e6cd60c9c230c664d",
@@ -299,7 +299,7 @@
     "0 - inbox/full code example of redux.md": "a7dc5a1501e4f65246ee9c1a1eb09a1b30b73e9a1f027166676d5d339b7d6081",
     "1 - notes/z. others/Youtubers for programming.md": "39042c40f936c4ebab4a91c155988229299c761d1a09a8b6a161b2c771307a36",
     "1 - notes/b. languages/css/CSS usecase code sheet.md": "47d559f0edeb6fceec0faf9e610fd453a527792bf150cb95ed505b906cb3ab48",
-    "1 - notes/b. languages/css/CSS flex box.md": "4e7a440f56f12e418d3dd7690d151c3ef87e9855e80b65fa822d079f8769591e",
+    "1 - notes/b. languages/css/CSS flex box.md": "23b2714dbe5c0a32c3b14a777688afb4306ddec9ead6d2a4bafa031e7051b43d",
     "1 - notes/b. languages/css/CSS functions.md": "1a5edac3923beb9aefd14a59be9ff8fd42fa8d747fca99534f6c198094572c67",
     "1 - notes/b. languages/css/CSS grid.md": "624b101d3522f68c66707cc5e13c5aa1993f802ba75e8a359f6c95ea5dad6920",
     "1 - notes/b. languages/css/CSS inline-block element.md": "f1e710016c40b9223ce8b182d9398691bdc797935ad4916b0055389814d0f4b6",
@@ -441,6 +441,8 @@
     "1 - notes/h. library/react/hooks - useCallback.md": "7557864b7be9ced15cf4061e00a3dbe77d75d4ea8338f3eb86db34afb19fd629",
     "1 - notes/h. library/react/hooks - useId.md": "0058343f3919b7d70d6eb7b525a91621220a4e636253a1fc7a158a9bddea15e1",
     "0 - inbox/recursion question approach.md": "ea1b2648bf814c3047baa915f94e218c03fefb19151cc26f1eb35ce427ca192c",
-    "0 - inbox/Mint OS things.md": "63cc3354fa6550cde656f9d6f59bf545137a957a38fae22f7067454f50ff1c04"
+    "0 - inbox/Mint OS things.md": "63cc3354fa6550cde656f9d6f59bf545137a957a38fae22f7067454f50ff1c04",
+    "0 - inbox/react hook - useLocation.md": "873c5c6ec53244430a314603befe2dabd34ca410bd2e72fd687aaa3e79927495",
+    "1 - notes/c. tools/github/commit.md": "5cb283779d8840b3421b49a4326aed91167d21296aeca15b35627f71da6fac37"
   }
 }

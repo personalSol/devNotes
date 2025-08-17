@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[git-and-github-MOC]]"
 created: 2025-03-02T01:09
-updated: 2025-03-03T18:24
+updated: 2025-08-18T00:25
 ---
 ---
 
@@ -19,7 +19,7 @@ updated: 2025-03-03T18:24
 
 
 - git commit -m "MESSAGE"
-- to commit in same version ( not creating new commit ): `git commit -m` "Message" --amend
+- to commit in same version ( not creating new commit ): `git commit -m "Message" --amend`
 
 
 - to jump to another commit: `git checkout <commit hash code>`

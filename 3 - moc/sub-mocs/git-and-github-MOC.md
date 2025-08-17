@@ -7,7 +7,7 @@ updated: 2025-04-10T15:21
 
 here will be all the notes around git-and-github
 
-`cheatsheet:` 
+`cheatsheet:` [[Git-n-GitHub Cheatsheet]]
 ![[Websites and Resources#^k8jibj]]
 ## basic
 

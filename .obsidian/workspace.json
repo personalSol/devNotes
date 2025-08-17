@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c17826cbb895a554",
+        "id": "1e293d91831b1d69",
         "type": "tabs",
         "children": [
           {
-            "id": "b9acad5234f946d6",
+            "id": "683ebe9b9d2a35bd",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,13 +16,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "git-and-github-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/git-and-github-MOC.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"git-and-github-MOC\"}",
+                  "eState": "{\"scroll\":1.9757291449875127}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/recursion question approach.md",
+                "file": "1 - notes/c. tools/github/commit.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,209 +43,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "recursion question approach"
-            }
-          },
-          {
-            "id": "0a67e1f464a08b50",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/Question approaches.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Question approaches"
-            }
-          },
-          {
-            "id": "b94f6e90c2f1a8f1",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/cpp/cpp call by reference and call by value.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cpp call by reference and call by value"
-            }
-          },
-          {
-            "id": "2391a185721b4d5d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/Linux-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Linux-MOC"
-            }
-          },
-          {
-            "id": "bdc3919f94450d48",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/j. devops/linux commands for devops.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "linux commands for devops"
-            }
-          },
-          {
-            "id": "07e799ee056cd504",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/Mint OS things.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mint OS things"
-            }
-          },
-          {
-            "id": "5e7d240fe38c7172",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/b. languages/css/CSS Cheatsheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "CSS Cheatsheet"
+              "title": "commit"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -342,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/j. devops/linux commands for devops.md",
+                "file": "1 - notes/c. tools/github/commit.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -370,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of linux commands for devops"
+              "title": "Graph of commit"
             }
           }
         ]
@@ -403,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/j. devops/linux commands for devops.md",
+                "file": "1 - notes/c. tools/github/commit.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of linux commands for devops"
+              "title": "Outline of commit"
             }
           },
           {
@@ -576,7 +383,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - notes/j. devops/linux commands for devops.md",
+                "file": "1 - notes/c. tools/github/commit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -586,7 +393,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for linux commands for devops"
+              "title": "Backlinks for commit"
             }
           },
           {
@@ -635,34 +442,34 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bdc3919f94450d48",
+  "active": "683ebe9b9d2a35bd",
   "lastOpenFiles": [
-    "3 - moc/Linux-MOC.md",
-    "1 - notes/j. devops/linux commands for devops.md",
-    "0 - inbox/Mint OS things.md",
-    "3 - moc/Devops-MOC.md",
+    "3 - moc/sub-mocs/git-and-github-MOC.md",
+    "1 - notes/c. tools/github/commit.md",
+    "1 - notes/c. tools/github/add or stage.md",
+    "1 - notes/c. tools/github/basic git commands.md",
+    "1 - notes/c. tools/github/setting git credentials.md",
+    "1 - notes/c. tools/github/about github and github.md",
+    "0 - inbox/github things to remember.md",
+    "1 - notes/c. tools/github/git standard practices.md",
+    "1 - notes/c. tools/github/Git-n-GitHub Cheatsheet.md",
+    "3 - moc/Cheatsheets-MOC.md",
+    "1 - notes/h. library/react/react - hooks.md",
+    "0 - inbox/react hook - useLocation.md",
     "1 - notes/b. languages/css/CSS flex box.md",
-    "1 - notes/b. languages/css/CSS usecase code sheet.md",
-    "1 - notes/b. languages/css/CSS Cheatsheet.md",
-    "1 - notes/b. languages/css/CSS flex property - not flex box.md",
+    "1 - notes/x. code block/general code copy block note.md",
+    "1 - notes/b. languages/css/CSS grid.md",
+    "1 - notes/b. languages/css/CSS functions.md",
     "3 - moc/sub-mocs/CSS-MOC.md",
-    "1 - notes/b. languages/cpp/cpp call by reference and call by value.md",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
+    "1 - notes/b. languages/css/CSS flex property - not flex box.md",
+    "1 - notes/b. languages/css/CSS Cheatsheet.md",
+    "0 - inbox/Mint OS things.md",
     "0 - inbox/recursion question approach.md",
     "0 - inbox/Question approaches.md",
-    "0 - inbox/question approaches for sql.md",
-    "0 - inbox/recursion.md",
-    "1 - notes/h. library/react/hooks - useCallback.md",
-    "0 - inbox/import and export in mjs summary.md",
-    "3 - moc/DSA-MOC.md",
-    "1 - notes/g. dsa/dsa - question approaches which I was not able to solve.md",
-    "1 - notes/a. concepts/http status codes.md",
-    "3 - moc/sub-mocs/JS-MOC.md",
-    "3 - moc/sub-mocs/Mongoose-MOC.md",
-    "0 - inbox/mongoose remove or add in querry.md",
-    "0 - inbox/js - rest vs spread operator.md",
-    "1 - notes/h. library/react/react -  key prop.md",
-    "3 - moc/sub-mocs/React-MOC.md",
+    "1 - notes/b. languages/cpp/cpp call by reference and call by value.md",
+    "3 - moc/Linux-MOC.md",
+    "1 - notes/j. devops/linux commands for devops.md",
+    "3 - moc/Devops-MOC.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
