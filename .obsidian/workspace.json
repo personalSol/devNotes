@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1e293d91831b1d69",
+        "id": "a56869b08f63305f",
         "type": "tabs",
         "children": [
           {
-            "id": "683ebe9b9d2a35bd",
+            "id": "062b18b7ffa7c1d8",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,17 +18,59 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "git-and-github-MOC",
+                  "title": "bcrypt salt",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/git-and-github-MOC.md\",\"mode\":\"preview\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"git-and-github-MOC\"}",
-                  "eState": "{\"scroll\":1.9757291449875127}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. modules/bcrypt salt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"bcrypt salt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "bcrypt hash and verification",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. modules/bcrypt hash and verification.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"bcrypt hash and verification\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "bcrypt salt",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. modules/bcrypt salt.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"bcrypt salt\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "cluster",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/mongoDB/cluster.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"cluster\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                },
+                {
+                  "title": "import and export in mjs summary",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/import and export in mjs summary.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"import and export in mjs summary\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "js - rest vs spread operator",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/js - rest vs spread operator.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js - rest vs spread operator\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "js Hoisting",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/javascript/js Hoisting.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"js Hoisting\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "ai basics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/ai basics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai basics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/c. tools/github/commit.md",
+                "file": "1 - notes/h. modules/bcrypt hash and verification.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +85,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "commit"
+              "title": "bcrypt hash and verification"
             }
           }
         ]
@@ -58,7 +100,7 @@
       {
         "id": "b208c03cadd231ee",
         "type": "tabs",
-        "dimension": 60.12195121951219,
+        "dimension": 76.60818713450293,
         "children": [
           {
             "id": "dddbab8b18fd423a",
@@ -132,7 +174,7 @@
       {
         "id": "3888432cac3b4f06",
         "type": "tabs",
-        "dimension": 39.87804878048781,
+        "dimension": 23.391812865497073,
         "children": [
           {
             "id": "727ed8f5dbac01b5",
@@ -149,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/c. tools/github/commit.md",
+                "file": "1 - notes/h. modules/bcrypt hash and verification.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,14 +219,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of commit"
+              "title": "Graph of bcrypt hash and verification"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 226.5
+    "width": 393.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -210,13 +252,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/c. tools/github/commit.md",
+                "file": "1 - notes/h. modules/bcrypt hash and verification.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of commit"
+              "title": "Outline of bcrypt hash and verification"
             }
           },
           {
@@ -324,25 +366,6 @@
             }
           },
           {
-            "id": "3fdb618f73840b17",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
-          },
-          {
             "id": "bfc172420fbe95f9",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -360,8 +383,19 @@
               "icon": "file-digit",
               "title": "Strange New Worlds"
             }
+          },
+          {
+            "id": "42d5e05e46b95bc2",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 7
       },
       {
         "id": "8e15cd93a6a4be64",
@@ -383,7 +417,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - notes/c. tools/github/commit.md",
+                "file": "1 - notes/h. modules/bcrypt hash and verification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -393,7 +427,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for commit"
+              "title": "Backlinks for bcrypt hash and verification"
             }
           },
           {
@@ -442,10 +476,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "683ebe9b9d2a35bd",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
-    "3 - moc/sub-mocs/git-and-github-MOC.md",
+    "1 - notes/h. modules/bcrypt salt.md",
+    "1 - notes/h. modules/bcrypt hash and verification.md",
+    "1 - notes/c. tools/mongoDB/cluster.md",
+    "1 - notes/b. languages/javascript/import and export in mjs summary.md",
+    "1 - notes/b. languages/javascript/js - rest vs spread operator.md",
+    "1 - notes/b. languages/javascript/js Hoisting.md",
+    "0 - inbox/ai basics.md",
     "1 - notes/c. tools/github/commit.md",
+    "3 - moc/sub-mocs/git-and-github-MOC.md",
     "1 - notes/c. tools/github/add or stage.md",
     "1 - notes/c. tools/github/basic git commands.md",
     "1 - notes/c. tools/github/setting git credentials.md",
@@ -454,7 +495,7 @@
     "1 - notes/c. tools/github/git standard practices.md",
     "1 - notes/c. tools/github/Git-n-GitHub Cheatsheet.md",
     "3 - moc/Cheatsheets-MOC.md",
-    "1 - notes/h. library/react/react - hooks.md",
+    "1 - notes/h. modules/react/react - hooks.md",
     "0 - inbox/react hook - useLocation.md",
     "1 - notes/b. languages/css/CSS flex box.md",
     "1 - notes/x. code block/general code copy block note.md",
@@ -463,13 +504,6 @@
     "3 - moc/sub-mocs/CSS-MOC.md",
     "1 - notes/b. languages/css/CSS flex property - not flex box.md",
     "1 - notes/b. languages/css/CSS Cheatsheet.md",
-    "0 - inbox/Mint OS things.md",
-    "0 - inbox/recursion question approach.md",
-    "0 - inbox/Question approaches.md",
-    "1 - notes/b. languages/cpp/cpp call by reference and call by value.md",
-    "3 - moc/Linux-MOC.md",
-    "1 - notes/j. devops/linux commands for devops.md",
-    "3 - moc/Devops-MOC.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",

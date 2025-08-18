@@ -2,7 +2,7 @@
 status: newBorn
 related-links: 
 created: 2025-06-01T23:11
-updated: 2025-07-18T22:45
+updated: 2025-08-18T12:44
 ---
 ---
 
@@ -34,5 +34,5 @@ app.post('/stats', upload.single('uploaded_file'), function (req, res) {
 - 
 - to keep the extension with the file name, we have two ways
 	- keep the file name original using `file.originalname` inside cb in diskStorage
-	- extract the file extension using [[1 - notes/h. library/path#to get file extension]]
+	- extract the file extension using [[1 - notes/h. modules/path#to get file extension]]
 - 
