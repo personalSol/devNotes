@@ -87,8 +87,63 @@
               "icon": "lucide-file",
               "title": "bcrypt hash and verification"
             }
+          },
+          {
+            "id": "49d2354c33e731ea",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/guide on how to deploy apps.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "guide on how to deploy apps"
+            }
+          },
+          {
+            "id": "aa43cf5f44bb50da",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.9.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.9.10"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -191,7 +246,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/h. modules/bcrypt hash and verification.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,14 +273,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of bcrypt hash and verification"
+              "title": "Graph view"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 279.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -387,6 +441,15 @@
           {
             "id": "42d5e05e46b95bc2",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "git-view",
               "state": {},
@@ -417,7 +480,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - notes/h. modules/bcrypt hash and verification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -427,7 +489,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for bcrypt hash and verification"
+              "title": "Backlinks"
             }
           },
           {
@@ -461,6 +523,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "audio-recorder:Start/stop recording": false,
       "graph:Open graph view": false,
       "publish:Publish changes...": false,
@@ -476,10 +539,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "aa43cf5f44bb50da",
   "lastOpenFiles": [
-    "1 - notes/h. modules/bcrypt salt.md",
+    "98 - attachments/Pasted image 20250819134250.png",
     "1 - notes/h. modules/bcrypt hash and verification.md",
+    "0 - inbox/guide on how to deploy apps.md",
+    "1 - notes/h. modules/bcrypt salt.md",
     "1 - notes/c. tools/mongoDB/cluster.md",
     "1 - notes/b. languages/javascript/import and export in mjs summary.md",
     "1 - notes/b. languages/javascript/js - rest vs spread operator.md",
@@ -502,8 +567,6 @@
     "1 - notes/b. languages/css/CSS grid.md",
     "1 - notes/b. languages/css/CSS functions.md",
     "3 - moc/sub-mocs/CSS-MOC.md",
-    "1 - notes/b. languages/css/CSS flex property - not flex box.md",
-    "1 - notes/b. languages/css/CSS Cheatsheet.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
