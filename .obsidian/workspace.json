@@ -99,6 +99,36 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "AI-ML-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI-ML-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI-ML-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":12},\"to\":{\"line\":12,\"ch\":12}},\"scroll\":0}"
+                },
+                {
+                  "title": "n8n course by sheriyas",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/n8n course by sheriyas.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"n8n course by sheriyas\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":20.647185643513996}"
+                },
+                {
+                  "title": "ChaiAurCode SQL course",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/ChaiAurCode SQL course.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ChaiAurCode SQL course\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":61,\"ch\":41},\"to\":{\"line\":61,\"ch\":41}},\"scroll\":0}"
+                },
+                {
+                  "title": "Graph view",
+                  "icon": "lucide-git-fork",
+                  "state": "{\"type\":\"graph\",\"state\":{},\"icon\":\"lucide-git-fork\",\"title\":\"Graph view\"}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "datatype",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/datatype.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"datatype\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
                   "title": "guide on how to deploy apps",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/guide on how to deploy apps.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"guide on how to deploy apps\"}",
@@ -109,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/a. concepts/datatype.md",
+                "file": "1 - notes/e. ai/terms for AI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -124,7 +154,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "datatype"
+              "title": "terms for AI"
             }
           }
         ],
@@ -231,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/a. concepts/datatype.md",
+                "file": "1 - notes/e. ai/terms for AI.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -259,7 +289,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of datatype"
+              "title": "Graph of terms for AI"
             }
           }
         ]
@@ -466,7 +496,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - notes/a. concepts/datatype.md",
+                "file": "1 - notes/e. ai/terms for AI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -476,7 +506,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for datatype"
+              "title": "Backlinks for terms for AI"
             }
           },
           {
@@ -528,6 +558,10 @@
   },
   "active": "49d2354c33e731ea",
   "lastOpenFiles": [
+    "3 - moc/AI-ML-MOC.md",
+    "4 - sources/courses/n8n course by sheriyas.md",
+    "4 - sources/courses/ChaiAurCode SQL course.md",
+    "1 - notes/a. concepts/datatype.md",
     "0 - inbox/guide on how to deploy apps.md",
     "98 - attachments/Pasted image 20250819134250.png",
     "1 - notes/h. modules/bcrypt hash and verification.md",
@@ -551,9 +585,6 @@
     "0 - inbox/react hook - useLocation.md",
     "1 - notes/b. languages/css/CSS flex box.md",
     "1 - notes/x. code block/general code copy block note.md",
-    "1 - notes/b. languages/css/CSS grid.md",
-    "1 - notes/b. languages/css/CSS functions.md",
-    "3 - moc/sub-mocs/CSS-MOC.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
