@@ -99,6 +99,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "terms for AI",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/e. ai/terms for AI.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"terms for AI\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
                   "title": "AI-ML-MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI-ML-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI-ML-MOC\"}",
@@ -139,7 +145,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/e. ai/terms for AI.md",
+                "file": "3 - moc/sub-mocs/Python-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -154,11 +160,62 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "terms for AI"
+              "title": "Python-MOC"
+            }
+          },
+          {
+            "id": "de42a4335d965349",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "java multithreading",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java multithreading.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java multithreading\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":6},\"to\":{\"line\":33,\"ch\":6}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "java boiler plate",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java boiler plate.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java boiler plate\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":34},\"to\":{\"line\":30,\"ch\":34}},\"scroll\":58.59987604050409}"
+                },
+                {
+                  "title": "how python works",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/how python works.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"how python works\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":144},\"to\":{\"line\":13,\"ch\":144}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/how python works.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "how python works"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -209,7 +266,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "JVM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -239,7 +296,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3888432cac3b4f06",
@@ -261,7 +319,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/e. ai/terms for AI.md",
+                "file": "0 - inbox/how python works.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -289,7 +347,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of terms for AI"
+              "title": "Graph of how python works"
             }
           }
         ]
@@ -496,7 +554,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - notes/e. ai/terms for AI.md",
+                "file": "0 - inbox/how python works.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -506,7 +564,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for terms for AI"
+              "title": "Backlinks for how python works"
             }
           },
           {
@@ -556,8 +614,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "49d2354c33e731ea",
+  "active": "de42a4335d965349",
   "lastOpenFiles": [
+    "1 - notes/b. languages/java/java multithreading.md",
+    "3 - moc/sub-mocs/Python-MOC.md",
+    "0 - inbox/how python works.md",
+    "1 - notes/b. languages/java/java boiler plate.md",
+    "1 - notes/e. ai/terms for AI.md",
     "3 - moc/AI-ML-MOC.md",
     "4 - sources/courses/n8n course by sheriyas.md",
     "4 - sources/courses/ChaiAurCode SQL course.md",
@@ -580,11 +643,6 @@
     "0 - inbox/github things to remember.md",
     "1 - notes/c. tools/github/git standard practices.md",
     "1 - notes/c. tools/github/Git-n-GitHub Cheatsheet.md",
-    "3 - moc/Cheatsheets-MOC.md",
-    "1 - notes/h. modules/react/react - hooks.md",
-    "0 - inbox/react hook - useLocation.md",
-    "1 - notes/b. languages/css/CSS flex box.md",
-    "1 - notes/x. code block/general code copy block note.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
