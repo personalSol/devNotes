@@ -170,14 +170,20 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "java multithreading",
+                  "title": "java basics",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java multithreading.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java multithreading\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":6},\"to\":{\"line\":33,\"ch\":6}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java basics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java basics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0.8122786608609286}"
                 },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "how python works",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/how python works.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"how python works\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 },
                 {
                   "title": "java boiler plate",
@@ -196,7 +202,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/how python works.md",
+                "file": "3 - moc/sub-mocs/Java-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -211,7 +217,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "how python works"
+              "title": "Java-MOC"
             }
           }
         ],
@@ -266,7 +272,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "JVM",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -296,8 +302,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -319,7 +324,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/how python works.md",
+                "file": "3 - moc/sub-mocs/Java-MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -347,7 +352,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of how python works"
+              "title": "Graph of Java-MOC"
             }
           }
         ]
@@ -554,7 +559,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/how python works.md",
+                "file": "3 - moc/sub-mocs/Java-MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -564,7 +569,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for how python works"
+              "title": "Backlinks for Java-MOC"
             }
           },
           {
@@ -616,10 +621,12 @@
   },
   "active": "de42a4335d965349",
   "lastOpenFiles": [
+    "1 - notes/b. languages/java/java basics.md",
+    "3 - moc/sub-mocs/Java-MOC.md",
+    "1 - notes/b. languages/java/java boiler plate.md",
+    "0 - inbox/how python works.md",
     "1 - notes/b. languages/java/java multithreading.md",
     "3 - moc/sub-mocs/Python-MOC.md",
-    "0 - inbox/how python works.md",
-    "1 - notes/b. languages/java/java boiler plate.md",
     "1 - notes/e. ai/terms for AI.md",
     "3 - moc/AI-ML-MOC.md",
     "4 - sources/courses/n8n course by sheriyas.md",
@@ -641,8 +648,6 @@
     "1 - notes/c. tools/github/setting git credentials.md",
     "1 - notes/c. tools/github/about github and github.md",
     "0 - inbox/github things to remember.md",
-    "1 - notes/c. tools/github/git standard practices.md",
-    "1 - notes/c. tools/github/Git-n-GitHub Cheatsheet.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
