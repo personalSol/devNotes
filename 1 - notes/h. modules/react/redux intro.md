@@ -1,8 +1,8 @@
 ---
 status: newBorn
-related-links: 
+related-links:
 created: 2025-06-24T10:39
-updated: 2025-07-17T15:46
+updated: 2025-10-12T12:55
 ---
 ---
 
@@ -30,4 +30,4 @@ updated: 2025-07-17T15:46
 - **Redux Toolkit didn’t replace React Redux.**  
 	- It replaced the _old manual Redux patterns_ (like creating separate action files, types, and reducers from scratch).  
 	- React Redux is still the official connector library between React and Redux. Redux Toolkit just made writing Redux code easier and more efficient.
-	- ab redux aaya tha to uske stepup me thoda jayada time lagta tha compare to contex api and debugging karne me v problem ja rhi thi. tab developers ne redux-toolkit introduce kiya jisme setUp or debugging easy ho gya kuchh redux functions ke dawara, isliye redux use karne ke liye ye dono libraries install karni jaruri hai.
+	- ab redux aaya tha to uske stepupould never be m me thoda jayada time lagta tha compare to contex api and debugging karne me v problem ja rhi thi. tab developers ne redux-toolkit introduce kiya jisme setUp or debugging easy ho gya kuchh redux functions ke dawara, isliye redux use karne ke liye ye dono libraries install karni jaruri hai.
