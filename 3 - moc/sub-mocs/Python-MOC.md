@@ -5,7 +5,7 @@ here will be all the notes around {{title}} which is a part of main MOC - [[MOC-
 
 `Cheatsheet:`  
 
-### extras ( not that imp but still here )
+### extras ( good to have )
 
 - 
 
@@ -33,9 +33,10 @@ here will be all the notes around {{title}} which is a part of main MOC - [[MOC-
 - 
 
 
-### all which are inside other pages
+### related stuff
 
-- 
+- [[Django-MOC]]
+
 
 
 ### **Links not included yet list:**

@@ -9,7 +9,7 @@ updated: 2025-05-17T14:37
 - [[JS-MOC]]
 - [[CSS-MOC]]
 - [[Cpp-MOC]]
-- 
+- [[Python-MOC]]
 
 
 Library and frameworks:

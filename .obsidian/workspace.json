@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3d20ac3963eb32b5",
+        "id": "afbf06e4a5ab81a0",
         "type": "tabs",
         "children": [
           {
-            "id": "5545960ace0cab2c",
+            "id": "ed9f42cff9947cf4",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,35 +18,29 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "github remote",
+                  "title": "Python-MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/c. tools/github/github remote.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"github remote\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Python-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Python-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":12},\"to\":{\"line\":37,\"ch\":12}},\"scroll\":20.29707908630371}"
                 },
                 {
-                  "title": "redux intro",
+                  "title": "Lang-And-Packages-MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. modules/react/redux intro.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"redux intro\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":33,\"ch\":0},\"to\":{\"line\":33,\"ch\":0}},\"scroll\":22.349359480160814}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Lang-And-Packages-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lang-And-Packages-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":7},\"to\":{\"line\":11,\"ch\":7}},\"scroll\":0}"
                 },
                 {
-                  "title": "redux",
+                  "title": "Python-MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/h. modules/react/redux.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"redux\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":11},\"to\":{\"line\":8,\"ch\":11}},\"scroll\":0}"
-                },
-                {
-                  "title": "React-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":30,\"ch\":0},\"to\":{\"line\":30,\"ch\":0}},\"scroll\":18.008012779211327}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Python-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Python-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/git-and-github-MOC.md",
+                "file": "3 - moc/sub-mocs/Django-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -61,10 +55,77 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "git-and-github-MOC"
+              "title": "Django-MOC"
+            }
+          },
+          {
+            "id": "030c3a74330ab685",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/django urls and views.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "django urls and views"
+            }
+          },
+          {
+            "id": "51349a1b959ced48",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/how to create virtual environment for using django.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "how to create virtual environment for using django"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -167,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 - moc/sub-mocs/git-and-github-MOC.md",
+                "file": "0 - inbox/django urls and views.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of git-and-github-MOC"
+              "title": "Graph of django urls and views"
             }
           }
         ]
@@ -228,13 +289,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/h. modules/bcrypt hash and verification.md",
+                "file": "0 - inbox/django urls and views.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of bcrypt hash and verification"
+              "title": "Outline of django urls and views"
             }
           },
           {
@@ -379,8 +440,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "8e15cd93a6a4be64",
@@ -402,7 +462,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - moc/sub-mocs/git-and-github-MOC.md",
+                "file": "0 - inbox/django urls and views.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -412,7 +472,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for git-and-github-MOC"
+              "title": "Backlinks for django urls and views"
             }
           },
           {
@@ -462,35 +522,39 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5545960ace0cab2c",
+  "active": "030c3a74330ab685",
   "lastOpenFiles": [
-    "1 - notes/c. tools/github/github remote.md",
-    "1 - notes/h. modules/react/redux intro.md",
-    "1 - notes/h. modules/react/redux.md",
+    "98 - attachments/Pasted image 20251025182913.png",
+    "98 - attachments/Pasted image 20251025181148.png",
+    "98 - attachments/Pasted image 20251025181035.png",
+    "0 - inbox/django urls and views.md",
+    "3 - moc/sub-mocs/Django-MOC.md",
+    "0 - inbox/django-cheatsheet.md",
+    "0 - inbox/how to create virtual environment for using django.md",
+    "3 - moc/sub-mocs/Python-MOC.md",
+    "3 - moc/Lang-And-Packages-MOC.md",
+    "0 - inbox/Untitled.base",
+    "0 - inbox/what is this.base",
+    "0 - inbox/Untitled.md",
+    "1 - notes/b. languages/java/@Override in detail.md",
+    "0 - inbox/how python works.md",
+    "3 - moc/DSA-MOC.md",
+    "97 - templates/tmp-project.md",
+    "97 - templates/tmp-moc.md",
+    "97 - templates/Templates-MOC.md",
+    "97 - templates/tmp-full-note.md",
+    "3 - moc/Programming-Language-Concepts-MOC.md",
     "3 - moc/sub-mocs/React-MOC.md",
+    "1 - notes/h. modules/react/redux.md",
+    "1 - notes/h. modules/react/redux intro.md",
+    "1 - notes/c. tools/github/github remote.md",
+    "3 - moc/sub-mocs/git-and-github-MOC.md",
+    "1 - notes/c. tools/github/Git-n-GitHub Cheatsheet.md",
     "1 - notes/h. modules/react/react - about.md",
     "1 - notes/h. modules/react/react story + W's.md",
     "1 - notes/h. modules/react/react topics to learn.md",
     "1 - notes/h. modules/react/react - things to remember.md",
-    "1 - notes/h. modules/react/React Cheatsheet.md",
-    "0 - inbox/ai basics.md",
-    "3 - moc/AI-ML-MOC.md",
-    "3 - moc/sub-mocs/Java-MOC.md",
-    "3 - moc/Lang-And-Packages-MOC.md",
-    "1 - notes/h. modules/bcrypt hash and verification.md",
-    "3 - moc/sub-mocs/Python-MOC.md",
-    "3 - moc/sub-mocs/git-and-github-MOC.md",
-    "1 - notes/b. languages/java/java basics.md",
-    "1 - notes/b. languages/java/java boiler plate.md",
-    "0 - inbox/how python works.md",
-    "1 - notes/b. languages/java/java multithreading.md",
-    "1 - notes/e. ai/terms for AI.md",
-    "4 - sources/courses/n8n course by sheriyas.md",
-    "4 - sources/courses/ChaiAurCode SQL course.md",
-    "1 - notes/a. concepts/datatype.md",
-    "0 - inbox/guide on how to deploy apps.md",
     "98 - attachments/Pasted image 20250819134250.png",
-    "1 - notes/h. modules/bcrypt salt.md",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
@@ -500,16 +564,12 @@
     "98 - attachments/screenshot-2025-02-21-at-3.48.23pm.jpeg",
     "98 - attachments/Pasted image 20250601140028.png",
     "98 - attachments/Pasted image 20250705120119.png",
-    "98 - attachments/Pasted image 20250705120059.png",
-    "98 - attachments/Pasted image 20250627115455.png",
     "4 - sources/courses/dbms by code help",
     "1 - notes/y. snippets",
     "98 - attachments/Recording 20250626175237.m4a",
     "98 - attachments/Recording 20250616183328.m4a",
     "98 - attachments/Recording 20250616183748.m4a",
     "98 - attachments/Recording 20250616183216.m4a",
-    "98 - attachments/Recording 20250616182855.m4a",
-    "98 - attachments/Recording 20250616183006.m4a",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",
