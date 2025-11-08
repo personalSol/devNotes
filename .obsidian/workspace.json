@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "afbf06e4a5ab81a0",
+        "id": "fcc5a26ae4ac5d9a",
         "type": "tabs",
         "children": [
           {
-            "id": "ed9f42cff9947cf4",
+            "id": "81d4e3912a56bfaa",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -16,24 +16,6 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Python-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Python-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Python-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":37,\"ch\":12},\"to\":{\"line\":37,\"ch\":12}},\"scroll\":20.29707908630371}"
-                },
-                {
-                  "title": "Lang-And-Packages-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Lang-And-Packages-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lang-And-Packages-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":7},\"to\":{\"line\":11,\"ch\":7}},\"scroll\":0}"
-                },
-                {
-                  "title": "Python-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Python-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Python-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
                 }
               ]
             },
@@ -57,75 +39,8 @@
               "icon": "lucide-file",
               "title": "Django-MOC"
             }
-          },
-          {
-            "id": "030c3a74330ab685",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/django urls and views.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "django urls and views"
-            }
-          },
-          {
-            "id": "51349a1b959ced48",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/how to create virtual environment for using django.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "how to create virtual environment for using django"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/django urls and views.md",
+                "file": "3 - moc/sub-mocs/Django-MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,7 +171,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of django urls and views"
+              "title": "Graph of Django-MOC"
             }
           }
         ]
@@ -289,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/django urls and views.md",
+                "file": "3 - moc/sub-mocs/Django-MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of django urls and views"
+              "title": "Outline of Django-MOC"
             }
           },
           {
@@ -439,8 +354,38 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "7771d73117a4a50a",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {},
+              "icon": "file-digit",
+              "title": "Strange New Worlds"
+            }
+          },
+          {
+            "id": "85b348a2bd9e53e8",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo List"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "8e15cd93a6a4be64",
@@ -462,7 +407,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/django urls and views.md",
+                "file": "3 - moc/sub-mocs/Django-MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -472,7 +417,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for django urls and views"
+              "title": "Backlinks for Django-MOC"
             }
           },
           {
@@ -502,7 +447,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 438.5
+    "width": 397.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -522,13 +467,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "030c3a74330ab685",
+  "active": "2834b0489acc80da",
   "lastOpenFiles": [
+    "3 - moc/sub-mocs/Django-MOC.md",
+    "0 - inbox/dev path.md",
+    "0 - inbox/django urls and views.md",
     "98 - attachments/Pasted image 20251025182913.png",
     "98 - attachments/Pasted image 20251025181148.png",
     "98 - attachments/Pasted image 20251025181035.png",
-    "0 - inbox/django urls and views.md",
-    "3 - moc/sub-mocs/Django-MOC.md",
     "0 - inbox/django-cheatsheet.md",
     "0 - inbox/how to create virtual environment for using django.md",
     "3 - moc/sub-mocs/Python-MOC.md",
@@ -563,7 +509,6 @@
     "98 - attachments/screen-shot-2023-10-27-at-5.55.07-pm.jpeg",
     "98 - attachments/screenshot-2025-02-21-at-3.48.23pm.jpeg",
     "98 - attachments/Pasted image 20250601140028.png",
-    "98 - attachments/Pasted image 20250705120119.png",
     "4 - sources/courses/dbms by code help",
     "1 - notes/y. snippets",
     "98 - attachments/Recording 20250626175237.m4a",
