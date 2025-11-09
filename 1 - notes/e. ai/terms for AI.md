@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[AI-ML-MOC]]"
 created: 2025-04-28T09:56
-updated: 2025-09-27T22:15
+updated: 2025-11-09T11:56
 ---
  ---
 
@@ -21,7 +21,8 @@ updated: 2025-09-27T22:15
 - Training - The saga of nurturing the model by processing data through the ML algorithm code.
 - Testing - The act of gauging the model's mettle using new data, post-training.
 - Iteration - The cycle of tweaking algorithms and data, coupled with re-training, aiming to uplift model performance.
-
+- Generalization - the ability for a machine learning model to perform well on data it hasn't seen before. In simple terms it means, when a model generates good output on a data it hasn't been trained on.
+ ^tdpez8
 
 # Reference
 `related tags + notes + source + link(if any)`

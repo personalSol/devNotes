@@ -11,24 +11,24 @@
             "id": "34ab7dbe15180737",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "ai models basics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/e. ai/ai models basics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai models basics\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "AI-ML-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI-ML-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI-ML-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":8},\"to\":{\"line\":12,\"ch\":8}},\"scroll\":1.9757291449875127}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/AI-ML-MOC.md",
+                "file": "1 - notes/e. ai/terms for AI.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI-ML-MOC"
+              "title": "terms for AI"
             }
           },
           {
@@ -55,6 +55,18 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "AI-ML-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI-ML-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI-ML-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":10},\"to\":{\"line\":16,\"ch\":10}},\"scroll\":7.377706209818522}"
+                },
+                {
+                  "title": "ai basics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/ai basics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai basics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":19,\"ch\":2},\"to\":{\"line\":19,\"ch\":2}},\"scroll\":12.732835610715554}"
                 }
               ]
             },
@@ -77,6 +89,105 @@
               },
               "icon": "lucide-file",
               "title": "ai basics"
+            }
+          },
+          {
+            "id": "17aa303edfdcf918",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/ai tools for machine learning.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ai tools for machine learning"
+            }
+          },
+          {
+            "id": "a0946656152667b9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/ai experimeting models( last step ).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ai experimeting models( last step )"
+            }
+          },
+          {
+            "id": "91e17f41747c7be1",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/ai comparing or testing models.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ai comparing or testing models"
             }
           },
           {
@@ -146,7 +257,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -249,7 +360,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/ai basics.md",
+                "file": "0 - inbox/ai tools for machine learning.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,7 +388,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ai basics"
+              "title": "Graph of ai tools for machine learning"
             }
           }
         ]
@@ -310,13 +421,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/ml basics.md",
+                "file": "0 - inbox/ai tools for machine learning.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of ml basics"
+              "title": "Outline of ai tools for machine learning"
             }
           },
           {
@@ -499,8 +610,7 @@
               "title": "Todo List"
             }
           }
-        ],
-        "currentTab": 7
+        ]
       },
       {
         "id": "8e15cd93a6a4be64",
@@ -522,7 +632,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/ai basics.md",
+                "file": "0 - inbox/ai tools for machine learning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -532,7 +642,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for ai basics"
+              "title": "Backlinks for ai tools for machine learning"
             }
           },
           {
@@ -582,52 +692,52 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4911cb23a57dc7bf",
+  "active": "17aa303edfdcf918",
   "lastOpenFiles": [
-    "3 - moc/AI-ML-MOC.md",
-    "1 - notes/e. ai/ai models basics.md",
+    "98 - attachments/Pasted image 20251109131537.png",
+    "0 - inbox/ai tools for machine learning.md",
     "0 - inbox/ai basics.md",
+    "3 - moc/AI-ML-MOC.md",
+    "1 - notes/e. ai/Ai tools list.md",
+    "1 - notes/e. ai/ai models basics.md",
+    "1 - notes/e. ai/terms for AI.md",
+    "0 - inbox/ai experimeting models( last step ).md",
+    "98 - attachments/Pasted image 20251109131248.png",
+    "98 - attachments/Pasted image 20251109130239.png",
+    "0 - inbox/ai modelling.md",
+    "0 - inbox/ai comparing or testing models.md",
+    "98 - attachments/Pasted image 20251109123912.png",
+    "98 - attachments/Pasted image 20251109123559.png",
+    "0 - inbox/ai tuning an ai model.md",
+    "98 - attachments/Pasted image 20251109122403.png",
+    "0 - inbox/ai choosing a model.md",
+    "98 - attachments/Pasted image 20251109121425.png",
+    "98 - attachments/Pasted image 20251109121301.png",
+    "0 - inbox/ai splitting data into three sets.md",
+    "98 - attachments/Pasted image 20251109120235.png",
+    "98 - attachments/Pasted image 20251109120231.png",
+    "1 - notes/e. ai/ai - augmentation and automation.md",
+    "1 - notes/e. ai/ai agents.md",
+    "0 - inbox/ai types of data.md",
+    "0 - inbox/ai features in a model.md",
+    "98 - attachments/Pasted image 20251109103723.png",
+    "0 - inbox/ai evaluation of model.md",
+    "0 - inbox/ai data science workflow.md",
+    "0 - inbox/Pasted image 20251109080039.png.md",
     "0 - inbox/ai Types of problem AI can solve.md",
     "0 - inbox/ai respnsible use and ai ethics.md",
     "0 - inbox/ai what is ai.md",
-    "0 - inbox/ai types of data.md",
     "0 - inbox/type of ml in detail.md",
     "98 - attachments/Recording 20251108194328.m4a",
     "98 - attachments/Recording 20251108193255.m4a",
     "98 - attachments/Recording 20251108193321.m4a",
     "98 - attachments/Recording 20251108192933.m4a",
-    "1 - notes/e. ai/terms for AI.md",
     "3 - moc/sub-mocs/Django-MOC.md",
     "0 - inbox/dev path.md",
-    "0 - inbox/django urls and views.md",
-    "98 - attachments/Pasted image 20251025182913.png",
-    "98 - attachments/Pasted image 20251025181148.png",
-    "98 - attachments/Pasted image 20251025181035.png",
-    "0 - inbox/django-cheatsheet.md",
-    "0 - inbox/how to create virtual environment for using django.md",
-    "3 - moc/sub-mocs/Python-MOC.md",
-    "3 - moc/Lang-And-Packages-MOC.md",
     "0 - inbox/Untitled.base",
     "0 - inbox/what is this.base",
-    "0 - inbox/Untitled.md",
-    "1 - notes/b. languages/java/@Override in detail.md",
-    "0 - inbox/how python works.md",
-    "3 - moc/DSA-MOC.md",
-    "97 - templates/tmp-project.md",
-    "97 - templates/tmp-moc.md",
-    "97 - templates/Templates-MOC.md",
-    "97 - templates/tmp-full-note.md",
-    "3 - moc/Programming-Language-Concepts-MOC.md",
-    "3 - moc/sub-mocs/React-MOC.md",
-    "98 - attachments/Pasted image 20250819134250.png",
-    "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
     "1 - notes/x. code block",
-    "98 - attachments/screen-shot-2023-10-27-at-5.57.55-pm.jpeg",
-    "98 - attachments/screen-shot-2024-01-18-at-3.58.27-pm.jpeg",
-    "98 - attachments/screen-shot-2023-10-27-at-5.55.07-pm.jpeg",
-    "98 - attachments/screenshot-2025-02-21-at-3.48.23pm.jpeg",
-    "98 - attachments/Pasted image 20250601140028.png",
     "4 - sources/courses/dbms by code help",
     "1 - notes/y. snippets",
     "Untitled.canvas",
