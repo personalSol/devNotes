@@ -15,8 +15,6 @@ here will be all the notes around AI-ML-MOC
 ### basic
 
 - [[ai basics]]
-- [[ml basics]]
-- 
 - [[ai models basics]]
 - [[ai agents]]
 - [[ai - augmentation and automation]]

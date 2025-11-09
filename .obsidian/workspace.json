@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "fcc5a26ae4ac5d9a",
+        "id": "9f975b25dd812346",
         "type": "tabs",
         "children": [
           {
-            "id": "81d4e3912a56bfaa",
+            "id": "34ab7dbe15180737",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "ai models basics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/e. ai/ai models basics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai models basics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -22,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/Django-MOC.md",
+                "file": "3 - moc/AI-ML-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,10 +43,110 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Django-MOC"
+              "title": "AI-ML-MOC"
+            }
+          },
+          {
+            "id": "4911cb23a57dc7bf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/ai basics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ai basics"
+            }
+          },
+          {
+            "id": "dde8877e8c186bfd",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/ai Types of problem AI can solve.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ai Types of problem AI can solve"
+            }
+          },
+          {
+            "id": "b354d4bc11d26e59",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/type of ml in detail.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "type of ml in detail"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -143,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 - moc/sub-mocs/Django-MOC.md",
+                "file": "0 - inbox/ai basics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +277,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Django-MOC"
+              "title": "Graph of ai basics"
             }
           }
         ]
@@ -204,13 +310,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - moc/sub-mocs/Django-MOC.md",
+                "file": "0 - inbox/ml basics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Django-MOC"
+              "title": "Outline of ml basics"
             }
           },
           {
@@ -358,6 +464,15 @@
           {
             "id": "7771d73117a4a50a",
             "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
             "state": {
               "type": "Strange New Worlds",
               "state": {},
@@ -385,7 +500,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       },
       {
         "id": "8e15cd93a6a4be64",
@@ -407,7 +522,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - moc/sub-mocs/Django-MOC.md",
+                "file": "0 - inbox/ai basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -417,7 +532,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Django-MOC"
+              "title": "Backlinks for ai basics"
             }
           },
           {
@@ -467,8 +582,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2834b0489acc80da",
+  "active": "4911cb23a57dc7bf",
   "lastOpenFiles": [
+    "3 - moc/AI-ML-MOC.md",
+    "1 - notes/e. ai/ai models basics.md",
+    "0 - inbox/ai basics.md",
+    "0 - inbox/ai Types of problem AI can solve.md",
+    "0 - inbox/ai respnsible use and ai ethics.md",
+    "0 - inbox/ai what is ai.md",
+    "0 - inbox/ai types of data.md",
+    "0 - inbox/type of ml in detail.md",
+    "98 - attachments/Recording 20251108194328.m4a",
+    "98 - attachments/Recording 20251108193255.m4a",
+    "98 - attachments/Recording 20251108193321.m4a",
+    "98 - attachments/Recording 20251108192933.m4a",
+    "1 - notes/e. ai/terms for AI.md",
     "3 - moc/sub-mocs/Django-MOC.md",
     "0 - inbox/dev path.md",
     "0 - inbox/django urls and views.md",
@@ -491,15 +619,6 @@
     "97 - templates/tmp-full-note.md",
     "3 - moc/Programming-Language-Concepts-MOC.md",
     "3 - moc/sub-mocs/React-MOC.md",
-    "1 - notes/h. modules/react/redux.md",
-    "1 - notes/h. modules/react/redux intro.md",
-    "1 - notes/c. tools/github/github remote.md",
-    "3 - moc/sub-mocs/git-and-github-MOC.md",
-    "1 - notes/c. tools/github/Git-n-GitHub Cheatsheet.md",
-    "1 - notes/h. modules/react/react - about.md",
-    "1 - notes/h. modules/react/react story + W's.md",
-    "1 - notes/h. modules/react/react topics to learn.md",
-    "1 - notes/h. modules/react/react - things to remember.md",
     "98 - attachments/Pasted image 20250819134250.png",
     "98 - attachments/Screenshot_2024-10-06_at_7.44.33_PM.webp",
     "1 - notes/b. languages/sql",
@@ -511,10 +630,6 @@
     "98 - attachments/Pasted image 20250601140028.png",
     "4 - sources/courses/dbms by code help",
     "1 - notes/y. snippets",
-    "98 - attachments/Recording 20250626175237.m4a",
-    "98 - attachments/Recording 20250616183328.m4a",
-    "98 - attachments/Recording 20250616183748.m4a",
-    "98 - attachments/Recording 20250616183216.m4a",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

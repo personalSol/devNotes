@@ -234,8 +234,7 @@
     "1 - notes/b. languages/cpp/cpp destructor.md": "6e9e5111fcdc5afd0562cd2be8aa72c61ed059ac13caad28bb0006b90e36d405",
     "0 - inbox/VS code shortcuts.md": "c8159c57da46a80e2dbcd973202fa5ba06139c017c767b1560cfd4b4af1f8904",
     "1 - notes/e. ai/terms for AI.md": "59df27a9ff2432a54f13d3cfdb6b97e01f8215f5f8e14bead263d8861458ba6a",
-    "0 - inbox/ai basics.md": "c5f5b3a275953304e7971cb2df0bb4cbc459b59f6f80621f7d88958e4af2e05a",
-    "0 - inbox/ml basics.md": "2e947eb21039acdcecc79af0fcaab8c1603fe1bb5e27ab906e692ac08f8d86ae",
+    "0 - inbox/ai basics.md": "030ac1f7b2c3bd113a227ab393d3536415154be004cfd00f3fbd2f75ed619971",
     "0 - inbox/type of ml in detail.md": "86110cad8c22e474a5637c314ba968625cfc3608da30d99fd891d66f2118b375",
     "1 - notes/a. concepts/time complexity.md": "920ff93348196ea2ce165c5507863372143627f5d85f2486d556fc29a735988d",
     "0 - inbox/time complexity - basic.md": "15c222a720856df0e5d9829014fb6ac6b8ef09599b42fc71aec6f4569dea7e3d",
@@ -449,6 +448,10 @@
     "0 - inbox/Untitled.md": "f2b9f5949d424852ed4aa16daa8936eff5906f88efbd5ac2ede7a4b87bcca70c",
     "0 - inbox/how to create virtual environment for using django.md": "181b0d4c7be959717efb192ace6539afc4967dcf264d23ef646e5ceda423869b",
     "0 - inbox/django-cheatsheet.md": "49e71642ead5c398d592925a4dcdc1828f33587cf76b1120b2857f8e13dd8695",
-    "0 - inbox/django urls and views.md": "88ff818652b57853637d1b061c3a9a0dba0c11d8b56c5f14c60aaad989d3e7e2"
+    "0 - inbox/django urls and views.md": "88ff818652b57853637d1b061c3a9a0dba0c11d8b56c5f14c60aaad989d3e7e2",
+    "0 - inbox/ai types of data.md": "12774001190475779aaddf580b5176244f7433dfa914f8a851122ab4d15d04cf",
+    "0 - inbox/ai what is ai.md": "b49faffa839bad96e2b386d1e3a24fb30e2add21a3e9c020e7619e05743bb324",
+    "0 - inbox/ai respnsible use and ai ethics.md": "4554fc5f1ae2c958473aa55647f1b6d399ebc3446a3e3d66be69fae41920c3c8",
+    "0 - inbox/ai Types of problem AI can solve.md": "cae0a7cc2e5d38063af845c0976307b290b58e187d442afee9f731e2d69f224c"
   }
 }
