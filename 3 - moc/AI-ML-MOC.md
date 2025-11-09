@@ -11,6 +11,8 @@ here will be all the notes around AI-ML-MOC
 ### extras ( not that imp but still here )
 
 - [[terms for AI]]
+- [[conda setup]]
+- 
 
 ### basic
 
