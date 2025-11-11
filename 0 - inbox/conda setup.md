@@ -2,7 +2,7 @@
 status: newBorn
 related-links:
 created: 1970-01-01T05:30
-updated: 2025-11-09T17:28
+updated: 2025-11-09T22:38
 ---
 ---
 
@@ -14,5 +14,6 @@ conda create --prefix ./env pandas numpy matplotlib scikit-learn // to create a 
 // now to activate this environment
 conda activate /mnt/Main/Code/AI/ai_project/env
 
-
+// to see all available conda virtual environment
+conda env list
 ```
