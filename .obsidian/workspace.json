@@ -11,24 +11,36 @@
             "id": "79196dd77783ebf7",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "django urls and views",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/django urls and views.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"django urls and views\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Flask-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Flask-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Flask-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":11},\"to\":{\"line\":1,\"ch\":11}},\"scroll\":0}"
+                },
+                {
+                  "title": "Python-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Python-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Python-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":11},\"to\":{\"line\":38,\"ch\":11}},\"scroll\":20.29707908630371}"
+                },
+                {
+                  "title": "Django-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Django-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Django-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":33.546463534454595}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/Django-MOC.md",
+                "file": "0 - inbox/how to create virtual environment for using django.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +55,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Django-MOC"
+              "title": "how to create virtual environment for using django"
             }
           },
           {
@@ -79,8 +91,7 @@
               "title": "django basics"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,7 +194,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/django basics.md",
+                "file": "0 - inbox/how to create virtual environment for using django.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -211,7 +222,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of django basics"
+              "title": "Graph of how to create virtual environment for using django"
             }
           }
         ]
@@ -244,13 +255,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/django basics.md",
+                "file": "0 - inbox/how to create virtual environment for using django.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of django basics"
+              "title": "Outline of how to create virtual environment for using django"
             }
           },
           {
@@ -455,7 +466,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/django basics.md",
+                "file": "0 - inbox/how to create virtual environment for using django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -465,7 +476,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for django basics"
+              "title": "Backlinks for how to create virtual environment for using django"
             }
           },
           {
@@ -515,10 +526,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d807016856db5ad0",
+  "active": "79196dd77783ebf7",
   "lastOpenFiles": [
-    "0 - inbox/django basics.md",
+    "3 - moc/sub-mocs/Flask-MOC.md",
+    "3 - moc/sub-mocs/Python-MOC.md",
+    "0 - inbox/Flask-MOC.md",
     "3 - moc/sub-mocs/Django-MOC.md",
+    "0 - inbox/django basics.md",
     "0 - inbox/django urls and views.md",
     "0 - inbox/how to create virtual environment for using django.md",
     "3 - moc/AI-ML-MOC.md",
@@ -545,12 +559,9 @@
     "0 - inbox/ai modelling.md",
     "98 - attachments/Pasted image 20251109123912.png",
     "98 - attachments/Pasted image 20251109123559.png",
-    "0 - inbox/ai tuning an ai model.md",
     "98 - attachments/Pasted image 20251109122403.png",
-    "0 - inbox/ai choosing a model.md",
     "98 - attachments/Pasted image 20251109121425.png",
     "98 - attachments/Pasted image 20251109121301.png",
-    "0 - inbox/ai splitting data into three sets.md",
     "98 - attachments/Pasted image 20251109120235.png",
     "98 - attachments/Pasted image 20251109120231.png",
     "98 - attachments/Recording 20251108194328.m4a",

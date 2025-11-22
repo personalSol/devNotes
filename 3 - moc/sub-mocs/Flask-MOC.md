@@ -1,5 +1,5 @@
 
-# Python-MOC
+# Flask-MOC
 
 here will be all the notes around {{title}} which is a part of main MOC - [[MOC-LIST]]
 
@@ -11,7 +11,6 @@ here will be all the notes around {{title}} which is a part of main MOC - [[MOC-
 
 ### basic
 
-- [[how python works]]
 - 
 
 
@@ -35,8 +34,6 @@ here will be all the notes around {{title}} which is a part of main MOC - [[MOC-
 
 ### related stuff
 
-- [[Django-MOC]]
-- [[Flask-MOC]]
 - 
 
 
