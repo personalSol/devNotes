@@ -11,6 +11,7 @@ here will be all the notes around {{title}} which is a part of main MOC - [[MOC-
 
 ### basic
 
+- [[django basics]]
 - [[django urls and views]]
 - 
 

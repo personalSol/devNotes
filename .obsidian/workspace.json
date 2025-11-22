@@ -4,15 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ba887f38e68e7928",
+        "id": "f48d33174bb2d867",
         "type": "tabs",
         "children": [
           {
-            "id": "83d84627d76ce980",
+            "id": "79196dd77783ebf7",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "django urls and views",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/django urls and views.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"django urls and views\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -22,7 +28,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/AI-ML-MOC.md",
+                "file": "3 - moc/sub-mocs/Django-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,11 +43,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "AI-ML-MOC"
+              "title": "Django-MOC"
             }
           },
           {
-            "id": "cb1367ff316758c2",
+            "id": "d807016856db5ad0",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/conda setup.md",
+                "file": "0 - inbox/django basics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -70,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conda setup"
+              "title": "django basics"
             }
           }
         ],
@@ -177,7 +183,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/conda setup.md",
+                "file": "0 - inbox/django basics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -205,7 +211,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of conda setup"
+              "title": "Graph of django basics"
             }
           }
         ]
@@ -238,13 +244,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/conda setup.md",
+                "file": "0 - inbox/django basics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of conda setup"
+              "title": "Outline of django basics"
             }
           },
           {
@@ -449,7 +455,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/conda setup.md",
+                "file": "0 - inbox/django basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -459,7 +465,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for conda setup"
+              "title": "Backlinks for django basics"
             }
           },
           {
@@ -509,10 +515,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cb1367ff316758c2",
+  "active": "d807016856db5ad0",
   "lastOpenFiles": [
+    "0 - inbox/django basics.md",
+    "3 - moc/sub-mocs/Django-MOC.md",
+    "0 - inbox/django urls and views.md",
+    "0 - inbox/how to create virtual environment for using django.md",
     "3 - moc/AI-ML-MOC.md",
     "0 - inbox/conda setup.md",
+    "0 - inbox/django-cheatsheet.md",
     "3 - moc/sub-mocs/Express-MOC.md",
     "1 - notes/h. modules/express/express vs node.md",
     "1 - notes/h. modules/express/express basics.md",
@@ -542,11 +553,6 @@
     "0 - inbox/ai splitting data into three sets.md",
     "98 - attachments/Pasted image 20251109120235.png",
     "98 - attachments/Pasted image 20251109120231.png",
-    "1 - notes/e. ai/ai - augmentation and automation.md",
-    "1 - notes/e. ai/ai agents.md",
-    "0 - inbox/ai types of data.md",
-    "0 - inbox/ai features in a model.md",
-    "0 - inbox/ai evaluation of model.md",
     "98 - attachments/Recording 20251108194328.m4a",
     "98 - attachments/Recording 20251108193255.m4a",
     "98 - attachments/Recording 20251108193321.m4a",
