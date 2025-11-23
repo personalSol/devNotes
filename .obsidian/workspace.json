@@ -67,13 +67,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "django basics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/django basics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"django basics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/django basics.md",
+                "file": "3 - moc/sub-mocs/Flask-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,10 +94,65 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "django basics"
+              "title": "Flask-MOC"
+            }
+          },
+          {
+            "id": "88a39b500674c930",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/flask-cheatsheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "flask-cheatsheet"
+            }
+          },
+          {
+            "id": "d2d6158a32d67ae3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.10.3"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.10.3"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -194,7 +255,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/how to create virtual environment for using django.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -222,7 +282,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of how to create virtual environment for using django"
+              "title": "Graph view"
             }
           }
         ]
@@ -255,13 +315,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/how to create virtual environment for using django.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of how to create virtual environment for using django"
+              "title": "Outline"
             }
           },
           {
@@ -466,7 +525,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/how to create virtual environment for using django.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -476,7 +534,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for how to create virtual environment for using django"
+              "title": "Backlinks"
             }
           },
           {
@@ -526,15 +584,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "79196dd77783ebf7",
+  "active": "d2d6158a32d67ae3",
   "lastOpenFiles": [
+    "0 - inbox/flask-cheatsheet.md",
     "3 - moc/sub-mocs/Flask-MOC.md",
+    "0 - inbox/django basics.md",
+    "0 - inbox/how to create virtual environment for using django.md",
     "3 - moc/sub-mocs/Python-MOC.md",
     "0 - inbox/Flask-MOC.md",
     "3 - moc/sub-mocs/Django-MOC.md",
-    "0 - inbox/django basics.md",
     "0 - inbox/django urls and views.md",
-    "0 - inbox/how to create virtual environment for using django.md",
     "3 - moc/AI-ML-MOC.md",
     "0 - inbox/conda setup.md",
     "0 - inbox/django-cheatsheet.md",
@@ -556,7 +615,6 @@
     "1 - notes/e. ai/ai models basics.md",
     "98 - attachments/Pasted image 20251109131248.png",
     "98 - attachments/Pasted image 20251109130239.png",
-    "0 - inbox/ai modelling.md",
     "98 - attachments/Pasted image 20251109123912.png",
     "98 - attachments/Pasted image 20251109123559.png",
     "98 - attachments/Pasted image 20251109122403.png",

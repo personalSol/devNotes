@@ -3,7 +3,7 @@
 
 here will be all the notes around {{title}} which is a part of main MOC - [[MOC-LIST]]
 
-`Cheatsheet:`  
+`Cheatsheet:`  [[flask-cheatsheet]]
 
 ### extras ( good to have )
 
