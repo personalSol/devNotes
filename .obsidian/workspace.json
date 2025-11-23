@@ -4,43 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "f48d33174bb2d867",
+        "id": "753de50fd64b893a",
         "type": "tabs",
         "children": [
           {
-            "id": "79196dd77783ebf7",
+            "id": "5e817a7a16f8f71b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "how python works",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/how python works.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"how python works\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "Flask-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Flask-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Flask-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":11},\"to\":{\"line\":1,\"ch\":11}},\"scroll\":0}"
-                },
-                {
-                  "title": "Python-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Python-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Python-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":38,\"ch\":11},\"to\":{\"line\":38,\"ch\":11}},\"scroll\":20.29707908630371}"
-                },
-                {
-                  "title": "Django-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Django-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Django-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":33.546463534454595}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/how to create virtual environment for using django.md",
+                "file": "3 - moc/sub-mocs/Python-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,11 +43,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "how to create virtual environment for using django"
+              "title": "Python-MOC"
             }
           },
           {
-            "id": "d807016856db5ad0",
+            "id": "3e63c1cf666ba987",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -67,12 +55,39 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/python - importing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "python - importing"
+            }
+          },
+          {
+            "id": "5e7d042325ab10d6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
                 {
-                  "title": "django basics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/django basics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"django basics\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":0},\"to\":{\"line\":10,\"ch\":0}}}"
+                  "state": "{}",
+                  "eState": "{}"
                 }
               ]
             },
@@ -98,7 +113,7 @@
             }
           },
           {
-            "id": "88a39b500674c930",
+            "id": "e8777ab2616eb389",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -112,7 +127,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/flask-cheatsheet.md",
+                "file": "0 - inbox/fllask basics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -127,28 +142,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "flask-cheatsheet"
-            }
-          },
-          {
-            "id": "d2d6158a32d67ae3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.10.3"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.10.3"
+              "title": "fllask basics"
             }
           }
         ],
@@ -255,6 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "0 - inbox/fllask basics.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -282,7 +277,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of fllask basics"
             }
           }
         ]
@@ -315,12 +310,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "0 - inbox/fllask basics.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of fllask basics"
             }
           },
           {
@@ -525,6 +521,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0 - inbox/fllask basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -534,7 +531,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for fllask basics"
             }
           },
           {
@@ -584,13 +581,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2d6158a32d67ae3",
+  "active": "e8777ab2616eb389",
   "lastOpenFiles": [
-    "0 - inbox/flask-cheatsheet.md",
+    "0 - inbox/fllask basics.md",
     "3 - moc/sub-mocs/Flask-MOC.md",
-    "0 - inbox/django basics.md",
-    "0 - inbox/how to create virtual environment for using django.md",
+    "0 - inbox/python - importing.md",
     "3 - moc/sub-mocs/Python-MOC.md",
+    "0 - inbox/how python works.md",
+    "0 - inbox/how to create virtual environment for using django.md",
+    "0 - inbox/flask-cheatsheet.md",
+    "0 - inbox/django basics.md",
     "0 - inbox/Flask-MOC.md",
     "3 - moc/sub-mocs/Django-MOC.md",
     "0 - inbox/django urls and views.md",
@@ -609,10 +609,7 @@
     "0 - inbox/ai experimeting models( last step ).md",
     "1 - notes/e. ai/terms for AI.md",
     "0 - inbox/ai basics.md",
-    "0 - inbox/ai tools for machine learning.md",
     "98 - attachments/Pasted image 20251109131537.png",
-    "1 - notes/e. ai/Ai tools list.md",
-    "1 - notes/e. ai/ai models basics.md",
     "98 - attachments/Pasted image 20251109131248.png",
     "98 - attachments/Pasted image 20251109130239.png",
     "98 - attachments/Pasted image 20251109123912.png",
