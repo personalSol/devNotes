@@ -127,7 +127,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/fllask basics.md",
+                "file": "0 - inbox/flask basics.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -142,11 +142,44 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "fllask basics"
+              "title": "flask basics"
+            }
+          },
+          {
+            "id": "f1732d13a5c4c8e6",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/curl.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "curl"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -249,7 +282,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/fllask basics.md",
+                "file": "0 - inbox/curl.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,7 +310,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of fllask basics"
+              "title": "Graph of curl"
             }
           }
         ]
@@ -310,13 +343,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/fllask basics.md",
+                "file": "0 - inbox/curl.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of fllask basics"
+              "title": "Outline of curl"
             }
           },
           {
@@ -521,7 +554,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/fllask basics.md",
+                "file": "0 - inbox/curl.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -531,7 +564,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for fllask basics"
+              "title": "Backlinks for curl"
             }
           },
           {
@@ -581,9 +614,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e8777ab2616eb389",
+  "active": "f1732d13a5c4c8e6",
   "lastOpenFiles": [
-    "0 - inbox/fllask basics.md",
+    "0 - inbox/flask basics.md",
+    "0 - inbox/curl.md",
     "3 - moc/sub-mocs/Flask-MOC.md",
     "0 - inbox/python - importing.md",
     "3 - moc/sub-mocs/Python-MOC.md",
@@ -608,7 +642,6 @@
     "0 - inbox/ai comparing or testing models.md",
     "0 - inbox/ai experimeting models( last step ).md",
     "1 - notes/e. ai/terms for AI.md",
-    "0 - inbox/ai basics.md",
     "98 - attachments/Pasted image 20251109131537.png",
     "98 - attachments/Pasted image 20251109131248.png",
     "98 - attachments/Pasted image 20251109130239.png",
