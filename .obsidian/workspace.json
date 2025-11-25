@@ -154,13 +154,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "curl",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/curl.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"curl\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/curl.md",
+                "file": "3 - moc/sub-mocs/React-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -175,7 +181,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "curl"
+              "title": "React-MOC"
             }
           }
         ],
@@ -282,7 +288,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/curl.md",
+                "file": "3 - moc/sub-mocs/React-MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -310,7 +316,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of curl"
+              "title": "Graph of React-MOC"
             }
           }
         ]
@@ -343,13 +349,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/curl.md",
+                "file": "3 - moc/sub-mocs/React-MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of curl"
+              "title": "Outline of React-MOC"
             }
           },
           {
@@ -554,7 +560,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/curl.md",
+                "file": "3 - moc/sub-mocs/React-MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -564,7 +570,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for curl"
+              "title": "Backlinks for React-MOC"
             }
           },
           {
@@ -616,8 +622,8 @@
   },
   "active": "f1732d13a5c4c8e6",
   "lastOpenFiles": [
-    "0 - inbox/flask basics.md",
     "0 - inbox/curl.md",
+    "0 - inbox/flask basics.md",
     "3 - moc/sub-mocs/Flask-MOC.md",
     "0 - inbox/python - importing.md",
     "3 - moc/sub-mocs/Python-MOC.md",
