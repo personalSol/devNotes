@@ -12,6 +12,8 @@ here will be all the notes around {{title}} which is a part of main MOC - [[MOC-
 ### basic
 
 - [[flask basics]]
+- [[flask routes]]
+- 
 
 
 ### mid
