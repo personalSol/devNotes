@@ -13,6 +13,9 @@ here will be all the notes around {{title}} which is a part of main MOC - [[MOC-
 
 - [[how python works]]
 - [[python - importing]]
+- [[python error handling]]
+- [[python classes and objects]]
+- [[python type checking]]
 - 
 
 

@@ -156,6 +156,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "React-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/React-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"React-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                },
+                {
                   "title": "curl",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/curl.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"curl\"}",
@@ -166,7 +172,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/React-MOC.md",
+                "file": "3 - moc/sub-mocs/Python-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -181,7 +187,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "React-MOC"
+              "title": "Python-MOC"
             }
           }
         ],
@@ -288,7 +294,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 - moc/sub-mocs/React-MOC.md",
+                "file": "3 - moc/sub-mocs/Python-MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -316,7 +322,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of React-MOC"
+              "title": "Graph of Python-MOC"
             }
           }
         ]
@@ -349,13 +355,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - moc/sub-mocs/React-MOC.md",
+                "file": "3 - moc/sub-mocs/Python-MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of React-MOC"
+              "title": "Outline of Python-MOC"
             }
           },
           {
@@ -560,7 +566,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - moc/sub-mocs/React-MOC.md",
+                "file": "3 - moc/sub-mocs/Python-MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -570,7 +576,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for React-MOC"
+              "title": "Backlinks for Python-MOC"
             }
           },
           {
@@ -622,6 +628,7 @@
   },
   "active": "f1732d13a5c4c8e6",
   "lastOpenFiles": [
+    "3 - moc/sub-mocs/React-MOC.md",
     "0 - inbox/curl.md",
     "0 - inbox/flask basics.md",
     "3 - moc/sub-mocs/Flask-MOC.md",
@@ -647,7 +654,6 @@
     "0 - inbox/ai Types of problem AI can solve.md",
     "0 - inbox/ai comparing or testing models.md",
     "0 - inbox/ai experimeting models( last step ).md",
-    "1 - notes/e. ai/terms for AI.md",
     "98 - attachments/Pasted image 20251109131537.png",
     "98 - attachments/Pasted image 20251109131248.png",
     "98 - attachments/Pasted image 20251109130239.png",
