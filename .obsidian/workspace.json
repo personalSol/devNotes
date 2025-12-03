@@ -4,37 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "583781aa9a81e364",
+        "id": "9fe7bcf2cf17d1ba",
         "type": "tabs",
         "children": [
           {
-            "id": "117ec5a1cd3cfb1a",
+            "id": "9f4f2f90be722146",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "uml diagrams",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/uml diagrams.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"uml diagrams\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":1.1685739649404394}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "flask basics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/flask basics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"flask basics\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":7.054653167724609}"
-                },
-                {
-                  "title": "Flask-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Flask-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Flask-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":11},\"to\":{\"line\":13,\"ch\":11}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/curl.md",
+                "file": "3 - moc/System-Design-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -49,50 +43,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "curl"
-            }
-          },
-          {
-            "id": "9b87ef37bab5e763",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "Flask-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Flask-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Flask-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":26},\"to\":{\"line\":5,\"ch\":26}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/flask-cheatsheet.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "flask-cheatsheet"
+              "title": "System-Design-MOC"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/flask-cheatsheet.md",
+                "file": "3 - moc/System-Design-MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -223,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of flask-cheatsheet"
+              "title": "Graph of System-Design-MOC"
             }
           }
         ]
@@ -256,13 +210,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 - inbox/flask-cheatsheet.md",
+                "file": "3 - moc/System-Design-MOC.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of flask-cheatsheet"
+              "title": "Outline of System-Design-MOC"
             }
           },
           {
@@ -467,7 +421,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/flask-cheatsheet.md",
+                "file": "3 - moc/System-Design-MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -477,7 +431,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for flask-cheatsheet"
+              "title": "Backlinks for System-Design-MOC"
             }
           },
           {
@@ -527,14 +481,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9b87ef37bab5e763",
+  "active": "9f4f2f90be722146",
   "lastOpenFiles": [
+    "1 - notes/a. concepts/uml diagrams.md",
+    "3 - moc/System-Design-MOC.md",
+    "0 - inbox/curl.md",
+    "0 - inbox/flask-cheatsheet.md",
     "3 - moc/sub-mocs/Flask-MOC.md",
     "0 - inbox/flask basics.md",
-    "0 - inbox/curl.md",
     "3 - moc/sub-mocs/Python-MOC.md",
     "0 - inbox/python - importing.md",
-    "0 - inbox/flask-cheatsheet.md",
     "0 - inbox/ai respnsible use and ai ethics.md",
     "0 - inbox/how to create virtual environment for using django.md",
     "0 - inbox/flask routes.md",
@@ -553,8 +509,6 @@
     "1 - notes/h. modules/express/express vs node.md",
     "1 - notes/h. modules/express/express basics.md",
     "1 - notes/h. modules/express/methods in express.md",
-    "3 - moc/sub-mocs/Node-JS-MOC.md",
-    "1 - notes/c. tools/node js/node commands.md",
     "98 - attachments/Pasted image 20251109131537.png",
     "98 - attachments/Pasted image 20251109131248.png",
     "98 - attachments/Pasted image 20251109130239.png",
