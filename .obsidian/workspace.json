@@ -4,21 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "9fe7bcf2cf17d1ba",
+        "id": "936bcfc6341ea5b2",
         "type": "tabs",
         "children": [
           {
-            "id": "9f4f2f90be722146",
+            "id": "ed9447a4c9e0c535",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "uml diagrams",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/uml diagrams.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"uml diagrams\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":1.1685739649404394}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -28,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/System-Design-MOC.md",
+                "file": "2 - projects/Social Media App.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +37,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "System-Design-MOC"
+              "title": "Social Media App"
             }
           }
         ]
@@ -149,7 +143,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 - moc/System-Design-MOC.md",
+                "file": "2 - projects/Social Media App.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +171,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of System-Design-MOC"
+              "title": "Graph of Social Media App"
             }
           }
         ]
@@ -210,13 +204,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - moc/System-Design-MOC.md",
+                "file": "2 - projects/Social Media App.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of System-Design-MOC"
+              "title": "Outline of Social Media App"
             }
           },
           {
@@ -421,7 +415,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - moc/System-Design-MOC.md",
+                "file": "2 - projects/Social Media App.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -431,7 +425,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for System-Design-MOC"
+              "title": "Backlinks for Social Media App"
             }
           },
           {
@@ -481,10 +475,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9f4f2f90be722146",
+  "active": "ed9447a4c9e0c535",
   "lastOpenFiles": [
-    "1 - notes/a. concepts/uml diagrams.md",
+    "2 - projects/Social Media App.md",
     "3 - moc/System-Design-MOC.md",
+    "1 - notes/a. concepts/uml diagrams.md",
     "0 - inbox/curl.md",
     "0 - inbox/flask-cheatsheet.md",
     "3 - moc/sub-mocs/Flask-MOC.md",
@@ -508,7 +503,6 @@
     "3 - moc/sub-mocs/Express-MOC.md",
     "1 - notes/h. modules/express/express vs node.md",
     "1 - notes/h. modules/express/express basics.md",
-    "1 - notes/h. modules/express/methods in express.md",
     "98 - attachments/Pasted image 20251109131537.png",
     "98 - attachments/Pasted image 20251109131248.png",
     "98 - attachments/Pasted image 20251109130239.png",
