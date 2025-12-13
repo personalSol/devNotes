@@ -8,6 +8,7 @@ here will be all the notes around {{title}} which is a part of main MOC - [[MOC-
 ### extras ( good to have )
 
 - [[how to create virtual environment for using django]]
+- [[django handnotes]]
 
 ### basic
 

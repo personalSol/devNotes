@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "936bcfc6341ea5b2",
+        "id": "c66e985c5be51e1d",
         "type": "tabs",
         "children": [
           {
-            "id": "ed9447a4c9e0c535",
+            "id": "28d49e15ed6b7455",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -22,7 +22,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2 - projects/Social Media App.md",
+                "file": "3 - moc/sub-mocs/Django-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -37,10 +37,77 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Social Media App"
+              "title": "Django-MOC"
+            }
+          },
+          {
+            "id": "c5cdb34f91cd72db",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/django handnotes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "django handnotes"
+            }
+          },
+          {
+            "id": "d4490e9ee17108db",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/django-cheatsheet.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "django-cheatsheet"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -143,7 +210,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "2 - projects/Social Media App.md",
+                "file": "0 - inbox/django-cheatsheet.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -171,7 +238,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Social Media App"
+              "title": "Graph of django-cheatsheet"
             }
           }
         ]
@@ -204,13 +271,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2 - projects/Social Media App.md",
+                "file": "0 - inbox/django-cheatsheet.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Social Media App"
+              "title": "Outline of django-cheatsheet"
             }
           },
           {
@@ -415,7 +482,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2 - projects/Social Media App.md",
+                "file": "0 - inbox/django-cheatsheet.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -425,7 +492,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Social Media App"
+              "title": "Backlinks for django-cheatsheet"
             }
           },
           {
@@ -475,8 +542,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ed9447a4c9e0c535",
+  "active": "d4490e9ee17108db",
   "lastOpenFiles": [
+    "0 - inbox/django handnotes.md",
+    "3 - moc/sub-mocs/Django-MOC.md",
+    "0 - inbox/how to create virtual environment for using django.md",
     "2 - projects/Social Media App.md",
     "3 - moc/System-Design-MOC.md",
     "1 - notes/a. concepts/uml diagrams.md",
@@ -487,7 +557,6 @@
     "3 - moc/sub-mocs/Python-MOC.md",
     "0 - inbox/python - importing.md",
     "0 - inbox/ai respnsible use and ai ethics.md",
-    "0 - inbox/how to create virtual environment for using django.md",
     "0 - inbox/flask routes.md",
     "0 - inbox/redis.md",
     "1 - notes/c. tools/github/setting git credentials.md",
@@ -495,14 +564,12 @@
     "0 - inbox/how python works.md",
     "0 - inbox/django basics.md",
     "0 - inbox/Flask-MOC.md",
-    "3 - moc/sub-mocs/Django-MOC.md",
     "0 - inbox/django urls and views.md",
     "3 - moc/AI-ML-MOC.md",
     "0 - inbox/conda setup.md",
     "0 - inbox/django-cheatsheet.md",
     "3 - moc/sub-mocs/Express-MOC.md",
     "1 - notes/h. modules/express/express vs node.md",
-    "1 - notes/h. modules/express/express basics.md",
     "98 - attachments/Pasted image 20251109131537.png",
     "98 - attachments/Pasted image 20251109131248.png",
     "98 - attachments/Pasted image 20251109130239.png",
