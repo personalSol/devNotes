@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "django handnotes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/django handnotes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"django handnotes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":2},\"to\":{\"line\":9,\"ch\":2}}}"
+                },
+                {
                   "title": "Django-MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Django-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Django-MOC\"}",
@@ -28,7 +34,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/django handnotes.md",
+                "file": "3 - moc/AI-ML-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,10 +49,83 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "django handnotes"
+              "title": "AI-ML-MOC"
+            }
+          },
+          {
+            "id": "d8afb3b328342e86",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "ai basics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/ai basics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai basics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":2.1067249562480663}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ai - how LLM works"
+            }
+          },
+          {
+            "id": "f5f107f71ac578bf",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/e. ai/terms for AI.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "terms for AI"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/django handnotes.md",
+                "file": "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of django handnotes"
+              "title": "Graph of ai - how LLM works"
             }
           }
         ]
@@ -482,8 +561,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d152fc3cb248b5e9",
+  "active": "d8afb3b328342e86",
   "lastOpenFiles": [
+    "0 - inbox/ai basics.md",
+    "3 - moc/AI-ML-MOC.md",
+    "1 - notes/e. ai/terms for AI.md",
+    "0 - inbox/django handnotes.md",
     "3 - moc/sub-mocs/Django-MOC.md",
     "1 - notes/h. modules/react/react redux provider.md",
     "1 - notes/h. modules/react/react - things to remember.md",
@@ -493,7 +576,6 @@
     "1 - notes/h. modules/react/Hooks - useState.md",
     "1 - notes/h. modules/react/react - hooks.md",
     "1 - notes/h. modules/react/react redux.md",
-    "0 - inbox/django handnotes.md",
     "1 - notes/h. modules/react/redux.md",
     "0 - inbox/django-cheatsheet.md",
     "0 - inbox/how to create virtual environment for using django.md",
@@ -507,9 +589,6 @@
     "3 - moc/sub-mocs/Python-MOC.md",
     "0 - inbox/python - importing.md",
     "0 - inbox/ai respnsible use and ai ethics.md",
-    "0 - inbox/flask routes.md",
-    "0 - inbox/redis.md",
-    "1 - notes/c. tools/github/setting git credentials.md",
     "98 - attachments/Pasted image 20251109131537.png",
     "98 - attachments/Pasted image 20251109131248.png",
     "98 - attachments/Pasted image 20251109130239.png",
