@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "AI-ML-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI-ML-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI-ML-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":11},\"to\":{\"line\":18,\"ch\":11}},\"scroll\":13.417352513658463}"
+                },
+                {
                   "title": "django handnotes",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/django handnotes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"django handnotes\"}",
@@ -28,45 +34,6 @@
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Django-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Django-MOC\"}",
                   "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":13},\"to\":{\"line\":10,\"ch\":13}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/AI-ML-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AI-ML-MOC"
-            }
-          },
-          {
-            "id": "d8afb3b328342e86",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "ai basics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/ai basics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai basics\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":2.1067249562480663}"
                 }
               ]
             },
@@ -89,6 +56,39 @@
               },
               "icon": "lucide-file",
               "title": "ai - how LLM works"
+            }
+          },
+          {
+            "id": "02c9f7670c58b13d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/ai basics.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "ai basics"
             }
           },
           {
@@ -124,8 +124,7 @@
               "title": "terms for AI"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -561,11 +560,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d8afb3b328342e86",
+  "active": "d152fc3cb248b5e9",
   "lastOpenFiles": [
-    "0 - inbox/ai basics.md",
     "3 - moc/AI-ML-MOC.md",
+    "0 - inbox/ai basics.md",
     "1 - notes/e. ai/terms for AI.md",
+    "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md",
     "0 - inbox/django handnotes.md",
     "3 - moc/sub-mocs/Django-MOC.md",
     "1 - notes/h. modules/react/react redux provider.md",
@@ -588,7 +588,6 @@
     "0 - inbox/flask basics.md",
     "3 - moc/sub-mocs/Python-MOC.md",
     "0 - inbox/python - importing.md",
-    "0 - inbox/ai respnsible use and ai ethics.md",
     "98 - attachments/Pasted image 20251109131537.png",
     "98 - attachments/Pasted image 20251109131248.png",
     "98 - attachments/Pasted image 20251109130239.png",
