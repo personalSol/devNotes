@@ -18,6 +18,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "ai - how LLM works",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai - how LLM works\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":4},\"to\":{\"line\":16,\"ch\":4}},\"scroll\":4.1969912689511135}"
+                },
+                {
                   "title": "AI-ML-MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI-ML-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI-ML-MOC\"}",
@@ -40,7 +46,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md",
+                "file": "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,7 +61,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ai - how LLM works"
+              "title": "lect 3 - more about llms"
+            }
+          },
+          {
+            "id": "32fe880088e21181",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/h. modules/react/hooks - useCallback.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "hooks - useCallback"
             }
           },
           {
@@ -227,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md",
+                "file": "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -255,7 +294,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ai - how LLM works"
+              "title": "Graph of lect 3 - more about llms"
             }
           }
         ]
@@ -562,10 +601,11 @@
   },
   "active": "d152fc3cb248b5e9",
   "lastOpenFiles": [
+    "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md",
+    "1 - notes/h. modules/react/hooks - useCallback.md",
     "3 - moc/AI-ML-MOC.md",
     "0 - inbox/ai basics.md",
     "1 - notes/e. ai/terms for AI.md",
-    "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md",
     "0 - inbox/django handnotes.md",
     "3 - moc/sub-mocs/Django-MOC.md",
     "1 - notes/h. modules/react/react redux provider.md",
@@ -587,7 +627,6 @@
     "3 - moc/sub-mocs/Flask-MOC.md",
     "0 - inbox/flask basics.md",
     "3 - moc/sub-mocs/Python-MOC.md",
-    "0 - inbox/python - importing.md",
     "98 - attachments/Pasted image 20251109131537.png",
     "98 - attachments/Pasted image 20251109131248.png",
     "98 - attachments/Pasted image 20251109130239.png",

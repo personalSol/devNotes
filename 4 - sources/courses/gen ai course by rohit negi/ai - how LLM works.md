@@ -1,8 +1,8 @@
 ---
 created: 2025-06-01T13:00:40
-updated: 2025-06-01T15:33
-status: 
-source: 
+updated: 2025-12-21T09:48
+status:
+source:
 ---
 ---
 
@@ -12,7 +12,7 @@ source:
 - they can predict things but they can't
 	- compute/caluculate or execute things ( like running a python script )
 	- simple tasks like `2+2` or `finding no of r in straberry`
-	- it's like it meorizes that that's the next word if someone writes 2 + 2 ( which it learns during training )
+	- it's like it memorizes that that's the next word if someone writes 2 + 2 ( which it learns during training )
 	- but if we give it a complex computation which it isn't trained with 
 		- ex: `742829879*7882347892` then without taking external help it can't answer this as it wasn't trained with this computation
 - for such these tasks, they take help of external tools
