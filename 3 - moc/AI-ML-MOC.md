@@ -21,6 +21,7 @@ here will be all the notes around AI-ML-MOC
 - [[ai agents]]
 - [[ai - augmentation and automation]]
 - [[ai - using llm in node]]
+- [[ai rlhf]]
 - 
 
 ### advance

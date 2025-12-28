@@ -4,55 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "2ada75d17a05cea0",
+        "id": "312e6e3dc70d4340",
         "type": "tabs",
         "children": [
           {
-            "id": "d152fc3cb248b5e9",
+            "id": "d9433fba6c6d1f4d",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "ai table of learning",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/ai table of learning.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai table of learning\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "lect 3 - more about llms",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"lect 3 - more about llms\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "ai - how LLM works",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai - how LLM works\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":4},\"to\":{\"line\":16,\"ch\":4}},\"scroll\":4.1969912689511135}"
-                },
-                {
-                  "title": "AI-ML-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI-ML-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI-ML-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":18,\"ch\":11},\"to\":{\"line\":18,\"ch\":11}},\"scroll\":13.417352513658463}"
-                },
-                {
-                  "title": "django handnotes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/django handnotes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"django handnotes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":2},\"to\":{\"line\":9,\"ch\":2}}}"
-                },
-                {
-                  "title": "Django-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Django-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Django-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":10,\"ch\":13},\"to\":{\"line\":10,\"ch\":13}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/h. modules/react/redux.md",
+                "file": "3 - moc/AI-ML-MOC.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -67,15 +43,21 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "redux"
+              "title": "AI-ML-MOC"
             }
           },
           {
-            "id": "d3feadfc4c684487",
+            "id": "ee9b63e20729a49b",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Recording 20251228135213",
+                  "icon": "lucide-file-audio",
+                  "state": "{\"type\":\"audio\",\"state\":{\"file\":\"98 - attachments/Recording 20251228135213.m4a\"},\"icon\":\"lucide-file-audio\",\"title\":\"Recording 20251228135213\"}",
+                  "eState": "{}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -85,7 +67,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/full code example of redux.md",
+                "file": "0 - inbox/ai rlhf.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -100,11 +82,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "full code example of redux"
+              "title": "ai rlhf"
             }
           },
           {
-            "id": "32fe880088e21181",
+            "id": "2513f93bb528cc9f",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -112,13 +94,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "ai notes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/ai notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai notes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":1138},\"to\":{\"line\":39,\"ch\":1138}},\"scroll\":37.81497729875946}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/h. modules/react/hooks - useCallback.md",
+                "file": "0 - inbox/conda setup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -133,77 +121,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "hooks - useCallback"
-            }
-          },
-          {
-            "id": "02c9f7670c58b13d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/ai basics.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "ai basics"
-            }
-          },
-          {
-            "id": "f5f107f71ac578bf",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/e. ai/terms for AI.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "terms for AI"
+              "title": "conda setup"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "emperature",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -306,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/full code example of redux.md",
+                "file": "0 - inbox/conda setup.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -334,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of full code example of redux"
+              "title": "Graph of conda setup"
             }
           }
         ]
@@ -639,16 +561,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3feadfc4c684487",
+  "active": "2513f93bb528cc9f",
   "lastOpenFiles": [
+    "0 - inbox/ai notes.md",
+    "0 - inbox/Untitled.base",
+    "4 - sources/courses/n8n course by sheriyas.md",
+    "0 - inbox/ai rlhf.md",
+    "98 - attachments/Pasted image 20251228145012.png",
+    "98 - attachments/celluloid-shot0006.jpg",
+    "98 - attachments/celluloid-shot0005.jpg",
+    "98 - attachments/celluloid-shot0004.jpg",
+    "98 - attachments/celluloid-shot0003.jpg",
+    "98 - attachments/celluloid-shot0002.jpg",
+    "98 - attachments/Recording 20251228140150.m4a",
+    "3 - moc/AI-ML-MOC.md",
+    "98 - attachments/Recording 20251228135213.m4a",
+    "98 - attachments/Recording 20251228133906.m4a",
+    "98 - attachments/Recording 20251228133510.m4a",
+    "0 - inbox/ai table of learning.md",
     "1 - notes/h. modules/react/redux.md",
     "0 - inbox/full code example of redux.md",
-    "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
-    "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md",
     "1 - notes/h. modules/react/hooks - useCallback.md",
-    "3 - moc/AI-ML-MOC.md",
     "0 - inbox/ai basics.md",
     "1 - notes/e. ai/terms for AI.md",
+    "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
+    "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md",
     "0 - inbox/django handnotes.md",
     "3 - moc/sub-mocs/Django-MOC.md",
     "1 - notes/h. modules/react/react redux provider.md",
@@ -662,31 +599,15 @@
     "0 - inbox/django-cheatsheet.md",
     "0 - inbox/how to create virtual environment for using django.md",
     "2 - projects/Social Media App.md",
-    "3 - moc/System-Design-MOC.md",
-    "1 - notes/a. concepts/uml diagrams.md",
-    "0 - inbox/curl.md",
-    "0 - inbox/flask-cheatsheet.md",
-    "3 - moc/sub-mocs/Flask-MOC.md",
     "98 - attachments/Pasted image 20251109131537.png",
     "98 - attachments/Pasted image 20251109131248.png",
     "98 - attachments/Pasted image 20251109130239.png",
     "98 - attachments/Pasted image 20251109123912.png",
-    "98 - attachments/Pasted image 20251109123559.png",
-    "98 - attachments/Pasted image 20251109122403.png",
-    "98 - attachments/Pasted image 20251109121425.png",
-    "98 - attachments/Pasted image 20251109121301.png",
-    "98 - attachments/Pasted image 20251109120235.png",
-    "98 - attachments/Pasted image 20251109120231.png",
     "98 - attachments/Recording 20251108194328.m4a",
     "98 - attachments/Recording 20251108193255.m4a",
     "98 - attachments/Recording 20251108193321.m4a",
     "98 - attachments/Recording 20251108192933.m4a",
-    "0 - inbox/Untitled.base",
     "0 - inbox/what is this.base",
-    "1 - notes/b. languages/sql",
-    "1 - notes/x. code block",
-    "4 - sources/courses/dbms by code help",
-    "1 - notes/y. snippets",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",
