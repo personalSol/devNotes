@@ -47,6 +47,39 @@
             }
           },
           {
+            "id": "cba20e57878a73fc",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/langchain.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "langchain"
+            }
+          },
+          {
             "id": "ee9b63e20729a49b",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -123,9 +156,42 @@
               "icon": "lucide-file",
               "title": "conda setup"
             }
+          },
+          {
+            "id": "03270fad36eaa987",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/MiniConda vs AnaConda.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "MiniConda vs AnaConda"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -176,7 +242,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "emperature",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -206,7 +272,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3888432cac3b4f06",
@@ -228,7 +295,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/conda setup.md",
+                "file": "0 - inbox/langchain.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,7 +323,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of conda setup"
+              "title": "Graph of langchain"
             }
           }
         ]
@@ -561,8 +628,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2513f93bb528cc9f",
+  "active": "cba20e57878a73fc",
   "lastOpenFiles": [
+    "3 - moc/AI-ML-MOC.md",
+    "0 - inbox/langchain.md",
+    "0 - inbox/MiniConda vs AnaConda.md",
+    "0 - inbox/conda setup.md",
     "0 - inbox/ai notes.md",
     "0 - inbox/Untitled.base",
     "4 - sources/courses/n8n course by sheriyas.md",
@@ -574,7 +645,6 @@
     "98 - attachments/celluloid-shot0003.jpg",
     "98 - attachments/celluloid-shot0002.jpg",
     "98 - attachments/Recording 20251228140150.m4a",
-    "3 - moc/AI-ML-MOC.md",
     "98 - attachments/Recording 20251228135213.m4a",
     "98 - attachments/Recording 20251228133906.m4a",
     "98 - attachments/Recording 20251228133510.m4a",
@@ -597,8 +667,6 @@
     "1 - notes/h. modules/react/react - hooks.md",
     "1 - notes/h. modules/react/react redux.md",
     "0 - inbox/django-cheatsheet.md",
-    "0 - inbox/how to create virtual environment for using django.md",
-    "2 - projects/Social Media App.md",
     "98 - attachments/Pasted image 20251109131537.png",
     "98 - attachments/Pasted image 20251109131248.png",
     "98 - attachments/Pasted image 20251109130239.png",
