@@ -47,39 +47,6 @@
             }
           },
           {
-            "id": "cba20e57878a73fc",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/langchain.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "langchain"
-            }
-          },
-          {
             "id": "ee9b63e20729a49b",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -272,8 +239,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -295,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/langchain.md",
+                "file": "0 - inbox/ai rlhf.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -323,7 +289,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of langchain"
+              "title": "Graph of ai rlhf"
             }
           }
         ]
@@ -356,13 +322,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 - notes/h. modules/react/react - about.md",
+                "file": "4 - sources/yt/Andrej Karpathy/Intro to llms p1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of react - about"
+              "title": "Outline of Intro to llms p1"
             }
           },
           {
@@ -567,7 +533,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - notes/h. modules/react/react - about.md",
+                "file": "4 - sources/yt/Andrej Karpathy/Intro to llms p1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -577,7 +543,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for react - about"
+              "title": "Backlinks for Intro to llms p1"
             }
           },
           {
@@ -628,22 +594,32 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cba20e57878a73fc",
+  "active": "ee9b63e20729a49b",
   "lastOpenFiles": [
+    "98 - attachments/Pasted image 20260111132003.png",
+    "98 - attachments/Pasted image 20260111131924.png",
+    "98 - attachments/Pasted image 20260111131545.png",
+    "4 - sources/yt/Andrej Karpathy/Intro to LLms p2.md",
+    "4 - sources/yt/Andrej Karpathy/Intro to llms pt3.md",
+    "98 - attachments/Pasted image 20260111105623.png",
+    "4 - sources/yt/Andrej Karpathy/Intro to llms p1.md",
+    "98 - attachments/Pasted image 20260111105357.png",
+    "98 - attachments/Pasted image 20260111105313.png",
+    "98 - attachments/Pasted image 20260111105235.png",
+    "0 - inbox/ai rlhf.md",
+    "0 - inbox/ai langchain.md",
+    "4 - sources/yt/Andrej Karpathy",
+    "0 - inbox/Untitled 1.md",
     "3 - moc/AI-ML-MOC.md",
-    "0 - inbox/langchain.md",
     "0 - inbox/MiniConda vs AnaConda.md",
     "0 - inbox/conda setup.md",
     "0 - inbox/ai notes.md",
     "0 - inbox/Untitled.base",
     "4 - sources/courses/n8n course by sheriyas.md",
-    "0 - inbox/ai rlhf.md",
     "98 - attachments/Pasted image 20251228145012.png",
     "98 - attachments/celluloid-shot0006.jpg",
     "98 - attachments/celluloid-shot0005.jpg",
     "98 - attachments/celluloid-shot0004.jpg",
-    "98 - attachments/celluloid-shot0003.jpg",
-    "98 - attachments/celluloid-shot0002.jpg",
     "98 - attachments/Recording 20251228140150.m4a",
     "98 - attachments/Recording 20251228135213.m4a",
     "98 - attachments/Recording 20251228133906.m4a",
@@ -662,20 +638,10 @@
     "1 - notes/h. modules/react/react - things to remember.md",
     "1 - notes/h. modules/react/react - about.md",
     "3 - moc/sub-mocs/React-MOC.md",
-    "1 - notes/h. modules/react/redux intro.md",
-    "1 - notes/h. modules/react/Hooks - useState.md",
-    "1 - notes/h. modules/react/react - hooks.md",
-    "1 - notes/h. modules/react/react redux.md",
-    "0 - inbox/django-cheatsheet.md",
-    "98 - attachments/Pasted image 20251109131537.png",
-    "98 - attachments/Pasted image 20251109131248.png",
-    "98 - attachments/Pasted image 20251109130239.png",
-    "98 - attachments/Pasted image 20251109123912.png",
     "98 - attachments/Recording 20251108194328.m4a",
     "98 - attachments/Recording 20251108193255.m4a",
     "98 - attachments/Recording 20251108193321.m4a",
     "98 - attachments/Recording 20251108192933.m4a",
-    "0 - inbox/what is this.base",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",
