@@ -133,13 +133,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "conda jupyter notebook",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/conda jupyter notebook.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"conda jupyter notebook\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/conda jupyter notebook.md",
+                "file": "1 - notes/a. concepts/cookies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -154,7 +160,28 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "conda jupyter notebook"
+              "title": "cookies"
+            }
+          },
+          {
+            "id": "e1ffe8ff6f11b842",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.4"
             }
           },
           {
@@ -230,7 +257,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -334,7 +361,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/conda jupyter notebook.md",
+                "file": "1 - notes/a. concepts/cookies.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -362,7 +389,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of conda jupyter notebook"
+              "title": "Graph of cookies"
             }
           }
         ]
@@ -667,10 +694,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f98862d9a1293eb9",
+  "active": "e1ffe8ff6f11b842",
   "lastOpenFiles": [
-    "0 - inbox/conda setup.md",
     "0 - inbox/conda jupyter notebook.md",
+    "0 - inbox/conda setup.md",
     "0 - inbox/MiniConda vs AnaConda.md",
     "0 - inbox/ai rlhf.md",
     "98 - attachments/Pasted image 20260111132003.png",
