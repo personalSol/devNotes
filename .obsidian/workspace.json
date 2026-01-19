@@ -174,6 +174,12 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "ai langchain",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/ai langchain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai langchain\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
                   "title": "conda setup",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/conda setup.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"conda setup\"}",
@@ -190,7 +196,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/ai langchain.md",
+                "file": "4 - sources/yt/Mern Crash Course by sheriyans.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -205,7 +211,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "ai langchain"
+              "title": "Mern Crash Course by sheriyans"
             }
           },
           {
@@ -240,9 +246,75 @@
               "icon": "lucide-file",
               "title": "MiniConda vs AnaConda"
             }
+          },
+          {
+            "id": "16d9770cb63f5f3d",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/Debouncing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Debouncing"
+            }
+          },
+          {
+            "id": "81a7f1996f2a3283",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/hydration on next js.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "hydration on next js"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -293,7 +365,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "conda",
+                "query": "template engine",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -346,7 +418,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/ai langchain.md",
+                "file": "0 - inbox/hydration on next js.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -374,7 +446,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ai langchain"
+              "title": "Graph of hydration on next js"
             }
           }
         ]
@@ -679,8 +751,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2513f93bb528cc9f",
+  "active": "81a7f1996f2a3283",
   "lastOpenFiles": [
+    "0 - inbox/Debouncing.md",
+    "0 - inbox/hydration on next js.md",
+    "4 - sources/yt/Mern Crash Course by sheriyans.md",
+    "0 - inbox/ai langchain.md",
     "0 - inbox/conda setup.md",
     "0 - inbox/conda jupyter notebook.md",
     "0 - inbox/MiniConda vs AnaConda.md",
@@ -695,7 +771,6 @@
     "98 - attachments/Pasted image 20260111105357.png",
     "98 - attachments/Pasted image 20260111105313.png",
     "98 - attachments/Pasted image 20260111105235.png",
-    "0 - inbox/ai langchain.md",
     "4 - sources/yt/Andrej Karpathy",
     "3 - moc/AI-ML-MOC.md",
     "0 - inbox/ai notes.md",
@@ -720,8 +795,6 @@
     "3 - moc/sub-mocs/Django-MOC.md",
     "1 - notes/h. modules/react/react redux provider.md",
     "1 - notes/h. modules/react/react - things to remember.md",
-    "1 - notes/h. modules/react/react - about.md",
-    "3 - moc/sub-mocs/React-MOC.md",
     "98 - attachments/Recording 20251108194328.m4a",
     "98 - attachments/Recording 20251108193255.m4a",
     "98 - attachments/Recording 20251108193321.m4a",
