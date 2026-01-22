@@ -2,7 +2,7 @@
 status: newBorn
 related-links:
 created: 1970-01-01T05:30
-updated: 2026-01-11T19:56
+updated: 2026-01-19T21:26
 ---
 ---
 
@@ -51,6 +51,8 @@ conda activate myenv
 
 
 ```
+
+^a0p5m7
 
 ```bash
 conda create --prefix ./env pandas numpy matplotlib scikit-learn // to create a virtual environment name env and install these packages

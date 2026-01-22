@@ -289,13 +289,19 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "hydration on next js",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/hydration on next js.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"hydration on next js\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/hydration on next js.md",
+                "file": "0 - inbox/conda setup.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -310,7 +316,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "hydration on next js"
+              "title": "conda setup"
             }
           }
         ],
@@ -418,7 +424,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/hydration on next js.md",
+                "file": "0 - inbox/conda setup.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -446,7 +452,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of hydration on next js"
+              "title": "Graph of conda setup"
             }
           }
         ]
@@ -753,8 +759,8 @@
   },
   "active": "81a7f1996f2a3283",
   "lastOpenFiles": [
-    "0 - inbox/Debouncing.md",
     "0 - inbox/hydration on next js.md",
+    "0 - inbox/Debouncing.md",
     "4 - sources/yt/Mern Crash Course by sheriyans.md",
     "0 - inbox/ai langchain.md",
     "0 - inbox/conda setup.md",
