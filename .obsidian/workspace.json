@@ -318,9 +318,42 @@
               "icon": "lucide-file",
               "title": "conda setup"
             }
+          },
+          {
+            "id": "f0353294b5b4b378",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/Questions.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Questions"
+            }
           }
         ],
-        "currentTab": 7
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -424,7 +457,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/conda setup.md",
+                "file": "0 - inbox/Questions.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -452,7 +485,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of conda setup"
+              "title": "Graph of Questions"
             }
           }
         ]
@@ -757,13 +790,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81a7f1996f2a3283",
+  "active": "f0353294b5b4b378",
   "lastOpenFiles": [
+    "0 - inbox/Questions.md",
+    "0 - inbox/conda setup.md",
     "0 - inbox/hydration on next js.md",
     "0 - inbox/Debouncing.md",
     "4 - sources/yt/Mern Crash Course by sheriyans.md",
     "0 - inbox/ai langchain.md",
-    "0 - inbox/conda setup.md",
     "0 - inbox/conda jupyter notebook.md",
     "0 - inbox/MiniConda vs AnaConda.md",
     "0 - inbox/ai rlhf.md",
@@ -800,7 +834,6 @@
     "0 - inbox/django handnotes.md",
     "3 - moc/sub-mocs/Django-MOC.md",
     "1 - notes/h. modules/react/react redux provider.md",
-    "1 - notes/h. modules/react/react - things to remember.md",
     "98 - attachments/Recording 20251108194328.m4a",
     "98 - attachments/Recording 20251108193255.m4a",
     "98 - attachments/Recording 20251108193321.m4a",
