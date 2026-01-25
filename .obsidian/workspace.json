@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "ee9b63e20729a49b",
+            "id": "7c31c580e1ca5ddb",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,25 +55,13 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "conda setup",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/conda setup.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"conda setup\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":0},\"to\":{\"line\":15,\"ch\":0}},\"scroll\":3.7196863759862313}"
-                },
-                {
-                  "title": "ai rlhf",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/ai rlhf.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai rlhf\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/MiniConda vs AnaConda.md",
+                "file": "0 - inbox/ai what all I have studied.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -88,272 +76,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "MiniConda vs AnaConda"
-            }
-          },
-          {
-            "id": "1dd853a14f0e9f5b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/conda setup.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conda setup"
-            }
-          },
-          {
-            "id": "f98862d9a1293eb9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "conda jupyter notebook",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/conda jupyter notebook.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"conda jupyter notebook\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/a. concepts/cookies.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "cookies"
-            }
-          },
-          {
-            "id": "2513f93bb528cc9f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "ai langchain",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/ai langchain.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai langchain\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                },
-                {
-                  "title": "conda setup",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/conda setup.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"conda setup\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":43},\"to\":{\"line\":14,\"ch\":43}}}"
-                },
-                {
-                  "title": "ai notes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/ai notes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai notes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":39,\"ch\":1138},\"to\":{\"line\":39,\"ch\":1138}},\"scroll\":37.81497729875946}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - sources/yt/Mern Crash Course by sheriyans.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Mern Crash Course by sheriyans"
-            }
-          },
-          {
-            "id": "03270fad36eaa987",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/MiniConda vs AnaConda.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MiniConda vs AnaConda"
-            }
-          },
-          {
-            "id": "16d9770cb63f5f3d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/Debouncing.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Debouncing"
-            }
-          },
-          {
-            "id": "81a7f1996f2a3283",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                },
-                {
-                  "title": "hydration on next js",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/hydration on next js.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"hydration on next js\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/conda setup.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "conda setup"
-            }
-          },
-          {
-            "id": "f0353294b5b4b378",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/Questions.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Questions"
+              "title": "ai what all I have studied"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -457,7 +184,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/Questions.md",
+                "file": "0 - inbox/ai what all I have studied.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -485,7 +212,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Questions"
+              "title": "Graph of ai what all I have studied"
             }
           }
         ]
@@ -790,16 +517,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f0353294b5b4b378",
+  "active": "7c31c580e1ca5ddb",
   "lastOpenFiles": [
+    "3 - moc/AI-ML-MOC.md",
+    "0 - inbox/ai what all I have studied.md",
     "0 - inbox/Questions.md",
     "0 - inbox/conda setup.md",
-    "0 - inbox/hydration on next js.md",
     "0 - inbox/Debouncing.md",
+    "0 - inbox/MiniConda vs AnaConda.md",
     "4 - sources/yt/Mern Crash Course by sheriyans.md",
+    "1 - notes/a. concepts/cookies.md",
+    "0 - inbox/hydration on next js.md",
     "0 - inbox/ai langchain.md",
     "0 - inbox/conda jupyter notebook.md",
-    "0 - inbox/MiniConda vs AnaConda.md",
     "0 - inbox/ai rlhf.md",
     "98 - attachments/Pasted image 20260111132003.png",
     "98 - attachments/Pasted image 20260111131924.png",
@@ -812,7 +542,6 @@
     "98 - attachments/Pasted image 20260111105313.png",
     "98 - attachments/Pasted image 20260111105235.png",
     "4 - sources/yt/Andrej Karpathy",
-    "3 - moc/AI-ML-MOC.md",
     "0 - inbox/ai notes.md",
     "0 - inbox/Untitled.base",
     "4 - sources/courses/n8n course by sheriyas.md",
@@ -832,8 +561,6 @@
     "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
     "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md",
     "0 - inbox/django handnotes.md",
-    "3 - moc/sub-mocs/Django-MOC.md",
-    "1 - notes/h. modules/react/react redux provider.md",
     "98 - attachments/Recording 20251108194328.m4a",
     "98 - attachments/Recording 20251108193255.m4a",
     "98 - attachments/Recording 20251108193321.m4a",

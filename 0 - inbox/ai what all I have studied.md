@@ -1,0 +1,90 @@
+---
+status: newBorn
+related-links:
+created: 1970-01-01T05:30
+updated: 2026-01-24T17:56
+---
+---
+
+- ai vs ml vs dl: basically ai is a branch of computer science where tries to make machine which can mimic human intelligence. ML is subset of ai which tries to make machine learn patterns from the data. ML needs processed data to find patterns from the data. DL is a subset of ML which also tries to find pattern but it can work with raw data.
+- gradient descent: gradient descent is a signal that goes through the network and ig tell it about loss or something and thus helps in modifying weights. 
+- vanishing gradient descent: The problem which was there in rnn was that signal of gradient descent gets too small and so learning doesnt happen on the earlier parts of network so model remains too simple and hence becomes underfitting model and this weak signal is called vanishing gradient descent
+- exploding gradient descent: ig this doesnt cause overfitting but what happens is that the signal to modify weights is so strong that it changes the weights too much so the model becomes very flexible and sensitive so it also creates problem
+- preprocessing steps sare in ml:   
+- NN vs Reinforcement learning
+- activation function: sigmoid relu du and what it does and what without it
+- perceptron: so perceptron is single layer neural network with no hidden layer. It has just one input layer with muliple inputs and one output neuron. The output neuron recieves all the input applies weights and activation function and then store the value. 
+	- also it's a binary classifier so it gives probability which is either in favous or against it
+	- for this calculation it uses activation function
+- sandbox function: ig it's an activation function and how it works is it takes all the inputs from the previous inputs and then gives probability based or against it. ig it's formula is inputs * wieghts + bias
+	- ig it receives nth dimentional vectors from other nodes as input and then compute those vectors somehow to get probability which we also specify if higher than this then consider positive otherwise negative
+- weights: weights is the importance or significance of input. not all inputs are important and equally important 
+- transformers and their major components: encoder only models and decoder only models
+- nlp: natural language processing has it's own preprocessing steps:
+	- first is remove the phone numbers and email address
+	- then remove all stopwords
+	- then lemmatize or stemming
+	- then creating vector embeddings of it
+		- we have multiple ways of that
+			- bag of words
+			- tf-idf
+			- word2vec
+	- and ig after it we give these embeddings to some model and then use it to find outcome
+- cnn: convolutional neural network or cnn is a type of neural networks which works well with image generation. It works well with grid data and produces output
+- rnn: recurral neural network is better for text generation is it generates text one at a time and then take the genereated text as an input to generate new text. ig it cant keep context for long sentences
+- lstm: or long short term memory: don't know if this is even a nn. It can keep short term memory
+- attention:
+- transformers: came in 2017 with the paper "attention is all you need" with proposed a new concept called self-attention
+	- now we removed the recurrence and taking input one by one instead it did:
+		- tokenize ( tokenization method depends on different transformers or models)
+		- embeddings as well as positional embeddings gets created
+		- all these embeddings goes parelily into model as input so shows parellilism 
+- bias: is the number we add in activation function with goal to reduce loss but too high bias creates the model unable to learn patterns as weights are what should be used so model underfits and doesnt perform well even on training data
+- variance: variance is ig model having ig weights or something ig that makes it remember the data instead of learning the pattern and hence overfitts the model
+- right skewed database
+- left skewed database
+- evaluation
+	- on regression model
+		- mean square error
+		- mean absolute error
+		- mean error
+	- on classification model
+		- with the help of confusion matrix
+		- precision
+		- recall
+		- accuracy score 
+		- f1 score
+		- r2 score
+- neural network: while training a neural network we came accross many terms:
+	- epoch: how many times we train the model with data
+	- feed forward: how many times input goes inside model and output comes.
+	- batch size: size of data we give model with each input
+	- backword propogation: ig how optimizer helps re-train the model with new set of weights to reduce error
+	- optimizer: helps model learn by changing the weights on each feedforward
+- niave bayes: finding probability based on considering that our assumption is correct
+- regularization:
+	- l1
+	- l2
+- prompting: types
+	- one shot prompting
+	- few shot prompting
+	- multi shot prompting
+- ml: types
+	- supervised learning: have two types of model prediction
+		- classification: classifies a category
+		- regression: predicts a continuous series of number
+	- unsupervised
+	- renforcement learning
+- Ml pipeline:
+	- importing the data and converting to dataframe
+	- analyzing the database
+	- feature selection: dropping the unnecessary column/features
+	- removing/filling null values:
+		- for object type column: mode
+		- for numeric: mean  or some other cases
+	- encoding:
+		- one hot encoding
+		- label encoding
+	- scaling
+		- min-max scaler
+		- standard scaler

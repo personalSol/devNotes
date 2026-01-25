@@ -12,7 +12,7 @@ here will be all the notes around AI-ML-MOC
 
 - [[terms for AI]]
 - [[conda setup]]
-- 
+- [[ai what all I have studied]]
 
 ### basic
 
