@@ -14,10 +14,10 @@
               "pos": 1,
               "stack": [
                 {
-                  "title": "ai table of learning",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/ai table of learning.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"ai table of learning\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                  "title": "Untitled 1",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"0 - inbox/Untitled 1.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"Untitled 1\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
                 },
                 {
                   "state": "{}",
@@ -47,7 +47,7 @@
             }
           },
           {
-            "id": "7c31c580e1ca5ddb",
+            "id": "db59265b4b2abc9a",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,28 +55,27 @@
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "gold mine",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/gold mine.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"gold mine\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":135,\"ch\":95},\"to\":{\"line\":135,\"ch\":95}},\"scroll\":500.81946517393254}"
                 }
               ]
             },
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "0 - inbox/ai what all I have studied.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+                "file": "0 - inbox/AI Development Conceptual Map.canvas",
+                "viewState": {
+                  "x": 689.2218845317885,
+                  "y": 3493.4216843087283,
+                  "zoom": 0
                 }
               },
-              "icon": "lucide-file",
-              "title": "ai what all I have studied"
+              "icon": "lucide-layout-dashboard",
+              "title": "AI Development Conceptual Map"
             }
           }
         ],
@@ -131,7 +130,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "template engine",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -161,8 +160,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3888432cac3b4f06",
@@ -184,7 +182,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/ai what all I have studied.md",
+                "file": "0 - inbox/AI Development Conceptual Map.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -212,14 +210,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of ai what all I have studied"
+              "title": "Graph of AI Development Conceptual Map"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -517,9 +516,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c31c580e1ca5ddb",
+  "active": "db59265b4b2abc9a",
   "lastOpenFiles": [
+    "0 - inbox/gold mine.md",
+    "0 - inbox/AI Development Conceptual Map.canvas",
+    "0 - inbox/Untitled Document",
     "3 - moc/AI-ML-MOC.md",
+    "0 - inbox/Untitled 1.base",
+    "0 - inbox/Untitled.base",
     "0 - inbox/ai what all I have studied.md",
     "0 - inbox/Questions.md",
     "0 - inbox/conda setup.md",
@@ -543,7 +547,6 @@
     "98 - attachments/Pasted image 20260111105235.png",
     "4 - sources/yt/Andrej Karpathy",
     "0 - inbox/ai notes.md",
-    "0 - inbox/Untitled.base",
     "4 - sources/courses/n8n course by sheriyas.md",
     "98 - attachments/Pasted image 20251228145012.png",
     "98 - attachments/celluloid-shot0006.jpg",
@@ -559,12 +562,8 @@
     "0 - inbox/ai basics.md",
     "1 - notes/e. ai/terms for AI.md",
     "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
-    "4 - sources/courses/gen ai course by rohit negi/ai - how LLM works.md",
-    "0 - inbox/django handnotes.md",
     "98 - attachments/Recording 20251108194328.m4a",
     "98 - attachments/Recording 20251108193255.m4a",
-    "98 - attachments/Recording 20251108193321.m4a",
-    "98 - attachments/Recording 20251108192933.m4a",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",
@@ -573,7 +572,6 @@
     "Atlas/Utilities/Canvases/LYT W10 Calendar Canvas.canvas",
     "Atlas/Utilities/Canvases/LYT Ship Dashboard.canvas",
     "Atlas/Utilities/Canvases/LYT W11 Calendar Canvas.canvas",
-    "Atlas/Utilities/Canvases/Obsidian Canvas MOC.canvas",
-    "Atlas/Utilities/Canvases/Ship of the Sensemaker.canvas"
+    "Atlas/Utilities/Canvases/Obsidian Canvas MOC.canvas"
   ]
 }
