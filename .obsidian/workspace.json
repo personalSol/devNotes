@@ -4,50 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "312e6e3dc70d4340",
+        "id": "11e375176d13c692",
         "type": "tabs",
         "children": [
           {
-            "id": "d9433fba6c6d1f4d",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 1,
-              "stack": [
-                {
-                  "title": "Untitled 1",
-                  "icon": "lucide-table",
-                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"0 - inbox/Untitled 1.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"Untitled 1\"}",
-                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
-                },
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/AI-ML-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AI-ML-MOC"
-            }
-          },
-          {
-            "id": "db59265b4b2abc9a",
+            "id": "0f03ea71ba6ae3ba",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -55,31 +16,17 @@
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "gold mine",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/gold mine.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"gold mine\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":135,\"ch\":95},\"to\":{\"line\":135,\"ch\":95}},\"scroll\":500.81946517393254}"
                 }
               ]
             },
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "0 - inbox/AI Development Conceptual Map.canvas",
-                "viewState": {
-                  "x": 689.2218845317885,
-                  "y": 3493.4216843087283,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "AI Development Conceptual Map"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -182,7 +129,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/AI Development Conceptual Map.canvas",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +156,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of AI Development Conceptual Map"
+              "title": "Graph view"
             }
           }
         ]
@@ -515,12 +461,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db59265b4b2abc9a",
+  "active": "0f03ea71ba6ae3ba",
   "lastOpenFiles": [
-    "0 - inbox/gold mine.md",
-    "0 - inbox/AI Development Conceptual Map.canvas",
-    "0 - inbox/Untitled Document",
+    "3 - moc/sub-mocs/Core-Concepts-MOC.md",
+    "1 - notes/a. concepts/tc - code example.md",
+    "1 - notes/e. ai/ai agents.md",
     "3 - moc/AI-ML-MOC.md",
+    "0 - inbox/hvhjadcbm.md",
+    "0 - inbox/ai what is ai.md",
+    "3 - moc/MOC-LIST.md",
+    "0 - inbox/ai basics.md",
+    "0 - inbox/AI Development Conceptual Map.canvas",
+    "0 - inbox/gold mine.md",
+    "0 - inbox/Untitled Document",
     "0 - inbox/Untitled 1.base",
     "0 - inbox/Untitled.base",
     "0 - inbox/ai what all I have studied.md",
@@ -555,12 +508,6 @@
     "98 - attachments/Recording 20251228133906.m4a",
     "98 - attachments/Recording 20251228133510.m4a",
     "0 - inbox/ai table of learning.md",
-    "1 - notes/h. modules/react/redux.md",
-    "0 - inbox/full code example of redux.md",
-    "1 - notes/h. modules/react/hooks - useCallback.md",
-    "0 - inbox/ai basics.md",
-    "1 - notes/e. ai/terms for AI.md",
-    "4 - sources/courses/gen ai course by rohit negi/lect 3 - more about llms.md",
     "98 - attachments/Recording 20251108194328.m4a",
     "98 - attachments/Recording 20251108193255.m4a",
     "Untitled.canvas",
