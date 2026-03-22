@@ -11,6 +11,45 @@
             "id": "0f03ea71ba6ae3ba",
             "type": "leaf",
             "pane-relief:history-v1": {
+              "pos": 1,
+              "stack": [
+                {
+                  "title": "java basics",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java basics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java basics\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - moc/sub-mocs/Java-MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Java-MOC"
+            }
+          },
+          {
+            "id": "1803d66055852bea",
+            "type": "leaf",
+            "pane-relief:history-v1": {
               "pos": 0,
               "stack": [
                 {
@@ -20,13 +59,16 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.12.4"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.12.4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -461,8 +503,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0f03ea71ba6ae3ba",
+  "active": "1803d66055852bea",
   "lastOpenFiles": [
+    "1 - notes/b. languages/java/java basics.md",
+    "3 - moc/sub-mocs/Java-MOC.md",
     "3 - moc/sub-mocs/Core-Concepts-MOC.md",
     "1 - notes/a. concepts/tc - code example.md",
     "1 - notes/e. ai/ai agents.md",
@@ -499,7 +543,6 @@
     "98 - attachments/Pasted image 20260111105235.png",
     "4 - sources/yt/Andrej Karpathy",
     "0 - inbox/ai notes.md",
-    "4 - sources/courses/n8n course by sheriyas.md",
     "98 - attachments/Pasted image 20251228145012.png",
     "98 - attachments/celluloid-shot0006.jpg",
     "98 - attachments/celluloid-shot0005.jpg",
@@ -507,7 +550,6 @@
     "98 - attachments/Recording 20251228135213.m4a",
     "98 - attachments/Recording 20251228133906.m4a",
     "98 - attachments/Recording 20251228133510.m4a",
-    "0 - inbox/ai table of learning.md",
     "98 - attachments/Recording 20251108194328.m4a",
     "98 - attachments/Recording 20251108193255.m4a",
     "Untitled.canvas",
