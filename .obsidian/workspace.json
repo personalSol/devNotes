@@ -11,24 +11,30 @@
             "id": "0f03ea71ba6ae3ba",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "java basics",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/b. languages/java/java basics.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"java basics\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":0}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
+                },
+                {
+                  "title": "Projects-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Projects-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Projects-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":24.341937187919108}"
+                },
+                {
+                  "title": "Java-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/sub-mocs/Java-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Java-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - moc/sub-mocs/Java-MOC.md",
+                "file": "2 - projects/prj Portfolio Project.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,32 +49,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Java-MOC"
-            }
-          },
-          {
-            "id": "1803d66055852bea",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
+              "title": "prj Portfolio Project"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,6 +155,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "2 - projects/prj Portfolio Project.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -198,7 +183,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of prj Portfolio Project"
             }
           }
         ]
@@ -503,10 +488,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1803d66055852bea",
+  "active": "0f03ea71ba6ae3ba",
   "lastOpenFiles": [
-    "1 - notes/b. languages/java/java basics.md",
+    "3 - moc/Projects-MOC.md",
+    "2 - projects/prj Portfolio Project.md",
+    "2 - projects/prj Password Manager.md",
+    "2 - projects/prj Task Manager.md",
     "3 - moc/sub-mocs/Java-MOC.md",
+    "1 - notes/b. languages/java/java basics.md",
     "3 - moc/sub-mocs/Core-Concepts-MOC.md",
     "1 - notes/a. concepts/tc - code example.md",
     "1 - notes/e. ai/ai agents.md",
@@ -534,15 +523,11 @@
     "98 - attachments/Pasted image 20260111132003.png",
     "98 - attachments/Pasted image 20260111131924.png",
     "98 - attachments/Pasted image 20260111131545.png",
-    "4 - sources/yt/Andrej Karpathy/Intro to LLms p2.md",
-    "4 - sources/yt/Andrej Karpathy/Intro to llms pt3.md",
     "98 - attachments/Pasted image 20260111105623.png",
-    "4 - sources/yt/Andrej Karpathy/Intro to llms p1.md",
     "98 - attachments/Pasted image 20260111105357.png",
     "98 - attachments/Pasted image 20260111105313.png",
     "98 - attachments/Pasted image 20260111105235.png",
     "4 - sources/yt/Andrej Karpathy",
-    "0 - inbox/ai notes.md",
     "98 - attachments/Pasted image 20251228145012.png",
     "98 - attachments/celluloid-shot0006.jpg",
     "98 - attachments/celluloid-shot0005.jpg",
