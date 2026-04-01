@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Java-MOC]]"
 created: 2025-04-20T18:12
-updated: 2025-05-15T19:30
+updated: 2026-03-25T23:34
 ---
 ---
 
@@ -16,7 +16,6 @@ updated: 2025-05-15T19:30
 | For          | Data security                     | Data hiding to keep it simple         |
 
 ```java
-a
 // encapsulation
 
 class Account {
