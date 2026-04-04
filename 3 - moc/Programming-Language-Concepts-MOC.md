@@ -5,7 +5,7 @@ updated: 2025-05-30T09:35
 
 # Programming-Language-Concepts-MOC
 
-here will be all the notes around Programming-Language-Concepts-MOC which is a part of main MOC - [[MOC-LIST]]
+here will be all the notes around Programming-Language-Concepts-MOC which is a part of main MOC - [[Home-MOC]]
 
 `Cheatsheet:`  
 

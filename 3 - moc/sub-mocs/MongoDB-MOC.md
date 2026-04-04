@@ -1,7 +1,7 @@
 
 # MongoDB-MOC
 
-here will be all the notes around MongoDB-MOC which is a part of main MOC - [[MOC-LIST]] and also part of [[Web-Dev-MOC]]
+here will be all the notes around MongoDB-MOC which is a part of main MOC - [[Home-MOC]] and also part of [[Web-Dev-MOC]]
 
 
 ### extras ( not that imp but still here )

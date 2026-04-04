@@ -1,7 +1,7 @@
 
 # Snippets-MOC
 
-here will be all the notes around Snippets-MOC which is a part of main MOC - [[MOC-LIST]]
+here will be all the notes around Snippets-MOC which is a part of main MOC - [[Home-MOC]]
 
 > the purpose is to save reusable code that I will/might need in the future.
 

@@ -7,7 +7,7 @@ updated: 2025-06-09T10:15
 
 # Web-Dev-Concepts-MOC
 
-here will be all the notes around Web-Dev-Concepts-MOC which is a part of main MOC - [[MOC-LIST]]
+here will be all the notes around Web-Dev-Concepts-MOC which is a part of main MOC - [[Home-MOC]]
 
 `Cheatsheet:`  
 

@@ -4,97 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "24c9e9e76afce293",
+        "id": "6f5730d7d48b6dd6",
         "type": "tabs",
         "children": [
           {
-            "id": "c46e31bfbd2e9808",
+            "id": "0c5cb80ff7fe0edd",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
                 {
-                  "title": "aws iam",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/aws iam.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"aws iam\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":105},\"to\":{\"line\":9,\"ch\":105}}}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/AWS.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "AWS"
-            }
-          },
-          {
-            "id": "1e9e192c876193e9",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                  "title": "Home-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Home-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/aws console.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "aws console"
-            }
-          },
-          {
-            "id": "68414d81de745ea6",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
+                  "title": "AI-ML-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI-ML-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI-ML-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":0},\"to\":{\"line\":59,\"ch\":0}},\"scroll\":2.474758291603031}"
+                },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "snp api error",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/y. snippets/snp api error.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"snp api error\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":3},\"to\":{\"line\":6,\"ch\":0}}}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/aws iam.md",
+                "file": "97 - templates/tmp-inbox.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -109,11 +55,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "aws iam"
+              "title": "tmp-inbox"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -216,7 +161,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/aws console.md",
+                "file": "97 - templates/tmp-inbox.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -244,7 +189,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of aws console"
+              "title": "Graph of tmp-inbox"
             }
           }
         ]
@@ -489,7 +434,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/aws console.md",
+                "file": "97 - templates/tmp-inbox.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -499,7 +444,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for aws console"
+              "title": "Backlinks for tmp-inbox"
             }
           },
           {
@@ -549,8 +494,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e9e192c876193e9",
+  "active": "0c5cb80ff7fe0edd",
   "lastOpenFiles": [
+    "0 - inbox/Untitled 1.md",
+    "97 - templates/tmp-inbox.md",
+    "3 - moc/Home-MOC.md",
+    "3 - moc/AI-ML-MOC.md",
+    "1 - notes/y. snippets/snp api error.md",
+    "3 - moc/Concepts-MOC.md",
     "0 - inbox/aws console.md",
     "0 - inbox/AWS.md",
     "0 - inbox/aws iam.md",
@@ -571,12 +522,6 @@
     "1 - notes/a. concepts/compile time vs runtime.md",
     "2 - projects/prj Portfolio Project.md",
     "3 - moc/Projects-MOC.md",
-    "2 - projects/prj Password Manager.md",
-    "2 - projects/prj Task Manager.md",
-    "1 - notes/b. languages/java/java basics.md",
-    "1 - notes/a. concepts/tc - code example.md",
-    "1 - notes/e. ai/ai agents.md",
-    "3 - moc/AI-ML-MOC.md",
     "0 - inbox/AI Development Conceptual Map.canvas",
     "0 - inbox/Untitled Document",
     "0 - inbox/Untitled 1.base",

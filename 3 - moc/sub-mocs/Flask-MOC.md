@@ -1,7 +1,7 @@
 
 # Flask-MOC
 
-here will be all the notes around {{title}} which is a part of main MOC - [[MOC-LIST]]
+here will be all the notes around {{title}} which is a part of main MOC - [[Home-MOC]]
 
 `Cheatsheet:`  [[flask-cheatsheet]]
 

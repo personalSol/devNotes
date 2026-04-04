@@ -10,3 +10,4 @@ if (filename.startsWith("tG")) {
     tR += await tp.file.include("[[tmp-full-note]]");
 }
 %>
+

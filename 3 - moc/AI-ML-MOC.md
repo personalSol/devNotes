@@ -48,3 +48,12 @@ list
 from "" and [[]] and !outgoing([[]])
 sort created desc
 ```
+
+# DSA-MOC
+## All DSA Notes
+```dataview
+TABLE file.ctime AS "Created"
+FROM ""
+WHERE contains(topics, "ai")
+SORT file.ctime DESC
+```

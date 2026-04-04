@@ -2,6 +2,32 @@
 created: 2025-05-16T00:21
 updated: 2025-05-17T14:37
 ---
+# Home
+
+## Programming
+- [[DSA-MOC]]
+- [[Lang-And-Packages-MOC]]
+- [[Tools-MOC]]
+- [[Web-Dev-MOC]]
+- [[Devops-MOC]]
+- [[System-Design-MOC]]
+
+## Learning
+- [[AI-ML-MOC]]
+- [[Maths-MOC]]
+- [[DBMS-MOC]]
+
+## Reference
+- [[Snippets-MOC]]
+- [[Cheatsheets-MOC]]
+- [[SOP-MOC]]
+- [[Concepts-MOC]]
+
+## Work
+- [[Projects-MOC]]
+- [[Sources-MOC]]
+
+
 
 - [[AI-ML-MOC]]
 - [[Cheatsheets-MOC]]

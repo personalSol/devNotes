@@ -5,7 +5,7 @@ updated: 2025-05-02T17:09
 
 ### react-MOC
 
-here will be all the notes around React-Updated-MOC which is a part of main MOC - [[MOC-LIST]]  [[Lang-And-Packages-MOC]] & [[Web-Dev-MOC]]
+here will be all the notes around React-Updated-MOC which is a part of main MOC - [[Home-MOC]]  [[Lang-And-Packages-MOC]] & [[Web-Dev-MOC]]
 
 `Cheatsheet:`  [[React Cheatsheet]]
 - [[react code block]]

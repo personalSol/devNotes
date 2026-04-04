@@ -1,7 +1,7 @@
 
 # Devops-MOC
 
-here will be all the notes around Devops-MOC which is a part of main MOC - [[MOC-LIST]]
+here will be all the notes around Devops-MOC which is a part of main MOC - [[Home-MOC]]
 
 `Cheatsheet:`  
 

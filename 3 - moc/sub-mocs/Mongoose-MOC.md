@@ -1,7 +1,7 @@
 
 # Mongoose-MOC
 
-here will be all the notes around Mongoose-MOC which is a part of main MOC - [[MOC-LIST]] and [[Web-Dev-MOC]]
+here will be all the notes around Mongoose-MOC which is a part of main MOC - [[Home-MOC]] and [[Web-Dev-MOC]]
 
 
 ### extras ( not that imp but still here )
