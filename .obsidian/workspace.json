@@ -11,24 +11,24 @@
             "id": "c46e31bfbd2e9808",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "aws iam",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/aws iam.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"aws iam\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":105},\"to\":{\"line\":9,\"ch\":105}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "AWS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/AWS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AWS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":2},\"to\":{\"line\":16,\"ch\":2}},\"scroll\":5.571077363985079}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/aws iam.md",
+                "file": "0 - inbox/AWS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +43,40 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "aws iam"
+              "title": "AWS"
+            }
+          },
+          {
+            "id": "1e9e192c876193e9",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/aws console.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "aws console"
             }
           },
           {
@@ -79,7 +112,8 @@
               "title": "aws iam"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,7 +216,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/aws iam.md",
+                "file": "0 - inbox/aws console.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -210,7 +244,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of aws iam"
+              "title": "Graph of aws console"
             }
           }
         ]
@@ -455,7 +489,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/aws iam.md",
+                "file": "0 - inbox/aws console.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -465,7 +499,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for aws iam"
+              "title": "Backlinks for aws console"
             }
           },
           {
@@ -515,8 +549,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c46e31bfbd2e9808",
+  "active": "1e9e192c876193e9",
   "lastOpenFiles": [
+    "0 - inbox/aws console.md",
     "0 - inbox/AWS.md",
     "0 - inbox/aws iam.md",
     "1 - notes/b. languages/java/abstraction vs encapsulation.md",
@@ -542,7 +577,6 @@
     "1 - notes/a. concepts/tc - code example.md",
     "1 - notes/e. ai/ai agents.md",
     "3 - moc/AI-ML-MOC.md",
-    "0 - inbox/hvhjadcbm.md",
     "0 - inbox/AI Development Conceptual Map.canvas",
     "0 - inbox/Untitled Document",
     "0 - inbox/Untitled 1.base",
