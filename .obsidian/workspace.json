@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6f5730d7d48b6dd6",
+        "id": "406f6392940a8564",
         "type": "tabs",
         "children": [
           {
-            "id": "0c5cb80ff7fe0edd",
+            "id": "b4cc10ba92d30997",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -18,29 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Home-MOC",
+                  "title": "AWS",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Home-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":5,\"ch\":0},\"to\":{\"line\":5,\"ch\":0}},\"scroll\":0}"
-                },
-                {
-                  "title": "AI-ML-MOC",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/AI-ML-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AI-ML-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":0},\"to\":{\"line\":59,\"ch\":0}},\"scroll\":2.474758291603031}"
-                },
-                {
-                  "title": "snp api error",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/y. snippets/snp api error.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"snp api error\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":3},\"to\":{\"line\":6,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/AWS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AWS\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":10.51044662849382}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "97 - templates/tmp-inbox.md",
+                "file": "0 - inbox/aws iam.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -55,46 +43,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "tmp-inbox"
-            }
-          }
-        ]
-      },
-      {
-        "id": "549cabd5c1694cb2",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "a42cd0adc7f8523b",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/Home-MOC.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Home-MOC"
+              "title": "aws iam"
             }
           }
         ]
@@ -200,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 - moc/Home-MOC.md",
+                "file": "0 - inbox/aws iam.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -228,7 +177,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Home-MOC"
+              "title": "Graph of aws iam"
             }
           }
         ]
@@ -473,7 +422,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - moc/Home-MOC.md",
+                "file": "0 - inbox/aws iam.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -483,7 +432,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home-MOC"
+              "title": "Backlinks for aws iam"
             }
           },
           {
@@ -533,19 +482,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a42cd0adc7f8523b",
+  "active": "b4cc10ba92d30997",
   "lastOpenFiles": [
-    "3 - moc/Tools-MOC.md",
+    "98 - attachments/Pasted image 20260406231522.png",
+    "98 - attachments/Pasted image 20260406231313.png",
+    "98 - attachments/Pasted image 20260406231254.png",
+    "0 - inbox/AWS.md",
+    "0 - inbox/aws console.md",
     "3 - moc/Home-MOC.md",
+    "97 - templates/tmp-inbox.md",
+    "3 - moc/Tools-MOC.md",
     "3 - moc/Web-Dev-MOC.md",
     "3 - moc/System-Design-MOC.md",
-    "97 - templates/tmp-inbox.md",
     "0 - inbox/Untitled 1.md",
     "3 - moc/AI-ML-MOC.md",
     "1 - notes/y. snippets/snp api error.md",
     "3 - moc/Concepts-MOC.md",
-    "0 - inbox/aws console.md",
-    "0 - inbox/AWS.md",
     "0 - inbox/aws iam.md",
     "1 - notes/b. languages/java/abstraction vs encapsulation.md",
     "1 - notes/a. concepts/classes.md",
@@ -560,7 +512,6 @@
     "1 - notes/a. concepts/memory management in programming (stack and heap ).md",
     "1 - notes/a. concepts/hashing.md",
     "1 - notes/a. concepts/Statically vs Dynamically Typed Language.md",
-    "1 - notes/a. concepts/compile time vs runtime.md",
     "0 - inbox/AI Development Conceptual Map.canvas",
     "0 - inbox/Untitled Document",
     "0 - inbox/Untitled 1.base",
@@ -574,8 +525,6 @@
     "98 - attachments/Pasted image 20260111105235.png",
     "4 - sources/yt/Andrej Karpathy",
     "98 - attachments/Pasted image 20251228145012.png",
-    "98 - attachments/celluloid-shot0006.jpg",
-    "98 - attachments/celluloid-shot0005.jpg",
     "98 - attachments/Recording 20251228140150.m4a",
     "98 - attachments/Recording 20251228135213.m4a",
     "98 - attachments/Recording 20251228133906.m4a",
