@@ -11,8 +11,14 @@
             "id": "b4cc10ba92d30997",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-table",
+                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"0 - inbox/Untitled.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"Untitled\"}",
+                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -45,8 +51,144 @@
               "icon": "lucide-file",
               "title": "aws iam"
             }
+          },
+          {
+            "id": "a67e7adcc4a8ed07",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                },
+                {
+                  "title": "tmp-source-note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/tmp-source-note.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tmp-source-note\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}}}"
+                },
+                {
+                  "title": "tmp-project",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/tmp-project.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tmp-project\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":56,\"ch\":0}}}"
+                },
+                {
+                  "title": "tmp-moc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/tmp-moc.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tmp-moc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":45,\"ch\":0}}}"
+                },
+                {
+                  "title": "tmp-inbox",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/tmp-inbox.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tmp-inbox\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "tmp-full-note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/tmp-full-note.md\",\"mode\":\"source\",\"source\":true,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tmp-full-note\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}}}"
+                },
+                {
+                  "title": "Templates-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/Templates-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Templates-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "tmp-moc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/tmp-moc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tmp-moc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "tmp-inbox",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/tmp-inbox.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tmp-inbox\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":2},\"to\":{\"line\":11,\"ch\":2}},\"scroll\":0}"
+                },
+                {
+                  "title": "tmp-moc",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/tmp-moc.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tmp-moc\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":1,\"ch\":0},\"to\":{\"line\":1,\"ch\":0}},\"scroll\":24.14872181226386}"
+                },
+                {
+                  "title": "tmp-project",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/tmp-project.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tmp-project\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                },
+                {
+                  "title": "tmp-ref",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/tmp-ref.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tmp-ref\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "tmp-source-note",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/tmp-source-note.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tmp-source-note\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}}}"
+                },
+                {
+                  "title": "tmp-tab-panels",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/tmp-tab-panels.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"tmp-tab-panels\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}}}"
+                },
+                {
+                  "title": "Templates-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"97 - templates/Templates-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Templates-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":0,\"ch\":0},\"to\":{\"line\":0,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Home-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Home-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":59,\"ch\":0},\"to\":{\"line\":59,\"ch\":0}},\"scroll\":46.711300167417974}"
+                },
+                {
+                  "title": "Linux-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Linux-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Linux-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":2},\"to\":{\"line\":15,\"ch\":2}}}"
+                },
+                {
+                  "title": "space complexity",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/space complexity.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"space complexity\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}}}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "97 - templates/tmp-tab-panels.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "tmp-tab-panels"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -149,7 +291,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/aws iam.md",
+                "file": "97 - templates/tmp-tab-panels.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,7 +319,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of aws iam"
+              "title": "Graph of tmp-tab-panels"
             }
           }
         ]
@@ -422,7 +564,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/aws iam.md",
+                "file": "97 - templates/tmp-tab-panels.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -432,7 +574,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for aws iam"
+              "title": "Backlinks for tmp-tab-panels"
             }
           },
           {
@@ -482,40 +624,42 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4cc10ba92d30997",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "97 - templates/tmp-source-note.md",
+    "97 - templates/tmp-project.md",
+    "97 - templates/tmp-moc.md",
+    "97 - templates/tmp-inbox.md",
+    "0 - inbox/Untitled.md",
+    "0 - inbox/Untitled",
+    "97 - templates/tmp-full-note.md",
+    "97 - templates/Templates-MOC.md",
+    "97 - templates/tmp-ref.md",
+    "97 - templates/tmp-tab-panels.md",
+    "3 - moc/Home-MOC.md",
+    "3 - moc/sub-mocs/Python-MOC.md",
+    "3 - moc/sub-mocs/Web-Dev-Concepts-MOC.md",
+    "3 - moc/sub-mocs/Mongoose-MOC.md",
+    "3 - moc/Concepts-MOC.md",
+    "3 - moc/SOP-MOC.md",
+    "3 - moc/Programming-Language-Concepts-MOC.md",
+    "1 - notes/z. others/All problems and errors I have faced.md",
+    "1 - notes/a. concepts/DSA questions.md",
+    "1 - notes/z. others/vault-status.md",
+    "0 - inbox/aws iam.md",
+    "0 - inbox/django-cheatsheet.md",
+    "0 - inbox/error stack property in ApiError.md",
+    "0 - inbox/how to create virtual environment for using django.md",
+    "3 - moc/Linux-MOC.md",
+    "0 - inbox/testing.md",
+    "1 - notes/a. concepts/space complexity.md",
+    "0 - inbox/Untitled.base",
     "98 - attachments/Pasted image 20260406231522.png",
     "98 - attachments/Pasted image 20260406231313.png",
     "98 - attachments/Pasted image 20260406231254.png",
-    "0 - inbox/AWS.md",
-    "0 - inbox/aws console.md",
-    "3 - moc/Home-MOC.md",
-    "97 - templates/tmp-inbox.md",
-    "3 - moc/Tools-MOC.md",
-    "3 - moc/Web-Dev-MOC.md",
-    "3 - moc/System-Design-MOC.md",
-    "0 - inbox/Untitled 1.md",
-    "3 - moc/AI-ML-MOC.md",
-    "1 - notes/y. snippets/snp api error.md",
-    "3 - moc/Concepts-MOC.md",
-    "0 - inbox/aws iam.md",
-    "1 - notes/b. languages/java/abstraction vs encapsulation.md",
-    "1 - notes/a. concepts/classes.md",
-    "1 - notes/b. languages/java/java oops pillars.md",
-    "3 - moc/sub-mocs/Java-MOC.md",
-    "1 - notes/b. languages/java/java classes and object.md",
-    "1 - notes/b. languages/java/java instance variable, this and constructor.md",
-    "3 - moc/sub-mocs/Core-Concepts-MOC.md",
-    "1 - notes/a. concepts/objects.md",
-    "1 - notes/a. concepts/encryption.md",
-    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
-    "1 - notes/a. concepts/memory management in programming (stack and heap ).md",
-    "1 - notes/a. concepts/hashing.md",
-    "1 - notes/a. concepts/Statically vs Dynamically Typed Language.md",
     "0 - inbox/AI Development Conceptual Map.canvas",
     "0 - inbox/Untitled Document",
     "0 - inbox/Untitled 1.base",
-    "0 - inbox/Untitled.base",
     "98 - attachments/Pasted image 20260111132003.png",
     "98 - attachments/Pasted image 20260111131924.png",
     "98 - attachments/Pasted image 20260111131545.png",
@@ -524,13 +668,11 @@
     "98 - attachments/Pasted image 20260111105313.png",
     "98 - attachments/Pasted image 20260111105235.png",
     "4 - sources/yt/Andrej Karpathy",
-    "98 - attachments/Pasted image 20251228145012.png",
     "98 - attachments/Recording 20251228140150.m4a",
     "98 - attachments/Recording 20251228135213.m4a",
     "98 - attachments/Recording 20251228133906.m4a",
     "98 - attachments/Recording 20251228133510.m4a",
     "98 - attachments/Recording 20251108194328.m4a",
-    "98 - attachments/Recording 20251108193255.m4a",
     "Untitled.canvas",
     "Life Canvas.canvas",
     "Untitled 1.canvas",

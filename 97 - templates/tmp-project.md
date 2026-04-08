@@ -5,7 +5,7 @@ status: not_started
 related tGs: 
 tech-stack:
 ---
-# {{title}}
+
 *Status: not_started/ planning /  on_hold / in_progress / complete*
 ### Short brief
 
