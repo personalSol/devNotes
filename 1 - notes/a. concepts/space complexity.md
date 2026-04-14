@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[Core-Concepts-MOC]]"
 created: 2025-02-12T18:47
-updated: 2025-05-09T20:14
+updated: 2026-04-13T21:01
 ---
 ---
 
@@ -19,7 +19,7 @@ Just like in time complexity, we don't measure space complxity of a program as t
 	- auxilary space + input space
 	- auzilary space: space you take to solve the problem
 	- input space: space that you take to store the input
-> ![[Pasted image 20250509201128.png]]
+> ![[space_complexity_img.png]]
 
 - here a and b are input space and c is auxilary space
 

@@ -127,8 +127,6 @@
     "1 - notes/k. web-dev/auth/authentication what is token gets stolen.md": "00a6be8c6a0bd126769a841b962c8b3b95799eb9308281391046f5790ca8f11b",
     "1 - notes/k. web-dev/auth/authentication why payload can't be tampered with.md": "4c2a91e52b308a2f8471b9d00dba05996d1ef49702f37a0bde639347473c9a15",
     "1 - notes/g. dsa/dsa roadmap checklist.md": "798bdd2615565b88a5ff6dc7996ffebbab0c769dabbda8f7d0d4c1b4d60a2286",
-    "1 - notes/g. dsa/dsa - question approaches which I was not able to solve.md": "9092937f42a915054dea791ad8d0b4b6b2b157bd9d31c29d306d122fc6839dfc",
-    "1 - notes/g. dsa/dsa - question approahes which I was able to solve.md": "9092937f42a915054dea791ad8d0b4b6b2b157bd9d31c29d306d122fc6839dfc",
     "1 - notes/b. languages/cpp/cpp stl brief.md": "8204fbca47fa7e069d1d7f5f975b193f2e5651115c5ab22790f94626e6ba6f3c",
     "1 - notes/b. languages/cpp/cpp - library.md": "5f174d89c2e3555c2a58025c54603cc2a8cd239a58e0796ad0b6ba2409a10139",
     "1 - notes/k. web-dev/auth/stateless authentication.md": "ae7397d4fe8a41c38b223b5565b55b8d081c5968de8804ea332454e3f22f89c7",
@@ -220,9 +218,6 @@
     "0 - inbox/atomicity.md": "64c6b28809c4d5ab8d77001998b82d965889d734a8fd04901de8f702fc691c8a",
     "4 - sources/courses/dbms by code help/Lecture 1 Introduction to DBMS.md": "ac8013ccb5d4739e41334c95c45f0fc90a7d00b113fea63c4f8292164c5fb4ff",
     "1 - notes/b. languages/cpp/cpp - access modifiers.md": "607632f6a33ed79b9660f67b5d68bd38dbcca63854a9b54b51abb8eab213147e",
-    "1 - notes/a. concepts/DSA questions.md": "e339032b40ae06691c22d1f5e60dc61d4c91519c14e52aae1ce64c330d8161a8",
-    "0 - inbox/Question approaches.md": "4025decd18079d5c9c6eba12809e35f8722c0ebda6195dbe04d4c38447719fc0",
-    "0 - inbox/question approaches for sql.md": "7ebf3101c2048ea0a22d344b98601c7cd58463883c21caf465d1729a8b76d1de",
     "1 - notes/b. languages/cpp/cpp vectors code.md": "ca3c55cce234f1627cf3a6035db9625cdc3a2ec070095bea0e0828ef24802815",
     "1 - notes/b. languages/cpp/cpp - iterators.md": "a964a5066bb807f1c41cd5ae769d34c7e763c3441d1cd42cc4edd64e14a0574e",
     "1 - notes/b. languages/cpp/cpp dynamic memory allocation.md": "988d260d0a2e5931edd82b9781803f5eb764db33d022edfe58c474acb2e9fb92",
@@ -239,8 +234,6 @@
     "1 - notes/a. concepts/time complexity.md": "920ff93348196ea2ce165c5507863372143627f5d85f2486d556fc29a735988d",
     "0 - inbox/time complexity - basic.md": "15c222a720856df0e5d9829014fb6ac6b8ef09599b42fc71aec6f4569dea7e3d",
     "0 - inbox/time complexity - types.md": "903d3d4a345755b1e94abe91b60a133adb593b82a603bd7d2adbbae1be6545c9",
-    "1 - notes/a. concepts/tc - code example.md": "fe79b59f55295c69e75196b84a406ae450e7bb5857b546c6f4955f5c4e933563",
-    "0 - inbox/time complexity - guide to calculate.md": "1b83fa408b4f7661b6b41470e76d9cb654e160bdee382938f8f5685cc6ce6877",
     "1 - notes/b. languages/cpp/cpp static variable & functions.md": "6fb22f2b32cd9ca46ed03a45581a384dd1cf2e4f7e6ee99ecc535deed8e71f86",
     "1 - notes/b. languages/cpp/cpp - algorithms.md": "7a9824004e2fbc1de5a3929d2bd455330df1ff538759ce8fc71a19eb137a4f9b",
     "1 - notes/b. languages/cpp/cpp - code block.md": "08205547b0a78ef40888762f5d6bd90be57b6f8e41d85009dfedcef841c8159a",
@@ -300,7 +293,6 @@
     "0 - inbox/react redux payload.md": "fc9eae308a628fa7590d0f7844bb85e4de70dc0b993982684117af863594aa7e",
     "0 - inbox/react router Link vs Navigate vs useNavigate().md": "f0fa5ad7a10aee3d79434e3b27a0533c11abef5ce349d0c69b9aea6fcc8d8e0c",
     "0 - inbox/mongoose remove or add in querry.md": "29e448fa4f0693ab80c2d1bf307e884868cad37b72ae3d8c2d7dd9556f4efd1b",
-    "0 - inbox/recursion question approach.md": "ea1b2648bf814c3047baa915f94e218c03fefb19151cc26f1eb35ce427ca192c",
     "0 - inbox/Mint OS things.md": "63cc3354fa6550cde656f9d6f59bf545137a957a38fae22f7067454f50ff1c04",
     "0 - inbox/react hook - useLocation.md": "873c5c6ec53244430a314603befe2dabd34ca410bd2e72fd687aaa3e79927495",
     "1 - notes/c. tools/github/commit.md": "5cb283779d8840b3421b49a4326aed91167d21296aeca15b35627f71da6fac37",
@@ -491,6 +483,7 @@
     "0 - inbox/AWS.md": "52fc2601d4c344a3d08507904f44aee6f5c7bb9e09341d3afe37a58a6c66d4ba",
     "0 - inbox/aws iam.md": "6edd191a70e910a3a7afc9acfbf7a6397183a4bbb4b3865b39719839ee1f7ee7",
     "0 - inbox/aws console.md": "eb98fe9a47ce825f02af43c5a1e1b5187cdf9ddc9af48c32eae066adddcc28c5",
-    "2 - projects/Untitled.md": "899bb491391cc26777bb980296630032c747c0c23fdfac980015586a2f169ef4"
+    "2 - projects/Untitled.md": "899bb491391cc26777bb980296630032c747c0c23fdfac980015586a2f169ef4",
+    "1 - notes/a. concepts/space complexity.md": "f32e90e19f7b612fd2765375beb44a2705c140c9fdaf1036079d4a39c165123f"
   }
 }
