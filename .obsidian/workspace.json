@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b840f00ee6abb0c9",
+        "id": "3c0fbf072f2a4bfa",
         "type": "tabs",
         "children": [
           {
-            "id": "f0ca791d739c2e75",
+            "id": "99070b41d462c5d7",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -20,13 +20,127 @@
               ]
             },
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/a. concepts/Statically vs Dynamically Typed Language.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Statically vs Dynamically Typed Language"
+            }
+          },
+          {
+            "id": "72660ff5aa12873f",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Basic-Concepts-MOC"
+            }
+          },
+          {
+            "id": "45a721c990b93b07",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 - notes/a. concepts/compile time vs runtime.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "compile time vs runtime"
+            }
+          },
+          {
+            "id": "9234c279a2cabe58",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/Untitled.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,6 +243,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "0 - inbox/Untitled.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -156,7 +271,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -401,6 +516,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0 - inbox/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -410,7 +526,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Untitled"
             }
           },
           {
@@ -460,8 +576,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "9234c279a2cabe58",
   "lastOpenFiles": [
+    "1 - notes/a. concepts/compile time vs runtime.md",
+    "0 - inbox/Untitled.md",
+    "1 - notes/a. concepts/types of languages.md",
+    "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
+    "1 - notes/a. concepts/Statically vs Dynamically Typed Language.md",
     "3 - moc/sub-mocs/JS-MOC.md",
     "1 - notes/a. concepts/space complexity.md",
     "1 - notes/b. languages/javascript/js Cheatsheet.md",
@@ -488,11 +609,6 @@
     "98 - attachments/space_complexity_img.png",
     "3 - moc/DSA-MOC.md",
     "1 - notes/a. concepts/time complexity.md",
-    "1 - notes/g. dsa/dsa - algorithms.md",
-    "1 - notes/g. dsa/dsa - tips.md",
-    "1 - notes/g. dsa/dsa path.md",
-    "0 - inbox/time complexity - basic.md",
-    "0 - inbox/time complexity - types.md",
     "0 - inbox/Untitled",
     "0 - inbox/Untitled.base",
     "0 - inbox/AI Development Conceptual Map.canvas",
