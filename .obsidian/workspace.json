@@ -4,30 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "406f6392940a8564",
+        "id": "b840f00ee6abb0c9",
         "type": "tabs",
         "children": [
           {
-            "id": "b4cc10ba92d30997",
+            "id": "f0ca791d739c2e75",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 0,
               "stack": [
-                {
-                  "title": "Untitled",
-                  "icon": "lucide-table",
-                  "state": "{\"type\":\"bases\",\"state\":{\"file\":\"0 - inbox/Untitled.base\",\"viewName\":\"Table\"},\"icon\":\"lucide-table\",\"title\":\"Untitled\"}",
-                  "eState": "{\"views\":{\"Table\":{\"scroll\":{\"top\":0,\"left\":0},\"activeCell\":null}}}"
-                },
                 {
                   "state": "{}",
                   "eState": "{}"
-                },
-                {
-                  "title": "AWS",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/AWS.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"AWS\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":10.51044662849382}"
                 }
               ]
             },
@@ -472,15 +460,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d5e05e46b95bc2",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "3 - moc/sub-mocs/JS-MOC.md",
+    "1 - notes/a. concepts/space complexity.md",
+    "1 - notes/b. languages/javascript/js Cheatsheet.md",
+    "1 - notes/b. languages/javascript/js about node-js.md",
+    "1 - notes/b. languages/javascript/js npx.md",
+    "1 - notes/b. languages/javascript/js build-in middleware.md",
+    "1 - notes/b. languages/javascript/js cjs vs esm.md",
+    "1 - notes/b. languages/javascript/js DOM Manipulation.md",
+    "1 - notes/b. languages/javascript/js import and export.md",
+    "1 - notes/b. languages/javascript/js import and export in mjs summary.md",
+    "1 - notes/b. languages/javascript/js import and export in es module js.md",
+    "1 - notes/b. languages/javascript/js import and export in cjs.md",
+    "1 - notes/b. languages/javascript/js closure function.md",
+    "0 - inbox/AWS.md",
+    "3 - moc/sub-mocs/Cpp-MOC.md",
+    "1 - notes/b. languages/cpp/cpp - code block.md",
+    "1 - notes/b. languages/cpp/Cpp cheatsheet.md",
     "98 - attachments/Pasted image 20260406231522.png",
     "98 - attachments/Pasted image 20260406231313.png",
     "98 - attachments/Pasted image 20260406231254.png",
-    "1 - notes/a. concepts/space complexity.md",
     "0 - inbox/aws iam.md",
     "0 - inbox/aws console.md",
-    "0 - inbox/AWS.md",
     "98 - attachments/space_complexity_img 1.png",
     "98 - attachments/space_complexity_img.png",
     "3 - moc/DSA-MOC.md",
@@ -490,20 +493,6 @@
     "1 - notes/g. dsa/dsa path.md",
     "0 - inbox/time complexity - basic.md",
     "0 - inbox/time complexity - types.md",
-    "1 - notes/a. concepts/tc - code example.md",
-    "0 - inbox/time complexity - guide to calculate.md",
-    "0 - inbox/Question approaches.md",
-    "1 - notes/g. dsa/dsa - question approaches which I was not able to solve.md",
-    "97 - templates/tmp-moc.md",
-    "1 - notes/g. dsa/dsa - question approahes which I was able to solve.md",
-    "0 - inbox/recursion question approach.md",
-    "0 - inbox/question approaches for sql.md",
-    "1 - notes/a. concepts/DSA questions.md",
-    "1 - notes/g. dsa/Euclidean Algorithm.md",
-    "1 - notes/g. dsa/dsa roadmap checklist.md",
-    "1 - notes/x. code block/dsa code block.md",
-    "3 - moc/Untitled.md",
-    "0 - inbox/Untitled.md",
     "0 - inbox/Untitled",
     "0 - inbox/Untitled.base",
     "0 - inbox/AI Development Conceptual Map.canvas",

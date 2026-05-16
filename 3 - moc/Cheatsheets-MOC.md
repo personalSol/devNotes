@@ -7,7 +7,7 @@ updated: 2025-05-09T11:26
 
 - [[Java Cheatsheet]]
 - [[CSS Cheatsheet]]
-- [[Javascript Cheatsheet]]
+- [[js Cheatsheet]]
 - [[Git-n-GitHub Cheatsheet]]
 - [[Mongoose Cheatsheet]]
 - [[Cpp cheatsheet]]

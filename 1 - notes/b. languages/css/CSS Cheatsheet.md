@@ -3,7 +3,7 @@ status: newBorn
 related-links:
   - "[[CSS-MOC]]"
 created: 2025-02-22T18:45
-updated: 2025-08-02T19:35
+updated: 2026-04-14T22:43
 ---
 ---
 
@@ -38,7 +38,7 @@ updated: 2025-08-02T19:35
 
 ![[CSS Positioning#^3oipxn]]
 
-[[DOM Manipulation]]
+[[js DOM Manipulation]]
 
 
 # Reference

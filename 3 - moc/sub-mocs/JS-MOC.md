@@ -2,11 +2,10 @@
 created: 2025-02-24T23:18
 updated: 2025-05-17T14:53
 ---
-	# JavaScript MOC
 
 it will have all the notes around JS connected to it.
 
-[[Javascript Cheatsheet]]
+[[js Cheatsheet]]
 - [[general code copy block note]]
 - 
 
@@ -19,8 +18,8 @@ it will have all the notes around JS connected to it.
 
 - [[js things to remember]]
 - [[js loops]]
-- [[import and export in js]]
-- [[DOM Manipulation]]
+- [[js import and export]]
+- [[js DOM Manipulation]]
 - [[js execution context]]
 - [[JS Events]]
 - [[js - array]]
@@ -40,8 +39,8 @@ it will have all the notes around JS connected to it.
 
 ## Advance
 
-- [[about node-js]]
-- [[closure function]]
+- [[js about node-js]]
+- [[js closure function]]
 - [[js throw error]]
 - 
 

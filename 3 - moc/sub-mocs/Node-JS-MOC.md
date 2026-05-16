@@ -14,8 +14,8 @@ here will be all the notes around Node-JS-MOC
 
 ## basic
 
-- [[about node-js]]
-- [[cjs vs esm]]
+- [[js about node-js]]
+- [[js cjs vs esm]]
 - [[node commands]]
 - 
 - [[npm packages for web dev]]
