@@ -121,6 +121,39 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "0 - inbox/Project ideas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Project ideas"
+            }
+          },
+          {
+            "id": "4cca2d2340a62a17",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "0 - inbox/Untitled.md",
                 "mode": "source",
                 "source": false,
@@ -140,7 +173,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -576,10 +609,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9234c279a2cabe58",
+  "active": "4cca2d2340a62a17",
   "lastOpenFiles": [
-    "1 - notes/a. concepts/compile time vs runtime.md",
+    "0 - inbox/Project ideas.md",
     "0 - inbox/Untitled.md",
+    "1 - notes/a. concepts/compile time vs runtime.md",
     "1 - notes/a. concepts/types of languages.md",
     "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
     "1 - notes/a. concepts/Statically vs Dynamically Typed Language.md",
@@ -608,7 +642,6 @@
     "98 - attachments/space_complexity_img 1.png",
     "98 - attachments/space_complexity_img.png",
     "3 - moc/DSA-MOC.md",
-    "1 - notes/a. concepts/time complexity.md",
     "0 - inbox/Untitled",
     "0 - inbox/Untitled.base",
     "0 - inbox/AI Development Conceptual Map.canvas",
