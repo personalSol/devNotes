@@ -2,7 +2,7 @@
 status: newBorn
 related-links:
 created: 1970-01-01T05:30
-updated: 2026-05-17T02:18
+updated: 2026-05-17T17:33
 ---
 ---
 
@@ -217,7 +217,7 @@ MCP Server (filesystem, github, slack, etc.)
 - AI clients connect via API key or token instead of managing servers directly
 - Maintains the `mcpconfig` standard file
 - Provides a UI for managing all servers across all AI clients
-
+ask me any and all possible questions you need to know before generating a better answer. correct me anywhere needed and add any possible tips, suggestions or advices you can
 **Permissions layer** (novel, nobody else is building this):
 
 Every installed MCP server gets a permission profile. MCP Hub Desktop inspects every message passing between the AI client and the server. If a request violates the permission profile, it is blocked before reaching the server.

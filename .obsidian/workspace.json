@@ -8,143 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "99070b41d462c5d7",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/a. concepts/Statically vs Dynamically Typed Language.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Statically vs Dynamically Typed Language"
-            }
-          },
-          {
-            "id": "72660ff5aa12873f",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Basic-Concepts-MOC"
-            }
-          },
-          {
-            "id": "45a721c990b93b07",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1 - notes/a. concepts/compile time vs runtime.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "compile time vs runtime"
-            }
-          },
-          {
-            "id": "9234c279a2cabe58",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/Project ideas.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Project ideas"
-            }
-          },
-          {
             "id": "4cca2d2340a62a17",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "Projects-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Projects-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Projects-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":0.012498779404432253}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -171,9 +45,87 @@
               "icon": "lucide-file",
               "title": "Untitled"
             }
+          },
+          {
+            "id": "eeeb2e0c1bfb74d3",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - moc/Projects-MOC.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Projects-MOC"
+            }
+          },
+          {
+            "id": "6dcd27e2fcdb2d63",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 2,
+              "stack": [
+                {
+                  "title": "Untitled",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"2 - projects/Untitled.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Untitled\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "title": "Prompt modifiers",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/Prompt modifiers.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Prompt modifiers\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":9,\"ch\":0},\"to\":{\"line\":9,\"ch\":0}},\"scroll\":0}"
+                },
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/Project ideas.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Project ideas"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -276,7 +228,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/Untitled.md",
+                "file": "0 - inbox/Project ideas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -304,7 +256,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled"
+              "title": "Graph of Project ideas"
             }
           }
         ]
@@ -549,7 +501,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/Untitled.md",
+                "file": "0 - inbox/Project ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -559,7 +511,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Project ideas"
             }
           },
           {
@@ -609,14 +561,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "4cca2d2340a62a17",
+  "active": "6dcd27e2fcdb2d63",
   "lastOpenFiles": [
-    "0 - inbox/Project ideas.md",
+    "0 - inbox/Prompt modifiers.md",
+    "2 - projects/Untitled.md",
     "0 - inbox/Untitled.md",
+    "3 - moc/Projects-MOC.md",
+    "0 - inbox/Project ideas.md",
+    "0 - inbox/dev path.md",
+    "2 - projects/prj Google Drive.md",
     "1 - notes/a. concepts/compile time vs runtime.md",
-    "1 - notes/a. concepts/types of languages.md",
     "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
     "1 - notes/a. concepts/Statically vs Dynamically Typed Language.md",
+    "1 - notes/a. concepts/types of languages.md",
     "3 - moc/sub-mocs/JS-MOC.md",
     "1 - notes/a. concepts/space complexity.md",
     "1 - notes/b. languages/javascript/js Cheatsheet.md",
@@ -632,16 +589,11 @@
     "1 - notes/b. languages/javascript/js closure function.md",
     "0 - inbox/AWS.md",
     "3 - moc/sub-mocs/Cpp-MOC.md",
-    "1 - notes/b. languages/cpp/cpp - code block.md",
-    "1 - notes/b. languages/cpp/Cpp cheatsheet.md",
     "98 - attachments/Pasted image 20260406231522.png",
     "98 - attachments/Pasted image 20260406231313.png",
     "98 - attachments/Pasted image 20260406231254.png",
-    "0 - inbox/aws iam.md",
-    "0 - inbox/aws console.md",
     "98 - attachments/space_complexity_img 1.png",
     "98 - attachments/space_complexity_img.png",
-    "3 - moc/DSA-MOC.md",
     "0 - inbox/Untitled",
     "0 - inbox/Untitled.base",
     "0 - inbox/AI Development Conceptual Map.canvas",

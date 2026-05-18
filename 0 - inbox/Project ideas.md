@@ -2,7 +2,7 @@
 status: newBorn
 related-links:
 created: 1970-01-01T05:30
-updated: 2026-05-17T01:31
+updated: 2026-05-17T11:25
 ---
 ---
 
@@ -58,6 +58,13 @@ this also makes me arrive at the question like do I want to make all these three
 
 ---
 
+
+one thing I am very concerned about is the desktop version being able to manage the permissions. Is this even possible and what is the engienering difficulty of this ? 
+
+so for mcp install to work I would need to do some software to be installed just like we install node for using npm. And is this deamon idea even good or we should implement a different model? I dont know? If we were just doing npm thing then ig deamon wouldnt have been needed but for desktop ig it's normal that we have a way to either for desktop to use cli in backgroup or deamon?
+
+---
+	
 yes any mcp server that supports a platform will have star for it
 
 
