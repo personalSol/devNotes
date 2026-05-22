@@ -2,7 +2,7 @@
 status: newBorn
 related-links:
 created: 1970-01-01T05:30
-updated: 2026-05-18T22:21
+updated: 2026-05-20T22:23
 ---
 ---
 
@@ -66,11 +66,9 @@ so for mcp install to work I would need to do some software to be installed just
 
 ---
 
-why in node js and not in bun
+if I upload 50 famous servers then I contact them saying I have added your server and you want to add a mcp.json? then if they say that from now on I want to be the only one to publish/unpublish this mcp on it then how can I have them an account created and attach that server to that account an then hand it to them. during phrase 1 how do I implement sha256 hash verifying thing on download as the download will be coming direcctly from github and I wouldnt have a tarball and it's hashcode saved to verify it from? 
 
----
-	
-yes any mcp server that supports a platform will have star for it
+In phrase 1 you have witten for week 1 and 2 that I setup the project repo and write docs. Which type of docs? 
 
 
 
