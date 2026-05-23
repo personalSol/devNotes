@@ -50,8 +50,14 @@
             "id": "eeeb2e0c1bfb74d3",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 1,
               "stack": [
+                {
+                  "title": "dev path",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"0 - inbox/dev path.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"dev path\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":6,\"ch\":0},\"to\":{\"line\":6,\"ch\":0}},\"scroll\":0}"
+                },
                 {
                   "state": "{}",
                   "eState": "{}"
@@ -125,7 +131,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -228,7 +234,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/Project ideas.md",
+                "file": "3 - moc/Projects-MOC.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -256,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Project ideas"
+              "title": "Graph of Projects-MOC"
             }
           }
         ]
@@ -501,7 +507,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/Project ideas.md",
+                "file": "3 - moc/Projects-MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -511,7 +517,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Project ideas"
+              "title": "Backlinks for Projects-MOC"
             }
           },
           {
@@ -561,14 +567,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dcd27e2fcdb2d63",
+  "active": "eeeb2e0c1bfb74d3",
   "lastOpenFiles": [
+    "0 - inbox/dev path.md",
+    "3 - moc/Projects-MOC.md",
+    "0 - inbox/Project ideas.md",
+    "0 - inbox/Untitled 1.md",
     "0 - inbox/Prompt modifiers.md",
     "2 - projects/Untitled.md",
     "0 - inbox/Untitled.md",
-    "3 - moc/Projects-MOC.md",
-    "0 - inbox/Project ideas.md",
-    "0 - inbox/dev path.md",
     "2 - projects/prj Google Drive.md",
     "1 - notes/a. concepts/compile time vs runtime.md",
     "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
@@ -588,7 +595,6 @@
     "1 - notes/b. languages/javascript/js import and export in cjs.md",
     "1 - notes/b. languages/javascript/js closure function.md",
     "0 - inbox/AWS.md",
-    "3 - moc/sub-mocs/Cpp-MOC.md",
     "98 - attachments/Pasted image 20260406231522.png",
     "98 - attachments/Pasted image 20260406231313.png",
     "98 - attachments/Pasted image 20260406231254.png",
