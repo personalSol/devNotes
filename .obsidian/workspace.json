@@ -164,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -267,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/Untitled 1.md",
+                "file": "0 - inbox/Project ideas.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -295,7 +295,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled 1"
+              "title": "Graph of Project ideas"
             }
           }
         ]
@@ -540,7 +540,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/Untitled 1.md",
+                "file": "0 - inbox/Project ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -550,7 +550,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled 1"
+              "title": "Backlinks for Project ideas"
             }
           },
           {
@@ -600,10 +600,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ff95d11600e44e2c",
+  "active": "6dcd27e2fcdb2d63",
   "lastOpenFiles": [
-    "3 - moc/Projects-MOC.md",
     "0 - inbox/Untitled 1.md",
+    "3 - moc/Projects-MOC.md",
     "0 - inbox/dev path.md",
     "0 - inbox/Project ideas.md",
     "0 - inbox/Prompt modifiers.md",

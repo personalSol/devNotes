@@ -2,7 +2,7 @@
 status: newBorn
 related-links:
 created: 1970-01-01T05:30
-updated: 2026-05-20T22:23
+updated: 2026-05-24T10:37
 ---
 ---
 
@@ -70,5 +70,30 @@ if I upload 50 famous servers then I contact them saying I have added your serve
 
 In phrase 1 you have witten for week 1 and 2 that I setup the project repo and write docs. Which type of docs? 
 
+an idea as I am bulding a lot of commands for my cli, we can implement rag in our website backend and have it being able to answer more about the project and it will have reference to the doc that we have for plugd and if some developer wants to do something like plug rollback --list but he doesnt know this command then it can come to chatbot and ask how do I get back to the version before changes and chatbot will give a short answer with reference to the original doc line where this info was mentioned.
+
+one major upgrade I think we can have is track of each calls for mcp by each ai agent when, how long, etc which tells things.
+
+maybe we can create a swtich for permissions. Like if an mcp server requires 3 permission but user only agree with two then user can have third blocked with deamon.
+
+so in current market scenairo for gap 7. Everyone is storing token in config right? if yes then option A is the obvous choice as we are offering something better while not restricting the user. Also in phrase 1 we cant have warning because if user does try to install plugd deamon then we have nothing to ship. Also I really need you to make me understand this secrets things better. Like secrets thing is us storing the secrets in keychain if bool value is true and storing it ig in config only if it's false? clear that up. so Ig I do need to register my name in bun and in pnpm too.
+
+and yes your suggestion for monorepo setup with pnpm and build cli tool with bun is corrent and I love to lock it.
+
+you said check before every pr. but arent I the owner of repo so would I just do push instead of pr?
+
+---
+
+so when exactly is time for tarballs? it looks like a very imp feature to me now and we should do it in phrase 1 ig?
+
+wdym one owner and other collaborators. Like collaborators can also publish..? or what?
+
+for the chatbot claude answers with reference. It will cost claude api ig? but if we are to phrase 3 then ig it's okay. We can see some less expensive more able to handle crowd api. Also we have to apply rate limit and all. Are you sure claude API for the answers is cheap?
+
+yes we can have chatbot in phrase 2 end with low priority or phrase 3
+
+i like the new phrasing for os keychain in phrase 1.
+
+what I need you to do is make another file of all the decisions we have discussed and taken until now. So I can give it as context to other ai.
 
 
