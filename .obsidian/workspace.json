@@ -86,6 +86,39 @@
             }
           },
           {
+            "id": "ff95d11600e44e2c",
+            "type": "leaf",
+            "pane-relief:history-v1": {
+              "pos": 0,
+              "stack": [
+                {
+                  "state": "{}",
+                  "eState": "{}"
+                }
+              ]
+            },
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "0 - inbox/Untitled 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Untitled 1"
+            }
+          },
+          {
             "id": "6dcd27e2fcdb2d63",
             "type": "leaf",
             "pane-relief:history-v1": {
@@ -131,7 +164,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -234,7 +267,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "3 - moc/Projects-MOC.md",
+                "file": "0 - inbox/Untitled 1.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +295,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Projects-MOC"
+              "title": "Graph of Untitled 1"
             }
           }
         ]
@@ -507,7 +540,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - moc/Projects-MOC.md",
+                "file": "0 - inbox/Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -517,7 +550,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Projects-MOC"
+              "title": "Backlinks for Untitled 1"
             }
           },
           {
@@ -567,12 +600,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eeeb2e0c1bfb74d3",
+  "active": "ff95d11600e44e2c",
   "lastOpenFiles": [
-    "0 - inbox/dev path.md",
     "3 - moc/Projects-MOC.md",
-    "0 - inbox/Project ideas.md",
     "0 - inbox/Untitled 1.md",
+    "0 - inbox/dev path.md",
+    "0 - inbox/Project ideas.md",
     "0 - inbox/Prompt modifiers.md",
     "2 - projects/Untitled.md",
     "0 - inbox/Untitled.md",
