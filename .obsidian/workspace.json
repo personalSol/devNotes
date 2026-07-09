@@ -4,110 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "3c0fbf072f2a4bfa",
+        "id": "f8e5302eda849535",
         "type": "tabs",
         "children": [
           {
-            "id": "4cca2d2340a62a17",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/Untitled.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled"
-            }
-          },
-          {
-            "id": "eeeb2e0c1bfb74d3",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - moc/Projects-MOC.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Projects-MOC"
-            }
-          },
-          {
-            "id": "ff95d11600e44e2c",
-            "type": "leaf",
-            "pane-relief:history-v1": {
-              "pos": 0,
-              "stack": [
-                {
-                  "state": "{}",
-                  "eState": "{}"
-                }
-              ]
-            },
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "0 - inbox/Untitled 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 1"
-            }
-          },
-          {
-            "id": "6dcd27e2fcdb2d63",
+            "id": "41807a53d0b0f825",
             "type": "leaf",
             "pane-relief:history-v1": {
               "pos": 0,
@@ -117,17 +18,17 @@
                   "eState": "{}"
                 },
                 {
-                  "title": "Projects-MOC",
+                  "title": "DSA-MOC",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Projects-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Projects-MOC\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}}}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/DSA-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"DSA-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":13,\"ch\":0},\"to\":{\"line\":13,\"ch\":0}},\"scroll\":12.18682375102297}"
                 }
               ]
             },
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 - inbox/LFX.md",
+                "file": "4 - sources/yt/Every Data Structure Explained in Simple Words.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -142,11 +43,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "LFX"
+              "title": "Every Data Structure Explained in Simple Words"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -249,7 +149,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "0 - inbox/LFX.md",
+                "file": "4 - sources/yt/Every Data Structure Explained in Simple Words.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -277,14 +177,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of LFX"
+              "title": "Graph of Every Data Structure Explained in Simple Words"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 279.5,
+    "collapsed": true
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -560,7 +461,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 - inbox/LFX.md",
+                "file": "4 - sources/yt/Every Data Structure Explained in Simple Words.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -570,7 +471,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for LFX"
+              "title": "Backlinks for Every Data Structure Explained in Simple Words"
             }
           },
           {
@@ -600,7 +501,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 515.5
+    "width": 515.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -620,18 +522,31 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dcd27e2fcdb2d63",
+  "active": "41807a53d0b0f825",
   "lastOpenFiles": [
+    "98 - attachments/Pasted image 20260709085651.png",
+    "98 - attachments/Pasted image 20260709085614.png",
+    "98 - attachments/Pasted image 20260709084846.png",
+    "98 - attachments/Pasted image 20260709084416.png",
+    "98 - attachments/Pasted image 20260709084111.png",
+    "98 - attachments/Pasted image 20260709082237.png",
+    "98 - attachments/Pasted image 20260709082136.png",
+    "98 - attachments/Pasted image 20260709080441.png",
+    "98 - attachments/Pasted image 20260709080416.png",
+    "98 - attachments/Pasted image 20260709080110.png",
+    "98 - attachments/Pasted image 20260709080045.png",
+    "3 - moc/DSA-MOC.md",
+    "4 - sources/yt/Every Data Structure Explained in Simple Words.md",
+    "0 - inbox/Untitled.md",
     "3 - moc/Projects-MOC.md",
+    "0 - inbox/Untitled 1.md",
     "0 - inbox/LFX.md",
     "0 - inbox/Untitled",
     "0 - inbox/Project ideas.md",
     "2 - projects/prj Portfolio Project.md",
-    "0 - inbox/Untitled 1.md",
     "0 - inbox/dev path.md",
     "0 - inbox/Prompt modifiers.md",
     "2 - projects/Untitled.md",
-    "0 - inbox/Untitled.md",
     "2 - projects/prj Google Drive.md",
     "1 - notes/a. concepts/compile time vs runtime.md",
     "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
@@ -646,23 +561,10 @@
     "1 - notes/b. languages/javascript/js cjs vs esm.md",
     "1 - notes/b. languages/javascript/js DOM Manipulation.md",
     "1 - notes/b. languages/javascript/js import and export.md",
-    "1 - notes/b. languages/javascript/js import and export in mjs summary.md",
-    "1 - notes/b. languages/javascript/js import and export in es module js.md",
-    "1 - notes/b. languages/javascript/js import and export in cjs.md",
-    "98 - attachments/Pasted image 20260406231522.png",
-    "98 - attachments/Pasted image 20260406231313.png",
-    "98 - attachments/Pasted image 20260406231254.png",
-    "98 - attachments/space_complexity_img 1.png",
-    "98 - attachments/space_complexity_img.png",
     "0 - inbox/Untitled.base",
     "0 - inbox/AI Development Conceptual Map.canvas",
     "0 - inbox/Untitled Document",
     "0 - inbox/Untitled 1.base",
-    "98 - attachments/Pasted image 20260111132003.png",
-    "98 - attachments/Pasted image 20260111131924.png",
-    "98 - attachments/Pasted image 20260111131545.png",
-    "98 - attachments/Pasted image 20260111105623.png",
-    "98 - attachments/Pasted image 20260111105357.png",
     "4 - sources/yt/Andrej Karpathy",
     "98 - attachments/Recording 20251228140150.m4a",
     "98 - attachments/Recording 20251228135213.m4a",

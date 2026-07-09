@@ -1,0 +1,154 @@
+---
+created: 2026-07-09T07:16:03
+status:
+source:
+updated: 2026-07-09T11:46
+---
+---
+
+
+> [!NOTE] Summary
+> - Arrays: fast to read, slow to change
+> - Linked List: slow to read, fast to change
+> - Stack: serves the newest item first, LIFO model
+> - Queue: serves the oldest/earliest item first, FIFO model
+> - Dequeue: serves both newest and the oldest at the same time. Both sides are accessible
+> - Hashmaps: stores data in key-value format. hashes the key which makes accessing the value constant `O(1)`
+> - Hashset: check if some data exists in dataset/collection or not and it's perfect at it
+> - Tree: hierarchal data structure which is applied anywhere there is parent child relationship. But it has no rules for storing values, no sorting. You search entire tree to find something
+> - Binary Search Tree: 
+
+
+
+### Arrays
+
+
+- fixed size, ordered collection of items
+- every data/item has an index/numbered position
+- computer knows exactly where something is if searched by index so reading operation becomes `O(1)`  
+	- finding item no. 40000 takes the exact same time as finding item 4 and that's `O(1)`
+- Constrains: fixed size at the moment of creation, and it doesnt change
+- changing the array size requires allocating an entirely new block of memory and creating an entirely new array and copying all the previous data in new one
+- same goes with insertion, insertion in an array requires us to shift every element to the right
+- used at a lot of places like photos, videos, etc everywhere where position is fixed and known in advance
+
+
+> [!NOTE] conclusion
+> - arrays are blazingly fast in read operation through index
+> - slow and rigid when it comes to modification of array or when data keeps changing
+
+
+![[Pasted image 20260709071821.png]]
+
+
+### Linked List
+![[Pasted image 20260709073239.png]]
+- imagine linked list like having a treasure hunt where we find the next clue is when we reach the clue before it, no jumping
+- linked list is a structure where each node stores the pointer to the next node.
+- they are scaterred throughout the memory
+- insert/modify:
+	- to insert, we just need to change pointer of the node before it and make it point towards the new node and make the new node point towards the next node
+	- to delete we just remove the pointer to that node and directly point to the node afterwards and it's gone from the chain
+	- to increase the size we just have the last node point to the new node
+	- insertion becomes fast with `O(1)`
+- read:
+	- requires us to check each node for the pointer and from that pointer jump to the next node and see it's pointer.
+	- to read to a 10k-th node we need to read 9.9k nodes and jump to 10k-th one
+	- no index in memory to jump to, no fixed position to compute, you must find an element by following through the chain, one step at a time
+	- so yeah we traverse each node before the node we want to reach to
+	- reading becomes `O(n)`
+![[Pasted image 20260709073459.png]]
+
+### Stack
+
+- being highly used everywhere around the world from how `ctrl+z` works in a document to how our browser jumps to the page just before it when we hit back button to stack calls of functions when a program runs
+- works on the principle of LIFO ( last in first out ) like a stack of plates or books, etc
+- can perform two operations:
+	- `push`: means inserting an element to the last
+	- `pop`: means deleting an element from the last
+- because we know where to exactly push and pop from these actions are instant with TC of `O(1)`
+- you cant touch the middle or bottom, that's a constrain
+![[Pasted image 20260709075600.png]]
+
+### Queue
+
+- works on FIFO ( first in first out ) model. 
+- literally like a queue you see anywhere, whoever comes first gets served first, no cutting in line
+- has two main operations:
+	- enqueue: adds to the back
+	- dequeue: removes from the front
+- both enqueue and dequeue are contant time operations that happens instantly
+- queue is everywhere from when we write through keyboard to how server handles thousands of request to game loading, etc. 
+
+![[Pasted image 20260709080110.png]]
+
+### Deque
+
+![[Pasted image 20260709080441.png]]
+- you can add and remove from the front and add and remove from the back
+- a specialist data structure which you need when you want to work with both ends
+	- not needed most of the time but when needed to do something at both front or back, nothing else fits
+- feels like a combination of stack and queue with an extra feature to add in front
+	- stack: add at back, remove at back
+	- queue: add at back, remove from front
+	- dequeue: add/remove at back, add/remove at front
+- it's everywhere in the world like:
+	- browser history that allows us to move backward and forward
+	- undo + redo feature
+
+### Hashmaps
+
+![[Pasted image 20260709082136.png]]
+
+- stores data in key value pairs
+- retrieves any value we want instantly
+- what it does is it hashes a key and that gives a number and that slot is where the value gets stored
+- and because it doesnt store the key directly as it is and uses hash, it works instantly
+- when we search something the same function again does the hash and finds the slot number and directly goes to it. 
+- going through a data of 1k or 100k, size of collection stops mattering.
+- read function is `O(1)` because of it
+- python dictionaries, js object, modern database indexing ways are all hashmaps
+- buttt
+	- uses more memory than a plain list
+	- sometimes two different keys give the same slot number
+	- that's called a colission
+
+![[Pasted image 20260709084111.png]]
+![[Pasted image 20260709082237.png]]
+
+### Hashset
+
+![[Pasted image 20260709084416.png]]
+
+- build only to check if a value exists in a collection or not
+	- a data structure build purely for checking membership
+- it's a hashmap with no values, just keys
+- reads in constant time `O(1)`
+- no duplicates allowed
+- operations: all with contant time 
+	- contains: to check if something exists in collection
+	- add: to insert
+	- remove: to delete
+- usecases:
+	- tracking which users have seen notification
+	- checking if the username is taken
+	- filtering duplicate values in a dataset
+
+![[Pasted image 20260709084846.png]]
+
+### Tree
+
+![[Pasted image 20260709085651.png]]
+
+- not everything fits a flat datastructure point
+- a tree is anywhere there is parent child relationship
+- example is html dom, file explorer in windows, comment threads, ml decision tree, etc
+- a hirerchal data structure with root at top, internal nodes in middle and leaf nodes at last.
+- a normal/plain tree has no rules about where values go and items aren't sorted
+- so to search an item in such case we will have to go through the entire tree. 
+
+### Binary Search Tree
+
+- a tree data structure but with a simple rule
+- the node to left is small, the node to right is larger. that's it
+- for a tree with as many as a million nodes, you can find any element in 20 steps. The condition is the tree must be a well balanced BST
