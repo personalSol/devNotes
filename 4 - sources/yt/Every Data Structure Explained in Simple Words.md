@@ -2,7 +2,7 @@
 created: 2026-07-09T07:16:03
 status:
 source:
-updated: 2026-07-09T11:46
+updated: 2026-07-09T23:06
 ---
 ---
 
@@ -16,7 +16,8 @@ updated: 2026-07-09T11:46
 > - Hashmaps: stores data in key-value format. hashes the key which makes accessing the value constant `O(1)`
 > - Hashset: check if some data exists in dataset/collection or not and it's perfect at it
 > - Tree: hierarchal data structure which is applied anywhere there is parent child relationship. But it has no rules for storing values, no sorting. You search entire tree to find something
-> - Binary Search Tree: 
+> - Binary Search Tree: have a rule that `left < root < right` . A well maintained BST is very fast to lookup into. It can turn into slow linked list for sorted input. We also have self-balanced BST that looks things up faster.
+> - Heap: priority always on top
 
 
 
@@ -151,4 +152,21 @@ updated: 2026-07-09T11:46
 
 - a tree data structure but with a simple rule
 - the node to left is small, the node to right is larger. that's it
+- it just means a binary search tree with no self-balancing logic. Every node still follows the BST property (left < node < right), but there's no mechanism to keep the height small.
 - for a tree with as many as a million nodes, you can find any element in 20 steps. The condition is the tree must be a well balanced BST
+	- each steps cuts an entire half of the remaining tree
+![[Pasted image 20260709223928.png]]
+- one weakness that BST have is if we enter the numbers in an already sorted format then it will just go in a straight line and will be exactly similar to a linked list. And that will be slow
+![[Pasted image 20260709224108.png]]
+- we also have something called self-balancing BST. 
+- In the context of BSTs (and binary search generally), "halving" refers to how each comparison eliminates about half of the remaining nodes/elements from consideration — that's _why_ operations are O(log n) in a balanced tree.
+### Heap
+
+- always keep the highest priority thing/value/item on top for easy and fast access
+- we have two types of heap:
+	- max heap: which reorganizes itself to keep the biggest element on top
+	- min heap: reorganizes itself to keep the smallest element on top
+- when something is removed, the next in priority takes its place
+- 
+
+![[Pasted image 20260709230458.png]]
