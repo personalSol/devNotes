@@ -2,7 +2,7 @@
 created: 2026-07-09T07:16:03
 status:
 source:
-updated: 2026-07-09T23:06
+updated: 2026-07-13T08:44
 ---
 ---
 
@@ -19,6 +19,9 @@ updated: 2026-07-09T23:06
 > - Binary Search Tree: have a rule that `left < root < right` . A well maintained BST is very fast to lookup into. It can turn into slow linked list for sorted input. We also have self-balanced BST that looks things up faster.
 > - Heap: priority always on top
 
+
+### Something totally unrelated
+![[Pasted image 20260713084444.png]]
 
 
 ### Arrays
