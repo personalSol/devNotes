@@ -18,6 +18,60 @@
                   "eState": "{}"
                 },
                 {
+                  "title": "dsa - algorithms",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/g. dsa/dsa - algorithms.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"dsa - algorithms\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":3},\"to\":{\"line\":12,\"ch\":3}},\"scroll\":1.976833996472058}"
+                },
+                {
+                  "title": "constructor",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/constructor.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"constructor\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":5},\"to\":{\"line\":27,\"ch\":5}},\"scroll\":15.174922111085143}"
+                },
+                {
+                  "title": "concept - inheritence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/concept - inheritence.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"concept - inheritence\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}},\"scroll\":1.0583050702069257}"
+                },
+                {
+                  "title": "classes",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/classes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"classes\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":2},\"to\":{\"line\":15,\"ch\":2}},\"scroll\":3.4744356172578827}"
+                },
+                {
+                  "title": "Cheatsheets-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Cheatsheets-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Cheatsheets-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}},\"scroll\":2.212283944725094}"
+                },
+                {
+                  "title": "abstraction",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/abstraction.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"abstraction\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":14,\"ch\":0},\"to\":{\"line\":14,\"ch\":0}},\"scroll\":1.4976014833192568}"
+                },
+                {
+                  "title": "Lang-And-Packages-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Lang-And-Packages-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Lang-And-Packages-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":16,\"ch\":15},\"to\":{\"line\":16,\"ch\":15}},\"scroll\":2.549750994918938}"
+                },
+                {
+                  "title": "Home-MOC",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/Home-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Home-MOC\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":4,\"ch\":0},\"to\":{\"line\":4,\"ch\":0}},\"scroll\":28.42231223542826}"
+                },
+                {
+                  "title": "Every Data Structure Explained in Simple Words",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/Every Data Structure Explained in Simple Words.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Every Data Structure Explained in Simple Words\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":8,\"ch\":0},\"to\":{\"line\":8,\"ch\":0}},\"scroll\":0}"
+                },
+                {
                   "title": "DSA-MOC",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"3 - moc/DSA-MOC.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"DSA-MOC\"}",
@@ -28,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4 - sources/yt/Every Data Structure Explained in Simple Words.md",
+                "file": "1 - notes/a. concepts/datatype.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -43,7 +97,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Every Data Structure Explained in Simple Words"
+              "title": "datatype"
             }
           }
         ]
@@ -97,7 +151,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "space_c",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -149,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "4 - sources/yt/Every Data Structure Explained in Simple Words.md",
+                "file": "1 - notes/a. concepts/datatype.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -177,15 +231,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Every Data Structure Explained in Simple Words"
+              "title": "Graph of datatype"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 279.5,
-    "collapsed": true
+    "width": 279.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -522,8 +575,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "41807a53d0b0f825",
+  "active": "dddbab8b18fd423a",
   "lastOpenFiles": [
+    "1 - notes/g. dsa/dsa - algorithms.md",
+    "1 - notes/a. concepts/constructor.md",
+    "1 - notes/a. concepts/concept - inheritence.md",
+    "1 - notes/a. concepts/classes.md",
+    "3 - moc/Cheatsheets-MOC.md",
+    "1 - notes/a. concepts/abstraction.md",
+    "3 - moc/Lang-And-Packages-MOC.md",
+    "3 - moc/sub-mocs/Flask-MOC.md",
+    "3 - moc/Home-MOC.md",
+    "4 - sources/yt/Every Data Structure Explained in Simple Words.md",
     "98 - attachments/Pasted image 20260714070142.png",
     "98 - attachments/Pasted image 20260714070101.png",
     "98 - attachments/Pasted image 20260714070037.png",
@@ -534,9 +597,7 @@
     "98 - attachments/Pasted image 20260714063927.png",
     "98 - attachments/Pasted image 20260714055948.png",
     "98 - attachments/Pasted image 20260714055452.png",
-    "98 - attachments/Pasted image 20260714055153.png",
     "3 - moc/DSA-MOC.md",
-    "4 - sources/yt/Every Data Structure Explained in Simple Words.md",
     "0 - inbox/Untitled.md",
     "3 - moc/Projects-MOC.md",
     "0 - inbox/Untitled 1.md",
@@ -553,14 +614,6 @@
     "1 - notes/a. concepts/Statically vs Dynamically Typed Language.md",
     "1 - notes/a. concepts/types of languages.md",
     "3 - moc/sub-mocs/JS-MOC.md",
-    "1 - notes/a. concepts/space complexity.md",
-    "1 - notes/b. languages/javascript/js Cheatsheet.md",
-    "1 - notes/b. languages/javascript/js about node-js.md",
-    "1 - notes/b. languages/javascript/js npx.md",
-    "1 - notes/b. languages/javascript/js build-in middleware.md",
-    "1 - notes/b. languages/javascript/js cjs vs esm.md",
-    "1 - notes/b. languages/javascript/js DOM Manipulation.md",
-    "1 - notes/b. languages/javascript/js import and export.md",
     "0 - inbox/Untitled.base",
     "0 - inbox/AI Development Conceptual Map.canvas",
     "0 - inbox/Untitled Document",
