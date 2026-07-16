@@ -11,11 +11,13 @@
             "id": "41807a53d0b0f825",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 0,
+              "pos": 3,
               "stack": [
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "datatype",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/datatype.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"datatype\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":11},\"to\":{\"line\":7,\"ch\":11}}}"
                 },
                 {
                   "title": "dsa - algorithms",
@@ -27,13 +29,11 @@
                   "title": "constructor",
                   "icon": "lucide-file",
                   "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/constructor.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"constructor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":5},\"to\":{\"line\":27,\"ch\":5}},\"scroll\":15.174922111085143}"
+                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":3},\"to\":{\"line\":27,\"ch\":3}},\"scroll\":15.174922111085143}"
                 },
                 {
-                  "title": "concept - inheritence",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/concept - inheritence.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"concept - inheritence\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":2},\"to\":{\"line\":12,\"ch\":2}},\"scroll\":1.0583050702069257}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
                   "title": "classes",
@@ -82,7 +82,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/a. concepts/datatype.md",
+                "file": "1 - notes/a. concepts/concept - inheritence.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -97,7 +97,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "datatype"
+              "title": "concept - inheritence"
             }
           }
         ]
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/a. concepts/datatype.md",
+                "file": "1 - notes/a. concepts/concept - inheritence.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -231,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of datatype"
+              "title": "Graph of concept - inheritence"
             }
           }
         ]
@@ -492,7 +492,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 7
       },
       {
         "id": "8e15cd93a6a4be64",
@@ -514,7 +514,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - sources/yt/Every Data Structure Explained in Simple Words.md",
+                "file": "1 - notes/a. concepts/concept - inheritence.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -524,7 +524,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Every Data Structure Explained in Simple Words"
+              "title": "Backlinks for concept - inheritence"
             }
           },
           {
@@ -554,8 +554,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 515.5,
-    "collapsed": true
+    "width": 515.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -575,10 +574,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "dddbab8b18fd423a",
+  "active": "42d5e05e46b95bc2",
   "lastOpenFiles": [
-    "1 - notes/g. dsa/dsa - algorithms.md",
     "1 - notes/a. concepts/constructor.md",
+    "1 - notes/g. dsa/dsa - algorithms.md",
+    "1 - notes/a. concepts/datatype.md",
     "1 - notes/a. concepts/concept - inheritence.md",
     "1 - notes/a. concepts/classes.md",
     "3 - moc/Cheatsheets-MOC.md",
@@ -613,7 +613,6 @@
     "3 - moc/sub-mocs/Basic-Concepts-MOC.md",
     "1 - notes/a. concepts/Statically vs Dynamically Typed Language.md",
     "1 - notes/a. concepts/types of languages.md",
-    "3 - moc/sub-mocs/JS-MOC.md",
     "0 - inbox/Untitled.base",
     "0 - inbox/AI Development Conceptual Map.canvas",
     "0 - inbox/Untitled Document",
