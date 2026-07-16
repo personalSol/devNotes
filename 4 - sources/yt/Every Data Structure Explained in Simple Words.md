@@ -2,7 +2,7 @@
 created: 2026-07-09T07:16:03
 status:
 source:
-updated: 2026-07-13T08:44
+updated: 2026-07-14T07:07
 ---
 ---
 
@@ -17,7 +17,7 @@ updated: 2026-07-13T08:44
 > - Hashset: check if some data exists in dataset/collection or not and it's perfect at it
 > - Tree: hierarchal data structure which is applied anywhere there is parent child relationship. But it has no rules for storing values, no sorting. You search entire tree to find something
 > - Binary Search Tree: have a rule that `left < root < right` . A well maintained BST is very fast to lookup into. It can turn into slow linked list for sorted input. We also have self-balanced BST that looks things up faster.
-> - Heap: priority always on top
+> - Heap: highest priority always surfaces on top with top item being accessible instantly.
 
 
 ### Something totally unrelated
@@ -169,7 +169,145 @@ updated: 2026-07-13T08:44
 - we have two types of heap:
 	- max heap: which reorganizes itself to keep the biggest element on top
 	- min heap: reorganizes itself to keep the smallest element on top
-- when something is removed, the next in priority takes its place
-- 
+- when something is added/removed, it reorganizes itself and the one with most priority takes the top place and it does this `efficiently`
+- what happens without a heap?
+	- in a data structure with values constantly coming and going we will have to do sorting with every change and doing that for millions of data is costly
+	- heap avoids this because it by default keeps things sorted so we dont have to sort each time. heap does the compute at the time of insertion and removal itself I guess
+- most imp task is always at top ready to be accessed instantly
 
 ![[Pasted image 20260709230458.png]]
+
+- examples: task scheduler in cpu, map finding the shortest route with ever changing traffic data and all, and anywhere there is a live dataset where we need to find the highest priority item
+![[Pasted image 20260714051713.png]]
+
+### Graphs
+
+
+- graphs are messy and chaotic but that's what makes them powerful
+- in simple terms, graphs are just dots and lines.
+	- ![[Pasted image 20260714052710.png]]
+- ex: in fb, we all are nodes connected through edges. in maps all cities are nodes and roads are edges
+![[Pasted image 20260714052458.png]]
+
+- types of graphs:
+	- undirected graphs: here connection goes both ways, like friends in facebook
+	- directed graphs: here edges have direction or connection only goes one way, ex: twitter follower, you follow someone doesnt mean they follow you. 
+- Adjecency: if two nodes are connected by an edge, they are adjacent ( basically live close to each other like neighbours )
+- storing a graph happens in two main ways:
+	- first: adjacency matrix
+		- rows and columns are nodes
+		- takes a lot of space
+		- we basically create a matrix with each node on both side and have it 1 if both nodes are connected and 0 if they are not
+	- ![[Pasted image 20260714052221.png]]
+	- second: adjacency list:
+		- lower in memory requirements compared to adjacency matrix
+		- basically each node keeps a list of it's neighbours ( means each node keeps a list of all nodes which are connected to it )
+- to traverse in graph we have either DFS ( deapth first search ) or BFS ( breath first search )
+- other operations:
+	- finding path between two nodes
+		- like finding if there is then what's the shortest path between two nodes
+	- checking if a cycle exists
+	- ![[Pasted image 20260714054153.png]]
+	- detecting connected components
+- real world usecases of graphs:
+	- recommendation systems
+	- maps
+	- social networks
+	- webpage links
+	- network routing
+- BASICALLY: if things are connected in any way, you are dealing with a graph. 
+
+### Trie
+
+![[Pasted image 20260714055005.png]]
+- pronounciation: "try"
+- it's a variation of tree data strucuture where each level represents one character in a word
+- whenever we type a few words we are already narrowed down at a level where only words that start with those letter remain
+- ![[Pasted image 20260714055153.png]]
+- for prefix search it's better than hashmap:
+	- hashmap is good for exact keys to find value
+	- but if we give prefix it will have to hash every key in list to find the one that starts with "app"
+	- but trie does the same prefix search for us in the same exact steps as the number of letters we have typed
+	- ![[Pasted image 20260714055452.png]]
+- used in:
+	- autocomplete
+	- dictionary lookups
+	- spell checkers
+	- phone number lookups: we type start of a name and it gives us all those who match and those with the same prefix
+
+
+### Disjoint set
+
+- also known as Union-find
+- ![[Pasted image 20260714055948.png]]
+- without a smart structure if we try to check connection in a network that means checking every connection in a chain step by step
+	- for millions of users in a social network, that's not fast enough
+- disjoint set tracks group membership effectively even when the groups keep evolving/growing and merging
+	- basically in start every node is a separete group. But as we connect them they become part of same one group.
+	- each group has a representative we call leader
+	- ![[Pasted image 20260714063927.png]]
+	- to check if two elements are in same group. You check if they have the same leader
+	- this check of seeing the leader is almost instant even after million of merges
+- path compression
+	- ![[Pasted image 20260714064155.png]]
+	- once they know the path now it makes the path simpler so next time it's easier to search them
+	- ![[Pasted image 20260714064237.png]]
+	- literally gets more efficient as it's used
+- examples from real world:
+	- is computer A connected to same network as Computer B
+	- in image processing if we try to find out two pixels in two images form the same object
+	- game world design: to find if these two areas are rechable from each other
+- it's a special data structure which works best for the problem of tracking connected groups that keep evolving
+
+### Bloom Filter
+
+![[Pasted image 20260714064640.png]]
+
+- it literally lies
+- in this data strucutre, lookup is very very fast
+- when you search something it givies yes or no
+	- when it says no - it's 100% accurate and that thing doesnt exist in data structure
+	- when it says yes - there is a small possibility that it's not accurate
+![[Pasted image 20260714064836.png]]
+- that's the same false positive: it's giving a positive but that's incorrect
+- but again it will never say no to something that's actually there
+- why use bloom filter?
+	- it's for speed and space
+	- it's trades a little certainity for massive gain in speed and space
+- real world examples:
+	- assume we are building a password checker: we have 10s of thousands of password which are there in password breaches - file is 10gb
+		- we can use that same file in bloom filter data structure in a few mbs
+	- chrome safe browsing: checks the website we visit is not a fake/harmful website frm a big list of websites without storing a massive list of urls
+	- etherium nodes: use it to check data without loading the entire blockchain
+	- username availability: fast lookup and give yes you can take if not available in database 
+	- spell checker
+
+
+### LRU Cache
+
+- smart about what to store and what to throw away
+- LRU stands for Least Recently Used
+	- helps basically decide what to forget
+- used in cache
+	- when we store data in browser cache for fast retrieval then one problem occur
+	- space is limited, we cant store just everything
+	- when some new data comes, some data needs to go to make space for it
+	- that's where LRU cache comes, it knows which one is the least recently used item and assumes that it's not needed anytime soon so it throws that away and give space to new data
+- so the data which hasnt been used in the longest time gets removed first
+- ![[Pasted image 20260714070037.png]]
+- ![[Pasted image 20260714070101.png]]
+- ![[Pasted image 20260714070142.png]]
+- it's a combination of hashmap and doubly linked list
+	- hashmap gives instant access to lookups and doubly linked list tracks MRU and LRU
+	- most recently used stays at front of list, least recently used stays at back
+	- when you use something or new data comes move it to the front
+	- when out of space, chop of the back 
+- has two operations: both have time complexity of `O(1)`
+	- get: retrieves a values
+	- put: enters new value I think
+- real world examples:
+	- browsers
+	- databases
+	- operating systems
+- every system that needs to remember something but cant afford to remember everything almost always relies on LRU cache
+	- because memory is limited so your computer constantly make decisions
