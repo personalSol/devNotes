@@ -11,25 +11,13 @@
             "id": "41807a53d0b0f825",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 3,
+              "pos": 1,
               "stack": [
                 {
-                  "title": "datatype",
+                  "title": "Every Data Structure Explained in Simple Words",
                   "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/datatype.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"datatype\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":11},\"to\":{\"line\":7,\"ch\":11}}}"
-                },
-                {
-                  "title": "dsa - algorithms",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/g. dsa/dsa - algorithms.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"dsa - algorithms\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":12,\"ch\":3},\"to\":{\"line\":12,\"ch\":3}},\"scroll\":1.976833996472058}"
-                },
-                {
-                  "title": "constructor",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/constructor.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"constructor\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":27,\"ch\":3},\"to\":{\"line\":27,\"ch\":3}},\"scroll\":15.174922111085143}"
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"4 - sources/yt/Every Data Structure Explained in Simple Words.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"Every Data Structure Explained in Simple Words\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":9.81278637469491}"
                 },
                 {
                   "state": "{}",
@@ -238,7 +226,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 279.5
+    "width": 395.5
   },
   "right": {
     "id": "7a43a6c530e72e44",
@@ -574,19 +562,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "42d5e05e46b95bc2",
+  "active": "41807a53d0b0f825",
   "lastOpenFiles": [
+    "4 - sources/yt/Every Data Structure Explained in Simple Words.md",
+    "1 - notes/a. concepts/concept - inheritence.md",
     "1 - notes/a. concepts/constructor.md",
     "1 - notes/g. dsa/dsa - algorithms.md",
     "1 - notes/a. concepts/datatype.md",
-    "1 - notes/a. concepts/concept - inheritence.md",
     "1 - notes/a. concepts/classes.md",
     "3 - moc/Cheatsheets-MOC.md",
     "1 - notes/a. concepts/abstraction.md",
     "3 - moc/Lang-And-Packages-MOC.md",
     "3 - moc/sub-mocs/Flask-MOC.md",
     "3 - moc/Home-MOC.md",
-    "4 - sources/yt/Every Data Structure Explained in Simple Words.md",
     "98 - attachments/Pasted image 20260714070142.png",
     "98 - attachments/Pasted image 20260714070101.png",
     "98 - attachments/Pasted image 20260714070037.png",
