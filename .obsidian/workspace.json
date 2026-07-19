@@ -11,7 +11,7 @@
             "id": "41807a53d0b0f825",
             "type": "leaf",
             "pane-relief:history-v1": {
-              "pos": 1,
+              "pos": 2,
               "stack": [
                 {
                   "title": "Every Data Structure Explained in Simple Words",
@@ -20,14 +20,14 @@
                   "eState": "{\"cursor\":{\"from\":{\"line\":7,\"ch\":0},\"to\":{\"line\":7,\"ch\":0}},\"scroll\":9.81278637469491}"
                 },
                 {
-                  "state": "{}",
-                  "eState": "{}"
+                  "title": "concept - inheritence",
+                  "icon": "lucide-file",
+                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/concept - inheritence.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"concept - inheritence\"}",
+                  "eState": "{\"cursor\":{\"from\":{\"line\":11,\"ch\":0},\"to\":{\"line\":11,\"ch\":0}}}"
                 },
                 {
-                  "title": "classes",
-                  "icon": "lucide-file",
-                  "state": "{\"type\":\"markdown\",\"state\":{\"file\":\"1 - notes/a. concepts/classes.md\",\"mode\":\"source\",\"source\":false,\"backlinks\":true,\"backlinkOpts\":{\"collapseAll\":false,\"extraContext\":false,\"sortOrder\":\"alphabetical\",\"showSearch\":false,\"searchQuery\":\"\",\"backlinkCollapsed\":false,\"unlinkedCollapsed\":true}},\"icon\":\"lucide-file\",\"title\":\"classes\"}",
-                  "eState": "{\"cursor\":{\"from\":{\"line\":15,\"ch\":2},\"to\":{\"line\":15,\"ch\":2}},\"scroll\":3.4744356172578827}"
+                  "state": "{}",
+                  "eState": "{}"
                 },
                 {
                   "title": "Cheatsheets-MOC",
@@ -70,7 +70,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 - notes/a. concepts/concept - inheritence.md",
+                "file": "1 - notes/a. concepts/classes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -85,7 +85,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "concept - inheritence"
+              "title": "classes"
             }
           }
         ]
@@ -191,7 +191,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "1 - notes/a. concepts/concept - inheritence.md",
+                "file": "1 - notes/a. concepts/classes.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -219,7 +219,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of concept - inheritence"
+              "title": "Graph of classes"
             }
           }
         ]
@@ -502,7 +502,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 - notes/a. concepts/concept - inheritence.md",
+                "file": "1 - notes/a. concepts/classes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -512,7 +512,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for concept - inheritence"
+              "title": "Backlinks for classes"
             }
           },
           {
@@ -564,8 +564,8 @@
   },
   "active": "41807a53d0b0f825",
   "lastOpenFiles": [
-    "4 - sources/yt/Every Data Structure Explained in Simple Words.md",
     "1 - notes/a. concepts/concept - inheritence.md",
+    "4 - sources/yt/Every Data Structure Explained in Simple Words.md",
     "1 - notes/a. concepts/constructor.md",
     "1 - notes/g. dsa/dsa - algorithms.md",
     "1 - notes/a. concepts/datatype.md",
