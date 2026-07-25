@@ -4,7 +4,7 @@ related-links:
   - "[[Core-Concepts-MOC]]"
   - "[[concept - oops]]"
 created: 2025-04-11T18:50
-updated: 2025-07-01T09:55
+updated: 2026-07-25T16:41
 ---
 ---
 It defines the structure (fields or properties or attributes) and behavior (methods) of objects.
@@ -14,4 +14,7 @@ It defines the structure (fields or properties or attributes) and behavior (meth
 
 - [[java classes and object]]
 - [[cpp classes and objects]]
-- 
+
+
+
+
